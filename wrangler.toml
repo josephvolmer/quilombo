@@ -1,0 +1,15 @@
+# Cloudflare Workers Static Assets.
+#
+# There is no Worker script: `assets` alone makes this a pure static site,
+# served from the edge exactly like Pages did. The site in public/ is
+# prebuilt and committed, so there is no build step to run.
+
+name = "quilombo"
+compatibility_date = "2026-09-17"
+
+[assets]
+directory = "./public"
+
+# Serve /foo as /foo.html, and 404 for anything missing rather than
+# rewriting to index.html (this is a multi-page-free static site, not a SPA).
+not_found_handling = "404-page"
