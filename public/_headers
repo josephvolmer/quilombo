@@ -1,0 +1,17 @@
+# Cloudflare Pages header rules.
+
+# The data changes once a day; let browsers revalidate rather than serve
+# a stale calendar. Cloudflare's edge still absorbs the traffic.
+/data.json
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+
+/*.css
+  Cache-Control: public, max-age=3600
+
+/*.js
+  Cache-Control: public, max-age=3600
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

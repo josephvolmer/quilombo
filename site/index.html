@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cartelera BA — recitales en Buenos Aires</title>
+<meta name="description" content="Todos los recitales y fiestas en Buenos Aires, meses por delante, en una sola página.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Cartelera <span>BA</span></h1>
+    <p class="tag" id="tagline">cargando…</p>
+  </div>
+</header>
+
+<div class="controls wrap">
+  <input id="q" type="search" placeholder="Buscar artista, sala o género…" autocomplete="off" spellcheck="false">
+  <div class="filters">
+    <select id="month"><option value="">Todos los meses</option></select>
+    <select id="venue"><option value="">Todas las salas</option></select>
+    <select id="genre"><option value="">Todos los géneros</option></select>
+    <div class="modes" role="tablist" aria-label="Vista">
+      <button id="mode-date" class="on" role="tab" aria-selected="true">Por fecha</button>
+      <button id="mode-artist" role="tab" aria-selected="false">Por artista</button>
+    </div>
+  </div>
+  <p class="count" id="count"></p>
+</div>
+
+<main class="wrap" id="out"></main>
+
+<footer class="wrap foot">
+  <p id="sources"></p>
+  <p>Datos recolectados de fuentes públicas. Los horarios y precios pueden cambiar —
+     confirmá siempre en el link de la entrada.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
