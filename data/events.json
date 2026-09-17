@@ -1,26 +1,5 @@
 [
  {
-  "source": "allaccess",
-  "title": "GEOFF TATE – OPERATION: MINDCRIME – THE FINAL CHAPTER TOUR",
-  "date": "2026-01-14",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "GEOFF TATE – OPERATION: MINDCRIME – THE FINAL CHAPTER TOUR"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/geoff-tate--operation-mindcrime--the-final-chapter-tour",
-  "ticket_url": "https://www.allaccess.com.ar/event/geoff-tate--operation-mindcrime--the-final-chapter-tour",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "wp-palermo-groove",
   "title": "Sundays by Groove @ Domingo 8 de febrero 2026 (+18)",
   "date": "2026-02-08",
@@ -1508,27 +1487,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "GastroFeat Vol 2",
-  "date": "2026-09-17",
-  "venue": "Avenida Sarmiento",
-  "artists": [
-   "GastroFeat Vol 2"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/gastrofeat-vol-2",
-  "ticket_url": "https://venti.live/evento/gastrofeat-vol-2",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1788561709985-lg.jpg",
-  "lat": -32.8890083,
-  "lon": -68.8483334,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Hernán Casciari",
   "date": "2026-09-17",
@@ -1642,27 +1600,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "LA PEÑA DE HUAYRA FOLKLORE 17.09",
-  "date": "2026-09-17",
-  "venue": "POPE SOCIAL CLUB",
-  "artists": [
-   "LA PEÑA DE HUAYRA FOLKLORE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/la-pe-a-de-huayra-folklore-17-09",
-  "ticket_url": "https://venti.live/evento/la-pe-a-de-huayra-folklore-17-09",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1787334032560-lg.jpg",
-  "lat": -34.5325127,
-  "lon": -58.70450169999999,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Left to Die",
   "date": "2026-09-17",
@@ -1730,69 +1667,6 @@
    "songkick"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "Pedro Aguilar y amigos",
-  "date": "2026-09-17",
-  "venue": "Niceto Bar",
-  "artists": [
-   "Pedro Aguilar"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pedro-aguilar-y-amigos-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/pedro-aguilar-y-amigos-en-niceto-bar",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1787596011500-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Piazzolla Electrónico x Nico Sorin 17 SEP en Niceto Club (+18 años)",
-  "date": "2026-09-17",
-  "venue": "Niceto Club",
-  "artists": [
-   "Piazzolla Electrónico x Nico Sorin"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/piazzolla-electr-nico-x-nico-sorin-17-sep-en-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/piazzolla-electr-nico-x-nico-sorin-17-sep-en-niceto-club-18-a-os",
-  "price": "$30.000",
-  "image": "https://images.venti.live/user-images/1785507974793-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Presentación del libro Invenciones sobre Babasónicos",
-  "date": "2026-09-17",
-  "venue": "Niceto Bar",
-  "artists": [
-   "Invenciones sobre Babasónicos"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/presentaci-n-del-libro-invenciones-sobre-babas-nicos-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/presentaci-n-del-libro-invenciones-sobre-babas-nicos-en-niceto-bar",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1788788673274-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -2103,27 +1977,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "FIESTA SWEAT",
-  "date": "2026-09-18",
-  "venue": "The Roxy Live",
-  "artists": [
-   "FIESTA SWEAT"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-sweat-",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-sweat-",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "FUNGI X FÁBRICA ABANDONA",
   "date": "2026-09-18",
@@ -2169,27 +2022,6 @@
   "start_time": "",
   "sources": [
    "crobar"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "GUSTAVO CORDERA FESTEJA SU CUMPLEAÑOS EN VORTERIX",
-  "date": "2026-09-18",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "GUSTAVO CORDERA FESTEJA SU CUMPLEAÑOS EN VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/gustavo-cordera-festeja-su-cumpleaos-en-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/gustavo-cordera-festeja-su-cumpleaos-en-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -2607,27 +2439,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "REQUIEM FOR EDEN - PRESENTACIÓN OFICIAL \"INFIERNO GRIS”",
-  "date": "2026-09-18",
-  "venue": "The Roxy Live",
-  "artists": [
-   "REQUIEM FOR EDEN - PRESENTACIÓN OFICIAL \"INFIERNO GRIS”"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/requiem-for-eden---presentacin-oficial-infierno-gris",
-  "ticket_url": "https://www.allaccess.com.ar/event/requiem-for-eden---presentacin-oficial-infierno-gris",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "SELF-TITLED AFTERGLOW",
   "date": "2026-09-18",
@@ -2906,27 +2717,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "FIESTA CLIMAX - DIA DE LA PRIMAVERA",
-  "date": "2026-09-19",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FIESTA CLIMAX - DIA DE LA PRIMAVERA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-climax-dia-de-la-primavera",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-climax-dia-de-la-primavera",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "FRANCO BA x My House",
   "date": "2026-09-19",
@@ -3049,27 +2839,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "IT'S ELECTRIC - 10 AÑOS",
-  "date": "2026-09-19",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "IT'S ELECTRIC - 10 AÑOS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/its-electric-10-anios",
-  "ticket_url": "https://www.allaccess.com.ar/event/its-electric-10-anios",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "JOHN DIGWEED - BEDROCK BUENOS AIRES @ 2GTHR Open Air - 19/09/26",
   "date": "2026-09-19",
@@ -3112,27 +2881,6 @@
   "sources": [
    "resident-advisor",
    "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LEIPARTY - Edición al revés del 2026 al 1980",
-  "date": "2026-09-19",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LEIPARTY - Edición al revés del 2026 al 1980"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/leiparty-edicion-al-reves-del-2026-al-1980",
-  "ticket_url": "https://www.allaccess.com.ar/event/leiparty-edicion-al-reves-del-2026-al-1980",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -3180,27 +2928,6 @@
   "start_time": "23:00",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LOS PEREZ GARCIA",
-  "date": "2026-09-19",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LOS PEREZ GARCIA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/los-perez--garcia",
-  "ticket_url": "https://www.allaccess.com.ar/event/los-perez--garcia",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -3275,27 +3002,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "MAD",
-  "date": "2026-09-19",
-  "venue": "The Roxy Live",
-  "artists": [
-   "MAD EN THE ROXY LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/mad-en-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/mad-en-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "MAGDALENA",
   "date": "2026-09-19",
@@ -3315,27 +3021,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "MEMPHIS LA BLUSERA",
-  "date": "2026-09-19",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "MEMPHIS LA BLUSERA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/memphis-la-blusera",
-  "ticket_url": "https://www.allaccess.com.ar/event/memphis-la-blusera",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -3674,6 +3359,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "AM Sessions 20-9",
+  "date": "2026-09-20",
+  "venue": "MISIÓN",
+  "artists": [
+   "AM Sessions"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/am-sessions-20-9",
+  "ticket_url": "https://venti.live/evento/am-sessions-20-9",
+  "price": "$20.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.5874387,
+  "lon": -58.4336819,
+  "start_time": "09:30",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Boom Boom Kid",
   "date": "2026-09-20",
@@ -3953,28 +3659,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "RAMONES DAY ARGENTINA",
-  "date": "2026-09-20",
-  "venue": "The Roxy Live",
-  "artists": [
-   "RAMONES DAY ARGENTINA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/ramones-day-argentina",
-  "ticket_url": "https://www.allaccess.com.ar/event/ramones-day-argentina",
-  "price": "Desde $35.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/ramones-day-roxy.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess",
-   "indiehoy"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "ROUX - SABADO 19.09 - FLOWER POWER",
   "date": "2026-09-20",
@@ -4044,6 +3728,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Ramones Day Argentina",
+  "date": "2026-09-20",
+  "venue": "The Roxy Live",
+  "artists": [
+   "Ramones Day Argentina"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/ramones-day-argentina-en-the-roxy-live/",
+  "ticket_url": "https://www.allaccess.com.ar/event/ramones-day-argentina",
+  "price": "Desde $35.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/ramones-day-roxy.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -4417,27 +4122,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "BINGO MUSICAL EDICION HITAZOS 80 / 90/ 00",
-  "date": "2026-09-24",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "BINGO MUSICAL EDICION HITAZOS 80 / 90/ 00"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/bingo-musical-edicion-hitazos-80--90-00",
-  "ticket_url": "https://www.allaccess.com.ar/event/bingo-musical-edicion-hitazos-80--90-00",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Ben Howard en Argentina",
   "date": "2026-09-24",
@@ -4586,27 +4270,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "ALEXIS PUIG - UNA NOCHE MONSTRUOSA",
-  "date": "2026-09-25",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "ALEXIS PUIG - UNA NOCHE MONSTRUOSA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/alexis-puig---una-noche-monstruosa",
-  "ticket_url": "https://www.allaccess.com.ar/event/alexis-puig---una-noche-monstruosa",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Armina x Karmic",
   "date": "2026-09-25",
@@ -4629,27 +4292,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "BAHIANO EN VORTERIX",
-  "date": "2026-09-25",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "BAHIANO EN VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/bahiano-en-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/bahiano-en-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -4834,27 +4476,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "FIRESIDE TRIBUTO A ARCTIC MONKEYS",
-  "date": "2026-09-25",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "FIRESIDE TRIBUTO A ARCTIC MONKEYS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fireside-tributo-a-arctic-monkeys",
-  "ticket_url": "https://www.allaccess.com.ar/event/fireside-tributo-a-arctic-monkeys",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Faustø - JULIETA LAKE - MYLAH - SAP LIVE",
   "date": "2026-09-25",
@@ -4919,27 +4540,6 @@
   "start_time": "21:00",
   "sources": [
    "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "KAOS RAVE",
-  "date": "2026-09-25",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "KAOS RAVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/kaos---rave",
-  "ticket_url": "https://www.allaccess.com.ar/event/kaos---rave",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -5207,27 +4807,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "V.I.D.A. en The Roxy - Show despedida Javi Cuello",
-  "date": "2026-09-25",
-  "venue": "The Roxy Live",
-  "artists": [
-   "V.I.D.A. en The Roxy - Show despedida Javi Cuello"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/vida-en-the-roxy---show-despedida-javi-cuello",
-  "ticket_url": "https://www.allaccess.com.ar/event/vida-en-the-roxy---show-despedida-javi-cuello",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "25.09 | SPRING FREQUENCY by SONUM | NACHO PADILLA",
   "date": "2026-09-26",
@@ -5247,27 +4826,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "ALTER VU presenta Kütral",
-  "date": "2026-09-26",
-  "venue": "The Roxy Live",
-  "artists": [
-   "ALTER VU presenta Kütral"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/alter-vu-presenta-ktral",
-  "ticket_url": "https://www.allaccess.com.ar/event/alter-vu-presenta-ktral",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "songkick",
@@ -5533,27 +5091,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "FIESTA DEBAR 20 AÑOS",
-  "date": "2026-09-26",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FIESTA DEBAR 20 AÑOS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-debar-20-anios",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-debar-20-anios",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "FUNGI PRES. JOSÉ MONSALVE, AUGUSTO & Bruno Ledesma",
   "date": "2026-09-26",
@@ -5627,28 +5164,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "KIDD VOODOO",
-  "date": "2026-09-26",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "KIDD VOODOO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/kidd-voodoo",
-  "ticket_url": "https://www.allaccess.com.ar/event/kidd-voodoo",
-  "price": "Desde $45.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/05/kidd-voodoo-vorterix-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess",
-   "indiehoy"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "KLAV: Nicola Cruz",
   "date": "2026-09-26",
@@ -5672,6 +5187,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Kidd Voodoo en Argentina",
+  "date": "2026-09-26",
+  "venue": "Teatro Vorterix",
+  "artists": [
+   "Kidd Voodoo"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/kidd-voodoo-en-argentina-2/",
+  "ticket_url": "https://www.allaccess.com.ar/event/kidd-voodoo",
+  "price": "Desde $45.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/05/kidd-voodoo-vorterix-1.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "crobar",
@@ -5836,48 +5372,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "PERRO NEGRO",
-  "date": "2026-09-26",
-  "venue": "The Roxy Live",
-  "artists": [
-   "PERRO NEGRO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/perro-negro",
-  "ticket_url": "https://www.allaccess.com.ar/event/perro-negro",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "POGOFEST – ESPECIAL METAL",
-  "date": "2026-09-26",
-  "venue": "The Roxy Live",
-  "artists": [
-   "POGOFEST – ESPECIAL METAL"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/pogofest-especial-metal",
-  "ticket_url": "https://www.allaccess.com.ar/event/pogofest-especial-metal",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "Pelusones en Humboldt | Niceto Club (+18 años)",
   "date": "2026-09-26",
@@ -6030,27 +5524,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "SUPRAPHONIC - El viaje musical que revive los grandes himnos de los años 80 y 90",
-  "date": "2026-09-26",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "SUPRAPHONIC - El viaje musical que revive los grandes himnos de los años 80 y 90"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/supraphonic---el-viaje-musical-que-revive-los-grandes-himnos-de-los-aos-80-y-90",
-  "ticket_url": "https://www.allaccess.com.ar/event/supraphonic---el-viaje-musical-que-revive-los-grandes-himnos-de-los-aos-80-y-90",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -6532,27 +6005,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "BELGRANO STUDIO - SHOW PRIMAVERA 2026",
-  "date": "2026-09-29",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "BELGRANO STUDIO - SHOW PRIMAVERA 2026"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/belgrano-studio-show-primavera-2026",
-  "ticket_url": "https://www.allaccess.com.ar/event/belgrano-studio-show-primavera-2026",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "songkick",
   "title": "Blonde Redhead",
   "date": "2026-09-29",
@@ -6683,27 +6135,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "ALEJANDRO DESILVESTRE Y LOS PERROS DE LA LUNA – HOMENAJE A MIGUEL ZAVALETA",
-  "date": "2026-10-01",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "ALEJANDRO DESILVESTRE Y LOS PERROS DE LA LUNA – HOMENAJE A MIGUEL ZAVALETA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/alejandro-desilvestre-y-los-perros-de-la-luna-homenaje-a-miguel-zavaleta",
-  "ticket_url": "https://www.allaccess.com.ar/event/alejandro-desilvestre-y-los-perros-de-la-luna-homenaje-a-miguel-zavaleta",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Green Valley meets Alborosie",
   "date": "2026-10-01",
@@ -6723,27 +6154,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "INSPECTOR – TOUR 30 AÑOS",
-  "date": "2026-10-01",
-  "venue": "The Roxy Live",
-  "artists": [
-   "INSPECTOR – TOUR 30 AÑOS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/inspector-tour-30-aos",
-  "ticket_url": "https://www.allaccess.com.ar/event/inspector-tour-30-aos",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "songkick",
@@ -6851,27 +6261,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "EKISDE FEST 6.0",
-  "date": "2026-10-02",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "EKISDE FEST 6.0"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/ekisde-fest-6-0",
-  "ticket_url": "https://www.allaccess.com.ar/event/ekisde-fest-6-0",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties",
   "date": "2026-10-02",
@@ -6922,48 +6311,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "JUECES DE MARMOL – VUELVE AL ROXY BAR EL HOMENAJE AL CARPO",
-  "date": "2026-10-02",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "JUECES DE MARMOL – VUELVE AL ROXY BAR EL HOMENAJE AL CARPO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/jueces-de-marmol",
-  "ticket_url": "https://www.allaccess.com.ar/event/jueces-de-marmol",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LA RUSA",
-  "date": "2026-10-02",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "LA RUSA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-rusa",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-rusa",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Nick Varon, Progressive Ar",
   "date": "2026-10-02",
@@ -6983,27 +6330,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "PIMPEO",
-  "date": "2026-10-02",
-  "venue": "The Roxy Live",
-  "artists": [
-   "PIMPEO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/pimpeo",
-  "ticket_url": "https://www.allaccess.com.ar/event/pimpeo",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -7048,27 +6374,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "Sugar Tampaxxx, Las Tussi y Baja Killa en The Roxy Live!",
-  "date": "2026-10-02",
-  "venue": "The Roxy Live",
-  "artists": [
-   "Sugar Tampaxxx, Las Tussi y Baja Killa en The Roxy Live!"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/sugar-tampaxxx-las-tussi-y-baja-killa-en-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/sugar-tampaxxx-las-tussi-y-baja-killa-en-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -7205,26 +6510,25 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "CHIARA OLIVER",
+  "source": "indiehoy",
+  "title": "Chiara Oliver en Argentina",
   "date": "2026-10-03",
   "venue": "Teatro Vorterix",
   "artists": [
-   "CHIARA OLIVER"
+   "Chiara Oliver"
   ],
   "genres": [],
-  "url": "https://www.allaccess.com.ar/event/chiara-oliver",
-  "ticket_url": "https://www.allaccess.com.ar/event/chiara-oliver",
+  "url": "https://indiehoy.com/agenda/chiara-oliver-en-argentina/",
+  "ticket_url": "https://www.allaccess.com.ar/event/57174_3I6SHPQXAPSOCNNA5H6UDOYI18XXBFMQUOJMKJTO",
   "price": "Desde $55.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/05/chiara-oliver-.arg_.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
    "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "crobar",
@@ -7344,48 +6648,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "FIESTA BACK TO THE 80s",
-  "date": "2026-10-03",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FIESTA BACK TO THE 80s"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-back-to-the-80s--",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-back-to-the-80s--",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "FIESTA UTOPIC - ESKHA (francia)",
-  "date": "2026-10-03",
-  "venue": "The Roxy Live",
-  "artists": [
-   "FIESTA UTOPIC - ESKHA (francia) @ The Roxy Live"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-utopic",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-utopic",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -7587,27 +6849,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "LA ZIMBABWE",
-  "date": "2026-10-03",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "LA ZIMBABWE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-zimbabwe",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-zimbabwe",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "La Finquita Sunset - 03/10",
   "date": "2026-10-03",
@@ -7719,27 +6960,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "SEDA CARMIN – ROGANDO QUE NO AMANEZCA",
-  "date": "2026-10-03",
-  "venue": "The Roxy Live",
-  "artists": [
-   "SEDA CARMIN – ROGANDO QUE NO AMANEZCA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/seda-carmin--rogando-que-no-amanezca",
-  "ticket_url": "https://www.allaccess.com.ar/event/seda-carmin--rogando-que-no-amanezca",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -8023,27 +7243,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "LEGADO TRASH FEST",
-  "date": "2026-10-04",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LEGADO TRASH FEST"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/legado-trash-fest",
-  "ticket_url": "https://www.allaccess.com.ar/event/legado-trash-fest",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "LIBRA SESSION x ARZ SÁB 03.10",
   "date": "2026-10-04",
@@ -8179,27 +7378,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "DO NEURONA",
-  "date": "2026-10-07",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "DO NEURONA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/do-neurona",
-  "ticket_url": "https://www.allaccess.com.ar/event/do-neurona",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Dyango",
   "date": "2026-10-07",
@@ -8306,48 +7484,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "LA CHANCHA MUDA - A la luz del candil",
-  "date": "2026-10-08",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LA CHANCHA MUDA - A la luz del candil"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-chancha-muda-a-la-luz-del-candil",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-chancha-muda-a-la-luz-del-candil",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LAS PELOTAS",
-  "date": "2026-10-08",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LAS PELOTAS - TEATRO VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/las-pelotas---teatro-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/las-pelotas---teatro-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -8499,48 +7635,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "FEINE SAHNE FISCHFILET",
-  "date": "2026-10-09",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FEINE SAHNE FISCHFILET"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/feine-sahne-fischfilet",
-  "ticket_url": "https://www.allaccess.com.ar/event/feine-sahne-fischfilet",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "FIESTA ROCK DEL PAIS",
-  "date": "2026-10-09",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FIESTA ROCK DEL PAIS - TEATRO VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-rock-del-pais-teatro-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-rock-del-pais-teatro-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "INDIOS x CASTELLANOS ¨Escucha Exclusiva¨",
   "date": "2026-10-09",
@@ -8668,27 +7762,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "TRIBU TOTO - TRIBUTO A TOTO",
-  "date": "2026-10-09",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "TRIBU TOTO - TRIBUTO A TOTO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/tribu-toto-tributo-a-toto",
-  "ticket_url": "https://www.allaccess.com.ar/event/tribu-toto-tributo-a-toto",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -8864,15 +7937,36 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "JUANA LA LOCA",
+  "source": "venti",
+  "title": "Hiperkineticos",
+  "date": "2026-10-10",
+  "venue": "Niceto Bar",
+  "artists": [
+   "Hiperkineticos"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/hiperkineticos-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/hiperkineticos-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1789681344322-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Juana La Loca",
   "date": "2026-10-10",
   "venue": "The Roxy Live",
   "artists": [
-   "JUANA LA LOCA"
+   "Juana La Loca"
   ],
   "genres": [],
-  "url": "https://www.allaccess.com.ar/event/juana-la-loca",
+  "url": "https://indiehoy.com/agenda/juana-la-loca-en-the-roxy-live/",
   "ticket_url": "https://www.allaccess.com.ar/event/juana-la-loca",
   "price": "Desde $35.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/08/juana-la-loca-roxy.jpg",
@@ -8880,10 +7974,9 @@
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
    "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -8926,27 +8019,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "SAFAERA",
-  "date": "2026-10-10",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "SAFAERA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/safaera",
-  "ticket_url": "https://www.allaccess.com.ar/event/safaera",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -9036,17 +8108,18 @@
  },
  {
   "source": "venti",
-  "title": "10/10 | Lulú x Safari",
+  "title": "10/10 | Lulú x Safari | N.O.Y- INDIEGENAS & PAXU - EQ EIGHT - DISTURVA",
   "date": "2026-10-11",
   "venue": "Lulú",
   "artists": [
-   "Lulú x Safari"
+   "Lulú x Safari | N.O.Y- INDIEGENAS",
+   "PAXU - EQ EIGHT - DISTURVA"
   ],
   "genres": [],
   "url": "https://venti.live/evento/s10-10-lul-x-safari-n-o-y-indiegenas-paxu-eq-eight-disturva",
   "ticket_url": "https://venti.live/evento/s10-10-lul-x-safari-n-o-y-indiegenas-paxu-eq-eight-disturva",
   "price": "$17.000",
-  "image": "https://images.venti.live/user-images/1789488957982-lg.jpg",
+  "image": "https://images.venti.live/user-images/1789684650036-lg.jpg",
   "lat": -34.5920071,
   "lon": -58.42639819999999,
   "start_time": "",
@@ -9073,27 +8146,6 @@
   "start_time": "",
   "sources": [
    "crobar"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "BIG GUN VUELVE A THE ROXY BAR & GRILL",
-  "date": "2026-10-11",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "BIG GUN VUELVE A THE ROXY BAR & GRILL"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/big-gun-vuelve-a-the-roxy-bar-grill",
-  "ticket_url": "https://www.allaccess.com.ar/event/big-gun-vuelve-a-the-roxy-bar-grill",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -9154,6 +8206,28 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "FESTIVAL PARDO: CAPRICHO y LAS CRUXES en Humboldt | Niceto Club (+18 años)",
+  "date": "2026-10-11",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "PARDO: CAPRICHO",
+   "LAS CRUXES"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/festival-pardo-capricho-y-las-cruxes-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/festival-pardo-capricho-y-las-cruxes-en-humboldt-niceto-club-18-a-os",
+  "price": "$8.000",
+  "image": "https://images.venti.live/user-images/1789676620475-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -9303,27 +8377,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "NUM VUELVE!",
-  "date": "2026-10-11",
-  "venue": "The Roxy Live",
-  "artists": [
-   "NUM VUELVE!"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/num-vuelve",
-  "ticket_url": "https://www.allaccess.com.ar/event/num-vuelve",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "OLD SCHOOL /2005 - 2015/ x ARZ SÁB 10.10",
   "date": "2026-10-11",
@@ -9453,27 +8506,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "T&K EN BUENOS AIRES",
-  "date": "2026-10-11",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "T&K EN BUENOS AIRES"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/tk-en-buenos-aires",
-  "ticket_url": "https://www.allaccess.com.ar/event/tk-en-buenos-aires",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -9689,27 +8721,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "PIANO LIFE URQUIZA (Muestra de Alumnos & Argentrío)",
-  "date": "2026-10-14",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "PIANO LIFE URQUIZA (Muestra de Alumnos & Argentrío)"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/piano-life-urquiza",
-  "ticket_url": "https://www.allaccess.com.ar/event/piano-life-urquiza",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Ariel Darmun",
   "date": "2026-10-15",
@@ -9816,26 +8827,25 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "MORA NAVARRO",
+  "source": "indiehoy",
+  "title": "Mora Navarro",
   "date": "2026-10-15",
   "venue": "The Roxy Live",
   "artists": [
-   "MORA NAVARRO"
+   "Mora Navarro"
   ],
   "genres": [],
-  "url": "https://www.allaccess.com.ar/event/mora-navarro",
-  "ticket_url": "https://www.allaccess.com.ar/event/mora-navarro",
+  "url": "https://indiehoy.com/agenda/mora-navarro-en-the-roxy-live/",
+  "ticket_url": "https://www.allaccess.com.ar/event/62828_808UVHJYD0NUR4SXVT6KQXU51GIQB6OMSTBV9WKS?utm_source=perfit&utm_medium=email&utm_campaign=MORA%20NAVARRO%20-%20SHOW%20ROXY",
   "price": "Desde $20.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/08/mora-navarro-roxy.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
    "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -9965,27 +8975,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "BORIS BILBRAUT EN BUENOS AIRES",
-  "date": "2026-10-16",
-  "venue": "The Roxy Live",
-  "artists": [
-   "BORIS BILBRAUT EN BUENOS AIRES"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/boris-bilbraut-en-buenos-aires",
-  "ticket_url": "https://www.allaccess.com.ar/event/boris-bilbraut-en-buenos-aires",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -10171,48 +9160,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "OHANA INTERNACIONAL",
-  "date": "2026-10-16",
-  "venue": "The Roxy Live",
-  "artists": [
-   "OHANA INTERNACIONAL"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/ohana-internacional-",
-  "ticket_url": "https://www.allaccess.com.ar/event/ohana-internacional-",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "OJO DALI - PRESBICIA TOUR",
-  "date": "2026-10-16",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "OJO DALI - PRESBICIA TOUR"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/ojo-dali-presbicia-tour",
-  "ticket_url": "https://www.allaccess.com.ar/event/ojo-dali-presbicia-tour",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Palito Ortega en Teatro Ópera",
   "date": "2026-10-16",
@@ -10344,27 +9291,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "VIEJAS LOCAS X FyA Cumple MIL SHOWS Y 15 AÑOS del disco \"CONTRA LA PARED\"",
-  "date": "2026-10-16",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "VIEJAS LOCAS X FyA Cumple MIL SHOWS Y 15 AÑOS del disco \"CONTRA LA PARED\""
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/viejas-locas-x-fya-cumple-mil-shows-y-15-aos-del-disco-contra-la-pared",
-  "ticket_url": "https://www.allaccess.com.ar/event/viejas-locas-x-fya-cumple-mil-shows-y-15-aos-del-disco-contra-la-pared",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -10517,27 +9443,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "FIESTA FOREVER 90s – EDICIÓN HALLOWEEN",
-  "date": "2026-10-17",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FIESTA FOREVER 90s – EDICIÓN HALLOWEEN"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fiesta-forever-90s-edicion-halloween-",
-  "ticket_url": "https://www.allaccess.com.ar/event/fiesta-forever-90s-edicion-halloween-",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Fonso y Las Paritarias",
   "date": "2026-10-17",
@@ -10625,48 +9530,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "LOS CALIGARIS",
-  "date": "2026-10-17",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LOS CALIGARIS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/los-caligaris",
-  "ticket_url": "https://www.allaccess.com.ar/event/los-caligaris",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LOS ENDOS - El homenaje Nº1 del mundo a Genesis & Phil Collins!",
-  "date": "2026-10-17",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "LOS ENDOS - El homenaje Nº1 del mundo a Genesis & Phil Collins!"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/los-endos-el-homenaje-n1-del-mundo-a-genesis-phil-collins",
-  "ticket_url": "https://www.allaccess.com.ar/event/los-endos-el-homenaje-n1-del-mundo-a-genesis-phil-collins",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Lee Burridge, Danny Tenaglia - Corona Sunsets, Buenos Aires",
   "date": "2026-10-17",
@@ -10690,27 +9553,6 @@
   "start_time": "16:30",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "MONADA",
-  "date": "2026-10-17",
-  "venue": "The Roxy Live",
-  "artists": [
-   "MONADA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/monada-",
-  "ticket_url": "https://www.allaccess.com.ar/event/monada-",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -10822,27 +9664,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "VILLANOS - PRIMERA CONVENCION VILLANA MUNDIAL",
-  "date": "2026-10-17",
-  "venue": "The Roxy Live",
-  "artists": [
-   "VILLANOS - PRIMERA CONVENCION VILLANA MUNDIAL"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/villanos-primera-convencion-villana-mundial",
-  "ticket_url": "https://www.allaccess.com.ar/event/villanos-primera-convencion-villana-mundial",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Árbol en Teatro Ópera",
   "date": "2026-10-17",
@@ -10925,27 +9746,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "FMS ARGENTINA - JORNADA 1",
-  "date": "2026-10-18",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FMS ARGENTINA - JORNADA 1"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/fms-argentina-jornada-1",
-  "ticket_url": "https://www.allaccess.com.ar/event/fms-argentina-jornada-1",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -11075,27 +9875,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "BOAT OAT OUR DESTINY",
-  "date": "2026-10-20",
-  "venue": "The Roxy Live",
-  "artists": [
-   "BOAT OAT OUR DESTINY"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/boat-oat-our-destiny",
-  "ticket_url": "https://www.allaccess.com.ar/event/boat-oat-our-destiny",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Iron Maiden en Argentina",
   "date": "2026-10-20",
@@ -11159,27 +9938,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "ISA PORTUGHEIS Presenta su libro \"ADONDE QUIERA QUE VOY\"",
-  "date": "2026-10-21",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "ISA PORTUGHEIS Presenta su libro \"ADONDE QUIERA QUE VOY\""
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/isa-portugheis-presenta-su-libro-adonde-quiera-que-voy",
-  "ticket_url": "https://www.allaccess.com.ar/event/isa-portugheis-presenta-su-libro-adonde-quiera-que-voy",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Jere Klein en Argentina",
   "date": "2026-10-21",
@@ -11199,27 +9957,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "BRICEÑO BUENO Y SANO",
-  "date": "2026-10-22",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "BRICEÑO BUENO Y SANO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/briceo-bueno-y-barato",
-  "ticket_url": "https://www.allaccess.com.ar/event/briceo-bueno-y-barato",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -11388,27 +10125,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "ERASERFEST",
-  "date": "2026-10-23",
-  "venue": "The Roxy Live",
-  "artists": [
-   "ERASERFEST"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/eraserfest",
-  "ticket_url": "https://www.allaccess.com.ar/event/eraserfest",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -11583,27 +10299,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "DECIMA - 20 AÑOS",
-  "date": "2026-10-24",
-  "venue": "The Roxy Live",
-  "artists": [
-   "DECIMA - 20 AÑOS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/decima---20-aos",
-  "ticket_url": "https://www.allaccess.com.ar/event/decima---20-aos",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Fabio Florido 7 HORAS",
   "date": "2026-10-24",
@@ -11713,27 +10408,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "SYDERAMA",
-  "date": "2026-10-24",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "SYDERAMA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/syderama",
-  "ticket_url": "https://www.allaccess.com.ar/event/syderama",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "24/10 | Lulú pres KENIA - DOBAO - SIGNO",
   "date": "2026-10-25",
@@ -11753,27 +10427,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "ELNUEVEONCE PRESENTA NUEVO DISCO",
-  "date": "2026-10-25",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "ELNUEVEONCE PRESENTA NUEVO DISCO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/elnueveonce-presenta-nuevo-disco",
-  "ticket_url": "https://www.allaccess.com.ar/event/elnueveonce-presenta-nuevo-disco",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -11904,27 +10557,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "LOS REDONDOS DE RICOTA HOMENAJE SINFONICO",
-  "date": "2026-10-28",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LOS REDONDOS DE RICOTA HOMENAJE SINFONICO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/los-redondos-de-ricota-homenaje-sinfonico",
-  "ticket_url": "https://www.allaccess.com.ar/event/los-redondos-de-ricota-homenaje-sinfonico",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -12174,23 +10806,26 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "RELEASE- TRIBUTO A PEARL JAM",
+  "source": "resident-advisor",
+  "title": "Oliver Heldens - PM Open Air, Oasis Costanera - ALLMusicParties",
   "date": "2026-10-30",
-  "venue": "The Roxy Bar and Grill",
+  "venue": "TBA - Oasis, Costanera",
   "artists": [
-   "RELEASE- TRIBUTO A PEARL JAM"
+   "Oliver Heldens"
   ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/release-tributo-a-pearl-jam-",
-  "ticket_url": "https://www.allaccess.com.ar/event/release-tributo-a-pearl-jam-",
+  "genres": [
+   "Deep House",
+   "House"
+  ],
+  "url": "https://ra.co/events/2540125",
+  "ticket_url": "",
   "price": "",
   "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess"
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
@@ -12335,48 +10970,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "REINA MADRE - TRIBUTO A QUEEN",
-  "date": "2026-10-31",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "REINA MADRE - TRIBUTO A QUEEN"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/reina-madre--tributo-a-queen",
-  "ticket_url": "https://www.allaccess.com.ar/event/reina-madre--tributo-a-queen",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "TIPLING ROCK EN BUENOS AIRES",
-  "date": "2026-10-31",
-  "venue": "The Roxy Live",
-  "artists": [
-   "TIPLING ROCK EN BUENOS AIRES"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/tipling-rock-en-buenos-aires",
-  "ticket_url": "https://www.allaccess.com.ar/event/tipling-rock-en-buenos-aires",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "VINMUSIC HALLOWEEN",
   "date": "2026-10-31",
@@ -12480,27 +11073,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "MOTOR FURIOSO - VUELVE A",
-  "date": "2026-11-01",
-  "venue": "The Roxy Live",
-  "artists": [
-   "MOTOR FURIOSO - VUELVE A THE ROXY LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/motor-furioso-vuelve-a-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/motor-furioso-vuelve-a-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -12722,48 +11294,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "LOLO EN VORTERIX",
-  "date": "2026-11-06",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LOLO EN VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/lolo-en-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/lolo-en-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "MARINA FAGES presenta ATALAYA AVALANCHA",
-  "date": "2026-11-06",
-  "venue": "The Roxy Live",
-  "artists": [
-   "MARINA FAGES presenta ATALAYA AVALANCHA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/marina-fages-presenta-atalaya-avalancha",
-  "ticket_url": "https://www.allaccess.com.ar/event/marina-fages-presenta-atalaya-avalancha",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Marcela Morelo",
   "date": "2026-11-06",
@@ -12846,48 +11376,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "BULLDOG",
-  "date": "2026-11-07",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "BULLDOG EN EL TEATRO VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/bulldog-en-el-teatro-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/bulldog-en-el-teatro-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "JAF",
-  "date": "2026-11-07",
-  "venue": "The Roxy Live",
-  "artists": [
-   "JAF EN THE ROXY LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/jaf-en-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/jaf-en-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -12981,27 +11469,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "ARDE LA SANGRE PRESENTA SU NUEVO ALBUM “DESESPERADA (MENTE)”",
-  "date": "2026-11-08",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "ARDE LA SANGRE PRESENTA SU NUEVO ALBUM “DESESPERADA (MENTE)”"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/arde-la-sangre-presenta-su-nuevo-album-desesperada-mente",
-  "ticket_url": "https://www.allaccess.com.ar/event/arde-la-sangre-presenta-su-nuevo-album-desesperada-mente",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "BBASUL en Niceto Club (+18 años)",
   "date": "2026-11-08",
@@ -13021,48 +11488,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "BUENA LA ACTITUD ROCK 2026 Presenta MORA ITURRALDE - LA CUPULA - PLANEADOR",
-  "date": "2026-11-08",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "BUENA LA ACTITUD ROCK 2026 Presenta MORA ITURRALDE - LA CUPULA - PLANEADOR"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/buena-la-actitud-rock-2026-presenta-mora-iturralde-la-cupula-planeador",
-  "ticket_url": "https://www.allaccess.com.ar/event/buena-la-actitud-rock-2026-presenta-mora-iturralde-la-cupula-planeador",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LA REJA EN THE ROXY - Cierre de la gira Refugio",
-  "date": "2026-11-08",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LA REJA EN THE ROXY - Cierre de la gira Refugio"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-reja-en-the-roxy",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-reja-en-the-roxy",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -13086,27 +11511,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "CATCH THE YOUNG EN ARGENTINA",
-  "date": "2026-11-10",
-  "venue": "The Roxy Live",
-  "artists": [
-   "CATCH THE YOUNG EN ARGENTINA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/catch-the-young-en-argentina",
-  "ticket_url": "https://www.allaccess.com.ar/event/catch-the-young-en-argentina",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Catalina Ammaturo",
   "date": "2026-11-11",
@@ -13126,27 +11530,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "OPERACION ROSA ROSA – “EL FUEGO DE OTRA EPOCA”",
-  "date": "2026-11-12",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "OPERACION ROSA ROSA – “EL FUEGO DE OTRA EPOCA”"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/operacion-rosa-rosa-el-fuego-de-otra-epoca",
-  "ticket_url": "https://www.allaccess.com.ar/event/operacion-rosa-rosa-el-fuego-de-otra-epoca",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -13189,69 +11572,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "ELLA ES TAN CARGOSA - 26 AÑOS",
-  "date": "2026-11-13",
-  "venue": "The Roxy Live",
-  "artists": [
-   "ELLA ES TAN CARGOSA - 26 AÑOS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/ella-es-tan-cargosa-26-anios",
-  "ticket_url": "https://www.allaccess.com.ar/event/ella-es-tan-cargosa-26-anios",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "FLEMA - NUNCA SERÉ POLICÍA - 30 AÑOS",
-  "date": "2026-11-13",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "FLEMA - NUNCA SERÉ POLICÍA - 30 AÑOS"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/flema---nunca-ser-polica---30-aos",
-  "ticket_url": "https://www.allaccess.com.ar/event/flema---nunca-ser-polica---30-aos",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "COVER KAI",
-  "date": "2026-11-14",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "COVER KAI"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/cover-kai",
-  "ticket_url": "https://www.allaccess.com.ar/event/cover-kai",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -13380,27 +11700,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "LOS ASPIRANTES",
-  "date": "2026-11-14",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LOS ASPIRANTES"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/los-aspirantes",
-  "ticket_url": "https://www.allaccess.com.ar/event/los-aspirantes",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Los Tipitos",
   "date": "2026-11-14",
@@ -13420,27 +11719,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "MR COLLINS - Tributo a Phil Collins & Genesis",
-  "date": "2026-11-14",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "MR COLLINS - Tributo a Phil Collins & Genesis"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/mr-collins-tributo-a-phil-collins-genesis",
-  "ticket_url": "https://www.allaccess.com.ar/event/mr-collins-tributo-a-phil-collins-genesis",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -13548,27 +11826,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "H DE PERRA",
-  "date": "2026-11-15",
-  "venue": "The Roxy Live",
-  "artists": [
-   "H DE PERRA en THE ROXY LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/h-de-perra-en-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/h-de-perra-en-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Hayley Williams en Argentina",
   "date": "2026-11-15",
@@ -13611,15 +11868,15 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "ALEXISONFIRE",
+  "source": "indiehoy",
+  "title": "Alexisonfire en Argentina",
   "date": "2026-11-17",
   "venue": "Teatro Vorterix",
   "artists": [
-   "ALEXISONFIRE"
+   "Alexisonfire"
   ],
   "genres": [],
-  "url": "https://www.allaccess.com.ar/event/alexisonfire",
+  "url": "https://indiehoy.com/agenda/alexisonfire-argentina-2026/",
   "ticket_url": "https://www.allaccess.com.ar/event/alexisonfire",
   "price": "Desde $80.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/09/alexisonfire-en-argentina.webp",
@@ -13627,10 +11884,9 @@
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
    "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -13654,27 +11910,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "EASYKID",
-  "date": "2026-11-18",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "EASYKID"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/easykid",
-  "ticket_url": "https://www.allaccess.com.ar/event/easykid",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Kakkmaddafakka en Argentina",
   "date": "2026-11-18",
@@ -13696,27 +11931,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "EL NATTY COMBO - ‘Sergio Colombo canta Los Fundamentalistas”",
-  "date": "2026-11-20",
-  "venue": "The Roxy Live",
-  "artists": [
-   "EL NATTY COMBO - ‘Sergio Colombo canta Los Fundamentalistas”"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/el-natty-combo-sergio-colombo-canta-los-fundamentalistas",
-  "ticket_url": "https://www.allaccess.com.ar/event/el-natty-combo-sergio-colombo-canta-los-fundamentalistas",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Innen x AVG",
   "date": "2026-11-20",
@@ -13736,27 +11950,6 @@
   "start_time": "21:00",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "KATO SKA",
-  "date": "2026-11-20",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "KATO SKA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/kato-ska",
-  "ticket_url": "https://www.allaccess.com.ar/event/kato-ska",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -13904,48 +12097,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "LA GRECIA EN VORTERIX",
-  "date": "2026-11-21",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LA GRECIA EN VORTERIX"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-grecia-en-vorterix",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-grecia-en-vorterix",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LA MANCHA DE ROLANDO",
-  "date": "2026-11-21",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LA MANCHA DE ROLANDO EN THE ROXY LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-mancha-de-rolando-en-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-mancha-de-rolando-en-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Maggie Cullen",
   "date": "2026-11-21",
@@ -13986,27 +12137,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "NUEVOS VAGABUNDOS & LA INDOMITA LUZ",
-  "date": "2026-11-21",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "NUEVOS VAGABUNDOS & LA INDOMITA LUZ"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/nuevos-vagabundos-la-indomita-luz",
-  "ticket_url": "https://www.allaccess.com.ar/event/nuevos-vagabundos-la-indomita-luz",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -14076,27 +12206,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "FEEED!!",
-  "date": "2026-11-22",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "FEEED!!"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/feeed",
-  "ticket_url": "https://www.allaccess.com.ar/event/feeed",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "Gvtz en en Humboldt | Niceto Club (+16 años)",
   "date": "2026-11-22",
@@ -14137,69 +12246,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "NANPA BASICO - QUE TIN Y QUE TAN TOUR",
-  "date": "2026-11-22",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "NANPA BASICO - QUE TIN Y QUE TAN TOUR"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/nanpa-basico---que-tin-y-que-tan-tour",
-  "ticket_url": "https://www.allaccess.com.ar/event/nanpa-basico---que-tin-y-que-tan-tour",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "NEUROFEST",
-  "date": "2026-11-22",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "NEUROFEST"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/neuro-fest",
-  "ticket_url": "https://www.allaccess.com.ar/event/neuro-fest",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "VITICO Y LOS LEONES – 60 AÑOS DE ROCK",
-  "date": "2026-11-22",
-  "venue": "The Roxy Live",
-  "artists": [
-   "VITICO Y LOS LEONES – 60 AÑOS DE ROCK"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/vitico-y-los-leones-60-anios-de-rock",
-  "ticket_url": "https://www.allaccess.com.ar/event/vitico-y-los-leones-60-anios-de-rock",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -14288,27 +12334,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "ZEBALLOS - AMOR FIADO en BUENOS AIRES",
-  "date": "2026-11-26",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "ZEBALLOS - AMOR FIADO en BUENOS AIRES"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/zeballos-amor-fiado-en-buenos-aires",
-  "ticket_url": "https://www.allaccess.com.ar/event/zeballos-amor-fiado-en-buenos-aires",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "Barbi Recanati",
   "date": "2026-11-27",
@@ -14328,27 +12353,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "FUNES - LIVE",
-  "date": "2026-11-27",
-  "venue": "The Roxy Live",
-  "artists": [
-   "FUNES - LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/funes-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/funes-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -14378,26 +12382,25 @@
   "artist_source": "structured"
  },
  {
-  "source": "allaccess",
-  "title": "UN VERANO",
+  "source": "indiehoy",
+  "title": "Un Verano",
   "date": "2026-11-27",
   "venue": "Teatro Vorterix",
   "artists": [
-   "UN VERANO"
+   "Un Verano"
   ],
   "genres": [],
-  "url": "https://www.allaccess.com.ar/event/un-verano",
-  "ticket_url": "https://www.allaccess.com.ar/event/un-verano",
+  "url": "https://indiehoy.com/agenda/un-verano-en-teatro-vorterix/",
+  "ticket_url": "https://www.allaccess.com.ar/event/66229_US7HOURH5C0WBPZC2KKP2SMQVHLJQ0SENHN6D768?utm_source=perfit&utm_medium=email",
   "price": "Desde $15.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/09/un-verano-vorterix.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
    "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -14464,48 +12467,6 @@
   "start_time": "22:00",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LA VIEJA RUTA \"35 AÑOS\"",
-  "date": "2026-11-28",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "LA VIEJA RUTA \"35 AÑOS\""
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-vieja-ruta-35-anios",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-vieja-ruta-35-anios",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "MONOS EN BOLAS PRESENTA SU NUEVO DISCO",
-  "date": "2026-11-28",
-  "venue": "The Roxy Live",
-  "artists": [
-   "MONOS EN BOLAS PRESENTA SU NUEVO DISCO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/monos-en-bolas-presenta-su-nuevo-disco",
-  "ticket_url": "https://www.allaccess.com.ar/event/monos-en-bolas-presenta-su-nuevo-disco",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -14637,6 +12598,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "QUETZAL CHEBÚ",
+  "date": "2026-11-29",
+  "venue": "Niceto Bar",
+  "artists": [
+   "QUETZAL CHEBÚ"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/quetzal-cheb-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/quetzal-cheb-en-niceto-bar",
+  "price": "$12.000",
+  "image": "https://images.venti.live/user-images/1789682150553-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Giant Rooks en Argentina",
   "date": "2026-12-01",
@@ -14700,27 +12682,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "DOYLE (EX GUITARRISTA DE MISFITS)",
-  "date": "2026-12-02",
-  "venue": "The Roxy Live",
-  "artists": [
-   "DOYLE (EX GUITARRISTA DE MISFITS)"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/doyle-ex-guitarrista-de-misfits",
-  "ticket_url": "https://www.allaccess.com.ar/event/doyle-ex-guitarrista-de-misfits",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Leo Middea en Argentina",
   "date": "2026-12-03",
@@ -14740,90 +12701,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "MALCRIADA",
-  "date": "2026-12-03",
-  "venue": "The Roxy Live",
-  "artists": [
-   "MALCRIADA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/malcriada",
-  "ticket_url": "https://www.allaccess.com.ar/event/malcriada",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "DISCONTINUOS",
-  "date": "2026-12-04",
-  "venue": "The Roxy Live",
-  "artists": [
-   "DISCONTINUOS EN THE ROXY LIVE"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/discontinuos-en-the-roxy-live",
-  "ticket_url": "https://www.allaccess.com.ar/event/discontinuos-en-the-roxy-live",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "DMC - BACK TO ROCK TOUR 2026",
-  "date": "2026-12-04",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "DMC - BACK TO ROCK TOUR 2026"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/dmc-back-to-rock-tour-2026",
-  "ticket_url": "https://www.allaccess.com.ar/event/dmc-back-to-rock-tour-2026",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "VILMA PALMA e VAMPIRO - INTIMO",
-  "date": "2026-12-04",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "VILMA PALMA e VAMPIRO - INTIMO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/vilma-palma-e-vampiro",
-  "ticket_url": "https://www.allaccess.com.ar/event/vilma-palma-e-vampiro",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -15018,27 +12895,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "LAGOS – BUENOS AIRES – TOUR 2026",
-  "date": "2026-12-09",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "LAGOS – BUENOS AIRES – TOUR 2026"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/lagos--buenos-aires--tour-2026",
-  "ticket_url": "https://www.allaccess.com.ar/event/lagos--buenos-aires--tour-2026",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Cindy Cats",
   "date": "2026-12-10",
@@ -15102,48 +12958,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "EL PURRE vuelve a Buenos Aires",
-  "date": "2026-12-11",
-  "venue": "The Roxy Live",
-  "artists": [
-   "EL PURRE vuelve a Buenos Aires"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/el-purre-vuelve-a-buenos-aires",
-  "ticket_url": "https://www.allaccess.com.ar/event/el-purre-vuelve-a-buenos-aires",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "GONDWANA & QUIQUE NEIRA EN VIVO",
-  "date": "2026-12-11",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "GONDWANA & QUIQUE NEIRA EN VIVO"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/gondwana--quique-neira-en-vivo",
-  "ticket_url": "https://www.allaccess.com.ar/event/gondwana--quique-neira-en-vivo",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "pablopablo en Argentina",
   "date": "2026-12-11",
@@ -15163,27 +12977,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "DEL LADO B - HOMENAJE AL ROCK NACIONAL",
-  "date": "2026-12-12",
-  "venue": "The Roxy Bar and Grill",
-  "artists": [
-   "DEL LADO B - HOMENAJE AL ROCK NACIONAL"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/del-lado-b---homenaje-al-rock-nacional",
-  "ticket_url": "https://www.allaccess.com.ar/event/del-lado-b---homenaje-al-rock-nacional",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -15225,27 +13018,6 @@
   "start_time": "02:00",
   "sources": [
    "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "GENOVA - Lanzamiento de \"AMULETO\"",
-  "date": "2026-12-13",
-  "venue": "The Roxy Live",
-  "artists": [
-   "GENOVA - Lanzamiento de \"AMULETO\""
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/genova-lanzamiento-de-amuleto",
-  "ticket_url": "https://www.allaccess.com.ar/event/genova-lanzamiento-de-amuleto",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -15376,27 +13148,6 @@
   "artist_source": "title"
  },
  {
-  "source": "allaccess",
-  "title": "EL SÍNDROME DE PETER",
-  "date": "2026-12-18",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "EL SÍNDROME DE PETER"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/el-sndrome-de-peter",
-  "ticket_url": "https://www.allaccess.com.ar/event/el-sndrome-de-peter",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Innen x AVG pres. Manu Oubiña, Ladant",
   "date": "2026-12-18",
@@ -15417,27 +13168,6 @@
   "start_time": "21:00",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "allaccess",
-  "title": "LA FRANELA",
-  "date": "2026-12-19",
-  "venue": "The Roxy Live",
-  "artists": [
-   "LA FRANELA"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/la-franela",
-  "ticket_url": "https://www.allaccess.com.ar/event/la-franela",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -15507,6 +13237,27 @@
  },
  {
   "source": "venti",
+  "title": "HOJAS POR EL BARRIO presenta AÚN QUE SEA en Humboldt | Niceto Club (+18 años)",
+  "date": "2026-12-20",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "HOJAS POR EL BARRIO presenta AÚN QUE SEA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/hojas-por-el-barrio-presenta-a-n-que-sea-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/hojas-por-el-barrio-presenta-a-n-que-sea-en-humboldt-niceto-club-18-a-os",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1789682678475-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "CARLOS WILLENGTON - NAVIDAD HOUSE JOURNEY",
   "date": "2026-12-25",
   "venue": "Cruz Espacio",
@@ -15546,25 +13297,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "MARITO BARACUS y NPV FEST: Edición Multiverso con Trukini, Alejo y Valentina y más",
-  "date": "2026-12-26",
-  "venue": "Teatro Vorterix",
-  "artists": [],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/marito-baracus-y-npv-fest-edicin-multiverso-con-trukini-alejo-y-valentina-y-ms",
-  "ticket_url": "https://www.allaccess.com.ar/event/marito-baracus-y-npv-fest-edicin-multiverso-con-trukini-alejo-y-valentina-y-ms",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "none"
  },
  {
   "source": "venti",
@@ -15971,27 +13703,6 @@
    "resident-advisor"
   ],
   "artist_source": "title"
- },
- {
-  "source": "allaccess",
-  "title": "CAIFANES",
-  "date": "2027-04-14",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "CAIFANES"
-  ],
-  "genres": [],
-  "url": "https://www.allaccess.com.ar/event/caifanes",
-  "ticket_url": "https://www.allaccess.com.ar/event/caifanes",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "allaccess"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
