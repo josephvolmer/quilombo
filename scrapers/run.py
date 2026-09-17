@@ -10,7 +10,8 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
-from core import norm_artist, norm_venue, artists_from_title, clean_artist
+from core import (norm_artist, norm_venue, artists_from_title, clean_artist,
+                  strip_emoji, format_price, clean_time, is_buenos_aires)
 from sources import ALL_SOURCES, UNDATED_SOURCES
 
 OUT = Path(__file__).resolve().parent.parent / "data"
@@ -85,6 +86,17 @@ def merge(results: dict[str, list]):
                     if getattr(e, fld):
                         d[fld] = getattr(e, fld)
                         break
+        # ── display hygiene, applied once on the merged record ──
+        d["title"] = strip_emoji(d["title"]) or d["title"]
+        d["venue"] = strip_emoji(d["venue"])
+        d["artists"] = [x for x in (strip_emoji(a) for a in d["artists"]) if x]
+        d["price"] = format_price(d.get("price"), best.source)
+        d["start_time"] = clean_time(d.get("start_time"))
+
+        # Buenos Aires only: several feeds are national.
+        if not is_buenos_aires(d["venue"], d["title"]):
+            continue
+
         merged.append(d)
 
     merged.sort(key=lambda d: (d["date"], d["title"]))

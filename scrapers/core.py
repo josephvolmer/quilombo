@@ -356,3 +356,72 @@ def event_from_jsonld(node: dict, source: str, fallback_url: str = "") -> Event 
         lat=lat, lon=lon,
         start_time=str(node.get("startDate", ""))[11:16],
     )
+
+# ── display hygiene ────────────────────────────────────────────────
+
+# Emoji, dingbats, variation selectors. Promoters pepper flyers with these
+# ("TOTAL BLACK x ARZ 🏴"); they add nothing in a dense listing and break
+# alphabetical sorting in the artist view.
+_EMOJI = re.compile(
+    "[\U0001F000-\U0001FAFF\U0001F900-\U0001F9FF"
+    "\u2600-\u27BF\u2B00-\u2BFF\u2190-\u21FF"
+    "\uFE0F\u20E3\u200D]+")
+
+
+def strip_emoji(text: str | None) -> str:
+    if not text:
+        return ""
+    t = _EMOJI.sub(" ", str(text))
+    t = re.sub(r"\s{2,}", " ", t)
+    return t.strip(" -–—|·,")
+
+
+# Several sources emit a bare integer for price with no currency. In ARS a
+# number like 15000 is meaningless on its own next to a start time, so we
+# format it; anything already carrying a symbol or words is left alone.
+def format_price(raw, source: str = "") -> str:
+    if raw is None:
+        return ""
+    s = str(raw).strip()
+    if not s:
+        return ""
+    if re.search(r"[^\d.,\s]", s):      # already has $, "Desde", "Gratis"…
+        return s
+    digits = s.replace(".", "").replace(",", "").strip()
+    if not digits.isdigit():
+        return s
+    n = int(digits)
+    if n == 0:
+        return ""                       # 0 means "unknown", not "free"
+    if n < 1000:
+        # Ambiguous: too low for ARS in 2026, probably USD or a typo.
+        return ""
+    return "$" + f"{n:,}".replace(",", ".")
+
+
+# Sale-window artefacts, not door times: Venti stamps 02:59 / 23:59 on the
+# ticket listing and RA uses 23:59 as an end-of-day default.
+_JUNK_TIMES = {"02:59", "23:59", "00:00", "02:45"}
+
+
+def clean_time(t: str | None) -> str:
+    if not t:
+        return ""
+    t = str(t).strip()[:5]
+    if not re.fullmatch(r"\d{2}:\d{2}", t):
+        return ""
+    return "" if t in _JUNK_TIMES else t
+
+
+# The site is Buenos Aires only; several feeds are national.
+_NON_BA = re.compile(
+    r"\b(mar del plata|c[oó]rdoba|rosario|mendoza|la plata|salta|tucum[aá]n|"
+    r"neuqu[eé]n|bariloche|san juan|santa fe|paran[aá]|corrientes|"
+    r"villa carlos paz|pinamar|carilo|caril[oó]|ezeiza|montevideo|punta del este)\b",
+    re.I)
+
+
+def is_buenos_aires(venue: str | None, title: str | None = "") -> bool:
+    """False when a row is clearly for another city."""
+    blob = f"{venue or ''} {title or ''}"
+    return not _NON_BA.search(blob)
