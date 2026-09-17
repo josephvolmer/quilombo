@@ -1,0 +1,82 @@
+name: Scrape BA events
+
+on:
+  schedule:
+    # 09:00 UTC = 06:00 in Buenos Aires (UTC-3), daily.
+    - cron: "0 9 * * *"
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45     # generous: only matters if the Venti cache is cold
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --disable-pip-version-check requests
+
+      # Venti's robots.txt asks for Crawl-delay: 10. A cold sweep of ~226
+      # event pages takes ~19 minutes; the cache keyed on sitemap lastmod
+      # brings that down to ~1s. Restoring it is what keeps runs cheap.
+      - name: Restore Venti cache
+        uses: actions/cache@v4
+        with:
+          path: data/venti_cache.json
+          key: venti-cache-${{ github.run_id }}
+          restore-keys: |
+            venti-cache-
+
+      - name: Run scrapers
+        run: python -u scrapers/run.py | tee run.log
+
+      - name: Summarise run
+        if: always()
+        run: |
+          {
+            echo '## Scrape results'
+            echo '```'
+            sed -n '/=====/,$p' run.log || tail -40 run.log
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # Fail loudly if a run collapses: a source silently breaking is the
+      # main risk with scrapers, and a green checkmark on 12 events is worse
+      # than a red one.
+      - name: Sanity-check output
+        run: |
+          python - <<'PY'
+          import json, sys, pathlib
+          p = pathlib.Path("data/events.json")
+          if not p.exists():
+              sys.exit("events.json was not written")
+          rows = json.loads(p.read_text(encoding="utf-8"))
+          future = [r for r in rows if r["date"] >= __import__("datetime").date.today().isoformat()]
+          srcs = {s for r in rows for s in r["sources"]}
+          print(f"{len(rows)} rows, {len(future)} future, {len(srcs)} sources: {sorted(srcs)}")
+          if len(future) < 200:
+              sys.exit(f"FAIL: only {len(future)} future events (expected 200+)")
+          if len(srcs) < 5:
+              sys.exit(f"FAIL: only {len(srcs)} sources reporting (expected 5+)")
+          PY
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update events data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

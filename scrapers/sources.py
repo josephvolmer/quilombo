@@ -385,6 +385,67 @@ def scrape_wp_feeds() -> list[Event]:
     return out
 
 
+# --------------------------------------------------------------- Ticketek
+
+# The public site is an AngularJS shell (identical bytes for every URL), but
+# app.settings_prod.js leaks the CMS backends and search/search.factory.js
+# gives the path. No browser required.
+TK_SEARCH = "https://prod-cms-search.ticketek.com.ar/api/1.1/search/"
+TK_HEADERS = {**HEADERS, "Referer": "https://www.ticketek.com.ar/",
+              "Accept": "application/json"}
+# There is no "list everything" call, so enumerate by seed terms.
+TK_TERMS = ["musica", "rock", "pop", "tango", "jazz", "folklore", "cumbia",
+            "festival", "teatro", "recital", "vivo", "tour", "show",
+            "internacional", "electronica", "reggaeton", "trap", "metal",
+            "sinfonico", "ballet", "humor", "stand up"]
+
+
+def scrape_ticketek(terms: list[str] | None = None) -> list[Event]:
+    """NOTE: the search API's `date` field is always empty and the companion
+    node API (api/1.0/node/...) returns 500, so Ticketek yields artist +
+    venue + on-sale state but NO event date. These rows are therefore kept
+    out of the dated calendar and exposed separately as "announced, date
+    TBC" — useful for catching arena/theatre shows the other sources miss,
+    and for knowing an artist is coming at all."""
+    import time as _t
+    sess = requests.Session()
+    out, seen = [], set()
+    for term in (terms or TK_TERMS):
+        # This API briefly returns non-JSON under rapid fire; keep it slow.
+        _t.sleep(1.5)
+        try:
+            r = sess.get(TK_SEARCH + term, headers=TK_HEADERS, timeout=30)
+            if r.status_code != 200:
+                continue
+            data = r.json()
+        except Exception:
+            continue
+        for row in data.get("resultados") or []:
+            slug = row.get("url") or ""
+            for show in (row.get("shows") or [{}]):
+                venue = show.get("venue") or show.get("lugar") or ""
+                key = (slug, show.get("showcode"))
+                if not slug or key in seen:
+                    continue
+                seen.add(key)
+                img = row.get("imagen") or ""
+                if img.startswith("//"):
+                    img = "https:" + img
+                out.append(Event(
+                    source="ticketek",
+                    title=row.get("titulo", ""),
+                    # The search API carries no date; the slug identifies the
+                    # show and `estado` says whether it is on sale.
+                    date="",
+                    venue=venue,
+                    artists=[row["titulo"]] if row.get("titulo") else [],
+                    url=f"https://www.ticketek.com.ar/{slug}",
+                    ticket_url=f"https://www.ticketek.com.ar/{slug}",
+                    image=img,
+                ))
+    return out
+
+
 ALL_SOURCES = {
     "resident-advisor": lambda: scrape_ra("2026-09-17", "2027-06-30"),
     "indiehoy": scrape_indiehoy,
@@ -394,4 +455,10 @@ ALL_SOURCES = {
     "allaccess": scrape_allaccess,
     "bebop": scrape_bebop,
     "wp-feeds": scrape_wp_feeds,
+}
+
+# Dateless sources: real events, but no date, so they cannot join the
+# calendar merge. Surfaced separately.
+UNDATED_SOURCES = {
+    "ticketek": scrape_ticketek,
 }

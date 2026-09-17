@@ -11,7 +11,7 @@ from datetime import date
 from pathlib import Path
 
 from core import norm_artist, norm_venue, artists_from_title
-from sources import ALL_SOURCES
+from sources import ALL_SOURCES, UNDATED_SOURCES
 
 OUT = Path(__file__).resolve().parent.parent / "data"
 OUT.mkdir(exist_ok=True)
@@ -132,6 +132,25 @@ def main():
 
     (OUT / "events.json").write_text(
         json.dumps(merged, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    # Sources that give artist+venue but no date (Ticketek) — kept apart so
+    # they never pollute the calendar, but still answer "is X coming?".
+    undated = []
+    for name, fn in UNDATED_SOURCES.items():
+        try:
+            rows = fn()
+        except Exception as exc:                      # noqa: BLE001
+            print(f"  !! {name}: {exc}", file=sys.stderr)
+            continue
+        print(f"  {name:>18}: {len(rows):>4} undated listings")
+        undated.extend(r.as_dict() for r in rows)
+    if undated:
+        (OUT / "undated.json").write_text(
+            json.dumps(undated, ensure_ascii=False, indent=1), encoding="utf-8")
+        known = {norm_artist(a) for m in future for a in m["artists"]}
+        new = {r["title"] for r in undated
+               if norm_artist(r["title"]) and norm_artist(r["title"]) not in known}
+        print(f"  {'':>18}  {len(new)} artists not in the dated calendar")
 
     # Artist-centric index: the thing El Cartel doesn't give you.
     idx = defaultdict(list)

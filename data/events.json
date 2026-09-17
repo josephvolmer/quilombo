@@ -1550,6 +1550,28 @@
   "artist_source": "structured"
  },
  {
+  "source": "indiehoy",
+  "title": "Hojas Por el Barrio y Cashé en Club Social 911",
+  "date": "2026-09-17",
+  "venue": "Club Social 911",
+  "artists": [
+   "Hojas Por el Barrio",
+   "Cashé"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/hojas-por-el-barrio-cashe-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/147056-ciclo-nsqe-vol-5-cashe-hojas-por-el-barrio-amigo-vj",
+  "price": "Desde $10.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/hojas-por-el-barrio-club-social-911.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Hypnotic Sessions x Ankalli",
   "date": "2026-09-17",
@@ -2316,6 +2338,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Massacre en Niceto Club",
+  "date": "2026-09-18",
+  "venue": "Niceto Club",
+  "artists": [
+   "Massacre"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/massacre-en-niceto-club/",
+  "ticket_url": "https://venti.live/evento/massacre-en-niceto-club",
+  "price": "$45000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/niceto-massacre.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Melt Underground X LOWEND X PARANOID",
   "date": "2026-09-18",
@@ -2537,6 +2580,27 @@
   "start_time": "22:00",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Vocha en Lalalá",
+  "date": "2026-09-18",
+  "venue": "Lalalá",
+  "artists": [
+   "Vocha"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/vocha-lalala/",
+  "ticket_url": "https://www.passline.com/eventos/18-9-vocha-presenta-13",
+  "price": "Desde $20.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/vocha-lalala.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -3441,27 +3505,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Virus en Niceto Club",
-  "date": "2026-09-19",
-  "venue": "Niceto Club",
-  "artists": [
-   "Virus"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/virus-en-niceto-club-2/",
-  "ticket_url": "https://venti.live/evento/virus-29-sep-en-niceto-club-18-a-os",
-  "price": "$35000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/05/virus-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "venti",
   "title": "19-09 | Lulú x Croma | Tatool - Usted señalemelo (DJ set) - Sofía Var",
   "date": "2026-09-20",
@@ -3968,6 +4011,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Gustavo Santaolalla en Teatro Colón",
+  "date": "2026-09-21",
+  "venue": "Teatro Colón",
+  "artists": [
+   "Gustavo Santaolalla"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/gustavo-santaolalla-en-teatro-colon/",
+  "ticket_url": "https://www.tuentrada.com/santaolalla-teatrocolon",
+  "price": "Desde $20.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/05/santaolalla-colon.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "songkick",
   "title": "La Bomba De Tiempo @ Ciudad Cultural Konex",
   "date": "2026-09-21",
@@ -4117,6 +4181,27 @@
    "songkick"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Marttein en Niceto Club",
+  "date": "2026-09-23",
+  "venue": "Niceto Club",
+  "artists": [
+   "Marttein"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/marttein-en-niceto-club/",
+  "ticket_url": "https://venti.com.ar/evento/marttein-en-niceto-club",
+  "price": "$25000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/07/marttein.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -4537,6 +4622,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Estelares en Teatro Flores",
+  "date": "2026-09-25",
+  "venue": "El Teatro Flores",
+  "artists": [
+   "Estelares"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/estelares-en-teatro-flores/",
+  "ticket_url": "https://www.passline.com/eventos/estelares-25-septiembre-2026",
+  "price": "Desde $45.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/estelares-teatro-flores.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "allaccess",
   "title": "FIRESIDE TRIBUTO A ARCTIC MONKEYS",
   "date": "2026-09-25",
@@ -4735,27 +4841,6 @@
   "artist_source": "title"
  },
  {
-  "source": "indiehoy",
-  "title": "MissLupe en Deseo",
-  "date": "2026-09-25",
-  "venue": "Deseo",
-  "artists": [
-   "MissLupe"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/misslupe-en-deseo/",
-  "ticket_url": "https://www.enigmatickets.com/event/9e6860bb-9c4b-4ca9-907f-cffeb887904a",
-  "price": "Desde $30.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/misslupe-deseo.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Morat @ Movistar Arena",
   "date": "2026-09-25",
@@ -4884,6 +4969,27 @@
   "start_time": "22:00",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Raíces en Strummer Bar",
+  "date": "2026-09-25",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Raíces"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/raices-en-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/ra-ces_2",
+  "price": "$13800",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/strummer-04.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -5281,6 +5387,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "indiehoy",
+  "title": "Grouper en Argentina",
+  "date": "2026-09-26",
+  "venue": "Teatro Xirgu",
+  "artists": [
+   "Grouper"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/grouper-argentina-2026/",
+  "ticket_url": "https://venti.com.ar/evento/grouper-teatro-xirgu",
+  "price": "Desde $40.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/06/GROUPER-FEED.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "HEISS TECHNO / AMK CLUB",
   "date": "2026-09-26",
@@ -5518,27 +5645,6 @@
    "songkick"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Nicola Cruz en Argentina",
-  "date": "2026-09-26",
-  "venue": "Deseo",
-  "artists": [
-   "Nicola Cruz"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/nicola-cruz-argentina-2026/",
-  "ticket_url": "https://www.enigmatickets.com/event/0bb081a5-f635-4ff7-80f1-091fe011e5e3",
-  "price": "Desde $35.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/nicola-cruz-en-argentina.webp",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "allaccess",
@@ -5800,27 +5906,6 @@
   "start_time": "02:59",
   "sources": [
    "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Valen Vargas en Niceto Club",
-  "date": "2026-09-26",
-  "venue": "Niceto Club",
-  "artists": [
-   "Valen Vargas"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/valen-vargas-en-niceto-club/",
-  "ticket_url": "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club",
-  "price": "$35000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/nicetoindiehoy-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -6428,6 +6513,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "indiehoy",
+  "title": "Green Valley meets Alborosie en Niceto Club",
+  "date": "2026-10-01",
+  "venue": "Niceto Club",
+  "artists": [
+   "Green Valley meets Alborosie"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/green-valley-meets-alborosie-en-niceto-club/",
+  "ticket_url": "https://venti.live/evento/green-valley-meets-alborosie-en-niceto-club-18-a-os",
+  "price": "$60000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/07/3.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "allaccess",
   "title": "INSPECTOR – TOUR 30 AÑOS",
   "date": "2026-10-01",
@@ -6753,27 +6859,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Viejo Furgón en Strummer Bar",
-  "date": "2026-10-02",
-  "venue": "Strummer Bar",
-  "artists": [
-   "Viejo Furgón"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/viejo-furgon-en-strummer-bar/",
-  "ticket_url": "https://bue.tickethoy.com/entradas-musica/viejo-furgon",
-  "price": "$20700",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/imgn0000-14-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "crobar",
   "title": "Yubik — Crobar",
   "date": "2026-10-02",
@@ -7004,6 +7089,31 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Esa + Harari B2B Tade Fonk + Maca Viva B2B Loló Gasparini en Artlab",
+  "date": "2026-10-03",
+  "venue": "Artlab",
+  "artists": [
+   "Esa",
+   "Harari",
+   "Tade Fonk",
+   "Maca Viva",
+   "Loló Gasparini"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/esa-harari-b2b-tade-fonk-maca-viva-b2b-lolo-gasparini-en-artlab/",
+  "ticket_url": "https://tickets.artlabpro.net/events/highlife-artlab",
+  "price": "$25000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/artlb-11.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -8265,6 +8375,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Marcelo Ezquiaga en Biri Biri",
+  "date": "2026-10-09",
+  "venue": "Biri Biri",
+  "artists": [
+   "Marcelo Ezquiaga"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/marcelo-ezquiaga-en-biri-biri/",
+  "ticket_url": "https://www.passline.com/eventos/marcelo-ezquiaga-y-banda",
+  "price": "$15000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/ezequiel-.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Raise my Kilt en Strummer Bar",
   "date": "2026-10-09",
   "venue": "Strummer Bar",
@@ -8441,6 +8572,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Estoy Bien en CC Matienzo",
+  "date": "2026-10-10",
+  "venue": "Club Cultural Matienzo",
+  "artists": [
+   "Estoy Bien"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/estoy-bien-en-cc-matienzo/",
+  "ticket_url": "https://ccmatienzo.com.ar/event/146330-estoy-bien-en-cc-matienzo",
+  "price": "$13000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/estoybien.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "FIEBRE FIESTA en ESPACIO CHN 9/10",
   "date": "2026-10-10",
@@ -8487,6 +8639,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Franzizca en La Nube",
+  "date": "2026-10-10",
+  "venue": "La Nube",
+  "artists": [
+   "Franzizca"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/franzizca-en-la-nube/",
+  "ticket_url": "https://www.passline.com/eventos/franzizca-x7-horas-549170",
+  "price": "Desde $25.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/franzizca-la-nube.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "allaccess",
@@ -8634,6 +8807,27 @@
   "start_time": "02:30",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Walls en Argentina",
+  "date": "2026-10-10",
+  "venue": "Niceto Club",
+  "artists": [
+   "Walls"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/walls-en-argentina/",
+  "ticket_url": "https://venti.live/evento/walls-en-niceto-club-18-a-os",
+  "price": "Desde $85.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/walls-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -9593,14 +9787,13 @@
   "genres": [],
   "url": "https://www.allaccess.com.ar/event/mora-navarro",
   "ticket_url": "https://www.allaccess.com.ar/event/mora-navarro",
-  "price": "Desde $20.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/mora-navarro-roxy.jpg",
+  "price": "",
+  "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
-   "indiehoy"
+   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -9773,6 +9966,27 @@
   "ticket_url": "https://bue.tickethoy.com/entradas-musica/doberman-xx-en-palermo-",
   "price": "$17250",
   "image": "https://indiehoy.com/wp-content/uploads/2026/03/strummer-08.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Gruesome en Argentina",
+  "date": "2026-10-16",
+  "venue": "Uniclub",
+  "artists": [
+   "Gruesome"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/gruesome-en-argentina/",
+  "ticket_url": "https://alpogo.com/evento/gruesome-unico-show-en-argentina-23852",
+  "price": "$80000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/03/gr.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -10237,6 +10451,27 @@
   "ticket_url": "https://www.passline.com/eventos-ficha-dvm/fonso-y-las-paritarias-presenta-america-del-futuro",
   "price": "Desde $25.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/09/fonso-la-trastienda.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Homer el Mero Mero en Estadio Malvinas Argentinas",
+  "date": "2026-10-17",
+  "venue": "Estadio Malvinas Argentinas",
+  "artists": [
+   "Homer el Mero Mero"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/homer-el-mero-mero-estadio-malvinas-argentinas/",
+  "ticket_url": "https://www.allaccess.com.ar/event/homer",
+  "price": "Desde $35.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/05/homer-el-mero-mero-malvinas-argentinas.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -10740,6 +10975,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Homogénica en Niceto Club",
+  "date": "2026-10-21",
+  "venue": "Niceto Club",
+  "artists": [
+   "Homogénica"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/homogenica-en-niceto-club-2/",
+  "ticket_url": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
+  "price": "$19000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/niceto-01.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "allaccess",
   "title": "ISA PORTUGHEIS Presenta su libro \"ADONDE QUIERA QUE VOY\"",
   "date": "2026-10-21",
@@ -10799,6 +11055,27 @@
   "start_time": "23:30",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Zakk Sabbath en Argentina",
+  "date": "2026-10-22",
+  "venue": "El Teatro Flores",
+  "artists": [
+   "Zakk Sabbath"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/zakk-sabbath-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos/zakk-sabbath-en-argentina-23-octubre-2026?srsltid=AfmBOoqYuDzVmkAlHSA6gg5yeVhZXspuSAyT6TWa76aD_f-5eRPzribK",
+  "price": "Desde $120.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/07/zack-sabbath-arg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -10989,6 +11266,7 @@
   "lon": -58.43876030000001,
   "start_time": "23:00",
   "sources": [
+   "indiehoy",
    "venti"
   ],
   "artist_source": "title"
@@ -11360,6 +11638,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Feli Colina en Niceto Club",
+  "date": "2026-10-28",
+  "venue": "Niceto Club",
+  "artists": [
+   "Feli Colina"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/feli-colina-en-niceto-club-2/",
+  "ticket_url": "https://venti.live/evento/feli-colina-en-niceto-club-18-a-os",
+  "price": "$35000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/nicetoindiehoy-2.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "allaccess",
   "title": "LOS REDONDOS DE RICOTA HOMENAJE SINFONICO",
   "date": "2026-10-28",
@@ -11393,29 +11692,6 @@
   "ticket_url": "https://www.tuentrada.com/humbe-tgr",
   "price": "Desde $45.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/02/humbre-argentina-gran-rex.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Mujercitas Terror, Pólvora y Nina Suárez en La Tangente",
-  "date": "2026-10-29",
-  "venue": "La Tangente",
-  "artists": [
-   "Mujercitas Terror",
-   "Pólvora",
-   "Nina Suárez"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/mujercitas-terror-polvora-y-nina-suarez-en-la-tangente/",
-  "ticket_url": "https://tickets.latangente.com.ar/musica/mujercitas-terror-p-lvora-nina-suarez",
-  "price": "Desde $11.500",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/mujercitas-terror-la-tangente.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -12175,6 +12451,48 @@
  },
  {
   "source": "indiehoy",
+  "title": "Marcela Morelo en Teatro Gran Rex",
+  "date": "2026-11-06",
+  "venue": "Teatro Gran Rex",
+  "artists": [
+   "Marcela Morelo"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/marcela-morelo-en-teatro-gran-rex/",
+  "ticket_url": "https://www.tuentrada.com/marcela-morelo-tgr",
+  "price": "Desde $40.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/07/marcela-morelo-gran-rex.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Marina Fages en The Roxy Live",
+  "date": "2026-11-06",
+  "venue": "The Roxy Live",
+  "artists": [
+   "Marina Fages"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/marina-fages-the-roxy-live/",
+  "ticket_url": "https://www.allaccess.com.ar/event/marina-fages-presenta-atalaya-avalancha",
+  "price": "Desde $15.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/marina-fages-roxy-live.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Alex Ubago en Buenos Aires",
   "date": "2026-11-07",
   "venue": "Teatro Gran Rex",
@@ -12814,6 +13132,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "indiehoy",
+  "title": "Hayley Williams en Argentina",
+  "date": "2026-11-15",
+  "venue": "Estadio Malvinas Argentinas",
+  "artists": [
+   "Hayley Williams"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/hayley-williams-en-argentina/",
+  "ticket_url": "https://www.allaccess.com.ar/event/the-hayley-williams-show",
+  "price": "Desde $100.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/05/hayley-williams-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "allaccess",
   "title": "ALEXISONFIRE",
   "date": "2026-11-17",
@@ -12973,27 +13312,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Un Muerto Más en Niceto Club",
-  "date": "2026-11-20",
-  "venue": "Niceto Club",
-  "artists": [
-   "Un Muerto Más"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/un-muerto-mas-en-niceto-club-2026/",
-  "ticket_url": "https://venti.live/evento/un-muerto-m-s-en-niceto-club",
-  "price": "$27000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/niceto-02.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "Ana Hagen - DEE JASON - Floorplan",
   "date": "2026-11-21",
@@ -13108,27 +13426,6 @@
    "allaccess"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Muddy Roots Buenos Aires 2026 en CAFF",
-  "date": "2026-11-21",
-  "venue": "CAFF - Club Atlético Fernández Fierro",
-  "artists": [
-   "Muddy Roots Buenos Aires 2026"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/muddy-roots-buenos-aires-2026-en-caff/",
-  "ticket_url": "https://alpogo.com/evento/muddy-roots-buenos-aires-vol3-28022",
-  "price": "$40000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/muddy-roots.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "allaccess",
@@ -13410,27 +13707,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Underworld en Argentina",
-  "date": "2026-11-26",
-  "venue": "Mandarine Park",
-  "artists": [
-   "Underworld"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/underworld-argentina-2026-entradas/",
-  "ticket_url": "",
-  "price": "Próximamente",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/underworld-en-argentina.webp",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "allaccess",
   "title": "ZEBALLOS - AMOR FIADO en BUENOS AIRES",
   "date": "2026-11-26",
@@ -13532,14 +13808,13 @@
   "genres": [],
   "url": "https://www.allaccess.com.ar/event/un-verano",
   "ticket_url": "https://www.allaccess.com.ar/event/un-verano",
-  "price": "Desde $15.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/un-verano-vorterix.jpg",
+  "price": "",
+  "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "allaccess",
-   "indiehoy"
+   "allaccess"
   ],
   "artist_source": "structured"
  },
@@ -13655,27 +13930,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Primavera Sound Buenos Aires 2026",
-  "date": "2026-11-28",
-  "venue": "Club Ciudad de Buenos Aires",
-  "artists": [
-   "Primavera Sound Buenos Aires 2026"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/primavera-sound-buenos-aires-2026/",
-  "ticket_url": "https://www.enigmatickets.com/event/7755c471-83a1-41a7-ab6a-a42538df09af",
-  "price": "Abonos desde $300.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/05/PS26-lineup-por-dia-feed.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "venti",
   "title": "SELF TITLED TECHNO SESSION en Niceto Bar",
   "date": "2026-11-28",
@@ -13762,17 +14016,38 @@
  },
  {
   "source": "indiehoy",
-  "title": "New Order en Argentina",
-  "date": "2026-12-01",
-  "venue": "Mandarine Park",
+  "title": "Marc Almond en Argentina",
+  "date": "2026-11-29",
+  "venue": "El Teatrito",
   "artists": [
-   "New Order"
+   "Marc Almond"
   ],
   "genres": [],
-  "url": "https://indiehoy.com/agenda/new-order-argentina-2026-entradas/",
-  "ticket_url": "https://www.passline.com/eventos/new-order-tricky-mandarine-park",
-  "price": "Desde $110.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/new-order-en-argentina.jpg",
+  "url": "https://indiehoy.com/agenda/marc-almond-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos/marc-almond-latin-american-tour-2026",
+  "price": "Desde $100.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/marc-almond-teatrito.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Giant Rooks en Argentina",
+  "date": "2026-12-01",
+  "venue": "Teatro Vorterix",
+  "artists": [
+   "Giant Rooks"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/giant-rooks-en-argentina/",
+  "ticket_url": "https://livepass.com.ar/events/giant-rooks-en-vorterix",
+  "price": "Desde $75.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/05/giant-rooks-vorterix-1.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -14121,6 +14396,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Felipe Baldomir en Niceto Club",
+  "date": "2026-12-09",
+  "venue": "Niceto Club",
+  "artists": [
+   "Felipe Baldomir"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/felipe-baldomir-en-niceto-club-2/",
+  "ticket_url": "https://venti.com.ar/evento/felipe-baldomir-en-buenos-aires-en-niceto-club",
+  "price": "$25000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/07/felipe-niceto.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "allaccess",
   "title": "LAGOS – BUENOS AIRES – TOUR 2026",
   "date": "2026-12-09",
@@ -14175,6 +14471,27 @@
   "ticket_url": "https://www.passline.com/eventos/divididos-en-teatro-flores-10-diciembre-2026#fmostrar",
   "price": "Desde $90.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/09/divididos-teatro-flores.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Youth of Today en Argentina",
+  "date": "2026-12-10",
+  "venue": "Uniclub",
+  "artists": [
+   "Youth of Today"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/youth-of-today-en-argentina/",
+  "ticket_url": "https://alpogo.com/evento/youth-of-today-unico-show-en-argentina-26049",
+  "price": "Desde $70.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/05/youth-of-today-uniclub.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -14365,6 +14682,27 @@
   "ticket_url": "https://www.passline.com/eventos/charlotte-wessels-15-de-diciembre-de-2026",
   "price": "Desde $90.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/08/charlotte-el-teatrito-1.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Zoe Gotusso en Teatro Coliseo",
+  "date": "2026-12-17",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Zoe Gotusso"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/zoe-gotusso-en-teatro-coliseo/",
+  "ticket_url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
+  "price": "Desde $45.200",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/06/zoe-gotusso-teatro-coliseo.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -14738,6 +15076,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Geoff Tate en Argentina",
+  "date": "2027-01-14",
+  "venue": "Teatro Vorterix",
+  "artists": [
+   "Geoff Tate"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/geoff-tate-en-argentina/",
+  "ticket_url": "https://www.allaccess.com.ar/event/geoff-tate--operation-mindcrime--the-final-chapter-tour",
+  "price": "Desde $90.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/geoff-tate-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "La Finquita Sunset - 16/01",
   "date": "2027-01-16",
@@ -14868,6 +15227,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Epica en Argentina",
+  "date": "2027-03-07",
+  "venue": "Estadio Malvinas Argentinas",
+  "artists": [
+   "Epica"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/epica-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos/epica-25-years-celebration-rhapsody-the-last-shows?srsltid=AfmBOorNMT6iblLUqauqKUUxPENNdVoMHQvLXeHXCeqmcoVgu4ml7pL2",
+  "price": "Desde $130.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/07/epica-en-argentina.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "El Kanka en Argentina",
   "date": "2027-03-13",
   "venue": "Teatro Gran Rex",
@@ -14946,6 +15326,27 @@
   "ticket_url": "https://www.passline.com/eventos/floor-jansen-la-voz-de-nightwish?srsltid=AfmBOooh_AT2mPH1RLKf2TYSDVe7cyjHZOpJpX9PhZBdwr8DszzFdkEP",
   "price": "Desde $100.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/07/Floor-Jansen-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Hot Water Music en Argentina",
+  "date": "2027-06-22",
+  "venue": "Uniclub",
+  "artists": [
+   "Hot Water Music"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/hot-water-music-en-argentina-2027/",
+  "ticket_url": "https://alpogo.com/app/entradas/26660",
+  "price": "$65000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/06/hot-water-argentina-2027.webp",
   "lat": null,
   "lon": null,
   "start_time": "",

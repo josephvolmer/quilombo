@@ -1,0 +1,1583 @@
+[
+ {
+  "source": "ticketek",
+  "title": "Escuela Experimental de Musica Popular",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Escuela Experimental de Musica Popular"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/escuela-experimental-de-musica-popular/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/escuela-experimental-de-musica-popular/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/eemp_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Homenaje Sinfónico Ennio Morricone",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Homenaje Sinfónico Ennio Morricone"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/homenaje-sinfonico-ennio-morricone/teatro-marin",
+  "ticket_url": "https://www.ticketek.com.ar/homenaje-sinfonico-ennio-morricone/teatro-marin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/em_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Tarja",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Tarja"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/tarja/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/tarja/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tarja_christmas_4400x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "San Luis",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "San Luis"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/san-luis/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/san-luis/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/sluis440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "The Mode",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "The Mode"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/mode/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/mode/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mode440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Undertale",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Undertale"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/undertale/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/undertale/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/undern440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Shout Gospel Choir",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Shout Gospel Choir"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/shout-gospel-choir/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/shout-gospel-choir/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/2-gospel_440-600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "MICU",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "MICU"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/micu/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/micu/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/micu_a_26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Hello El Unplugged",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Hello El Unplugged"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600piezas.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Fiesta Mayores",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Fiesta Mayores"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/fiesta-mayores/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/fiesta-mayores/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fiestas_mayores_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Isha Escribano",
+  "date": "",
+  "venue": "Teatro Margarita Xirgu",
+  "artists": [
+   "Isha Escribano"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/isha-escribano/teatro-margarita-xirgu",
+  "ticket_url": "https://www.ticketek.com.ar/isha-escribano/teatro-margarita-xirgu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/escriba440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Bandalos chinos",
+  "date": "",
+  "venue": "City Rock",
+  "artists": [
+   "Bandalos chinos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/bandalos-chinos/city-rock",
+  "ticket_url": "https://www.ticketek.com.ar/bandalos-chinos/city-rock",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bandalos_chinos_junin.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "El Plan de la Mariposa",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "El Plan de la Mariposa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
+  "ticket_url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/plan_m_26a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "El Plan de la Mariposa",
+  "date": "",
+  "venue": "Club Atenas",
+  "artists": [
+   "El Plan de la Mariposa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
+  "ticket_url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/plan_m_26a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Baglietto + Vitale",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Baglietto + Vitale"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baggen440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Baglietto + Vitale",
+  "date": "",
+  "venue": "Teatro Universidad Nacional de la Matanza",
+  "artists": [
+   "Baglietto + Vitale"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baggen440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Baglietto + Vitale",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Baglietto + Vitale"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baggen440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Maria Ezquiaga",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Maria Ezquiaga"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/maria-ezquiaga/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/maria-ezquiaga/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/me_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Serú Girán",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Serú Girán"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/seru-giran/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/seru-giran/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/seru_giran_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ensamble 440",
+  "date": "",
+  "venue": "Teatro Universidad Nacional de la Matanza",
+  "artists": [
+   "Ensamble 440"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ensamble-440/teatro-universidad-nacional-de-la-matanza",
+  "ticket_url": "https://www.ticketek.com.ar/ensamble-440/teatro-universidad-nacional-de-la-matanza",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ensamble_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Enrico Barbizi",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Enrico Barbizi"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/enrico-barbizi/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/enrico-barbizi/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/enrico_barbizi_400.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Sueño de Pescado",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Sueño de Pescado"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/sueno-de-pescado/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/sueno-de-pescado/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/sdp440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Virus",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Virus"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/virus/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/virus/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/viru440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Las Guardianas K-Pop",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Las Guardianas K-Pop"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
+  "ticket_url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_guardianas_generica.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Las Guardianas K-Pop",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Las Guardianas K-Pop"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
+  "ticket_url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_guardianas_generica.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Roze",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Roze"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/roze/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/roze/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/roze_ag.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Bandana",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Bandana"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/bandana/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/bandana/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/band440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Agus Bernasconi",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Agus Bernasconi"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/agus440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Zoe Gotusso",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Zoe Gotusso"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/zoe_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Camilo",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Camilo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/camilo/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/camilo/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/camilo_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ian Lucas",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Ian Lucas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ian440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Reik",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Reik"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/reik/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/reik/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/re440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Diego Torres",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Diego Torres"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/diego-torres/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/diego-torres/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dieto440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Bebe",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Bebe"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/bebe/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/bebe/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/beb-gen-show.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Borges y Piazzolla",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Borges y Piazzolla"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/borges-y-piazzolla/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/borges-y-piazzolla/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/byp_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Mora Godoy",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Mora Godoy"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/mora-godoy/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/mora-godoy/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mora_a26tsm.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jairo",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Jairo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jairo/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/jairo/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jairo_440.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Raly Barrionuevo",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Raly Barrionuevo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/raly-barrionuevo/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/raly-barrionuevo/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/img_3305.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Festival Patria",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Festival Patria"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-patria/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/festival-patria/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/pat440_1.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ahyre",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Ahyre"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ahyre",
+  "ticket_url": "https://www.ticketek.com.ar/ahyre",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ahygen440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ahyre",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Ahyre"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ahyre",
+  "ticket_url": "https://www.ticketek.com.ar/ahyre",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ahygen440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Campedrinos",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Campedrinos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/campedrinos/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/campedrinos/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/camp440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Los Kjarkas",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Los Kjarkas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-kjarkas/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/los-kjarkas/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kj_a26am.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Canto 4",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Canto 4"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/canto-4/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/canto-4/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/canto440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Victor Heredia",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Victor Heredia"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/victor-heredia/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/victor-heredia/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/vh_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Solipalma",
+  "date": "",
+  "venue": "Teatro del Globo",
+  "artists": [
+   "Solipalma"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/solipalma/teatro-del-globo",
+  "ticket_url": "https://www.ticketek.com.ar/solipalma/teatro-del-globo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/solipalma_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Gabriel Prado",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Gabriel Prado"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gab440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Flores y Chacareras",
+  "date": "",
+  "venue": "Saldias Arena",
+  "artists": [
+   "Flores y Chacareras"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/flores-y-chacareras/saldias-arena",
+  "ticket_url": "https://www.ticketek.com.ar/flores-y-chacareras/saldias-arena",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/flores_y_chacareras440_x_600_px.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Micaela Chauque",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Micaela Chauque"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mica440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Festi Power Cumbia",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Festi Power Cumbia"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festi-power-cumbia/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/festi-power-cumbia/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/festi_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dalila",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Dalila"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dalila/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/dalila/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dal440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Rodrigo Tapari",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Rodrigo Tapari"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/rodrigo-tapari/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/rodrigo-tapari/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/rtapari440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Delio Valdez",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "La Delio Valdez"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-delio-valdez/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/la-delio-valdez/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/del440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Daniel Agostini",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Daniel Agostini"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/daniel-agostini/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/daniel-agostini/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ticketek_440x600_4.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "El Oficial Gordillo",
+  "date": "",
+  "venue": "Teatro Universidad Nacional de la Matanza",
+  "artists": [
+   "El Oficial Gordillo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-oficial-gordillo/teatro-universidad-nacional-de-la-matanza",
+  "ticket_url": "https://www.ticketek.com.ar/el-oficial-gordillo/teatro-universidad-nacional-de-la-matanza",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gordillo_440_20.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Luciano Pereyra",
+  "date": "",
+  "venue": "Estación Belgrano",
+  "artists": [
+   "Luciano Pereyra"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Traviata",
+  "date": "",
+  "venue": "Teatro Avenida",
+  "artists": [
+   "La Traviata"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-traviata/teatro-avenida",
+  "ticket_url": "https://www.ticketek.com.ar/la-traviata/teatro-avenida",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/traviata_26a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Banff",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Banff"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/banff/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/banff/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_40.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Don Giovanni",
+  "date": "",
+  "venue": "Teatro Avenida",
+  "artists": [
+   "Don Giovanni"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/don-giovanni/teatro-avenida",
+  "ticket_url": "https://www.ticketek.com.ar/don-giovanni/teatro-avenida",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/don_g_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La verdadera historia de Ricardo III",
+  "date": "",
+  "venue": "Teatro San Martín",
+  "artists": [
+   "La verdadera historia de Ricardo III"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-verdadera-historia-de-ricardo-iii/teatro-san-martin",
+  "ticket_url": "https://www.ticketek.com.ar/la-verdadera-historia-de-ricardo-iii/teatro-san-martin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ricardo3_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ballet Clásico de San Petersburgo",
+  "date": "",
+  "venue": "Teatro Avenida",
+  "artists": [
+   "Ballet Clásico de San Petersburgo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ballet-clasico-de-san-petersburgo/teatro-avenida",
+  "ticket_url": "https://www.ticketek.com.ar/ballet-clasico-de-san-petersburgo/teatro-avenida",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ballet_sp_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "INVASIONES I",
+  "date": "",
+  "venue": "Teatro San Martín",
+  "artists": [
+   "INVASIONES I"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/invasiones-i/teatro-san-martin",
+  "ticket_url": "https://www.ticketek.com.ar/invasiones-i/teatro-san-martin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/inva_27a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "A cielo abierto",
+  "date": "",
+  "venue": "Teatro Regio",
+  "artists": [
+   "A cielo abierto"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/cielo-abierto/teatro-regio",
+  "ticket_url": "https://www.ticketek.com.ar/cielo-abierto/teatro-regio",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ticketeck_a_cielo_abierto_440_x_600_1.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Verbena de la Paloma",
+  "date": "",
+  "venue": "Teatro Avenida",
+  "artists": [
+   "La Verbena de la Paloma"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-verbena-de-la-paloma/teatro-avenida",
+  "ticket_url": "https://www.ticketek.com.ar/la-verbena-de-la-paloma/teatro-avenida",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/etdlp_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Empieza con D ",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Empieza con D "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/empieza-con-d",
+  "ticket_url": "https://www.ticketek.com.ar/empieza-con-d",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/empieza_con_d_-_ticketek_-_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Empieza con D ",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "Empieza con D "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/empieza-con-d",
+  "ticket_url": "https://www.ticketek.com.ar/empieza-con-d",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/empieza_con_d_-_ticketek_-_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Jenny",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "La Jenny"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-jenny",
+  "ticket_url": "https://www.ticketek.com.ar/la-jenny",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/img_1554.jpg.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Jenny",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "La Jenny"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-jenny",
+  "ticket_url": "https://www.ticketek.com.ar/la-jenny",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/img_1554.jpg.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Elena Roger",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Elena Roger"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/elena-roger",
+  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Elena Roger",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Elena Roger"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/elena-roger",
+  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "El Hombre Inesperado",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "El Hombre Inesperado"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/hombre_inesperado.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Modelo Vivo Muerto ",
+  "date": "",
+  "venue": "Teatro Universidad Nacional de la Matanza",
+  "artists": [
+   "Modelo Vivo Muerto "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Modelo Vivo Muerto ",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Modelo Vivo Muerto "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Fede Cyrulnik",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Fede Cyrulnik"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/fede-cyrulnik/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/fede-cyrulnik/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fc_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "CONGRESO INTERNACIONAL PARA ABORDAJE DE LA VIOLENCIA SEXUAL",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "CONGRESO INTERNACIONAL PARA ABORDAJE DE LA VIOLENCIA SEXUAL"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/congreso-internacional-para-abordaje-de-la-violencia-sexual/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/congreso-internacional-para-abordaje-de-la-violencia-sexual/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/congresoint_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ecos",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Ecos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "QueenPhony",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "QueenPhony"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/queenphony/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/queenphony/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/queenph440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "DM Experience",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "DM Experience"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dm-experience/teatro-el-circulo",
+  "ticket_url": "https://www.ticketek.com.ar/dm-experience/teatro-el-circulo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dmgen440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Clearwater",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Clearwater"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/clearwater/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/clearwater/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/creed_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "The Beats",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "The Beats"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/beats/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/beats/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_41.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Genetics",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Genetics"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/genetics/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/genetics/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/artistagenetics_440x600_2.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jere Klein",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Jere Klein"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jere-klein/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/jere-klein/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jerek440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Giselle",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Giselle"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/giselle/teatro-el-circulo",
+  "ticket_url": "https://www.ticketek.com.ar/giselle/teatro-el-circulo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/giselle440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Buenos Aires Ballet",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Buenos Aires Ballet"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/buenos-aires-ballet/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/buenos-aires-ballet/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baballet440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ezequiel Campa",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Ezequiel Campa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
+  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_4_de_diciembre_san_isidro_440x600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Te pido mil disculpas",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Te pido mil disculpas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/te-pido-mil-disculpas/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/te-pido-mil-disculpas/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/te_pido_mil_dis440x600.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Connie Ballarini",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "Connie Ballarini"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
+  "ticket_url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/connie_agenerica.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Emilio Lovera",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Emilio Lovera"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lov440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Volar es Humano Aterrizar es Divino",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Volar es Humano Aterrizar es Divino"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/2.vhad_coliseo2026_difusion_coliseo_440x600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dani La Chepi",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Dani La Chepi"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
+  "ticket_url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chepi26_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dalia Gutmann",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Dalia Gutmann"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ }
+]

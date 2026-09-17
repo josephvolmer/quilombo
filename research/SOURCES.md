@@ -49,7 +49,7 @@ All findings verified by direct HTTP probe on 2026-09-17. Failures record the ac
 | Source | Verified finding |
 |---|---|
 | **AllAccess** | Runs on **Boletia/Boletius**. `/venue/<slug>` pages list events in HTML: **The Roxy Live alone = 47 events** with dates ("14 de Noviembre 2026"). No JSON-LD, but titles+dates are parseable. Known venue slugs: `the-roxy-bar-live`, `the-roxy-bar-and-grill`, `teatro-vorterix`. **Covers The Roxy + Vorterix from your list.** Site is behind **AWS WAF** (`awsWafCookieDomainList`) — throttle. |
-| **Ticketek** | `sitemap-1.xml` = **15,000 URLs** (genre hubs + `/<show>/<venue>` pages) — biggest mainstream inventory, and the only route to Luna Park / Gran Rex / arena shows. **But event pages are a 17KB AngularJS shell**: the single JSON-LD block is empty, no og: tags, no dates in HTML. `core.js` exposes no API host. **Needs browser automation.** |
+| **Ticketek** | **No browser needed — has an undocumented JSON API.** The AngularJS shell is identical for every URL (same md5), but `app.settings_prod.js` leaks the backends: `prod-cms-search.ticketek.com.ar` and `prod-cms-api.ticketek.com.ar`, and `search/search.factory.js` gives the paths. **Working endpoint: `GET https://prod-cms-search.ticketek.com.ar/api/1.1/search/<term>`** with `Referer: https://www.ticketek.com.ar/` → JSON with `titulo` (artist), `url` (`<artist>/<venue>`), `imagen`, and `shows[]{estado, showcode, lugar, venue}`. Enumerate via seed terms (musica/rock/pop/tango/jazz/folklore/cumbia/teatro…), 12 per page. **Throttle it** — rapid probing returns non-JSON briefly. Note `sitemap-2.xml` has 3,893 `<artist>/<venue>` URLs but its `lastmod` values are stale (nothing since Aug), so it's an archive, not a live feed. |
 | **Bebop Club** | Own white-label ticketer at `ticketera.bebopclub.com.ar/evento/<uuid>`. **65 event UUIDs on the homepage.** No `/api/*` (all 404) — parse the homepage links. Jazz coverage, unavailable elsewhere. |
 | **Uniclub** | Delegates ticketing to **Alpogo** (72 refs). Covering Alpogo likely covers Uniclub + others. Alpogo has no sitemap (404). |
 | **Alternativa Teatral** | `sitemapindex.xml` → **12 sitemaps × ~50k URLs**. Mostly theater + forum noise; needs heavy URL filtering. No `/musica` section (404). |
@@ -69,7 +69,7 @@ All findings verified by direct HTTP probe on 2026-09-17. Failures record the ac
 | Source | Result |
 |---|---|
 | **Ticketmaster Argentina** | **Does not exist.** `ticketmaster.com.ar` has **no DNS record** (dig returns nothing, curl `000`). That market is served by Ticketek/AllAccess. Remove from the list. |
-| **Passline** | **403 even with browser UA + `Accept-Language: es-AR`** (robots.txt serves, HTML doesn't). Edge-blocked; needs a real browser session. |
+| **Passline** | **Cloudflare bot challenge**, not a simple UA block: response headers carry `cf-mitigated: challenge`, `server: cloudflare`, and the body is the "Just a moment..." interstitial with a `challenges.cloudflare.com` CSP. This is *designed* to stop automation, and datacenter IPs (every CI runner) are its main target. A headless scraper in GitHub Actions would be fighting it continuously and would break without warning. **Not worth automating** — see the deployment note below. |
 | **Bandsintown** | City page **403**; `rest.bandsintown.com` (v3 + legacy) → **explicit IAM deny**. Dead without a partner key. *(Note: its venue pages rank well in search and are a good way to* discover *venue names/IDs manually, but not to ingest.)* |
 | **Buenos Aliens** | Legacy ColdFusion electronic-music **magazine** (`/notas.cfm/...`). "Agenda" is an on-page anchor (`/#agenda`), not a feed. No JSON-LD/API. RA covers this niche far better. |
 | **Indie Folks** | 71KB static site, no JSON-LD/WP/API. It's a **promoter/label**, not a listings source — their shows surface via Indie Hoy and ticketers. |
@@ -162,6 +162,39 @@ El Cartel claims "5.186 eventos / 33 fuentes". No public sources page (`/fuentes
 - **RA (electronic, 9mo) + Indie Hoy (rock/indie/intl, 3mo) are complementary and barely overlap** — neither is an El Cartel source.
 - Both expose **artists as first-class entities** (RA has stable IDs), enabling the artist-first index El Cartel can't do.
 - RA `genres` + Indie Hoy categories give **genre filtering** for free.
+
+---
+
+## Deployment: what can actually run on a schedule
+
+Claude-in-Chrome drives a real browser attached to a logged-in desktop session. It is
+interactive tooling — it cannot run unattended in GitHub Actions. So "scrape it with
+the browser" is not a deployment strategy; the question for each source is whether it
+can run *headless on a datacenter IP*.
+
+**All 9 working sources are plain HTTP (requests + regex/JSON).** No browser, no
+Playwright, no system dependencies. The whole pipeline is a `pip install requests`
+away from running in a GitHub Actions cron job.
+
+Rough per-run cost on a cold cache: RA ~1s, Songkick ~1s, Crobar ~1s, AllAccess ~6s,
+Bebop ~20s, Indie Hoy ~40s, Ticketek ~30s (throttled), Venti ~19min *first run only*
+(226 URLs × `Crawl-delay: 10` ÷ 2 workers), then ~1s from cache. Committing
+`data/venti_cache.json` to the repo — or restoring it via `actions/cache` — keeps
+every subsequent run inside a couple of minutes. GitHub's free tier (2,000 min/month
+on private repos, unlimited on public) covers a daily run comfortably.
+
+**The one source that genuinely needs a browser is Passline, and it is the one where
+a browser helps least**: Cloudflare's challenge specifically targets headless browsers
+on datacenter IPs. Options, in order of sanity:
+1. **Skip it.** Niceto, La Trastienda and Palermo Groove — the venues that matter on
+   Passline — are already reachable via Venti, Indie Hoy and Songkick.
+2. Run that one scraper from a residential IP on a machine that is already on
+   (not a CI runner), pushing results to the repo.
+3. A paid unblocking proxy. Only worth it if Passline-exclusive events prove real
+   and material — measure the gap first.
+
+Ticketek was the other suspected browser case; it turned out to have a JSON API
+(see Tier B), so it runs headless like everything else.
 
 ---
 
