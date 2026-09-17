@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>QUILOMBO — recitales y fiestas en Buenos Aires</title>
-<meta name="description" content="Todos los recitales, fiestas y shows de Buenos Aires. Meses por delante, en una sola página. Sin paginar.">
+<meta name="description" content="Todos los recitales, fiestas y shows de Buenos Aires. Meses por delante, en una sola página.">
 <meta name="theme-color" content="#0d1117">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,10 +19,15 @@
   <div class="hero-grid" aria-hidden="true"></div>
   <div class="hero-glow" aria-hidden="true"></div>
 
+  <nav class="lang" aria-label="Language">
+    <button data-lang-btn="es" type="button">ES</button>
+    <button data-lang-btn="en" type="button">EN</button>
+  </nav>
+
   <div class="hero-inner wrap">
     <div class="eyebrow">
       <span class="dot" aria-hidden="true"></span>
-      Buenos Aires · actualizado <span id="gen">—</span>
+      <span data-i18n="hero.eyebrow">Buenos Aires · actualizado</span>&nbsp;<span id="gen">—</span>
     </div>
 
     <h1 class="title" aria-label="Quilombo">
@@ -30,19 +35,19 @@
     </h1>
 
     <p class="sub">
-      Todo lo que se viene en la ciudad: recitales, fiestas y clubes.
-      <strong>Meses por delante, en una sola página.</strong>
+      <span data-i18n="hero.sub">Todo lo que se viene en la ciudad: recitales, fiestas y clubes.</span>
+      <strong data-i18n="hero.subStrong">Meses por delante, en una sola página.</strong>
     </p>
 
     <div class="stats" id="stats">
-      <div class="stat"><b data-to="0">0</b><span>shows</span></div>
-      <div class="stat"><b data-to="0">0</b><span>artistas</span></div>
-      <div class="stat"><b data-to="0">0</b><span>salas</span></div>
-      <div class="stat"><b data-to="0">0</b><span>meses</span></div>
+      <div class="stat"><b>0</b><span data-i18n="hero.shows">shows</span></div>
+      <div class="stat"><b>0</b><span data-i18n="hero.artists">artistas</span></div>
+      <div class="stat"><b>0</b><span data-i18n="hero.venues">salas</span></div>
+      <div class="stat"><b>0</b><span data-i18n="hero.months">meses</span></div>
     </div>
 
     <a class="scroll-cue" href="#app">
-      <span>ver la agenda</span>
+      <span data-i18n="hero.cue">ver la agenda</span>
       <svg width="14" height="22" viewBox="0 0 14 22" fill="none" aria-hidden="true">
         <path d="M7 1v18m0 0 5-5m-5 5-5-5" stroke="currentColor" stroke-width="1.6"
               stroke-linecap="round" stroke-linejoin="round"/>
@@ -55,14 +60,17 @@
 <div id="app">
   <div class="controls-shell">
     <div class="controls wrap">
-      <input id="q" type="search" placeholder="Buscar artista, sala o género…" autocomplete="off" spellcheck="false">
+      <input id="q" type="search" data-i18n-ph="ctl.search"
+             placeholder="Buscar artista, sala o género…" autocomplete="off" spellcheck="false">
       <div class="filters">
-        <select id="month" aria-label="Mes"><option value="">Todos los meses</option></select>
-        <select id="venue" aria-label="Sala"><option value="">Todas las salas</option></select>
-        <select id="genre" aria-label="Género"><option value="">Todos los géneros</option></select>
-        <div class="modes" role="tablist" aria-label="Vista">
-          <button id="mode-date" class="on" role="tab" aria-selected="true">Por fecha</button>
-          <button id="mode-artist" role="tab" aria-selected="false">Por artista</button>
+        <select id="month" data-i18n-aria="ctl.month" aria-label="Mes"></select>
+        <select id="venue" data-i18n-aria="ctl.venue" aria-label="Sala"></select>
+        <select id="genre" data-i18n-aria="ctl.genre" aria-label="Género"></select>
+        <div class="modes" role="tablist" data-i18n-aria="ctl.view" aria-label="Vista">
+          <button id="mode-date" class="on" role="tab" aria-selected="true"
+                  data-i18n="ctl.byDate">Por fecha</button>
+          <button id="mode-artist" role="tab" aria-selected="false"
+                  data-i18n="ctl.byArtist">Por artista</button>
         </div>
       </div>
       <p class="count" id="count"></p>
@@ -73,11 +81,12 @@
 
   <footer class="wrap foot">
     <p id="sources"></p>
-    <p>Datos recolectados de fuentes públicas. Horarios y precios pueden cambiar —
+    <p data-i18n="foot.note">Datos recolectados de fuentes públicas. Horarios y precios pueden cambiar —
        confirmá siempre en el link de la entrada.</p>
   </footer>
 </div>
 
+<script src="i18n.js" defer></script>
 <script src="hero.js" defer></script>
 <script src="app.js" defer></script>
 </body>

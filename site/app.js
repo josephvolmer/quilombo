@@ -1,15 +1,5 @@
 'use strict';
 
-/* ────────────────────────────────────────────────────────────
-   Hero particle field — tsParticles (slim build), vendored at
-   build time into vendor/ so there is no runtime CDN dependency.
-
-   The library handles retina scaling, pointer interaction,
-   pause-when-hidden and density-per-area, which is the fiddly
-   part of doing this well. If it fails to load for any reason
-   the hero still renders: the CSS grid, glow and type animation
-   are independent of it.
-   ──────────────────────────────────────────────────────────── */
 function heroFX() {
   // hero.js owns the WebGL backdrop; it reports false if unsupported,
   // in which case the CSS gradient + grid carry the hero on their own.
@@ -17,9 +7,9 @@ function heroFX() {
 }
 
 /* ────────────────────────── data ────────────────────────── */
-const MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
-  'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
-const DIAS = ['dom', 'lun', 'mar', 'mié', 'jue', 'vie', 'sáb'];
+const T = (k, ...a) => window.I18N.t(k, ...a);
+const MESES = () => window.I18N.months;
+const DIAS = () => window.I18N.days;
 
 const $ = (id) => document.getElementById(id);
 const out = $('out');
@@ -43,18 +33,19 @@ function esc(s) {
 
 function countUp(el, to) {
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (reduce || to < 2) { el.textContent = to.toLocaleString('es-AR'); return; }
+  if (reduce || to < 2) { el.textContent = to.toLocaleString(window.I18N.locale); return; }
   const dur = 900, t0 = performance.now();
   const step = (t) => {
     const k = Math.min(1, (t - t0) / dur);
     const eased = 1 - Math.pow(1 - k, 3);
-    el.textContent = Math.round(to * eased).toLocaleString('es-AR');
+    el.textContent = Math.round(to * eased).toLocaleString(window.I18N.locale);
     if (k < 1) requestAnimationFrame(step);
   };
   requestAnimationFrame(step);
 }
 
 async function boot() {
+  window.I18N.apply();
   heroFX();
 
   try {
@@ -62,7 +53,7 @@ async function boot() {
     if (!res.ok) throw new Error(res.status);
     DB = await res.json();
   } catch {
-    out.innerHTML = '<p class="empty">No se pudieron cargar los datos.</p>';
+    out.innerHTML = `<p class="empty">${T('list.failed')}</p>`;
     return;
   }
 
@@ -84,26 +75,49 @@ async function boot() {
   $('stats').querySelectorAll('.stat b').forEach((el, i) => countUp(el, vals[i]));
 
   const days = new Set(DB.events.map((e) => e.d));
-  $('sources').textContent =
-    `Actualizado ${DB.generated}. ${days.size} días con actividad.`;
+  $('sources').textContent = T('foot.updated', DB.generated, days.size);
 }
 
 function fillSelects() {
+  // Remember the active filters so switching language doesn't reset them.
+  const keep = { month: $('month').value, venue: $('venue').value, genre: $('genre').value };
+  ['month', 'venue', 'genre'].forEach((id) => { $(id).innerHTML = ''; });
+
+  $('month').add(new Option(T('ctl.allMonths'), ''));
   [...new Set(DB.events.map((e) => e.d.slice(0, 7)))].sort().forEach((m) => {
     const [y, mm] = m.split('-');
-    $('month').add(new Option(`${MESES[+mm - 1]} ${y}`, m));
+    $('month').add(new Option(`${MESES()[+mm - 1]} ${y}`, m));
   });
 
+  $('venue').add(new Option(T('ctl.allVenues'), ''));
   const counts = new Map();
   DB.events.forEach((e) => counts.set(e._v, (counts.get(e._v) || 0) + 1));
   [...counts.entries()]
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
     .forEach(([v, n]) => $('venue').add(new Option(`${v} (${n})`, v)));
 
+  // Genres come from the scraped data (RA's own taxonomy) and stay as-is.
+  $('genre').add(new Option(T('ctl.allGenres'), ''));
   (DB.genres || []).forEach((g) => $('genre').add(new Option(g, g)));
+
+  $('month').value = keep.month;
+  $('venue').value = keep.venue;
+  $('genre').value = keep.genre;
 }
 
 function bind() {
+  document.querySelectorAll('[data-lang-btn]').forEach((b) =>
+    b.addEventListener('click', () => window.I18N.set(b.dataset.langBtn)));
+
+  // Static strings are swapped by I18N.apply(); anything rendered from
+  // data has to be rebuilt here.
+  document.addEventListener('langchange', () => {
+    fillSelects();
+    render();
+    const days = new Set(DB.events.map((e) => e.d));
+    $('sources').textContent = T('foot.updated', DB.generated, days.size);
+  });
+
   let t;
   $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 110); });
   ['month', 'venue', 'genre'].forEach((id) => $(id).addEventListener('change', render));
@@ -137,11 +151,11 @@ function render() {
   const rows = current();
   const artists = new Set();
   rows.forEach((e) => (e.a || []).forEach((a) => artists.add(norm(a))));
-  $('count').textContent = `${rows.length} shows · ${artists.size} artistas`;
+  $('count').textContent = T('count', rows.length, artists.size);
 
   out.innerHTML = rows.length
     ? (mode === 'date' ? byDate(rows) : byArtist(rows))
-    : '<p class="empty">Nada coincide con esa búsqueda.</p>';
+    : `<p class="empty">${T('list.empty')}</p>`;
 }
 
 function eventHTML(e) {
@@ -172,10 +186,10 @@ function byDate(rows) {
     const dt = parseDay(iso), mk = iso.slice(0, 7);
     if (mk !== lastMonth) {
       lastMonth = mk;
-      html += `<h2 class="month">${MESES[dt.getMonth()]} ${dt.getFullYear()}</h2>`;
+      html += `<h2 class="month">${MESES()[dt.getMonth()]} ${dt.getFullYear()}</h2>`;
     }
     html += `<section class="day">
-      <div class="dnum">${DIAS[dt.getDay()]}<b>${dt.getDate()}</b></div>
+      <div class="dnum">${DIAS()[dt.getDay()]}<b>${dt.getDate()}</b></div>
       <div>${days.get(iso).map(eventHTML).join('')}</div>
     </section>`;
   });
@@ -192,13 +206,13 @@ function byArtist(rows) {
   }));
 
   const list = [...map.values()]
-    .sort((a, b) => a.name.localeCompare(b.name, 'es', { sensitivity: 'base' }));
+    .sort((a, b) => a.name.localeCompare(b.name, window.I18N.locale, { sensitivity: 'base' }));
 
   return `<div class="artists">${list.map((a) => {
     const gigs = a.gigs.slice().sort((x, y) => x.d.localeCompare(y.d)).map((e) => {
       const dt = parseDay(e.d);
       return `<div class="gig"><a href="${esc(e.k || e.u)}" target="_blank" rel="noopener">`
-        + `<b>${dt.getDate()} ${MESES[dt.getMonth()].slice(0, 3)}</b> · ${esc(e._v)}</a></div>`;
+        + `<b>${dt.getDate()} ${MESES()[dt.getMonth()].slice(0, 3)}</b> · ${esc(e._v)}</a></div>`;
     }).join('');
     return `<div class="artist"><h3>${esc(a.name)}</h3>${gigs}</div>`;
   }).join('')}</div>`;
