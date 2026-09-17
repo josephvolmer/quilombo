@@ -72,12 +72,20 @@ jobs:
           if len(future) < 400:
               sys.exit(f"FAIL: only {len(future)} future events (expected 400+)")
           # Per-source floors: catch one feed silently collapsing.
+          #
+          # allaccess is deliberately absent. Its AWS WAF serves 200 to a
+          # residential IP but blocks GitHub's datacenter ranges, so it
+          # contributes 0 rows in CI and ~117 locally. That is an upstream
+          # block, not a regression, so it must not fail the daily run.
           from collections import Counter
           per = Counter(s for r in rows for s in r["sources"])
           for name, floor in {"indiehoy": 120, "venti": 150,
-                              "resident-advisor": 80, "allaccess": 60}.items():
+                              "resident-advisor": 80}.items():
               if per.get(name, 0) < floor:
                   sys.exit(f"FAIL: {name} contributed {per.get(name,0)} rows (expected {floor}+)")
+          for name in ("allaccess", "bebop", "songkick", "crobar"):
+              if per.get(name, 0) == 0:
+                  print(f"WARNING: {name} contributed 0 rows (blocked or broken?)")
           if len(srcs) < 5:
               sys.exit(f"FAIL: only {len(srcs)} sources reporting (expected 5+)")
           PY
