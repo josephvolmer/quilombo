@@ -11,8 +11,10 @@ from datetime import date
 from pathlib import Path
 
 from core import (norm_artist, norm_venue, artists_from_title, clean_artist,
-                  strip_emoji, format_price, clean_time, is_buenos_aires)
+                  strip_emoji, format_price, clean_time, is_buenos_aires,
+                  dedupe_venue_in_title)
 from sources import ALL_SOURCES, UNDATED_SOURCES
+import core
 
 OUT = Path(__file__).resolve().parent.parent / "data"
 OUT.mkdir(exist_ok=True)
@@ -39,6 +41,15 @@ def run_all(only: list[str] | None = None) -> dict[str, list]:
             results[name] = evs
             timings[name] = dt
             print(f"  {name:>18}: {len(evs):>4} events  ({dt:.1f}s)")
+
+    # A throttling host used to return None per page and vanish silently —
+    # Indie Hoy was losing half its catalogue that way, taking Underworld
+    # with it. Surface every dropped fetch.
+    if core.FETCH_FAILURES:
+        print("\n  !! fetches that failed after retries:")
+        for host, n in sorted(core.FETCH_FAILURES.items(),
+                              key=lambda kv: -kv[1]):
+            print(f"     {host}: {n}")
     return results
 
 
@@ -89,6 +100,8 @@ def merge(results: dict[str, list]):
         # ── display hygiene, applied once on the merged record ──
         d["title"] = strip_emoji(d["title"]) or d["title"]
         d["venue"] = strip_emoji(d["venue"])
+        # The venue already has its own line; drop it from the title tail.
+        d["title"] = dedupe_venue_in_title(d["title"], d["venue"])
         d["artists"] = [x for x in (strip_emoji(a) for a in d["artists"]) if x]
         d["price"] = format_price(d.get("price"), best.source)
         d["start_time"] = clean_time(d.get("start_time"))

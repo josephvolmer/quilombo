@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import re
 import time
+import threading
 import unicodedata
 from dataclasses import dataclass, field, asdict
 from datetime import datetime, date
@@ -31,29 +32,50 @@ CRAWL_DELAY = {
     "www.songkick.com": 6.0,
     "ra.co": 1.0,
     "www.allaccess.com.ar": 3.0,
-    "indiehoy.com": 1.0,
+    "indiehoy.com": 0.7,
 }
 _last_hit: dict[str, float] = {}
+_host_lock = threading.Lock()
+
+# Tallied so a run can report silent losses instead of hiding them.
+FETCH_FAILURES: dict[str, int] = {}
 
 
 def polite_get(url: str, session: requests.Session | None = None,
-               timeout: int = 30, **kw) -> requests.Response | None:
-    """GET with per-host rate limiting. Returns None on failure."""
+               timeout: int = 30, retries: int = 3, **kw):
+    """GET with per-host rate limiting and retry-with-backoff.
+
+    Hosts that throttle (Indie Hoy 429s hard under concurrency) must be
+    retried, not skipped: a silent None here means events vanish from the
+    site with no error anywhere. Returns None only after `retries`
+    attempts, and records the failure in FETCH_FAILURES so a run can
+    report how much it lost.
+    """
     host = re.sub(r"^https?://([^/]+).*", r"\1", url)
     delay = CRAWL_DELAY.get(host, 0.5)
-    since = time.time() - _last_hit.get(host, 0)
-    if since < delay:
-        time.sleep(delay - since)
-    _last_hit[host] = time.time()
-
     s = session or requests
-    try:
-        r = s.get(url, headers=HEADERS, timeout=timeout, **kw)
-        if r.status_code != 200:
-            return None
-        return r
-    except Exception:
-        return None
+
+    for attempt in range(retries):
+        with _host_lock:
+            since = time.time() - _last_hit.get(host, 0)
+            if since < delay:
+                time.sleep(delay - since)
+            _last_hit[host] = time.time()
+        try:
+            r = s.get(url, headers=HEADERS, timeout=timeout, **kw)
+            if r.status_code == 200:
+                return r
+            if r.status_code in (429, 500, 502, 503, 504):
+                # Honour Retry-After when present, else exponential backoff.
+                wait = float(r.headers.get("Retry-After") or 0) or (2 ** attempt)
+                time.sleep(min(wait, 30))
+                continue
+            break                      # 404/403: retrying will not help
+        except Exception:
+            time.sleep(2 ** attempt)
+
+    FETCH_FAILURES[host] = FETCH_FAILURES.get(host, 0) + 1
+    return None
 
 
 # ---------------------------------------------------------------- normalizing
@@ -425,3 +447,80 @@ def is_buenos_aires(venue: str | None, title: str | None = "") -> bool:
     """False when a row is clearly for another city."""
     blob = f"{venue or ''} {title or ''}"
     return not _NON_BA.search(blob)
+
+
+# Most sources bill an event as "Artist @ Venue" or "Artist en Venue", and we
+# already display the venue on its own line — so the tail is pure repetition.
+# Only strip when the trailing text really is the venue we resolved.
+_VENUE_JOINER = re.compile(
+    r"\s*(?:@|\||·|,|[-–—]|\ben\s+el\b|\ben\s+la\b|\ben\b|\bat\b)\s*$",
+    re.I)
+
+
+def _venue_core(venue: str | None) -> str:
+    """The distinctive part of a venue string.
+
+    RA publishes "TBA - Tokyo Club, Costanera"; the useful token is
+    "Tokyo Club". Strips the TBA/secret prefix and any trailing
+    neighbourhood segment.
+    """
+    if not venue:
+        return ""
+    v = re.sub(r"^\s*(?:tba|secret location)\s*[-–—]\s*", "", venue.strip(),
+               flags=re.I)
+    # Keep the longest comma-separated chunk; barrios are short trailing bits.
+    parts = [x.strip() for x in v.split(",") if x.strip()]
+    if parts:
+        head = parts[0]
+        if strip_accents(head).lower() in _BARRIOS and len(parts) > 1:
+            head = parts[1]
+        v = head
+    return v.strip()
+
+
+# Promoter credits RA appends after the venue: "… - ALLMusicParties".
+_PROMOTER_TAIL = re.compile(
+    r"\s*[-–—|]\s*(?:allmusicparties|somos produce|my house|"
+    r"[A-Za-z0-9&.' ]{3,28})\s*$")
+
+
+def dedupe_venue_in_title(title: str | None, venue: str | None) -> str:
+    """Remove a repeated venue mention from an event title.
+
+    The venue has its own line in the UI, so repeating it is noise.
+    Two safe shapes are handled:
+
+      "Kapo @ Movistar Arena"                  -> "Kapo"
+      "Artist - Night, Tokyo Club, Costanera - ALLMusicParties"
+                                               -> "Artist - Night"
+
+    Anything else is left alone. Stripping a venue from the middle of a
+    sentence ("0800-LINEA-CALIENTE & La Nube pres. …") mangles the title,
+    so we only cut from a joiner onwards to the end.
+    """
+    if not title or not venue:
+        return title or ""
+    t = re.sub(r"\s+", " ", title.strip())
+
+    for cand in filter(None, {venue.strip(), _venue_core(venue)}):
+        nt = strip_accents(t).lower()
+        nc = re.sub(r"\s+", " ", strip_accents(cand).lower()).strip()
+        if len(nc) < 4:
+            continue
+        i = nt.find(nc)
+        if i <= 0:                  # absent, or the title opens with it
+            continue
+
+        after = t[i + len(cand):].strip()
+        # Only a barrio and/or a promoter credit may follow the venue.
+        rest = re.sub(r"^,\s*[^,\-–—|]{2,22}", "", after).strip()
+        rest = re.sub(r"^\s*[-–—|]\s*[\w &.'\-]{3,28}$", "", rest).strip()
+        if rest:                    # real content after the venue: leave it
+            continue
+
+        head = re.sub(
+            r"\s*(?:@|\||·|,|[-–—]|\ben\s+el\b|\ben\s+la\b|\ben\b|\bat\b)\s*$",
+            "", t[:i], flags=re.I).strip(" -–—|·,@")
+        if len(head) >= 3:
+            return re.sub(r"\s{2,}", " ", head)
+    return t

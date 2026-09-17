@@ -114,7 +114,7 @@ def scrape_ra(date_from: str, date_to: str, area: int = 395) -> list[Event]:
 IH_LIST = "https://indiehoy.com/eventos/buenos-aires/"
 
 
-def scrape_indiehoy(max_workers: int = 6) -> list[Event]:
+def scrape_indiehoy(max_workers: int = 3) -> list[Event]:
     r = polite_get(IH_LIST, timeout=40)
     if not r:
         return []

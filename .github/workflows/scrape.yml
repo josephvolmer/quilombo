@@ -63,8 +63,15 @@ jobs:
           future = [r for r in rows if r["date"] >= __import__("datetime").date.today().isoformat()]
           srcs = {s for r in rows for s in r["sources"]}
           print(f"{len(rows)} rows, {len(future)} future, {len(srcs)} sources: {sorted(srcs)}")
-          if len(future) < 200:
-              sys.exit(f"FAIL: only {len(future)} future events (expected 200+)")
+          if len(future) < 400:
+              sys.exit(f"FAIL: only {len(future)} future events (expected 400+)")
+          # Per-source floors: catch one feed silently collapsing.
+          from collections import Counter
+          per = Counter(s for r in rows for s in r["sources"])
+          for name, floor in {"indiehoy": 120, "venti": 150,
+                              "resident-advisor": 80, "allaccess": 60}.items():
+              if per.get(name, 0) < floor:
+                  sys.exit(f"FAIL: {name} contributed {per.get(name,0)} rows (expected {floor}+)")
           if len(srcs) < 5:
               sys.exit(f"FAIL: only {len(srcs)} sources reporting (expected 5+)")
           PY
