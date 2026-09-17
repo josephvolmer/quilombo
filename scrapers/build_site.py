@@ -22,10 +22,11 @@ VENDOR = ROOT / "site" / "vendor"
 # Pinned third-party assets, downloaded at build time and served from our
 # own origin. No runtime CDN dependency: if jsDelivr is down or an npm
 # package is yanked, the built site is unaffected.
-VENDORED = {
-    "tsparticles.slim.min.js":
-        "https://cdn.jsdelivr.net/npm/@tsparticles/slim@3.9.1/tsparticles.slim.bundle.min.js",
-}
+# Currently empty: the hero is a hand-written fragment shader (site/hero.js),
+# which needs no library. Kept because the mechanism is the right one the
+# moment a real dependency shows up — vendor it here, never hit a CDN at
+# runtime.
+VENDORED: dict[str, str] = {}
 
 
 def vendor() -> None:

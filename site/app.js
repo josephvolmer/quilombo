@@ -11,54 +11,9 @@
    are independent of it.
    ──────────────────────────────────────────────────────────── */
 function heroFX() {
-  const host = document.getElementById('fx');
-  if (!host || typeof tsParticles === 'undefined') return;
-
-  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-  tsParticles.load({
-    id: 'fx',
-    options: {
-      fullScreen: { enable: false },
-      detectRetina: true,
-      fpsLimit: 60,
-      pauseOnBlur: true,
-      pauseOnOutsideViewport: true,   // stops once the hero scrolls away
-      background: { color: 'transparent' },
-      particles: {
-        number: {
-          value: 90,
-          density: { enable: true, width: 1600, height: 900 },
-        },
-        color: { value: '#a3e635' },
-        opacity: { value: { min: 0.25, max: 0.6 } },
-        size: { value: { min: 0.7, max: 2.1 } },
-        links: {
-          enable: true,
-          distance: 130,
-          color: '#a3e635',
-          opacity: 0.18,
-          width: 1,
-        },
-        move: {
-          enable: !reduce,
-          speed: 0.5,
-          direction: 'none',
-          outModes: { default: 'out' },
-        },
-      },
-      interactivity: {
-        detectsOn: 'window',
-        events: {
-          onHover: { enable: !reduce, mode: 'grab' },
-          resize: { enable: true },
-        },
-        modes: {
-          grab: { distance: 170, links: { opacity: 0.45 } },
-        },
-      },
-    },
-  });
+  // hero.js owns the WebGL backdrop; it reports false if unsupported,
+  // in which case the CSS gradient + grid carry the hero on their own.
+  if (typeof window.initHero === 'function') window.initHero();
 }
 
 /* ────────────────────────── data ────────────────────────── */
