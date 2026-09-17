@@ -56,18 +56,31 @@ pages. `data/venti_cache.json` makes every later run ~1s.
 
 ## Deploying
 
-The workflow deploys to Cloudflare Pages on each successful scrape. Set two repo
-secrets:
+Live at **[quilombo.vip](https://quilombo.vip)**, hosted on Cloudflare Pages.
 
-- `CLOUDFLARE_API_TOKEN` — token with the *Cloudflare Pages: Edit* permission
-- `CLOUDFLARE_ACCOUNT_ID`
+Cloudflare Pages is connected to this repo and watches `main`:
 
-Without them the deploy step is skipped and the scrape still runs and commits data,
-so you can wire up hosting whenever you like.
+```
+cron (09:00 UTC daily)
+  └─ scrapers/run.py        → data/*.json
+  └─ scrapers/build_site.py → public/
+  └─ git push               → Cloudflare rebuilds automatically
+```
 
-Cloudflare Pages is a good fit here: static files only, free tier is generous, and
-the daily rebuild is a single `wrangler pages deploy`. Any static host works —
-Netlify, GitHub Pages, S3 — since the build output is just four files.
+No API tokens, no deploy step, no secrets. The workflow's only job is to
+scrape, rebuild `public/`, and commit; pushing to `main` is what publishes.
+
+Pages settings (set once, at project creation):
+
+| Setting | Value |
+|---|---|
+| Production branch | `main` |
+| Framework preset | None |
+| Build command | *(empty)* |
+| Build output directory | `public` |
+
+The site is prebuilt and committed, so Cloudflare only serves static files —
+there is no build step to break.
 
 ## Caveats
 

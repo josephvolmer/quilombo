@@ -79,6 +79,8 @@ jobs:
       - name: Build static site
         run: python -u scrapers/build_site.py
 
+      # Pushing here is what publishes the site: Cloudflare Pages
+      # watches main and rebuilds on every commit.
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
@@ -91,16 +93,5 @@ jobs:
             git push
           fi
 
-      # Publishes public/ to Cloudflare Pages. Needs two repo secrets:
-      #   CLOUDFLARE_API_TOKEN  (token with the "Cloudflare Pages: Edit" permission)
-      #   CLOUDFLARE_ACCOUNT_ID
-      # Skipped automatically if they aren't set, so the scrape still runs.
-      - name: Deploy to Cloudflare Pages
-        if: env.CF_TOKEN != ''
-        env:
-          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy public --project-name=cartelera-ba
+      # No deploy step: Cloudflare Pages is connected to this repo and
+      # redeploys automatically whenever the commit above pushes to main.
