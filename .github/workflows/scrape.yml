@@ -10,6 +10,12 @@ concurrency:
   group: scrape
   cancel-in-progress: false
 
+# The run commits refreshed data back to main, which is what triggers the
+# Cloudflare Pages rebuild. Without this the push fails with a 403, since
+# GITHUB_TOKEN is read-only by default.
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
