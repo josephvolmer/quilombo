@@ -205,11 +205,19 @@ VENTI_CACHE = Path(__file__).resolve().parent.parent / "data" / "venti_cache.jso
 
 
 def scrape_venti(since: str = "2026-09-01", limit: int = 400,
-                 max_workers: int = 2) -> list[Event]:
+                 max_workers: int = 2, budget_s: float = 420.0) -> list[Event]:
     """Venti's robots.txt asks for Crawl-delay: 10, so a full sweep is
-    expensive. Two mitigations: only fetch URLs whose sitemap `lastmod`
-    is recent, and cache per-URL results keyed by that lastmod so repeat
-    runs only pay for pages that actually changed."""
+    expensive: 226 URLs / 2 workers = ~19 minutes.
+
+    Three mitigations: only consider URLs whose sitemap `lastmod` is
+    recent; cache per-URL results keyed by that lastmod so repeat runs
+    only pay for pages that actually changed; and cap each run at
+    `budget_s`, newest-first, so a cold start degrades gracefully instead
+    of blocking the pipeline. Anything not reached this run stays stale
+    in the cache and is picked up by the next one.
+    """
+    import time as _t
+    started = _t.time()
     r = polite_get(VENTI_SITEMAP, timeout=40)
     if not r:
         return []
@@ -233,6 +241,8 @@ def scrape_venti(since: str = "2026-09-01", limit: int = 400,
 
     def one(item):
         url, lastmod = item
+        if _t.time() - started > budget_s:
+            return url, None, None          # out of budget; leave it stale
         rr = polite_get(url, session=sess, timeout=25)
         if not rr:
             return url, lastmod, None
@@ -244,9 +254,16 @@ def scrape_venti(since: str = "2026-09-01", limit: int = 400,
         return url, lastmod, None
 
     if stale:
+        done = 0
         with cf.ThreadPoolExecutor(max_workers) as ex:
             for url, lastmod, payload in ex.map(one, stale):
+                if lastmod is None:         # skipped: keep prior cache entry
+                    continue
                 cache[url] = {"lastmod": lastmod, "event": payload}
+                done += 1
+        if done < len(stale):
+            print(f"    venti: {done}/{len(stale)} refreshed "
+                  f"({len(stale) - done} deferred to next run)")
         VENTI_CACHE.parent.mkdir(exist_ok=True)
         VENTI_CACHE.write_text(json.dumps(cache, ensure_ascii=False),
                                encoding="utf-8")

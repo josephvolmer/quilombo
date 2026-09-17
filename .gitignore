@@ -1,4 +1,3 @@
 __pycache__/
 *.pyc
-data/venti_cache.json
 .DS_Store

@@ -19,7 +19,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 45     # generous: only matters if the Venti cache is cold
+    timeout-minutes: 25     # Venti is budget-capped at 7min; the rest is ~3min
 
     steps:
       - uses: actions/checkout@v4
@@ -34,8 +34,14 @@ jobs:
       # Venti's robots.txt asks for Crawl-delay: 10. A cold sweep of ~226
       # event pages takes ~19 minutes; the cache keyed on sitemap lastmod
       # brings that down to ~1s. Restoring it is what keeps runs cheap.
+      # Restore and save are split on purpose. actions/cache saves in a
+      # post-job step, which GitHub SKIPS when an earlier step fails - so a
+      # failed sanity check meant the cache was never written and the next
+      # run paid Venti's full ~19min cold crawl again. Saving explicitly
+      # with if:always() right after the scrape fixes that.
       - name: Restore Venti cache
-        uses: actions/cache@v4
+        id: venti-cache
+        uses: actions/cache/restore@v4
         with:
           path: data/venti_cache.json
           key: venti-cache-${{ github.run_id }}
@@ -44,6 +50,14 @@ jobs:
 
       - name: Run scrapers
         run: python -u scrapers/run.py | tee run.log
+
+      # Save immediately, whether or not the checks below pass.
+      - name: Save Venti cache
+        if: always() && hashFiles('data/venti_cache.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: data/venti_cache.json
+          key: venti-cache-${{ github.run_id }}
 
       - name: Summarise run
         if: always()
@@ -99,7 +113,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ public/
+          git add data/ public/    # includes venti_cache.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
