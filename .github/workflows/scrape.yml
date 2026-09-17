@@ -2,8 +2,16 @@ name: Scrape BA events
 
 on:
   schedule:
-    # 09:00 UTC = 06:00 in Buenos Aires (UTC-3), daily.
-    - cron: "0 9 * * *"
+    # 09:17 UTC = 06:17 in Buenos Aires (UTC-3), daily.
+    #
+    # Deliberately off the hour: GitHub runs scheduled jobs on shared,
+    # best-effort infrastructure and the top of the hour is the most
+    # contended slot, where delays of 10-60+ minutes are common. An odd
+    # minute usually starts much closer to on time.
+    #
+    # Argentina does not observe DST, so 09:17 UTC stays 06:17 BA all
+    # year - no seasonal drift to correct for.
+    - cron: "17 9 * * *"
   workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
 
 concurrency:
@@ -11,8 +19,8 @@ concurrency:
   cancel-in-progress: false
 
 # The run commits refreshed data back to main, which is what triggers the
-# Cloudflare Pages rebuild. Without this the push fails with a 403, since
-# GITHUB_TOKEN is read-only by default.
+# Cloudflare rebuild (~60s after the push). Without this the push fails
+# with a 403, since GITHUB_TOKEN is read-only by default.
 permissions:
   contents: write
 
