@@ -3,40 +3,84 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Cartelera BA — recitales en Buenos Aires</title>
-<meta name="description" content="Todos los recitales y fiestas en Buenos Aires, meses por delante, en una sola página.">
+<title>QUILOMBO — recitales y fiestas en Buenos Aires</title>
+<meta name="description" content="Todos los recitales, fiestas y shows de Buenos Aires. Meses por delante, en una sola página. Sin paginar.">
+<meta name="theme-color" content="#0d1117">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="top">
-  <div class="wrap">
-    <h1>Cartelera <span>BA</span></h1>
-    <p class="tag" id="tagline">cargando…</p>
-  </div>
-</header>
 
-<div class="controls wrap">
-  <input id="q" type="search" placeholder="Buscar artista, sala o género…" autocomplete="off" spellcheck="false">
-  <div class="filters">
-    <select id="month"><option value="">Todos los meses</option></select>
-    <select id="venue"><option value="">Todas las salas</option></select>
-    <select id="genre"><option value="">Todos los géneros</option></select>
-    <div class="modes" role="tablist" aria-label="Vista">
-      <button id="mode-date" class="on" role="tab" aria-selected="true">Por fecha</button>
-      <button id="mode-artist" role="tab" aria-selected="false">Por artista</button>
+<!-- ───────────────────────── hero ───────────────────────── -->
+<section class="hero" id="hero">
+  <div id="fx" aria-hidden="true"></div>
+  <div class="hero-grid" aria-hidden="true"></div>
+  <div class="hero-glow" aria-hidden="true"></div>
+
+  <div class="hero-inner wrap">
+    <div class="eyebrow">
+      <span class="dot" aria-hidden="true"></span>
+      Buenos Aires · actualizado <span id="gen">—</span>
+    </div>
+
+    <h1 class="title" aria-label="Quilombo">
+      <span class="ch">Q</span><span class="ch">U</span><span class="ch">I</span><span class="ch">L</span><span class="ch">O</span><span class="ch">M</span><span class="ch">B</span><span class="ch">O</span>
+    </h1>
+
+    <p class="sub">
+      Todo lo que se viene en la ciudad: recitales, fiestas y clubes.
+      <strong>Meses por delante, en una sola página.</strong>
+    </p>
+
+    <div class="stats" id="stats">
+      <div class="stat"><b data-to="0">0</b><span>shows</span></div>
+      <div class="stat"><b data-to="0">0</b><span>artistas</span></div>
+      <div class="stat"><b data-to="0">0</b><span>salas</span></div>
+      <div class="stat"><b data-to="0">0</b><span>meses</span></div>
+    </div>
+
+    <a class="scroll-cue" href="#app">
+      <span>ver la agenda</span>
+      <svg width="14" height="22" viewBox="0 0 14 22" fill="none" aria-hidden="true">
+        <path d="M7 1v18m0 0 5-5m-5 5-5-5" stroke="currentColor" stroke-width="1.6"
+              stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </a>
+  </div>
+</section>
+
+<!-- ───────────────────────── app ───────────────────────── -->
+<div id="app">
+  <div class="controls-shell">
+    <div class="controls wrap">
+      <input id="q" type="search" placeholder="Buscar artista, sala o género…" autocomplete="off" spellcheck="false">
+      <div class="filters">
+        <select id="month" aria-label="Mes"><option value="">Todos los meses</option></select>
+        <select id="venue" aria-label="Sala"><option value="">Todas las salas</option></select>
+        <select id="genre" aria-label="Género"><option value="">Todos los géneros</option></select>
+        <div class="modes" role="tablist" aria-label="Vista">
+          <button id="mode-date" class="on" role="tab" aria-selected="true">Por fecha</button>
+          <button id="mode-artist" role="tab" aria-selected="false">Por artista</button>
+        </div>
+      </div>
+      <p class="count" id="count"></p>
     </div>
   </div>
-  <p class="count" id="count"></p>
+
+  <main class="wrap" id="out"></main>
+
+  <footer class="wrap foot">
+    <p id="sources"></p>
+    <p>Datos recolectados de fuentes públicas. Horarios y precios pueden cambiar —
+       confirmá siempre en el link de la entrada.</p>
+  </footer>
 </div>
 
-<main class="wrap" id="out"></main>
-
-<footer class="wrap foot">
-  <p id="sources"></p>
-  <p>Datos recolectados de fuentes públicas. Los horarios y precios pueden cambiar —
-     confirmá siempre en el link de la entrada.</p>
-</footer>
-
-<script src="app.js"></script>
+<!-- Self-hosted (vendored at build time by scrapers/build_site.py), so the
+     site has no runtime CDN dependency. -->
+<script src="vendor/tsparticles.slim.min.js" defer></script>
+<script src="app.js" defer></script>
 </body>
 </html>

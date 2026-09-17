@@ -105,6 +105,52 @@ def norm_venue(name: str | None) -> str:
 _ARTIST_NOISE = re.compile(
     r"\s*\((uk|us|usa|ar|arg|de|nl|it|fr|es|br|cl|uy|mx|jp|be|se)\)\s*$", re.I)
 
+# Fragments that are never an artist name. Matched against the whole string
+# after cleaning, so "TBA" is dropped but "Tbar" survives.
+_NOT_AN_ARTIST = re.compile(
+    r"^(?:"
+    r"[\W_]+"                                    # "&", "+", "-", "..."
+    r"|(?:and\s+|y\s+|&\s*|\+\s*)?(?:more|m[aá]s)"
+    r"(?:\s+(?:artists?|djs?|acts?|tba|tbc))?"    # "& MORE ARTISTS", "more djs TBA"
+    r"|(?:more\s+)?(?:artists?|djs?|acts?|guests?)\s*(?:tba|tbc)?"
+    r"|tba|tbc|tba\.|to be announced|a confirmar"
+    r"|(?:very\s+)?special\s+guests?"
+    r"|invitad[oa]s?(?:\s+internacional(?:es)?)?"
+    r"|guests?|line ?up|vivo|b2b|b3b|b4b|vs|dj|djs"
+    r"|live(?:\s*[\(\[][^\)\]]{0,6}[\)\]])?"      # "live", "LIVE [CO]"
+    r"|y\s+m[aá]s|and\s+more|etc\.?"
+    r")$", re.I)
+
+# Performance markers that trail a real name: "Artist (live)", "Artist [CO]".
+_PERF_MARKER = re.compile(
+    r"\s*[\(\[]\s*(?:live|dj ?set|b2b|b3b|hybrid|vinyl only|all night long|"
+    r"live [ab]/?v|a/?v)\s*[\)\]]\s*$", re.I)
+
+
+def clean_artist(name: str | None) -> str | None:
+    """Return a usable artist name, or None if the fragment isn't one.
+
+    RA's `lineup` is free text ("Artist\\n+ TBA\\n& MORE ARTISTS"), so
+    splitting it yields separators and placeholders that must be dropped
+    rather than indexed as performers.
+    """
+    if not name:
+        return None
+    s = str(name).replace("\xa0", " ").strip()
+    # Strip leading separators: "+ DREY" -> "DREY", "& Foo" -> "Foo".
+    s = re.sub(r"^[\s&+/,;·\-–—]+", "", s)
+    s = re.sub(r"[\s&+/,;·\-–—]+$", "", s)
+    s = _PERF_MARKER.sub("", s).strip()
+    s = re.sub(r"\s{2,}", " ", s)
+    if len(s) < 2 or len(s) > 80:
+        return None
+    if _NOT_AN_ARTIST.match(s):
+        return None
+    # Reject anything with no letters at all.
+    if not re.search(r"[^\W\d_]", s):
+        return None
+    return s
+
 
 def norm_artist(name: str | None) -> str:
     if not name:

@@ -1,5 +1,67 @@
 'use strict';
 
+/* ────────────────────────────────────────────────────────────
+   Hero particle field — tsParticles (slim build), vendored at
+   build time into vendor/ so there is no runtime CDN dependency.
+
+   The library handles retina scaling, pointer interaction,
+   pause-when-hidden and density-per-area, which is the fiddly
+   part of doing this well. If it fails to load for any reason
+   the hero still renders: the CSS grid, glow and type animation
+   are independent of it.
+   ──────────────────────────────────────────────────────────── */
+function heroFX() {
+  const host = document.getElementById('fx');
+  if (!host || typeof tsParticles === 'undefined') return;
+
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  tsParticles.load({
+    id: 'fx',
+    options: {
+      fullScreen: { enable: false },
+      detectRetina: true,
+      fpsLimit: 60,
+      pauseOnBlur: true,
+      pauseOnOutsideViewport: true,   // stops once the hero scrolls away
+      background: { color: 'transparent' },
+      particles: {
+        number: {
+          value: 90,
+          density: { enable: true, width: 1600, height: 900 },
+        },
+        color: { value: '#a3e635' },
+        opacity: { value: { min: 0.25, max: 0.6 } },
+        size: { value: { min: 0.7, max: 2.1 } },
+        links: {
+          enable: true,
+          distance: 130,
+          color: '#a3e635',
+          opacity: 0.18,
+          width: 1,
+        },
+        move: {
+          enable: !reduce,
+          speed: 0.5,
+          direction: 'none',
+          outModes: { default: 'out' },
+        },
+      },
+      interactivity: {
+        detectsOn: 'window',
+        events: {
+          onHover: { enable: !reduce, mode: 'grab' },
+          resize: { enable: true },
+        },
+        modes: {
+          grab: { distance: 170, links: { opacity: 0.45 } },
+        },
+      },
+    },
+  });
+}
+
+/* ────────────────────────── data ────────────────────────── */
 const MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
   'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
 const DIAS = ['dom', 'lun', 'mar', 'mié', 'jue', 'vie', 'sáb'];
@@ -13,8 +75,7 @@ let mode = 'date';
 const norm = (s) => (s || '').toLowerCase()
   .normalize('NFD').replace(/[̀-ͯ]/g, '');
 
-// Dates are plain YYYY-MM-DD; parse as local so nothing shifts a day.
-function parseDay(iso) {
+function parseDay(iso) {            // local-time parse; avoids UTC day shift
   const [y, m, d] = iso.split('-').map(Number);
   return new Date(y, m - 1, d);
 }
@@ -25,18 +86,31 @@ function esc(s) {
   }[c]));
 }
 
+function countUp(el, to) {
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce || to < 2) { el.textContent = to.toLocaleString('es-AR'); return; }
+  const dur = 900, t0 = performance.now();
+  const step = (t) => {
+    const k = Math.min(1, (t - t0) / dur);
+    const eased = 1 - Math.pow(1 - k, 3);
+    el.textContent = Math.round(to * eased).toLocaleString('es-AR');
+    if (k < 1) requestAnimationFrame(step);
+  };
+  requestAnimationFrame(step);
+}
+
 async function boot() {
-  let res;
+  heroFX();
+
   try {
-    res = await fetch('data.json', { cache: 'no-cache' });
+    const res = await fetch('data.json', { cache: 'no-cache' });
     if (!res.ok) throw new Error(res.status);
     DB = await res.json();
-  } catch (err) {
+  } catch {
     out.innerHTML = '<p class="empty">No se pudieron cargar los datos.</p>';
     return;
   }
 
-  // Precompute a search blob per event so filtering stays instant.
   DB.events.forEach((e) => {
     e._v = DB.venues[e.v];
     e._s = norm([e.t, e._v, (e.a || []).join(' '), (e.g || []).join(' ')].join(' '));
@@ -46,20 +120,21 @@ async function boot() {
   bind();
   render();
 
-  const days = new Set(DB.events.map((e) => e.d));
   const months = new Set(DB.events.map((e) => e.d.slice(0, 7)));
   const artists = new Set();
   DB.events.forEach((e) => (e.a || []).forEach((a) => artists.add(norm(a))));
-  $('tagline').textContent =
-    `${DB.events.length} shows · ${artists.size} artistas · ${DB.venues.length} salas · `
-    + `${months.size} meses por delante`;
+
+  $('gen').textContent = DB.generated;
+  const vals = [DB.events.length, artists.size, DB.venues.length, months.size];
+  $('stats').querySelectorAll('.stat b').forEach((el, i) => countUp(el, vals[i]));
+
+  const days = new Set(DB.events.map((e) => e.d));
   $('sources').textContent =
     `Actualizado ${DB.generated}. ${days.size} días con actividad.`;
 }
 
 function fillSelects() {
-  const months = [...new Set(DB.events.map((e) => e.d.slice(0, 7)))].sort();
-  months.forEach((m) => {
+  [...new Set(DB.events.map((e) => e.d.slice(0, 7)))].sort().forEach((m) => {
     const [y, mm] = m.split('-');
     $('month').add(new Option(`${MESES[+mm - 1]} ${y}`, m));
   });
@@ -75,13 +150,8 @@ function fillSelects() {
 
 function bind() {
   let t;
-  $('q').addEventListener('input', () => {
-    clearTimeout(t);
-    t = setTimeout(render, 120);
-  });
-  ['month', 'venue', 'genre'].forEach((id) =>
-    $(id).addEventListener('change', render));
-
+  $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 110); });
+  ['month', 'venue', 'genre'].forEach((id) => $(id).addEventListener('change', render));
   $('mode-date').addEventListener('click', () => setMode('date'));
   $('mode-artist').addEventListener('click', () => setMode('artist'));
 }
@@ -98,9 +168,7 @@ function setMode(m) {
 
 function current() {
   const q = norm($('q').value.trim());
-  const mo = $('month').value;
-  const ve = $('venue').value;
-  const ge = $('genre').value;
+  const mo = $('month').value, ve = $('venue').value, ge = $('genre').value;
   return DB.events.filter((e) => {
     if (mo && !e.d.startsWith(mo)) return false;
     if (ve && e._v !== ve) return false;
@@ -114,14 +182,11 @@ function render() {
   const rows = current();
   const artists = new Set();
   rows.forEach((e) => (e.a || []).forEach((a) => artists.add(norm(a))));
-  $('count').textContent =
-    `${rows.length} shows · ${artists.size} artistas`;
+  $('count').textContent = `${rows.length} shows · ${artists.size} artistas`;
 
-  if (!rows.length) {
-    out.innerHTML = '<p class="empty">Nada coincide con esa búsqueda.</p>';
-    return;
-  }
-  out.innerHTML = mode === 'date' ? byDate(rows) : byArtist(rows);
+  out.innerHTML = rows.length
+    ? (mode === 'date' ? byDate(rows) : byArtist(rows))
+    : '<p class="empty">Nada coincide con esa búsqueda.</p>';
 }
 
 function eventHTML(e) {
@@ -147,11 +212,9 @@ function byDate(rows) {
     days.get(e.d).push(e);
   });
 
-  let html = '';
-  let lastMonth = '';
+  let html = '', lastMonth = '';
   [...days.keys()].sort().forEach((iso) => {
-    const dt = parseDay(iso);
-    const mk = iso.slice(0, 7);
+    const dt = parseDay(iso), mk = iso.slice(0, 7);
     if (mk !== lastMonth) {
       lastMonth = mk;
       html += `<h2 class="month">${MESES[dt.getMonth()]} ${dt.getFullYear()}</h2>`;
@@ -165,33 +228,25 @@ function byDate(rows) {
 }
 
 function byArtist(rows) {
-  // One entry per artist, listing every date they play.
   const map = new Map();
-  rows.forEach((e) => {
-    (e.a || []).forEach((a) => {
-      const k = norm(a);
-      if (!k) return;
-      if (!map.has(k)) map.set(k, { name: a, gigs: [] });
-      map.get(k).gigs.push(e);
-    });
-  });
+  rows.forEach((e) => (e.a || []).forEach((a) => {
+    const k = norm(a);
+    if (!k) return;
+    if (!map.has(k)) map.set(k, { name: a, gigs: [] });
+    map.get(k).gigs.push(e);
+  }));
 
-  const list = [...map.values()].sort((a, b) =>
-    a.name.localeCompare(b.name, 'es', { sensitivity: 'base' }));
+  const list = [...map.values()]
+    .sort((a, b) => a.name.localeCompare(b.name, 'es', { sensitivity: 'base' }));
 
-  const html = list.map((a) => {
-    const gigs = a.gigs
-      .slice()
-      .sort((x, y) => x.d.localeCompare(y.d))
-      .map((e) => {
-        const dt = parseDay(e.d);
-        return `<div class="gig"><a href="${esc(e.k || e.u)}" target="_blank" rel="noopener">`
-          + `<b>${dt.getDate()} ${MESES[dt.getMonth()].slice(0, 3)}</b> · ${esc(e._v)}</a></div>`;
-      }).join('');
+  return `<div class="artists">${list.map((a) => {
+    const gigs = a.gigs.slice().sort((x, y) => x.d.localeCompare(y.d)).map((e) => {
+      const dt = parseDay(e.d);
+      return `<div class="gig"><a href="${esc(e.k || e.u)}" target="_blank" rel="noopener">`
+        + `<b>${dt.getDate()} ${MESES[dt.getMonth()].slice(0, 3)}</b> · ${esc(e._v)}</a></div>`;
+    }).join('');
     return `<div class="artist"><h3>${esc(a.name)}</h3>${gigs}</div>`;
-  }).join('');
-
-  return `<div class="artists">${html}</div>`;
+  }).join('')}</div>`;
 }
 
 boot();

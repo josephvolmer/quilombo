@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import shutil
+import urllib.request
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
@@ -16,6 +17,28 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SITE = ROOT / "site"
 PUBLIC = ROOT / "public"
+VENDOR = ROOT / "site" / "vendor"
+
+# Pinned third-party assets, downloaded at build time and served from our
+# own origin. No runtime CDN dependency: if jsDelivr is down or an npm
+# package is yanked, the built site is unaffected.
+VENDORED = {
+    "tsparticles.slim.min.js":
+        "https://cdn.jsdelivr.net/npm/@tsparticles/slim@3.9.1/tsparticles.slim.bundle.min.js",
+}
+
+
+def vendor() -> None:
+    """Fetch pinned assets once; cached in site/vendor and committed."""
+    VENDOR.mkdir(parents=True, exist_ok=True)
+    for name, url in VENDORED.items():
+        dest = VENDOR / name
+        if dest.exists() and dest.stat().st_size > 1000:
+            continue
+        print(f"  vendoring {name} …")
+        req = urllib.request.Request(url, headers={"User-Agent": "build"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            dest.write_bytes(r.read())
 
 
 def main() -> None:
@@ -81,10 +104,13 @@ def main() -> None:
         json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8")
 
-    # Copy the static shell over.
+    # Copy the static shell over, plus vendored libraries.
+    vendor()
     for f in SITE.iterdir():
         if f.is_file():
             shutil.copy2(f, PUBLIC / f.name)
+    if VENDOR.exists():
+        shutil.copytree(VENDOR, PUBLIC / "vendor", dirs_exist_ok=True)
 
     size = (PUBLIC / "data.json").stat().st_size
     print(f"  events:   {len(rows)}")

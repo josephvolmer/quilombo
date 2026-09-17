@@ -12,7 +12,7 @@ from pathlib import Path
 import requests
 
 from core import (Event, polite_get, iter_jsonld, is_event_node,
-                  event_from_jsonld, parse_date, HEADERS)
+                  event_from_jsonld, parse_date, clean_artist, HEADERS)
 
 # --------------------------------------------------------------------- RA
 
@@ -55,7 +55,7 @@ def _ra_lineup_names(lineup: str | None) -> list[str]:
             names.append(line)
     out, seen = [], set()
     for n in names:
-        n = n.strip()
+        n = clean_artist(n)
         if n and n.lower() not in seen:
             seen.add(n.lower())
             out.append(n)

@@ -10,7 +10,7 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
-from core import norm_artist, norm_venue, artists_from_title
+from core import norm_artist, norm_venue, artists_from_title, clean_artist
 from sources import ALL_SOURCES, UNDATED_SOURCES
 
 OUT = Path(__file__).resolve().parent.parent / "data"
@@ -58,18 +58,22 @@ def merge(results: dict[str, list]):
         d = best.as_dict()
         d["sources"] = sorted({e.source for e in group})
         # Union artists + genres across duplicates.
-        PLACEHOLDER = {"tba", "tbc", "secret", "line up", "lineup", "artistas"}
         seen, arts = set(), []
         for e in group:
             for a in e.artists:
+                a = clean_artist(a)
+                if not a:
+                    continue
                 na = norm_artist(a)
-                if na and na not in seen and na not in PLACEHOLDER:
+                if na and na not in seen:
                     seen.add(na)
                     arts.append(a)
         # Venti and Indie Hoy carry no `performer` field, but bill the
         # artist in the title ("Blair en Deseo"). Fall back to parsing it.
         if not arts:
-            arts = artists_from_title(best.title)
+            arts = [a for a in
+                    (clean_artist(x) for x in artists_from_title(best.title))
+                    if a]
             d["artist_source"] = "title" if arts else "none"
         else:
             d["artist_source"] = "structured"
