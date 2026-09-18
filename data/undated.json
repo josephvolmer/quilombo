@@ -970,23 +970,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Banff",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Banff"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/banff/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/banff/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_40.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Don Giovanni",
   "date": "",
   "venue": "Teatro Avenida",
