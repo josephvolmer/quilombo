@@ -800,23 +800,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Flores y Chacareras",
-  "date": "",
-  "venue": "Saldias Arena",
-  "artists": [
-   "Flores y Chacareras"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/flores-y-chacareras/saldias-arena",
-  "ticket_url": "https://www.ticketek.com.ar/flores-y-chacareras/saldias-arena",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/flores_y_chacareras440_x_600_px.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Micaela Chauque",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -828,6 +811,23 @@
   "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mica440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Chango Spasiuk",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Chango Spasiuk"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600chango.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1140,85 +1140,102 @@
  },
  {
   "source": "ticketek",
-  "title": "Elena Roger",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Elena Roger"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/elena-roger",
-  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Elena Roger",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Elena Roger"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/elena-roger",
-  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jorge Rojas",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Jorge Rojas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-rojas",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jorge Rojas",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Jorge Rojas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-rojas",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "El Hombre Inesperado",
+  "title": "Terapia Despareja",
   "date": "",
   "venue": "Teatro Devoto",
   "artists": [
-   "El Hombre Inesperado"
+   "Terapia Despareja"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
+  "url": "https://www.ticketek.com.ar/terapia-despareja",
+  "ticket_url": "https://www.ticketek.com.ar/terapia-despareja",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/hombre_inesperado.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/terapia440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Terapia Despareja",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Terapia Despareja"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/terapia-despareja",
+  "ticket_url": "https://www.ticketek.com.ar/terapia-despareja",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/terapia440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Elena Roger",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Elena Roger"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/elena-roger",
+  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Elena Roger",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Elena Roger"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/elena-roger",
+  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
