@@ -460,23 +460,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Agus Bernasconi",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Agus Bernasconi"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/agus440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Zoe Gotusso",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -970,23 +953,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Don Giovanni",
-  "date": "",
-  "venue": "Teatro Avenida",
-  "artists": [
-   "Don Giovanni"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/don-giovanni/teatro-avenida",
-  "ticket_url": "https://www.ticketek.com.ar/don-giovanni/teatro-avenida",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/don_g_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La verdadera historia de Ricardo III",
   "date": "",
   "venue": "Teatro San Martín",
@@ -998,23 +964,6 @@
   "ticket_url": "https://www.ticketek.com.ar/la-verdadera-historia-de-ricardo-iii/teatro-san-martin",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ricardo3_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ballet Clásico de San Petersburgo",
-  "date": "",
-  "venue": "Teatro Avenida",
-  "artists": [
-   "Ballet Clásico de San Petersburgo"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ballet-clasico-de-san-petersburgo/teatro-avenida",
-  "ticket_url": "https://www.ticketek.com.ar/ballet-clasico-de-san-petersburgo/teatro-avenida",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ballet_sp_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1242,6 +1191,23 @@
  },
  {
   "source": "ticketek",
+  "title": "El Hombre Inesperado",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "El Hombre Inesperado"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/hombre_inesperado.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Modelo Vivo Muerto ",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1270,23 +1236,6 @@
   "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Fede Cyrulnik",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Fede Cyrulnik"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/fede-cyrulnik/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/fede-cyrulnik/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fc_g_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1548,6 +1497,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Dalia Gutmann",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Dalia Gutmann"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Dani La Chepi",
   "date": "",
   "venue": "Teatro Marín",
@@ -1565,17 +1531,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Dalia Gutmann",
+  "title": "Bianca del Rio",
   "date": "",
-  "venue": "Auditorio de Belgrano",
+  "venue": "Teatro Opera On",
   "artists": [
-   "Dalia Gutmann"
+   "Bianca del Rio"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "url": "https://www.ticketek.com.ar/bianca-del-rio/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/bianca-del-rio/teatro-opera",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bianca_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
