@@ -171,17 +171,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Isha Escribano",
+  "title": "A Viva Voce",
   "date": "",
-  "venue": "Teatro Margarita Xirgu",
+  "venue": "Teatro Santa María",
   "artists": [
-   "Isha Escribano"
+   "A Viva Voce"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/isha-escribano/teatro-margarita-xirgu",
-  "ticket_url": "https://www.ticketek.com.ar/isha-escribano/teatro-margarita-xirgu",
+  "url": "https://www.ticketek.com.ar/viva-voce/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/viva-voce/teatro-santa-maria",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/escriba440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/avivavoce_a_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -324,23 +324,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Ensamble 440",
-  "date": "",
-  "venue": "Teatro Universidad Nacional de la Matanza",
-  "artists": [
-   "Ensamble 440"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ensamble-440/teatro-universidad-nacional-de-la-matanza",
-  "ticket_url": "https://www.ticketek.com.ar/ensamble-440/teatro-universidad-nacional-de-la-matanza",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ensamble_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Enrico Barbizi",
   "date": "",
   "venue": "Teatro Comedia",
@@ -386,6 +369,23 @@
   "ticket_url": "https://www.ticketek.com.ar/virus/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/viru440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Guasones",
+  "date": "",
+  "venue": "CLUB A. MARIANO MORENO",
+  "artists": [
+   "Guasones"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/guasones/club-mariano-moreno",
+  "ticket_url": "https://www.ticketek.com.ar/guasones/club-mariano-moreno",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/tkt-960-x-400-gok.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -488,6 +488,23 @@
   "ticket_url": "https://www.ticketek.com.ar/camilo/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/camilo_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Sandra Mihanovich",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Sandra Mihanovich"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/sandra-mihanovich/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/sandra-mihanovich/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mihaparaiso440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -749,23 +766,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Solipalma",
-  "date": "",
-  "venue": "Teatro del Globo",
-  "artists": [
-   "Solipalma"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/solipalma/teatro-del-globo",
-  "ticket_url": "https://www.ticketek.com.ar/solipalma/teatro-del-globo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/solipalma_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Gabriel Prado",
   "date": "",
   "venue": "Teatro Opera On",
@@ -811,6 +811,40 @@
   "ticket_url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600chango.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1021,34 +1055,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Empieza con D ",
+  "title": "HAIRSPRAY",
   "date": "",
-  "venue": "Teatro Devoto",
+  "venue": "Teatro Coliseo",
   "artists": [
-   "Empieza con D "
+   "HAIRSPRAY"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/empieza-con-d",
-  "ticket_url": "https://www.ticketek.com.ar/empieza-con-d",
+  "url": "https://www.ticketek.com.ar/hairspray-2027/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/hairspray-2027/teatro-coliseo",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/empieza_con_d_-_ticketek_-_440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Empieza con D ",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Empieza con D "
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/empieza-con-d",
-  "ticket_url": "https://www.ticketek.com.ar/empieza-con-d",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/empieza_con_d_-_ticketek_-_440x600.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1151,40 +1168,6 @@
   "ticket_url": "https://www.ticketek.com.ar/elena-roger",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jorge Rojas",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Jorge Rojas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-rojas",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jorge Rojas",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Jorge Rojas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-rojas",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
