@@ -241,23 +241,6 @@
   "source": "ticketek",
   "title": "Baglietto + Vitale",
   "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Baglietto + Vitale"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/baglietto-vitale",
-  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baggen440_0.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Baglietto + Vitale",
-  "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
   "artists": [
    "Baglietto + Vitale"
@@ -766,23 +749,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Gabriel Prado",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Gabriel Prado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gab440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Micaela Chauque",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -794,6 +760,23 @@
   "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mica440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Gabriel Prado",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Gabriel Prado"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gab440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -936,6 +919,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Los Bybys",
+  "date": "",
+  "venue": "Tropitango",
+  "artists": [
+   "Los Bybys"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-bybys/tropitango",
+  "ticket_url": "https://www.ticketek.com.ar/los-bybys/tropitango",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bybys_26_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "El Oficial Gordillo",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1057,15 +1057,32 @@
   "source": "ticketek",
   "title": "HAIRSPRAY",
   "date": "",
+  "venue": "Teatro Tronador",
+  "artists": [
+   "HAIRSPRAY"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/hairspray",
+  "ticket_url": "https://www.ticketek.com.ar/hairspray",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_generica.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "HAIRSPRAY",
+  "date": "",
   "venue": "Teatro Coliseo",
   "artists": [
    "HAIRSPRAY"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/hairspray-2027/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/hairspray-2027/teatro-coliseo",
+  "url": "https://www.ticketek.com.ar/hairspray",
+  "ticket_url": "https://www.ticketek.com.ar/hairspray",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia_0.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_generica.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1480,23 +1497,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Dalia Gutmann",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "Dalia Gutmann"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Dani La Chepi",
   "date": "",
   "venue": "Teatro Marín",
@@ -1508,6 +1508,23 @@
   "ticket_url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chepi26_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dalia Gutmann",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Dalia Gutmann"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
