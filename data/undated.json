@@ -776,7 +776,7 @@
   "url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
   "ticket_url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gab440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fol440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1497,23 +1497,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Dani La Chepi",
-  "date": "",
-  "venue": "Teatro Marín",
-  "artists": [
-   "Dani La Chepi"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
-  "ticket_url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chepi26_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Dalia Gutmann",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1525,6 +1508,23 @@
   "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dani La Chepi",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Dani La Chepi"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
+  "ticket_url": "https://www.ticketek.com.ar/dani-la-chepi/teatro-marin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chepi26_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""

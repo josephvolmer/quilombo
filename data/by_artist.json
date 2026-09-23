@@ -1,28 +1,4 @@
 {
- "01:00am": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2540191",
-   "title": "Minelek Dark Spring Electro"
-  }
- ],
- "09:00pm Roxie": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2540191",
-   "title": "Minelek Dark Spring Electro"
-  }
- ],
- "11:30pm Mujik (Live!)": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2540191",
-   "title": "Minelek Dark Spring Electro"
-  }
- ],
  "2 TIERRAS ROCK": [
   {
    "date": "2026-10-17",
@@ -159,6 +135,14 @@
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
   }
  ],
+ "After sudan archives": [
+  {
+   "date": "2026-09-25",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/after-sudan-archives-en-niceto-club",
+   "title": "After sudan archives"
+  }
+ ],
  "Agarrate Catalina": [
   {
    "date": "2026-12-08",
@@ -269,6 +253,14 @@
    "venue": "Groove",
    "url": "https://ra.co/events/2540493",
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
+  }
+ ],
+ "AM Sessions": [
+  {
+   "date": "2026-09-27",
+   "venue": "MISIÓN",
+   "url": "https://venti.live/evento/am-sessions-27-9",
+   "title": "AM Sessions - 27/9"
   }
  ],
  "Amador": [
@@ -455,6 +447,22 @@
    "title": "Arcana Victoria - Traslado Oficial - 26 de Septiembre"
   }
  ],
+ "ARGØN": [
+  {
+   "date": "2026-10-17",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
+   "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
+  }
+ ],
+ "ARIEF": [
+  {
+   "date": "2026-10-03",
+   "venue": "2GTHR Club Morocco (Viernes)",
+   "url": "https://venti.live/evento/elio-riso-festa-bros-toomy-disco-2gthr-morocco-vie-02-10",
+   "title": "ELIO RISO, FESTA BROS b2b ARIEF, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
+  }
+ ],
  "Ariel Darmun": [
   {
    "date": "2026-10-15",
@@ -477,6 +485,14 @@
    "venue": "TBA - La Biblioteca, San Telmo",
    "url": "https://ra.co/events/2538171",
    "title": "Sol Porro - My House"
+  }
+ ],
+ "Armandinho": [
+  {
+   "date": "2026-10-08",
+   "venue": "La Trastienda",
+   "url": "https://www.songkick.com/concerts/43367747-armandinho-at-la-trastienda?utm_medium=organic&utm_source=microformat",
+   "title": "Armandinho"
   }
  ],
  "ARMINA": [
@@ -685,14 +701,6 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/benjamin-amadeo-en-teatro-gran-rex/",
    "title": "Benjamín Amadeo"
-  }
- ],
- "Berger Muzik": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2540191",
-   "title": "Minelek Dark Spring Electro"
   }
  ],
  "Bermani": [
@@ -1173,6 +1181,14 @@
    "title": "Miguel Bastida - Área Costanera Quilmes - ALLMusicParties"
   }
  ],
+ "chinwezz": [
+  {
+   "date": "2026-10-01",
+   "venue": "Don Gato",
+   "url": "https://venti.live/evento/venti-live-04-chinwezz-dj-karen-santi-martinez",
+   "title": "Venti Live 04 x Under Rail: Chinwezz, DJ Karen, Santi Martinez"
+  }
+ ],
  "CHIRI": [
   {
    "date": "2026-11-22",
@@ -1187,6 +1203,14 @@
    "venue": "Deseo BS AS",
    "url": "https://ra.co/events/2527627",
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
+  }
+ ],
+ "Chowa": [
+  {
+   "date": "2026-09-26",
+   "venue": "Lalalá",
+   "url": "https://indiehoy.com/agenda/pablo-malaurie-chowa-y-mas-en-lalala/",
+   "title": "Pablo Malaurie, Chowa y más"
   }
  ],
  "Chris Parodi": [
@@ -1253,6 +1277,14 @@
    "title": "Ultra Buenos Aires 2027, Ciudad de Buenos Aires | ALLMusicParties"
   }
  ],
+ "Cloe Demer \"Sin Rodeos": [
+  {
+   "date": "2026-12-04",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/cloe-demer-sin-rodeos-en-niceto-bar",
+   "title": "Cloe Demer \"Sin Rodeos\""
+  }
+ ],
  "Cloudy": [
   {
    "date": "2026-11-20",
@@ -1299,6 +1331,14 @@
    "venue": "Roll and Rock Beach House",
    "url": "https://venti.live/evento/colyn-27-de-diciembre-en-pde",
    "title": "COLYN - 27 de diciembre @ PDE"
+  }
+ ],
+ "Combo Los Chichones": [
+  {
+   "date": "2026-09-25",
+   "venue": "Lalalá",
+   "url": "https://indiehoy.com/agenda/el-asesino-del-romance-combo-los-chichones-lalala/",
+   "title": "El Asesino del Romance y Combo Los Chichones"
   }
  ],
  "Comida para Llevar": [
@@ -1386,7 +1426,7 @@
    "date": "2026-09-25",
    "venue": "TBA - Palacio de la Reconquista, Microcentro",
    "url": "https://ra.co/events/2507251",
-   "title": "Cuartero - Cødigo, Mushroom, Microcentro - ALLMusicParties"
+   "title": "Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties"
   }
  ],
  "Czerniak": [
@@ -1483,6 +1523,14 @@
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/data-jazz-en-vivo-rafa-grand-piano-fruta-negra",
    "title": "DATA JAZZ x BELA - En vivo: RAFA GRAND PIANO + FRUTA NEGRA"
+  }
+ ],
+ "DATA LOCAL x MNT > NAKAR": [
+  {
+   "date": "2026-10-02",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/data-local-x-mnt-nakar-zen-reverb",
+   "title": "DATA LOCAL x MNT > NAKAR + ZEN REVERB"
   }
  ],
  "David Löhlein": [
@@ -1585,6 +1633,14 @@
    "title": "IGNEUM Pres. Desconocidos"
   }
  ],
+ "Dj Karen": [
+  {
+   "date": "2026-10-01",
+   "venue": "Don Gato",
+   "url": "https://venti.live/evento/venti-live-04-chinwezz-dj-karen-santi-martinez",
+   "title": "Venti Live 04 x Under Rail: Chinwezz, DJ Karen, Santi Martinez"
+  }
+ ],
  "Dj Tennis": [
   {
    "date": "2026-10-16",
@@ -1685,6 +1741,14 @@
    "title": "Juan (AR) & Sergio Saffe"
   }
  ],
+ "El Asesino del Romance": [
+  {
+   "date": "2026-09-25",
+   "venue": "Lalalá",
+   "url": "https://indiehoy.com/agenda/el-asesino-del-romance-combo-los-chichones-lalala/",
+   "title": "El Asesino del Romance y Combo Los Chichones"
+  }
+ ],
  "El Chacal": [
   {
    "date": "2026-10-10",
@@ -1760,7 +1824,7 @@
    "date": "2026-10-03",
    "venue": "2GTHR Club Morocco (Viernes)",
    "url": "https://venti.live/evento/elio-riso-festa-bros-toomy-disco-2gthr-morocco-vie-02-10",
-   "title": "ELIO RISO, FESTA BROS, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
+   "title": "ELIO RISO, FESTA BROS b2b ARIEF, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
   }
  ],
  "EllA": [
@@ -1783,6 +1847,14 @@
    "venue": "Archi Club",
    "url": "https://venti.live/evento/emanuel-satie-maga-flama-x-koolkidz-3-de-octubre-archi",
    "title": "Emanuel Satie & Maga - Flama x Kool Kidz - 3 de octubre @ Archi"
+  }
+ ],
+ "EMILIANO DEMARCO": [
+  {
+   "date": "2026-10-11",
+   "venue": "El Atico Club",
+   "url": "https://venti.live/evento/emiliano-demarco",
+   "title": "EMILIANO DEMARCO"
   }
  ],
  "Emiliano Demarco": [
@@ -2020,7 +2092,7 @@
    "date": "2026-10-03",
    "venue": "2GTHR Club Morocco (Viernes)",
    "url": "https://venti.live/evento/elio-riso-festa-bros-toomy-disco-2gthr-morocco-vie-02-10",
-   "title": "ELIO RISO, FESTA BROS, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
+   "title": "ELIO RISO, FESTA BROS b2b ARIEF, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
   }
  ],
  "ffina": [
@@ -2028,7 +2100,7 @@
    "date": "2026-09-25",
    "venue": "TBA - Palacio de la Reconquista, Microcentro",
    "url": "https://ra.co/events/2507251",
-   "title": "Cuartero - Cødigo, Mushroom, Microcentro - ALLMusicParties"
+   "title": "Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties"
   }
  ],
  "FIEBRE FIESTA": [
@@ -2249,6 +2321,22 @@
    "title": "Gallo Criollo celebra su 1er año"
   }
  ],
+ "GAUCHITO CLUB": [
+  {
+   "date": "2026-10-04",
+   "venue": "Bodega Giol",
+   "url": "https://venti.live/evento/gauchito-club-domingo-4-de-octubre",
+   "title": "GAUCHITO CLUB DOMINGO 4 DE OCTUBRE"
+  }
+ ],
+ "GENESIS VOL. 2": [
+  {
+   "date": "2026-10-17",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/genesis-vol-2-en-niceto-club",
+   "title": "GENESIS VOL. 2"
+  }
+ ],
  "Geoff Tate": [
   {
    "date": "2027-01-14",
@@ -2311,14 +2399,6 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/green-valley-meets-alborosie-en-niceto-club/",
    "title": "Green Valley meets Alborosie"
-  }
- ],
- "GRETA (2)": [
-  {
-   "date": "2026-10-16",
-   "venue": "Avant Garten",
-   "url": "https://ra.co/events/2514006",
-   "title": "Innen x AVG pres. Manu Oubiña, Greta"
   }
  ],
  "GROOVE DEALER": [
@@ -2579,6 +2659,14 @@
    "title": "RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N"
   }
  ],
+ "ILLUSIONIZE": [
+  {
+   "date": "2026-10-10",
+   "venue": "TBA - Locación a confirmar, Costanera",
+   "url": "https://ra.co/events/2543287",
+   "title": "ILLUSIONIZE - Costanera Buenos Aires - ALLMusicParties"
+  }
+ ],
  "ILLUSIONIZE x VNG": [
   {
    "date": "2026-10-11",
@@ -2592,7 +2680,7 @@
    "date": "2026-09-25",
    "venue": "TBA - Palacio de la Reconquista, Microcentro",
    "url": "https://ra.co/events/2507251",
-   "title": "Cuartero - Cødigo, Mushroom, Microcentro - ALLMusicParties"
+   "title": "Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties"
   }
  ],
  "Indios": [
@@ -2877,6 +2965,14 @@
    "title": "Kakkmaddafakka en Argentina"
   }
  ],
+ "KALIX pres. ARSENAL (PBJ": [
+  {
+   "date": "2026-10-17",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
+   "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
+  }
+ ],
  "Kas:st": [
   {
    "date": "2026-10-31",
@@ -3001,6 +3097,14 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/kybba-en-niceto-club/",
    "title": "Kybba"
+  }
+ ],
+ "kyogre": [
+  {
+   "date": "2026-09-26",
+   "venue": "La Cultura del Barrio",
+   "url": "https://www.songkick.com/concerts/43428315-mis-suenos-son-de-tu-adios-at-la-cultura-del-barrio?utm_medium=organic&utm_source=microformat",
+   "title": "mis sueños son de tu adiós"
   }
  ],
  "Kölsch": [
@@ -3179,6 +3283,14 @@
    "title": "La Pequeña Big Band"
   }
  ],
+ "LA PEÑA DE HUAYRA": [
+  {
+   "date": "2026-10-01",
+   "venue": "Ananá Bar & Grill Restó",
+   "url": "https://venti.live/evento/la-pe-a-de-huayra-en-lujan",
+   "title": "LA PEÑA DE HUAYRA en LUJAN"
+  }
+ ],
  "LA PLAYGROUND": [
   {
    "date": "2026-09-25",
@@ -3209,14 +3321,6 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club",
    "title": "LALIFEST by MANDALAY 26 SEP en Humboldt | Niceto Club (+18 años)"
-  }
- ],
- "LANDMVRKS": [
-  {
-   "date": "2026-09-22",
-   "venue": "El Teatrito",
-   "url": "https://www.songkick.com/concerts/43171368-landmvrks-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-   "title": "LANDMVRKS"
   }
  ],
  "LAS CRUXES": [
@@ -3289,6 +3393,14 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/laura-esquivel-y-brenda-asnicar-en-teatro-gran-rex/",
    "title": "Laura Esquivel y Brenda Asnicar"
+  }
+ ],
+ "LAUTA": [
+  {
+   "date": "2026-11-29",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/lauta-29-nov-en-niceto-club-18a-os",
+   "title": "LAUTA 29 NOV en Niceto Club (+18años)"
   }
  ],
  "Lautaro Gabioud": [
@@ -3383,14 +3495,6 @@
    "venue": "Teatro Gran Rex",
    "url": "https://www.songkick.com/concerts/43158063-lindsey-stirling-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
    "title": "Lindsey Stirling"
-  }
- ],
- "Line-Up:": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2540191",
-   "title": "Minelek Dark Spring Electro"
   }
  ],
  "Lobo Miro": [
@@ -3517,14 +3621,6 @@
    "venue": "TBA - Club Morocco, Costanera",
    "url": "https://ra.co/events/2527593",
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
-  }
- ],
- "Lucy Patané": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Fábrica",
-   "url": "https://www.songkick.com/concerts/43391384-noelia-sinkunas-at-la-fabrica?utm_medium=organic&utm_source=microformat",
-   "title": "Noelia Sinkunas"
   }
  ],
  "Ludmila Di Pasquale": [
@@ -3738,7 +3834,7 @@
    "date": "2026-10-16",
    "venue": "Avant Garten",
    "url": "https://ra.co/events/2514006",
-   "title": "Innen x AVG pres. Manu Oubiña, Greta"
+   "title": "Innen x AVG pres. Manu Oubiña, Mich"
   },
   {
    "date": "2026-11-14",
@@ -3843,8 +3939,8 @@
   {
    "date": "2026-11-26",
    "venue": "Mandarine Park & Tent",
-   "url": "https://ra.co/events/2540679",
-   "title": "Underworld / Mariano Mellino - MANDARINE PARK, BS. AS"
+   "url": "https://venti.live/evento/underworld-mandarine-park",
+   "title": "UNDERWORLD @ Mandarine Park"
   },
   {
    "date": "2026-12-29",
@@ -3949,6 +4045,14 @@
    "title": "Mercedes Cañas"
   }
  ],
+ "Mich (10)": [
+  {
+   "date": "2026-10-16",
+   "venue": "Avant Garten",
+   "url": "https://ra.co/events/2514006",
+   "title": "Innen x AVG pres. Manu Oubiña, Mich"
+  }
+ ],
  "Michael Bibi": [
   {
    "date": "2026-11-21",
@@ -4027,6 +4131,14 @@
    "title": "Mis Peores Enemigos presenta \"Segundo Lugar\" junto a Full de Mango en Humboldt | Niceto Club (+18 años)"
   }
  ],
+ "mis sueños son de tu adiós": [
+  {
+   "date": "2026-09-26",
+   "venue": "La Cultura del Barrio",
+   "url": "https://www.songkick.com/concerts/43428315-mis-suenos-son-de-tu-adios-at-la-cultura-del-barrio?utm_medium=organic&utm_source=microformat",
+   "title": "mis sueños son de tu adiós"
+  }
+ ],
  "MissLupe": [
   {
    "date": "2026-09-25",
@@ -4075,12 +4187,6 @@
  ],
  "Morat": [
   {
-   "date": "2026-09-22",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43419204-morat-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Morat"
-  },
-  {
    "date": "2026-09-24",
    "venue": "Movistar Arena",
    "url": "https://www.songkick.com/concerts/43214251-morat-at-movistar-arena?utm_medium=organic&utm_source=microformat",
@@ -4109,6 +4215,14 @@
    "venue": "Movistar Arena",
    "url": "https://www.songkick.com/concerts/43214261-morat-at-movistar-arena?utm_medium=organic&utm_source=microformat",
    "title": "Morat"
+  }
+ ],
+ "MORE FAYAH": [
+  {
+   "date": "2026-10-09",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/more-fayah-8-oct-en-niceto-bar",
+   "title": "MORE FAYAH 8 OCT"
   }
  ],
  "Motel Montpellier": [
@@ -4178,7 +4292,7 @@
    "date": "2026-09-25",
    "venue": "TBA - Palacio de la Reconquista, Microcentro",
    "url": "https://ra.co/events/2507251",
-   "title": "Cuartero - Cødigo, Mushroom, Microcentro - ALLMusicParties"
+   "title": "Cuartero - Codigo, Mushroom, Microcentro - ALLMusicParties"
   }
  ],
  "Nahuel Mansilla": [
@@ -4391,14 +4505,6 @@
    "title": "Nocturnal Depression en Argentina"
   }
  ],
- "Noelia Sinkunas": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Fábrica",
-   "url": "https://www.songkick.com/concerts/43391384-noelia-sinkunas-at-la-fabrica?utm_medium=organic&utm_source=microformat",
-   "title": "Noelia Sinkunas"
-  }
- ],
  "Nolamires.": [
   {
    "date": "2026-09-26",
@@ -4559,6 +4665,14 @@
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
   }
  ],
+ "Open Studio": [
+  {
+   "date": "2026-10-03",
+   "venue": "San Martín 948",
+   "url": "https://venti.live/evento/open-studio",
+   "title": "Open Studio"
+  }
+ ],
  "Ostra Damus": [
   {
    "date": "2026-10-23",
@@ -4599,6 +4713,14 @@
    "venue": "Club Ciudad de Buenos Aires",
    "url": "https://ra.co/events/2541095",
    "title": "RAVE3000 FESTIVAL"
+  }
+ ],
+ "Pablo Malaurie": [
+  {
+   "date": "2026-09-26",
+   "venue": "Lalalá",
+   "url": "https://indiehoy.com/agenda/pablo-malaurie-chowa-y-mas-en-lalala/",
+   "title": "Pablo Malaurie, Chowa y más"
   }
  ],
  "pablopablo": [
@@ -4795,6 +4917,14 @@
    "title": "POPE – FULL CACHENGUE PRIMAVERA | SABADO 26.09"
   }
  ],
+ "POPE - SHOW": [
+  {
+   "date": "2026-10-29",
+   "venue": "POPE SOCIAL CLUB",
+   "url": "https://venti.live/evento/pope-piti-fernandez",
+   "title": "POPE - SHOW EN VIVO PITI FERNANDEZ"
+  }
+ ],
  "POPE HALLOWEEN": [
   {
    "date": "2026-11-01",
@@ -4809,6 +4939,14 @@
    "venue": "POPE SOCIAL CLUB",
    "url": "https://venti.live/evento/pope-halloween-reggaeton-retro-2000-viernes",
    "title": "POPE HALLOWEEN– REGGAETON RETRO 2000 | VIERNES"
+  }
+ ],
+ "Portland Banda": [
+  {
+   "date": "2026-09-26",
+   "venue": "La Cultura del Barrio",
+   "url": "https://www.songkick.com/concerts/43428315-mis-suenos-son-de-tu-adios-at-la-cultura-del-barrio?utm_medium=organic&utm_source=microformat",
+   "title": "mis sueños son de tu adiós"
   }
  ],
  "Poser": [
@@ -4897,6 +5035,14 @@
    "venue": "Strummer Bar",
    "url": "https://indiehoy.com/agenda/raise-my-kilt-en-strummer-bar/",
    "title": "Raise my Kilt"
+  }
+ ],
+ "RAMBLA | SATURDAY ON": [
+  {
+   "date": "2026-09-27",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/rambla-saturday-on-26-sep",
+   "title": "RAMBLA | SATURDAY ON 26 SEP"
   }
  ],
  "Random Fiesta": [
@@ -5077,6 +5223,14 @@
    "title": "Juan (AR) & Sergio Saffe"
   }
  ],
+ "ROTO": [
+  {
+   "date": "2026-10-24",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/ciclo-roto-23-oct-en-niceto-bar",
+   "title": "CICLO ROTO 23 OCT"
+  }
+ ],
  "Roy Khan": [
   {
    "date": "2026-10-16",
@@ -5133,14 +5287,6 @@
    "title": "HEISS TECHNO / AMK CLUB"
   }
  ],
- "Samiam": [
-  {
-   "date": "2026-09-22",
-   "venue": "Club Cultural Bula",
-   "url": "https://www.songkick.com/concerts/43261276-samiam-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-   "title": "Samiam"
-  }
- ],
  "SAN MARTIN VAMPIRE": [
   {
    "date": "2026-11-07",
@@ -5163,6 +5309,14 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/santi-muk-en-niceto-club-2/",
    "title": "Santi Muk"
+  }
+ ],
+ "Santiago Martínez": [
+  {
+   "date": "2026-10-01",
+   "venue": "Don Gato",
+   "url": "https://venti.live/evento/venti-live-04-chinwezz-dj-karen-santi-martinez",
+   "title": "Venti Live 04 x Under Rail: Chinwezz, DJ Karen, Santi Martinez"
   }
  ],
  "Santiago Maturano": [
@@ -5195,6 +5349,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/sara-hebe-presenta-negocionismo-en-bs-as-en-niceto-club",
    "title": "Sara Hebe Presenta Negocionismo en Bs As en Niceto Club (+18 años)"
+  }
+ ],
+ "Saturnus": [
+  {
+   "date": "2026-10-07",
+   "venue": "Club Cultural Bula",
+   "url": "https://www.songkick.com/concerts/43300659-saturnus-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
+   "title": "Saturnus"
   }
  ],
  "Schvartz Man": [
@@ -5341,6 +5503,14 @@
    "title": "Shintaro Sakamoto en Niceto Club (+18 años)"
   }
  ],
+ "SID": [
+  {
+   "date": "2026-10-17",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
+   "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
+  }
+ ],
  "Simon Vuarambon": [
   {
    "date": "2026-09-26",
@@ -5465,6 +5635,14 @@
    "title": "Arre Crew"
   }
  ],
+ "SPEED ANIVERSARIO": [
+  {
+   "date": "2026-10-11",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/speed-aniversario-en-niceto-club",
+   "title": "SPEED ANIVERSARIO"
+  }
+ ],
  "SPRING FREQUENCY by SONUM | NACHO PADILLA": [
   {
    "date": "2026-09-26",
@@ -5511,14 +5689,6 @@
    "venue": "The Roxy Live!",
    "url": "https://www.songkick.com/concerts/43374624-las-tussi-at-roxy-live?utm_medium=organic&utm_source=microformat",
    "title": "Las Tussi"
-  }
- ],
- "Sunset Chasers x ZAC": [
-  {
-   "date": "2026-10-24",
-   "venue": "Bodega Dante Robino",
-   "url": "https://venti.live/evento/sunset-chasers-x-zac",
-   "title": "Sunset Chasers x ZAC"
   }
  ],
  "SUNSET EL CABLE": [
@@ -5685,6 +5855,22 @@
    "title": "Temporada de Elefantes en Humboldt | Niceto Club (+18 años)"
   }
  ],
+ "TEMPRANO X QUBA": [
+  {
+   "date": "2026-10-09",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/viernes-09-10-temprano-x-quba",
+   "title": "VIERNES 09.10 | TEMPRANO X"
+  }
+ ],
+ "TERRA FURIA x Club Paraguay pres. Setaoc Mass - Open to Close": [
+  {
+   "date": "2026-09-26",
+   "venue": "Club Paraguay",
+   "url": "https://venti.live/evento/terra-furia-x-club-paraguay-pres-setaoc-mass-open-to-close",
+   "title": "TERRA FURIA x Club Paraguay pres. Setaoc Mass - Open to Close"
+  }
+ ],
  "Terrace": [
   {
    "date": "2026-10-11",
@@ -5791,8 +5977,8 @@
   {
    "date": "2026-10-08",
    "venue": "Uniclub",
-   "url": "https://indiehoy.com/agenda/tigers-jaw-gier-buenos-aires-argentina-2026/",
-   "title": "Tigers Jaw en Argentina"
+   "url": "https://www.songkick.com/concerts/43224467-tigers-jaw-at-uniclub?utm_medium=organic&utm_source=microformat",
+   "title": "Tigers Jaw"
   }
  ],
  "Time of Life": [
@@ -5856,7 +6042,7 @@
    "date": "2026-10-03",
    "venue": "2GTHR Club Morocco (Viernes)",
    "url": "https://venti.live/evento/elio-riso-festa-bros-toomy-disco-2gthr-morocco-vie-02-10",
-   "title": "ELIO RISO, FESTA BROS, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
+   "title": "ELIO RISO, FESTA BROS b2b ARIEF, TOOMY DISCO @ 2GTHR Morocco, Vie 02/10"
   }
  ],
  "TOTAL BLACK x ARZ": [
@@ -5881,6 +6067,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/fiesta-trevi-11-oct-en-humboldt-niceto-club-18-a-os",
    "title": "FIESTA TREVI 11 Oct en Humboldt - Niceto Club (+18 años)"
+  }
+ ],
+ "TTAIPAN)": [
+  {
+   "date": "2026-10-17",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
+   "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
   }
  ],
  "Twilight": [
@@ -5919,6 +6113,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/ultraligera-en-niceto-club",
    "title": "ULTRALIGERA en Niceto Club (+18 años)"
+  }
+ ],
+ "UMA SCHEFFER": [
+  {
+   "date": "2026-10-10",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/underbeat-x-bela-fabio-florido-uma-scheffer",
+   "title": "UNDERBEAT x BELA > FABIO FLORIDO + UMA SCHEFFER"
   }
  ],
  "Un Muerto Más": [
@@ -5961,12 +6163,20 @@
    "title": "UNDER RAIL • PSYCHEDELIC SPRING"
   }
  ],
+ "UNDERBEAT x BELA > FABIO FLORIDO": [
+  {
+   "date": "2026-10-10",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/underbeat-x-bela-fabio-florido-uma-scheffer",
+   "title": "UNDERBEAT x BELA > FABIO FLORIDO + UMA SCHEFFER"
+  }
+ ],
  "Underworld": [
   {
    "date": "2026-11-26",
    "venue": "Mandarine Park & Tent",
-   "url": "https://ra.co/events/2540679",
-   "title": "Underworld / Mariano Mellino - MANDARINE PARK, BS. AS"
+   "url": "https://venti.live/evento/underworld-mandarine-park",
+   "title": "UNDERWORLD @ Mandarine Park"
   },
   {
    "date": "2026-11-26",
@@ -5997,6 +6207,14 @@
    "venue": "Club Ciudad de Buenos Aires",
    "url": "https://ra.co/events/2541095",
    "title": "RAVE3000 FESTIVAL"
+  }
+ ],
+ "Varese": [
+  {
+   "date": "2026-11-26",
+   "venue": "Mandarine Park & Tent",
+   "url": "https://venti.live/evento/underworld-mandarine-park",
+   "title": "UNDERWORLD @ Mandarine Park"
   }
  ],
  "VASCO": [
@@ -6059,14 +6277,6 @@
    "venue": "JET",
    "url": "https://venti.live/evento/vinmusic-halloween-wines",
    "title": "VINMUSIC HALLOWEEN"
-  }
- ],
- "Visuals x UnPlug.": [
-  {
-   "date": "2026-09-22",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2540191",
-   "title": "Minelek Dark Spring Electro"
   }
  ],
  "Void": [
@@ -6197,6 +6407,14 @@
    "title": "ZABAL: ANNIVERSARY [ANL SERIES 002]"
   }
  ],
+ "ZAC x Sunset Chasers": [
+  {
+   "date": "2026-10-24",
+   "venue": "Bodega Dante Robino",
+   "url": "https://venti.live/evento/sunset-chasers-x-zac",
+   "title": "ZAC x Sunset Chasers"
+  }
+ ],
  "Zakk Sabbath": [
   {
    "date": "2026-10-22",
@@ -6229,12 +6447,28 @@
    "title": "Ze Pequeña en Niceto Club (+18 años)"
   }
  ],
+ "ZEN REVERB": [
+  {
+   "date": "2026-10-02",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/data-local-x-mnt-nakar-zen-reverb",
+   "title": "DATA LOCAL x MNT > NAKAR + ZEN REVERB"
+  }
+ ],
  "Zisko": [
   {
    "date": "2026-10-11",
    "venue": "Dune Park",
    "url": "https://ra.co/events/2535541",
    "title": "SYNTESIS 2º ANIVERSARIO: Zisko, Bondarük & SMT, Teateo"
+  }
+ ],
+ "ZKY": [
+  {
+   "date": "2026-10-17",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
+   "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
   }
  ],
  "Zoe Gotusso": [
