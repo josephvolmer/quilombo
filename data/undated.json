@@ -154,6 +154,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Gibran Alcocer",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Gibran Alcocer"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gibran_alcorcer_pieza_440x600_teatro_coliseo_1.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Fiesta Mayores",
   "date": "",
   "venue": "Arena Maipu",
@@ -165,23 +182,6 @@
   "ticket_url": "https://www.ticketek.com.ar/fiesta-mayores/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fiestas_mayores_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "A Viva Voce",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "A Viva Voce"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/viva-voce/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/viva-voce/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/avivavoce_a_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -793,7 +793,7 @@
   "url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
   "ticket_url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600chango.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chango_spasiuk.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1130,25 +1130,8 @@
    "Terapia Despareja"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/terapia-despareja",
-  "ticket_url": "https://www.ticketek.com.ar/terapia-despareja",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/terapia440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Terapia Despareja",
-  "date": "",
-  "venue": "Teatro Marín",
-  "artists": [
-   "Terapia Despareja"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/terapia-despareja",
-  "ticket_url": "https://www.ticketek.com.ar/terapia-despareja",
+  "url": "https://www.ticketek.com.ar/terapia-despareja/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/terapia-despareja/teatro-devoto",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/terapia440x600.jpg",
   "lat": null,
@@ -1293,23 +1276,6 @@
  },
  {
   "source": "ticketek",
-  "title": "DM Experience",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "DM Experience"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/dm-experience/teatro-el-circulo",
-  "ticket_url": "https://www.ticketek.com.ar/dm-experience/teatro-el-circulo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dmgen440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Clearwater",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1361,6 +1327,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Jackson Project",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Jackson Project"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jp_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Jere Klein",
   "date": "",
   "venue": "Teatro Opera On",
@@ -1389,23 +1372,6 @@
   "ticket_url": "https://www.ticketek.com.ar/giselle/teatro-el-circulo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/giselle440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Buenos Aires Ballet",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "Buenos Aires Ballet"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/buenos-aires-ballet/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/buenos-aires-ballet/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baballet440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""

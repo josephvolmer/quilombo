@@ -2208,90 +2208,50 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Bandana (AR)",
+  "source": "bebop",
+  "title": "Mimi Maura",
   "date": "2026-09-23",
-  "venue": "Teatro Gran Rex",
+  "venue": "Bebop Club",
   "artists": [
-   "Bandana (AR)"
+   "Mimi Maura"
   ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43263213-bandana-ar-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43263213-bandana-ar-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
-  "price": "Desde $35.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10396776/huge_avatar",
-  "lat": -34.60339,
-  "lon": -58.37887,
-  "start_time": "",
-  "sources": [
-   "indiehoy",
-   "songkick"
+  "genres": [
+   "Jazz"
   ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Caifanes",
-  "date": "2026-09-23",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "Caifanes"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43062726-caifanes-at-teatro-vorterix?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43062726-caifanes-at-teatro-vorterix?utm_medium=organic&utm_source=microformat",
-  "price": "Desde $45.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/367950/huge_avatar",
-  "lat": -34.58022,
-  "lon": -58.45078,
-  "start_time": "19:00",
-  "sources": [
-   "indiehoy",
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Marttein",
-  "date": "2026-09-23",
-  "venue": "Niceto Club",
-  "artists": [
-   "Marttein"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/marttein-en-niceto-club/",
-  "ticket_url": "https://venti.com.ar/evento/marttein-en-niceto-club",
-  "price": "$25000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/marttein.jpg",
+  "url": "https://ticketera.bebopclub.com.ar/evento/81197ec3-8d89-45db-b0fe-d1f6f28739a1",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/81197ec3-8d89-45db-b0fe-d1f6f28739a1",
+  "price": "",
+  "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "indiehoy"
+   "bebop"
   ],
-  "artist_source": "title"
+  "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Wednesday en Argentina",
+  "source": "bebop",
+  "title": "Yo no soy Amy",
   "date": "2026-09-23",
-  "venue": "Uniclub",
+  "venue": "Bebop Club",
   "artists": [
-   "Wednesday"
+   "Yo no soy Amy"
   ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/wednesday-argentina-entradas/",
-  "ticket_url": "https://www.passline.com/eventos/wednesday-c-art-media",
-  "price": "Desde $65.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/06/Wednesday-llega-a-Argentina.webp",
+  "genres": [
+   "Jazz"
+  ],
+  "url": "https://ticketera.bebopclub.com.ar/evento/5754e7b8-d846-4c79-91d7-a1ad422d01e0",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/5754e7b8-d846-4c79-91d7-a1ad422d01e0",
+  "price": "",
+  "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "indiehoy"
+   "bebop"
   ],
-  "artist_source": "title"
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -2995,27 +2955,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "NOT WELCOME PRESENTS MAI LAWSON",
-  "date": "2026-09-25",
-  "venue": "Tokyo Club BA",
-  "artists": [
-   "NOT WELCOME PRESENTS MAI LAWSON"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/not-welcome-presents-mai-lawson",
-  "ticket_url": "https://venti.live/evento/not-welcome-presents-mai-lawson",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1789996306873-lg.jpg",
-  "lat": -34.5471568,
-  "lon": -58.431173,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Nanndos",
   "date": "2026-09-25",
@@ -3255,27 +3194,6 @@
    "songkick"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "Arcana Victoria - Traslado Oficial - 26 de Septiembre",
-  "date": "2026-09-26",
-  "venue": "Victoria del Agua",
-  "artists": [
-   "Arcana Victoria - Traslado Oficial"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/arcana-victoria-traslado-oficial-26-de-septiembre",
-  "ticket_url": "https://venti.live/evento/arcana-victoria-traslado-oficial-26-de-septiembre",
-  "price": "$40.000",
-  "image": "https://images.venti.live/user-images/1788529926176-lg.jpg",
-  "lat": -32.6473197,
-  "lon": -60.12484349999999,
-  "start_time": "19:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -3974,6 +3892,33 @@
   "lat": null,
   "lon": null,
   "start_time": "17:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "TCQ - MINAU STREAMING",
+  "date": "2026-09-26",
+  "venue": "TCQ",
+  "artists": [
+   "Fuocco",
+   "Pylerinstinct1",
+   "Pil.Ar",
+   "Hermetic Hell",
+   "Nacho Camina",
+   "Deem Berry",
+   "Trygo"
+  ],
+  "genres": [],
+  "url": "https://ra.co/events/2544291",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "22:00",
   "sources": [
    "resident-advisor"
   ],
@@ -6039,17 +5984,17 @@
  },
  {
   "source": "venti",
-  "title": "03/10 | Lulú pres FINALLY ALONE - TOOMY DISCO - GEMMA",
+  "title": "03/10 | Lulú pres FINALLY ALONE - TOMMY - GEMMA",
   "date": "2026-10-04",
   "venue": "Lulú",
   "artists": [
-   "Lulú pres FINALLY ALONE - TOOMY DISCO - GEMMA"
+   "Lulú pres FINALLY ALONE - TOMMY - GEMMA"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/s03-10-lul-pres-finally-alone-toomy-disco-gemma",
-  "ticket_url": "https://venti.live/evento/s03-10-lul-pres-finally-alone-toomy-disco-gemma",
+  "url": "https://venti.live/evento/s03-10-lul-pres-finally-alone-tommy-gemma",
+  "ticket_url": "https://venti.live/evento/s03-10-lul-pres-finally-alone-tommy-gemma",
   "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1789424452447-lg.jpg",
+  "image": "https://images.venti.live/user-images/1790242832042-lg.jpg",
   "lat": -34.5920071,
   "lon": -58.42639819999999,
   "start_time": "",
@@ -6096,6 +6041,28 @@
   "image": "https://images.venti.live/user-images/1790002414845-lg.jpg",
   "lat": -34.5485628,
   "lon": -58.4305062,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "DISTANT + MIMA OPEN TO CLOSE x BELA",
+  "date": "2026-10-04",
+  "venue": "Angelo de Peredo 325",
+  "artists": [
+   "DISTANT",
+   "MIMA OPEN TO CLOSE x BELA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/distant-mima-open-to-close-x-bela",
+  "ticket_url": "https://venti.live/evento/distant-mima-open-to-close-x-bela",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1790194734708-lg.jpg",
+  "lat": -31.42649219999999,
+  "lon": -64.1935086,
   "start_time": "",
   "sources": [
    "venti"
@@ -6749,25 +6716,49 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "A Flock of Seagulls en Argentina",
+  "source": "songkick",
+  "title": "mis sueños son de tu adiós",
+  "date": "2026-10-08",
+  "venue": "Moscú Espacio Cultural",
+  "artists": [
+   "mis sueños son de tu adiós",
+   "Llagas",
+   "Adrede (Arg)"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43428332-mis-suenos-son-de-tu-adios-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43428332-mis-suenos-son-de-tu-adios-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10180519/huge_avatar",
+  "lat": -34.59951,
+  "lon": -58.43798,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "songkick",
+  "title": "A Flock of Seagulls",
   "date": "2026-10-09",
   "venue": "El Teatrito",
   "artists": [
    "A Flock of Seagulls"
   ],
   "genres": [],
-  "url": "https://indiehoy.com/agenda/a-flock-of-seagulls-en-argentina/",
-  "ticket_url": "https://www.passline.com/eventos/a-flock-of-seagulls-latin-american-tour-2026?srsltid=AfmBOooF0zS7qbjyYlowQuwpL1MwcDqavOBZE_Y122RpX4geh8OuEsdb",
+  "url": "https://www.songkick.com/concerts/43313833-a-flock-of-seagulls-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43313833-a-flock-of-seagulls-at-el-teatrito?utm_medium=organic&utm_source=microformat",
   "price": "Desde $100.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/A-Flock-of-Seagulls-argentina.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/445274/huge_avatar",
+  "lat": -34.60565,
+  "lon": -58.39155,
+  "start_time": "19:00",
   "sources": [
-   "indiehoy"
+   "indiehoy",
+   "songkick"
   ],
-  "artist_source": "title"
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -6896,6 +6887,31 @@
   "artist_source": "title"
  },
  {
+  "source": "crobar",
+  "title": "Jorge Savoretti B2B Ariel Rodz",
+  "date": "2026-10-09",
+  "venue": "Crobar",
+  "artists": [
+   "Jorge Savoretti",
+   "Ariel Rodz",
+   "Inda Jani",
+   "Erika Halliday",
+   "Ëmma"
+  ],
+  "genres": [],
+  "url": "https://www.crobar.com.ar/club",
+  "ticket_url": "https://wearebombo.app.link/emfyGWs1F6b",
+  "price": "",
+  "image": "https://www.crobar.com.ar/brand/og-club.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "crobar"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "LEYENDAS x",
   "date": "2026-10-09",
@@ -7005,11 +7021,11 @@
  },
  {
   "source": "venti",
-  "title": "TOBIKA presenta INTELIGENCIA ARTESANAL en Niceto Club (+18 años)",
+  "title": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL",
   "date": "2026-10-09",
   "venue": "Niceto Club",
   "artists": [
-   "TOBIKA presenta INTELIGENCIA ARTESANAL"
+   "TOBIKA presenta INTELIGENCIAiiii ARTESANAL"
   ],
   "genres": [],
   "url": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
@@ -7330,6 +7346,27 @@
  },
  {
   "source": "venti",
+  "title": "SUNSET EL ROBLE 10-10",
+  "date": "2026-10-10",
+  "venue": "El ROBLE WAKE COMPLEX",
+  "artists": [
+   "SUNSET EL ROBLE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sunset-el-roble-10-10",
+  "ticket_url": "https://venti.live/evento/sunset-el-roble-10-10",
+  "price": "$20.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -32.97325134277344,
+  "lon": -68.73474884033203,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "SÁBADO CACHENGUE BY BOSCO SUNSET 10/10",
   "date": "2026-10-10",
   "venue": "Bosco Restaurant",
@@ -7516,7 +7553,7 @@
   "url": "https://venti.live/evento/s10-10-lul-x-safari-n-o-y-indiegenas-paxu-eq-eight-disturva",
   "ticket_url": "https://venti.live/evento/s10-10-lul-x-safari-n-o-y-indiegenas-paxu-eq-eight-disturva",
   "price": "$17.000",
-  "image": "https://images.venti.live/user-images/1789684650036-lg.jpg",
+  "image": "https://images.venti.live/user-images/1790176483876-lg.jpg",
   "lat": -34.5920071,
   "lon": -58.42639819999999,
   "start_time": "",
@@ -8010,6 +8047,28 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "11/10 | Lulú x Sway | FER MUALDO - CCINNI - Momo Ezcurra b2b Sosa",
+  "date": "2026-10-12",
+  "venue": "Lulú",
+  "artists": [
+   "Lulú x Sway | FER MUALDO - CCINNI - Momo Ezcurra",
+   "Sosa"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s11-10-lul-press-sway",
+  "ticket_url": "https://venti.live/evento/s11-10-lul-press-sway",
+  "price": "$25.000",
+  "image": "https://images.venti.live/user-images/1790202046159-lg.jpg",
+  "lat": -34.5920071,
+  "lon": -58.42639819999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -8609,6 +8668,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Hugo Lobo &#038; Street Feeling Band",
+  "date": "2026-10-16",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Hugo Lobo &#038; Street Feeling Band"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/hugo-lobo-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/hugo-lobo-street-feeling-band",
+  "price": "Desde $17.250",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/hugo-lobo-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Innen x AVG pres. Manu Oubiña, Mich",
   "date": "2026-10-16",
@@ -9014,6 +9094,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Fantasmagoria en Palacio Libertad",
+  "date": "2026-10-17",
+  "venue": "Palacio Libertad (ex CCK)",
+  "artists": [
+   "Fantasmagoria"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/fantasmagoria-palacio-libertad/",
+  "ticket_url": "",
+  "price": "Libre y gratuita",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/fantasmagoria-palacio-libertad.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Fonso y Las Paritarias",
   "date": "2026-10-17",
   "venue": "La Trastienda",
@@ -9098,6 +9199,30 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "crobar",
+  "title": "John Creamer",
+  "date": "2026-10-17",
+  "venue": "Crobar",
+  "artists": [
+   "John Creamer",
+   "Soundexile",
+   "Nahs",
+   "Kayla Shams"
+  ],
+  "genres": [],
+  "url": "https://www.crobar.com.ar/club",
+  "ticket_url": "https://wearebombo.app.link/ObFffg01F6b",
+  "price": "",
+  "image": "https://www.crobar.com.ar/brand/og-club.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "crobar"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -9211,6 +9336,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SUNSET EL ROBLE 17-10",
+  "date": "2026-10-17",
+  "venue": "El ROBLE WAKE COMPLEX",
+  "artists": [
+   "SUNSET EL ROBLE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sunset-el-roble-17-10",
+  "ticket_url": "https://venti.live/evento/sunset-el-roble-17-10",
+  "price": "$20.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -32.97325134277344,
+  "lon": -68.73474884033203,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -10148,6 +10294,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Los Intocables",
+  "date": "2026-10-24",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Los Intocables"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/los-intocables-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/los-intocables",
+  "price": "Desde $19.550",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/los-intocables-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "Mustafunk 24 OCT en Niceto Club (+18 años)",
   "date": "2026-10-24",
@@ -10165,6 +10332,28 @@
   "start_time": "23:00",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Parientes y León Vodo",
+  "date": "2026-10-24",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Parientes",
+   "León Vodo"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/parientes-leon-vodo-strummer/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/parientes-le-n-vodo",
+  "price": "Desde $17.250",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/parientes-leon-vodo-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -10230,6 +10419,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SUNSET EL ROBLE 24-10-26",
+  "date": "2026-10-24",
+  "venue": "El ROBLE WAKE COMPLEX",
+  "artists": [
+   "SUNSET EL ROBLE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sunset-el-roble-24-10-26",
+  "ticket_url": "https://venti.live/evento/sunset-el-roble-24-10-26",
+  "price": "$20.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -32.97325134277344,
+  "lon": -68.73474884033203,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -10401,6 +10611,28 @@
   "start_time": "",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Resistencia, Les Kinky Reggae y más",
+  "date": "2026-10-25",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Resistencia",
+   "Les Kinky Reggae"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/resistencia-les-kinky-reggae-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/fiesta-reggae-dancehall-resistencia-les-kinky-reggae-y-",
+  "price": "Desde $17.250",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/fiesta-reggae-dancehall-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -11091,6 +11323,27 @@
  },
  {
   "source": "venti",
+  "title": "GET OVER X",
+  "date": "2026-11-01",
+  "venue": "Quba, café de mar",
+  "artists": [
+   "GET OVER X QUBA | HALLOWEEN"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/get-over-x-quba-halloween-s-bado-31-10",
+  "ticket_url": "https://venti.live/evento/get-over-x-quba-halloween-s-bado-31-10",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1790194948296-lg.jpg",
+  "lat": -38.0312385559082,
+  "lon": -57.53220748901367,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "HALLOWEEN x ARZ SÁB 31.10",
   "date": "2026-11-01",
   "venue": "Aráoz 2424",
@@ -11319,6 +11572,28 @@
   "sources": [
    "indiehoy",
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Cistara y Los Extras en Strummer",
+  "date": "2026-11-06",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Cistara",
+   "Los Extras"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/cistara-los-extras-strummer/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/cistara-y-los-extras",
+  "price": "Desde $11.500",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/cistara-y-los-extras-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -11771,6 +12046,28 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "EDU OLIVA + HALOS",
+  "date": "2026-11-14",
+  "venue": "Niceto Bar",
+  "artists": [
+   "EDU OLIVA",
+   "HALOS"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/edu-oliva-halos-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/edu-oliva-halos-en-niceto-bar",
+  "price": "$8.000",
+  "image": "https://images.venti.live/user-images/1790194023211-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties",
   "date": "2026-11-14",
@@ -12073,6 +12370,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "ÁMBAR PRESENTA MARIPOSA en Humboldt| Niceto Club (+18 años)",
+  "date": "2026-11-19",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "ÁMBAR PRESENTA MARIPOSA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/mbar-presenta-mariposa-en-humboldt-niceto-club-18-a-os",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1790194576755-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -13324,6 +13642,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Lule Miranda",
+  "date": "2026-12-11",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Lule Miranda"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/lule-miranda-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/lule-miranda",
+  "price": "Desde $11.500",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/lule-miranda-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "RAVE3000 FESTIVAL",
   "date": "2026-12-11",
@@ -13694,6 +14033,27 @@
   "lat": -34.586299896240234,
   "lon": -58.41642379760742,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "Cosmos Festival - Edicion II",
+  "date": "2026-12-27",
+  "venue": "https://maps.app.goo.gl/pMSfgsMMqGLAusvu5",
+  "artists": [
+   "Cosmos Festival - Edicion II"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/cosmos-festival-edicion-ii",
+  "ticket_url": "https://venti.live/evento/cosmos-festival-edicion-ii",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1787667449663-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "16:00",
   "sources": [
    "venti"
   ],
