@@ -171,17 +171,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Fiesta Mayores",
+  "title": "Horacio Burgos",
   "date": "",
-  "venue": "Arena Maipu",
+  "venue": "Teatro Comedia",
   "artists": [
-   "Fiesta Mayores"
+   "Horacio Burgos"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/fiesta-mayores/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/fiesta-mayores/arena-maipu",
+  "url": "https://www.ticketek.com.ar/horacio-burgos/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/horacio-burgos/teatro-comedia",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fiestas_mayores_a26.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/hb_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
