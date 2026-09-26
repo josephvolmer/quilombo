@@ -154,23 +154,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Gibran Alcocer",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Gibran Alcocer"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gibran_alcorcer_pieza_440x600_teatro_coliseo_1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Horacio Burgos",
   "date": "",
   "venue": "Teatro Comedia",
@@ -182,6 +165,23 @@
   "ticket_url": "https://www.ticketek.com.ar/horacio-burgos/teatro-comedia",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/hb_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Gibran Alcocer",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Gibran Alcocer"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gibran_alcorcer_pieza_440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
