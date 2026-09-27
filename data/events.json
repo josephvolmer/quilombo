@@ -204,52 +204,6 @@
  },
  {
   "source": "bebop",
-  "title": "Porteña Jazz band \"60 Años\"",
-  "date": "2026-08-07",
-  "venue": "Bebop Club",
-  "artists": [
-   "Porteña Jazz band \"60 Años\""
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/9d4a4f98-0893-4834-80ec-dfb68fea5bb8",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/9d4a4f98-0893-4834-80ec-dfb68fea5bb8",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "SOL FEIGE 102.3",
-  "date": "2026-08-07",
-  "venue": "Bebop Club",
-  "artists": [
-   "SOL FEIGE 102.3"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/c74a54f6-fcd2-4fc1-9b7d-a9d7ddc61c1b",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/c74a54f6-fcd2-4fc1-9b7d-a9d7ddc61c1b",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "Yo no soy Amy",
   "date": "2026-08-07",
   "venue": "Bebop Club",
@@ -2464,27 +2418,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "All Punk Festival",
-  "date": "2026-09-26",
-  "venue": "Strummer Bar",
-  "artists": [
-   "All Punk Festival"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/all-punk-festival-en-strummer-bar/",
-  "ticket_url": "https://bue.tickethoy.com/entradas-musica/all-punk-festival-3",
-  "price": "$23000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/imgn0000-4-1-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "Arre Crew",
   "date": "2026-09-26",
@@ -2512,67 +2445,27 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "CAMI GALZ: Licoretza Lupus - Presentación Oficial en Humboldt | Niceto Club (+18 años)",
+  "source": "resident-advisor",
+  "title": "Crobar Club Pres.: La Cintia, Matías Sundblad & Lobo Miro",
   "date": "2026-09-26",
-  "venue": "Humboldt | Niceto Club",
+  "venue": "Crobar - Buenos Aires",
   "artists": [
-   "CAMI GALZ: Licoretza Lupus - Presentación Oficial"
+   "La Cintia",
+   "Matías Sundblad",
+   "Lobo Miro"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/licoretza-lupus-presentaci-n-oficial-en-humboldt-niceto-club",
-  "price": "$7.500",
-  "image": "https://images.venti.live/user-images/1783431676373-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "23:30",
+  "url": "https://ra.co/events/2523682",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ClubHouse",
-  "date": "2026-09-26",
-  "venue": "Estáncia estrella federal",
-  "artists": [
-   "Agustina Villarraza"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/clubhouse",
-  "ticket_url": "https://venti.live/evento/clubhouse",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1789309961404-lg.jpg",
-  "lat": -33.5686183,
-  "lon": -59.9803184,
-  "start_time": "19:00",
-  "sources": [
-   "venti"
+   "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "DATA JAZZ x BELA - En vivo: RAFA GRAND PIANO + FRUTA NEGRA",
-  "date": "2026-09-26",
-  "venue": "Angelo de Peredo 325",
-  "artists": [
-   "DATA JAZZ x BELA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/data-jazz-en-vivo-rafa-grand-piano-fruta-negra",
-  "ticket_url": "https://venti.live/evento/data-jazz-en-vivo-rafa-grand-piano-fruta-negra",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1789419941581-lg.jpg",
-  "lat": -31.42649219999999,
-  "lon": -64.1935086,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -2622,27 +2515,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Grouper en Argentina",
-  "date": "2026-09-26",
-  "venue": "Teatro Xirgu",
-  "artists": [
-   "Grouper"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/grouper-argentina-2026/",
-  "ticket_url": "https://venti.com.ar/evento/grouper-teatro-xirgu",
-  "price": "Desde $40.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/06/GROUPER-FEED.webp",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -2697,72 +2569,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Kidd Voodoo en Argentina",
-  "date": "2026-09-26",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "Kidd Voodoo"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/kidd-voodoo-en-argentina-2/",
-  "ticket_url": "https://www.allaccess.com.ar/event/kidd-voodoo",
-  "price": "Desde $45.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/05/kidd-voodoo-vorterix-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "crobar",
-  "title": "La Cintia",
-  "date": "2026-09-26",
-  "venue": "Crobar",
-  "artists": [
-   "La Cintia",
-   "Matías Sundblad",
-   "Lobo Miro"
-  ],
-  "genres": [],
-  "url": "https://www.crobar.com.ar/club",
-  "ticket_url": "https://wearebombo.app.link/jsp7sGmkm5b",
-  "price": "",
-  "image": "https://www.crobar.com.ar/brand/og-club.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "crobar",
-   "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "La Finquita Sunset | Apertura de Temporada - 26/09",
-  "date": "2026-09-26",
-  "venue": "LA FINQUITA 1920",
-  "artists": [
-   "La Finquita Sunset | Apertura de Temporada"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/la-finquita-sunset-apertura-de-temporada-26-09",
-  "ticket_url": "https://venti.live/evento/la-finquita-sunset-apertura-de-temporada-26-09",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1782871473411-lg.jpg",
-  "lat": -33.0231819152832,
-  "lon": -68.79568481445312,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "bebop",
   "title": "La Pequeña Big Band",
   "date": "2026-09-26",
@@ -2784,27 +2590,6 @@
    "bebop"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Los Mangrulleros",
-  "date": "2026-09-26",
-  "venue": "Biri Biri",
-  "artists": [
-   "Los Mangrulleros"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/los-mangrulleros-en-biri-biri/",
-  "ticket_url": "https://www.passline.com/eventos/los-mangrulleros-en-biri-biri",
-  "price": "$15000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/biribiri3.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -2838,49 +2623,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Nicola Cruz en Argentina",
-  "date": "2026-09-26",
-  "venue": "Deseo",
-  "artists": [
-   "Nicola Cruz"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/nicola-cruz-argentina-2026/",
-  "ticket_url": "https://www.enigmatickets.com/event/0bb081a5-f635-4ff7-80f1-091fe011e5e3",
-  "price": "Desde $35.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/nicola-cruz-en-argentina.webp",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Pablo Malaurie, Chowa y más",
-  "date": "2026-09-26",
-  "venue": "Lalalá",
-  "artists": [
-   "Pablo Malaurie",
-   "Chowa"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/pablo-malaurie-chowa-y-mas-en-lalala/",
-  "ticket_url": "https://www.passline.com/eventos/269-festejamos-4-anos-con-pablo-malaurie-chowa-fede-lamas-y-aldo-benitez-dj-set-ro-murua-vj-set",
-  "price": "Desde $12.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/pablo-malaurie-lalala.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "ROOM X Under Club - Bondarük & SMT - JOAQUIN RUÍZ - LUNN - NATALIA BENITEZ",
   "date": "2026-09-26",
@@ -2905,49 +2647,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Riel y Nolamires. en Imaginario Cultural",
-  "date": "2026-09-26",
-  "venue": "Imaginario Cultural Bar",
-  "artists": [
-   "Riel",
-   "Nolamires."
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/riel-nolamires-imaginario-cultural/",
-  "ticket_url": "https://alpogo.com/evento/riel-nolamires-28412",
-  "price": "Desde $7.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/riel-nolamires-imaginario.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "SUNSET EL ROBLE 26-09",
-  "date": "2026-09-26",
-  "venue": "El ROBLE WAKE COMPLEX",
-  "artists": [
-   "SUNSET EL ROBLE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/sunset-el-roble-26-09",
-  "ticket_url": "https://venti.live/evento/sunset-el-roble-26-09",
-  "price": "$24.000",
-  "image": "https://images.venti.live/user-images/1788885918586-lg.jpg",
-  "lat": -32.97325134277344,
-  "lon": -68.73474884033203,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -3002,54 +2701,11 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Valen Vargas",
-  "date": "2026-09-26",
-  "venue": "Niceto Club",
-  "artists": [
-   "Valen Vargas"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/valen-vargas-en-niceto-club/",
-  "ticket_url": "https://venti.live/evento/cumbia-buena-para-noches-malas-en-niceto-club",
-  "price": "$35000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/nicetoindiehoy-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "26/09 | Lulú pres SLOT - TRES - COOLKID",
-  "date": "2026-09-27",
-  "venue": "Lulú",
-  "artists": [
-   "Lulú pres SLOT - TRES - COOLKID"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/s26-09-lul-pres-slot-tres-coolkid",
-  "ticket_url": "https://venti.live/evento/s26-09-lul-pres-slot-tres-coolkid",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1789241579494-lg.jpg",
-  "lat": -34.5920071,
-  "lon": -58.42639819999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
-  "title": "99% SOLD OUT -> ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )",
+  "title": "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )",
   "date": "2026-09-27",
   "venue": "Under Club",
   "artists": [
-   "Ben Klock",
    "ANNĒ",
    "Setaoc Mass",
    "Bondarük",
@@ -3074,24 +2730,26 @@
  },
  {
   "source": "venti",
-  "title": "AM Sessions - 27/9",
+  "title": "ANNĒ - BONDARŨK - JXXXO - PAMPA - SETAOC MASS",
   "date": "2026-09-27",
-  "venue": "MISIÓN",
+  "venue": "Amerika",
   "artists": [
-   "AM Sessions"
+   "JXXXO",
+   "Setaoc Mass",
+   "Bondarük"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/am-sessions-27-9",
-  "ticket_url": "https://venti.live/evento/am-sessions-27-9",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1790120808860-lg.jpg",
-  "lat": -34.5874387,
-  "lon": -58.4336819,
-  "start_time": "09:30",
+  "url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
+  "ticket_url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
+  "price": "$33.000",
+  "image": "https://images.venti.live/user-images/1790450517696-lg.jpg",
+  "lat": -34.598739,
+  "lon": -58.4236793,
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
-  "artist_source": "title"
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -3137,238 +2795,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "CAVA 26-09",
-  "date": "2026-09-27",
-  "venue": "Bodega Giol",
-  "artists": [
-   "CAVA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/cava-26-09",
-  "ticket_url": "https://venti.live/evento/cava-26-09",
-  "price": "$18.000",
-  "image": "https://images.venti.live/user-images/1790354643334-lg.jpg",
-  "lat": -32.97270202636719,
-  "lon": -68.78813171386719,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CHANA SÁBADO 26 DE SEPTIEMBRE",
-  "date": "2026-09-27",
-  "venue": "Chana Club",
-  "artists": [
-   "CHANA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/chana-s-bado-26-de-septiembre",
-  "ticket_url": "https://venti.live/evento/chana-s-bado-26-de-septiembre",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1790080733502-lg.jpg",
-  "lat": -34.6061182,
-  "lon": -58.36424899999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CLUB",
-  "date": "2026-09-27",
-  "venue": "Quba, café de mar",
-  "artists": [
-   "CLUB QUBA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/club-quba-sabado-26-09",
-  "ticket_url": "https://venti.live/evento/club-quba-sabado-26-09",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1788821379273-lg.jpg",
-  "lat": -38.0312385559082,
-  "lon": -57.53220748901367,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "EL CLUB DE LA SERPIENTE, 26 DE SEPTIEMBRE",
-  "date": "2026-09-27",
-  "venue": "Mood Live",
-  "artists": [
-   "EL CLUB DE LA SERPIENTE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/el-club-de-la-serpiente-26-de-septiembre-mood-live-neuquen",
-  "ticket_url": "https://venti.live/evento/el-club-de-la-serpiente-26-de-septiembre-mood-live-neuquen",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1788284008622-lg.jpg",
-  "lat": -38.951622,
-  "lon": -68.0583724,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "FIEBRE FIESTA en JUNIN 26/09",
-  "date": "2026-09-27",
-  "venue": "Ramon Hernandez 1048",
-  "artists": [
-   "FIEBRE FIESTA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/fiebre-fiesta-en-junin-26-09",
-  "ticket_url": "https://venti.live/evento/fiebre-fiesta-en-junin-26-09",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1788024041570-lg.jpg",
-  "lat": -34.5995381,
-  "lon": -60.96720310000001,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "FOMO X",
-  "date": "2026-09-27",
-  "venue": "Quba, café de mar",
-  "artists": [
-   "FOMO X QUBA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/fomo-x-quba-sabado-26-09",
-  "ticket_url": "https://venti.live/evento/fomo-x-quba-sabado-26-09",
-  "price": "$5.000",
-  "image": "https://images.venti.live/user-images/1785786108433-lg.jpg",
-  "lat": -38.0312385559082,
-  "lon": -57.53220748901367,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Fiesta Bresh en Jujuy - 26 de Septiembre (Edición Primavera)",
-  "date": "2026-09-27",
-  "venue": "Moon Night",
-  "artists": [
-   "Bresh"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/fiesta-bresh-en-jujuy-26-de-septiembre-edici-n-primavera",
-  "ticket_url": "https://venti.live/evento/fiesta-bresh-en-jujuy-26-de-septiembre-edici-n-primavera",
-  "price": "$11.000",
-  "image": "https://images.venti.live/user-images/1788957836031-lg.jpg",
-  "lat": -24.1805835,
-  "lon": -65.2718714,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "LALIFEST by MANDALAY 26 SEP en Humboldt | Niceto Club (+18 años)",
-  "date": "2026-09-27",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "LALIFEST by MANDALAY"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/lalifest-by-mandalay-26-sep-en-humboldt-niceto-club",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1787659920649-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Lucas Colubri & Amador @ Shamrock Basement",
-  "date": "2026-09-27",
-  "venue": "The Shamrock Bar & Basement Club",
-  "artists": [
-   "Lucas Colubri",
-   "Amador"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/lucas-colubri-amador-shamrock-basement",
-  "ticket_url": "https://venti.live/evento/lucas-colubri-amador-shamrock-basement",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1789648894538-lg.jpg",
-  "lat": -34.5946306,
-  "lon": -58.3922647,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "PAVEL PETROV",
-  "date": "2026-09-27",
-  "venue": "El Atico Club",
-  "artists": [
-   "PAVEL PETROV"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/el-atico-club",
-  "ticket_url": "https://venti.live/evento/el-atico-club",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1789046778214-lg.jpg",
-  "lat": -33.007798,
-  "lon": -68.91847349999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "POPE – FULL CACHENGUE PRIMAVERA | SABADO 26.09",
-  "date": "2026-09-27",
-  "venue": "POPE SOCIAL CLUB",
-  "artists": [
-   "POPE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pope-full-cachengue-primavera-sabado-26-09",
-  "ticket_url": "https://venti.live/evento/pope-full-cachengue-primavera-sabado-26-09",
-  "price": "$16.000",
-  "image": "https://images.venti.live/user-images/1790014732226-lg.jpg",
-  "lat": -34.5325127,
-  "lon": -58.70450169999999,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "indiehoy",
   "title": "Peter Pank y Los Chicos Perdidos",
   "date": "2026-09-27",
@@ -3387,111 +2813,6 @@
   "start_time": "",
   "sources": [
    "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "RAMBLA | SATURDAY ON 26 SEP",
-  "date": "2026-09-27",
-  "venue": "Av. Rafael Núñez 4614",
-  "artists": [
-   "RAMBLA | SATURDAY ON"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/rambla-saturday-on-26-sep",
-  "ticket_url": "https://venti.live/evento/rambla-saturday-on-26-sep",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1788295917353-lg.jpg",
-  "lat": -31.363313674926758,
-  "lon": -64.23645782470703,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ROOM X UNDER CLUB | BONDARÜK & SMT | JOAQUIN RUÍZ | LUNN | NATALIA BENITEZ",
-  "date": "2026-09-27",
-  "venue": "Under Club",
-  "artists": [],
-  "genres": [],
-  "url": "https://venti.live/evento/room-x-under-club-bondar-k-smt-joaquin-ru-z-lunn-natalia-benitez",
-  "ticket_url": "https://venti.live/evento/room-x-under-club-bondar-k-smt-joaquin-ru-z-lunn-natalia-benitez",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1789608636199-lg.jpg",
-  "lat": -34.585975646972656,
-  "lon": -58.44016647338867,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "none"
- },
- {
-  "source": "venti",
-  "title": "TECHNO x BELA Pres PAREDON y RATHERMODULAR | 26.09",
-  "date": "2026-09-27",
-  "venue": "Angelo de Peredo 325",
-  "artists": [
-   "TECHNO x BELA Pres PAREDON",
-   "RATHERMODULAR"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/techno-x-bela-pres-pared-n-y-rathermodular-26-09",
-  "ticket_url": "https://venti.live/evento/techno-x-bela-pres-pared-n-y-rathermodular-26-09",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1788880270478-lg.jpg",
-  "lat": -31.42649219999999,
-  "lon": -64.1935086,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "TIME OF LIFE (CADELAGO + DAMIAN CHIAPPARO)",
-  "date": "2026-09-27",
-  "venue": "Switch Club",
-  "artists": [
-   "Time of Life",
-   "SODIAZ"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/time-of-life-cadelago-damian-chiapparo",
-  "ticket_url": "https://venti.live/evento/time-of-life-cadelago-damian-chiapparo",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1788887052244-lg.jpg",
-  "lat": -32.939125,
-  "lon": -60.65062629999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "UNDER RAIL • PSYCHEDELIC SPRING",
-  "date": "2026-09-27",
-  "venue": "Bali",
-  "artists": [
-   "UNDER RAIL • PSYCHEDELIC SPRING"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/under-rail-flower-power",
-  "ticket_url": "https://venti.live/evento/under-rail-flower-power",
-  "price": "$40.000",
-  "image": "https://images.venti.live/user-images/1787149741693-lg.jpg",
-  "lat": -34.5720429,
-  "lon": -58.39356449999999,
-  "start_time": "",
-  "sources": [
-   "venti"
   ],
   "artist_source": "title"
  },
@@ -3536,6 +2857,34 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Minelek x T.A.B.E. w/Fuk3n3, Berger Muzik & R3x",
+  "date": "2026-09-29",
+  "venue": "La Cigale",
+  "artists": [
+   "Berger Muzik",
+   "Minelek x T.A.B.E.",
+   "Fuk3n3",
+   "R3x",
+   "Visuals x UnPlug."
+  ],
+  "genres": [
+   "Electro",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2546440",
+  "ticket_url": "",
+  "price": "$15.000.-",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "21:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -3732,7 +3081,7 @@
   "source": "indiehoy",
   "title": "The Beats en Teatro Ópera",
   "date": "2026-10-01",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "The Beats"
   ],
@@ -3818,7 +3167,7 @@
   "source": "indiehoy",
   "title": "Carlos Baute en Argentina",
   "date": "2026-10-02",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "Carlos Baute"
   ],
@@ -4059,7 +3408,7 @@
   "image": "https://images.venti.live/user-images/1788392091520-lg.jpg",
   "lat": -33.0530201,
   "lon": -68.87755419999999,
-  "start_time": "23:00",
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
@@ -5797,6 +5146,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Eslavos en Teatro Flores",
+  "date": "2026-10-10",
+  "venue": "El Teatro Flores",
+  "artists": [
+   "Eslavos"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/eslavos-en-teatro-flores/",
+  "ticket_url": "https://www.passline.com/sitio-evento/eslavos-10-octubre-2026?srsltid=AU7gw4VISSmvZI1LTjQl8r6kriNFOSksaZ2p8qBqtlgfduowO1DrJiCt",
+  "price": "Desde $28.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/eslavos-teatro-flores.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Estoy Bien en CC Matienzo",
   "date": "2026-10-10",
   "venue": "Club Cultural Matienzo",
@@ -7101,7 +6471,7 @@
   "source": "indiehoy",
   "title": "Bebe en Argentina",
   "date": "2026-10-15",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "Bebe"
   ],
@@ -8356,7 +7726,7 @@
   "source": "indiehoy",
   "title": "Árbol en Teatro Ópera",
   "date": "2026-10-17",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "Árbol"
   ],
@@ -9401,7 +8771,7 @@
   "source": "indiehoy",
   "title": "Roze en Teatro Ópera",
   "date": "2026-10-24",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "Roze"
   ],
@@ -9746,7 +9116,7 @@
   "source": "indiehoy",
   "title": "Los40 Primavera Pop en Teatro Ópera",
   "date": "2026-10-28",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "Los40 Primavera Pop"
   ],
@@ -11884,6 +11254,29 @@
  },
  {
   "source": "resident-advisor",
+  "title": "Alien Ritual - Burn in Noise",
+  "date": "2026-11-22",
+  "venue": "The Sub",
+  "artists": [
+   "Burn in Noise"
+  ],
+  "genres": [
+   "Psytrance"
+  ],
+  "url": "https://ra.co/events/2546594",
+  "ticket_url": "",
+  "price": "$25.000",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "23:30",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
   "title": "CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 )",
   "date": "2026-11-22",
   "venue": "Under Club",
@@ -12040,7 +11433,7 @@
   "source": "indiehoy",
   "title": "Sueño de Pescado en Teatro Ópera",
   "date": "2026-11-26",
-  "venue": "Teatro Opera Allianz",
+  "venue": "Teatro Ópera On",
   "artists": [
    "Sueño de Pescado"
   ],
@@ -13743,6 +13136,27 @@
   "start_time": "15:00",
   "sources": [
    "resident-advisor"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Gibran Alcocer en Argentina",
+  "date": "2027-04-07",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Gibran Alcocer"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/gibran-alcocer-en-argentina/",
+  "ticket_url": "https://www.ticketek.com.ar/gibran-alcocer/teatro-coliseo",
+  "price": "Desde $69.900",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/gibran-arg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
