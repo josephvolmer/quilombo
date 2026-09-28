@@ -1,4 +1,12 @@
 {
+ "1400 NOCHES": [
+  {
+   "date": "2026-10-18",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s17-10-1400-noches-en-fruta",
+   "title": "17.10 | 1400 NOCHES EN FRUTA"
+  }
+ ],
  "2 TIERRAS ROCK": [
   {
    "date": "2026-10-17",
@@ -353,14 +361,6 @@
    "title": "ANA HAGEN | DEE JASON | FLOORPLAN"
   }
  ],
- "ANNĒ": [
-  {
-   "date": "2026-09-27",
-   "venue": "Under Club",
-   "url": "https://ra.co/events/2452810",
-   "title": "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )"
-  }
- ],
  "Antonella Restucci": [
   {
    "date": "2026-10-23",
@@ -505,22 +505,6 @@
    "title": "BAJO ZERO"
   }
  ],
- "bar italia": [
-  {
-   "date": "2026-09-27",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/bar-italia-en-niceto-club",
-   "title": "BAR ITALIA en Niceto Club (+18 años)"
-  }
- ],
- "Bar Italia": [
-  {
-   "date": "2026-09-27",
-   "venue": "Niceto Club",
-   "url": "https://indiehoy.com/agenda/bar-italia-argentina-2026/",
-   "title": "Bar Italia y Sharp Pins en Argentina"
-  }
- ],
  "Baracchini": [
   {
    "date": "2026-10-02",
@@ -651,16 +635,28 @@
  ],
  "BLACK CREAM ORIGINAL": [
   {
-   "date": "2026-09-28",
-   "venue": "BlackCream",
-   "url": "https://venti.live/evento/black-cream-original-dom-27-09",
-   "title": "BLACK CREAM ORIGINAL DOM 27/09"
-  },
-  {
    "date": "2026-10-02",
    "venue": "BlackCream",
    "url": "https://venti.live/evento/black-cream-original-jue-01-10",
    "title": "BLACK CREAM ORIGINAL JUE 01/10"
+  },
+  {
+   "date": "2026-10-05",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-dom-04-10",
+   "title": "BLACK CREAM ORIGINAL DOM 04/10"
+  },
+  {
+   "date": "2026-10-09",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-jue-08-10",
+   "title": "BLACK CREAM ORIGINAL JUE 08/10"
+  },
+  {
+   "date": "2026-10-12",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-dom-11-10",
+   "title": "BLACK CREAM ORIGINAL DOM 11/10"
   }
  ],
  "BLOND:ISH": [
@@ -672,18 +668,6 @@
   }
  ],
  "Bondarük": [
-  {
-   "date": "2026-09-27",
-   "venue": "Under Club",
-   "url": "https://ra.co/events/2452810",
-   "title": "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )"
-  },
-  {
-   "date": "2026-09-27",
-   "venue": "Amerika",
-   "url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
-   "title": "ANNĒ - BONDARŨK - JXXXO - PAMPA - SETAOC MASS"
-  },
   {
    "date": "2026-10-11",
    "venue": "Dune Park",
@@ -1493,6 +1477,14 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/dyango-teatro-gran-rex-2026/",
    "title": "Dyango"
+  }
+ ],
+ "EARLY QUEVES": [
+  {
+   "date": "2026-10-02",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/early-queves-01-10",
+   "title": "EARLY QUEVES | 01.10"
   }
  ],
  "Ed Sheeran": [
@@ -2717,18 +2709,6 @@
  ],
  "JXXXO": [
   {
-   "date": "2026-09-27",
-   "venue": "Under Club",
-   "url": "https://ra.co/events/2452810",
-   "title": "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )"
-  },
-  {
-   "date": "2026-09-27",
-   "venue": "Amerika",
-   "url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
-   "title": "ANNĒ - BONDARŨK - JXXXO - PAMPA - SETAOC MASS"
-  },
-  {
    "date": "2026-10-12",
    "venue": "Under Club",
    "url": "https://venti.live/evento/jxxxo-hers-lucas-sosa-vladimir-dubyshkin",
@@ -2749,6 +2729,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/kalix-pres-arsenal-pbj-ttaipan-arg-n-sid-b2b-zky-en-niceto-bar",
    "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
+  }
+ ],
+ "Karaoke canciones de señoras": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/karaoke-canciones-de-se-oras-en-niceto-bar",
+   "title": "Karaoke canciones de señoras"
   }
  ],
  "Kas:st": [
@@ -3029,6 +3017,14 @@
    "title": "La Nosti - Dom 11/10 (Pre feriado)"
   }
  ],
+ "LA OLD": [
+  {
+   "date": "2026-10-18",
+   "venue": "Wild Hops City Bell",
+   "url": "https://venti.live/evento/la-old-en-wild-hops-cb",
+   "title": "LA OLD en Wild Hops CB"
+  }
+ ],
  "LA PEÑA DE HUAYRA": [
   {
    "date": "2026-10-01",
@@ -3263,14 +3259,6 @@
    "venue": "Artlab",
    "url": "https://ra.co/events/2535156",
    "title": "Highlife pres. Esa Williams (SA/UK)"
-  }
- ],
- "Los Chicos Perdidos": [
-  {
-   "date": "2026-09-27",
-   "venue": "Casa Brandon",
-   "url": "https://indiehoy.com/agenda/peter-pank-chicos-perdidos-casa-brandon/",
-   "title": "Peter Pank y Los Chicos Perdidos"
   }
  ],
  "LOS DESERTORES": [
@@ -4327,14 +4315,6 @@
    "title": "Palito Ortega en Teatro Ópera"
   }
  ],
- "Pampa": [
-  {
-   "date": "2026-09-27",
-   "venue": "Under Club",
-   "url": "https://ra.co/events/2452810",
-   "title": "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )"
-  }
- ],
  "PARDO: CAPRICHO": [
   {
    "date": "2026-10-11",
@@ -4405,12 +4385,12 @@
    "title": "Peluche @ Rio de Janeiro"
   }
  ],
- "Peter Pank": [
+ "PERLA": [
   {
-   "date": "2026-09-27",
-   "venue": "Casa Brandon",
-   "url": "https://indiehoy.com/agenda/peter-pank-chicos-perdidos-casa-brandon/",
-   "title": "Peter Pank y Los Chicos Perdidos"
+   "date": "2026-10-02",
+   "venue": "El ROBLE WAKE COMPLEX",
+   "url": "https://venti.live/evento/perla-02-10",
+   "title": "PERLA 02-10"
   }
  ],
  "PIANO BAR: MANU PIRÓ": [
@@ -4419,6 +4399,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/piano-bar-manu-pir",
    "title": "PIANO BAR: MANU PIRÓ"
+  }
+ ],
+ "Piccolini": [
+  {
+   "date": "2026-10-16",
+   "venue": "CAFF - Club Atlético Fernández Fierro",
+   "url": "https://indiehoy.com/agenda/piccolini-caff/",
+   "title": "Piccolini en CAFF"
   }
  ],
  "PICHEO 808": [
@@ -4917,20 +4905,6 @@
    "title": "SET & SETTING - MAZZEO - 17.10"
   }
  ],
- "Setaoc Mass": [
-  {
-   "date": "2026-09-27",
-   "venue": "Under Club",
-   "url": "https://ra.co/events/2452810",
-   "title": "99% SOLD OUT -> ANNĒ - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 )"
-  },
-  {
-   "date": "2026-09-27",
-   "venue": "Amerika",
-   "url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
-   "title": "ANNĒ - BONDARŨK - JXXXO - PAMPA - SETAOC MASS"
-  }
- ],
  "SETTING - MAZZEO": [
   {
    "date": "2026-10-18",
@@ -4953,14 +4927,6 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/shaila-lanza-la-constante-su-nuevo-disco",
    "title": "SHAILA lanza \" LA CONSTANTE\" en Niceto Club (+18 años)"
-  }
- ],
- "Sharp Pins": [
-  {
-   "date": "2026-09-27",
-   "venue": "Niceto Club",
-   "url": "https://indiehoy.com/agenda/bar-italia-argentina-2026/",
-   "title": "Bar Italia y Sharp Pins en Argentina"
   }
  ],
  "Shift Aniversario - Invitado Internacional - Formato Boiler": [

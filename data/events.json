@@ -158,29 +158,6 @@
  },
  {
   "source": "bebop",
-  "title": "Getz & Gilberto",
-  "date": "2026-08-07",
-  "venue": "Bebop Club",
-  "artists": [
-   "Getz & Gilberto"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/87cbdd7a-af2b-4ae8-8973-43a6e5c23472",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/87cbdd7a-af2b-4ae8-8973-43a6e5c23472",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "JOACO BURGOS + BANDA",
   "date": "2026-08-07",
   "venue": "Bebop Club",
@@ -238,29 +215,6 @@
   ],
   "url": "https://ticketera.bebopclub.com.ar/evento/6da241bd-0037-42b2-8228-199813335d2c",
   "ticket_url": "https://ticketera.bebopclub.com.ar/evento/6da241bd-0037-42b2-8228-199813335d2c",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "New Orleans Party",
-  "date": "2026-08-11",
-  "venue": "Bebop Club",
-  "artists": [
-   "New Orleans Party"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/9b0cf61f-5d9e-4f0e-9dfa-b6ad7f6f2cde",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/9b0cf61f-5d9e-4f0e-9dfa-b6ad7f6f2cde",
   "price": "",
   "image": "",
   "lat": null,
@@ -606,29 +560,6 @@
   ],
   "url": "https://ticketera.bebopclub.com.ar/evento/d2a70393-8aca-45b1-9db8-09bab4aaea49",
   "ticket_url": "https://ticketera.bebopclub.com.ar/evento/d2a70393-8aca-45b1-9db8-09bab4aaea49",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "VAMOS COMER CAETANO",
-  "date": "2026-08-26",
-  "venue": "Bebop Club",
-  "artists": [
-   "VAMOS COMER CAETANO"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/de7e4da7-b0c7-418b-8392-4b960ea9cd20",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/de7e4da7-b0c7-418b-8392-4b960ea9cd20",
   "price": "",
   "image": "",
   "lat": null,
@@ -2730,115 +2661,6 @@
  },
  {
   "source": "venti",
-  "title": "ANNĒ - BONDARŨK - JXXXO - PAMPA - SETAOC MASS",
-  "date": "2026-09-27",
-  "venue": "Amerika",
-  "artists": [
-   "JXXXO",
-   "Setaoc Mass",
-   "Bondarük"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
-  "ticket_url": "https://venti.live/evento/ann-ben-klock-bondar-k-jxxxo-pampa-setaoc-mass",
-  "price": "$33.000",
-  "image": "https://images.venti.live/user-images/1790450517696-lg.jpg",
-  "lat": -34.598739,
-  "lon": -58.4236793,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "BAR ITALIA en Niceto Club (+18 años)",
-  "date": "2026-09-27",
-  "venue": "Niceto Club",
-  "artists": [
-   "bar italia"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/bar-italia-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/bar-italia-en-niceto-club",
-  "price": "$60.000",
-  "image": "https://images.venti.live/user-images/1787323953388-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Bar Italia y Sharp Pins en Argentina",
-  "date": "2026-09-27",
-  "venue": "Niceto Club",
-  "artists": [
-   "Bar Italia",
-   "Sharp Pins"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/bar-italia-argentina-2026/",
-  "ticket_url": "https://venti.com.ar/evento/bar-italia-en-niceto-club",
-  "price": "Desde $60.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/BarItlia-Feed-SharpPins.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Peter Pank y Los Chicos Perdidos",
-  "date": "2026-09-27",
-  "venue": "Casa Brandon",
-  "artists": [
-   "Peter Pank",
-   "Los Chicos Perdidos"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/peter-pank-chicos-perdidos-casa-brandon/",
-  "ticket_url": "https://www.passline.com/eventos/peter-pank-los-chicos-perdidos-20-aniversario",
-  "price": "Desde $12.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/peter-pank-chicos-perdidos-casa-brandon.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "BLACK CREAM ORIGINAL DOM 27/09",
-  "date": "2026-09-28",
-  "venue": "BlackCream",
-  "artists": [
-   "BLACK CREAM ORIGINAL"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/black-cream-original-dom-27-09",
-  "ticket_url": "https://venti.live/evento/black-cream-original-dom-27-09",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1789873989004-lg.jpg",
-  "lat": -34.586299896240234,
-  "lon": -58.41642379760742,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "LA ROCK AND FOLK",
   "date": "2026-09-28",
   "venue": "Niceto Club",
@@ -3207,6 +3029,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "EARLY QUEVES | 01.10",
+  "date": "2026-10-02",
+  "venue": "Quba, café de mar",
+  "artists": [
+   "EARLY QUEVES"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/early-queves-01-10",
+  "ticket_url": "https://venti.live/evento/early-queves-01-10",
+  "price": "$5.000",
+  "image": "https://images.venti.live/user-images/1785784926989-lg.jpg",
+  "lat": -38.0312385559082,
+  "lon": -57.53220748901367,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Elio Riso - 2gthr, Club Morocco Costanera - ALLMusicParties",
   "date": "2026-10-02",
@@ -3300,6 +3143,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "PERLA 02-10",
+  "date": "2026-10-02",
+  "venue": "El ROBLE WAKE COMPLEX",
+  "artists": [
+   "PERLA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/perla-02-10",
+  "ticket_url": "https://venti.live/evento/perla-02-10",
+  "price": "$10.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -32.97325134277344,
+  "lon": -68.73474884033203,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -4540,6 +4404,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOM 04/10",
+  "date": "2026-10-05",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-dom-04-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-dom-04-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790566411234-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Dyango",
   "date": "2026-10-07",
@@ -4686,6 +4571,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL JUE 08/10",
+  "date": "2026-10-09",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-jue-08-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-jue-08-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -5305,7 +5211,7 @@
   "genres": [],
   "url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-el-10-10",
   "ticket_url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-el-10-10",
-  "price": "$43.000",
+  "price": "$56.000",
   "image": "https://images.venti.live/user-images/1782871521708-lg.jpg",
   "lat": -33.0231819152832,
   "lon": -68.79568481445312,
@@ -5859,7 +5765,7 @@
   "genres": [],
   "url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-el-11-10",
   "ticket_url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-el-11-10",
-  "price": "$43.000",
+  "price": "$56.000",
   "image": "https://images.venti.live/user-images/1782871542252-lg.jpg",
   "lat": -33.0231819152832,
   "lon": -68.79568481445312,
@@ -6186,6 +6092,27 @@
   "lat": -34.5325159,
   "lon": -58.7044998,
   "start_time": "17:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOM 11/10",
+  "date": "2026-10-12",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-dom-11-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-dom-11-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790571947784-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -6971,6 +6898,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Piccolini en CAFF",
+  "date": "2026-10-16",
+  "venue": "CAFF - Club Atlético Fernández Fierro",
+  "artists": [
+   "Piccolini"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/piccolini-caff/",
+  "ticket_url": "https://planout.ar/eventos/es/entradas-musica-piccolini",
+  "price": "Desde $20.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/piccolini-caff.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Rey Garufa en Arena Sur",
   "date": "2026-10-16",
   "venue": "Arena Sur Centro Cultural",
@@ -7745,6 +7693,27 @@
  },
  {
   "source": "venti",
+  "title": "17.10 | 1400 NOCHES EN FRUTA",
+  "date": "2026-10-18",
+  "venue": "Av. Rafael Núñez 4614",
+  "artists": [
+   "1400 NOCHES"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s17-10-1400-noches-en-fruta",
+  "ticket_url": "https://venti.live/evento/s17-10-1400-noches-en-fruta",
+  "price": "$15.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -31.363313674926758,
+  "lon": -64.23645782470703,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "17/10 | Lulú pres LEO JANEIRO - INDA JANI - MOSES",
   "date": "2026-10-18",
   "venue": "Lulú",
@@ -7864,6 +7833,27 @@
   "lat": -34.5946306,
   "lon": -58.3922647,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA OLD en Wild Hops CB",
+  "date": "2026-10-18",
+  "venue": "Wild Hops City Bell",
+  "artists": [
+   "LA OLD"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-old-en-wild-hops-cb",
+  "ticket_url": "https://venti.live/evento/la-old-en-wild-hops-cb",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1790557697812-lg.jpg",
+  "lat": -34.8656763,
+  "lon": -58.0434438,
+  "start_time": "02:30",
   "sources": [
    "venti"
   ],
@@ -10121,6 +10111,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "Karaoke canciones de señoras",
+  "date": "2026-11-06",
+  "venue": "Niceto Bar",
+  "artists": [
+   "Karaoke canciones de señoras"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/karaoke-canciones-de-se-oras-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/karaoke-canciones-de-se-oras-en-niceto-bar",
+  "price": "$18.000",
+  "image": "https://images.venti.live/user-images/1790614655000-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",

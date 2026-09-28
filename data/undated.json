@@ -188,23 +188,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Bandalos chinos",
-  "date": "",
-  "venue": "City Rock",
-  "artists": [
-   "Bandalos chinos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/bandalos-chinos/city-rock",
-  "ticket_url": "https://www.ticketek.com.ar/bandalos-chinos/city-rock",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bandalos_chinos_junin.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "El Plan de la Mariposa",
   "date": "",
   "venue": "Arena Maipu",
@@ -460,34 +443,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Las Guardianas K-Pop",
+  "title": "Litto Nebbia",
   "date": "",
-  "venue": "Teatro Coliseo",
+  "venue": "Teatro Santa María",
   "artists": [
-   "Las Guardianas K-Pop"
+   "Litto Nebbia"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
-  "ticket_url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
+  "url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_guardianas_generica.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Las Guardianas K-Pop",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Las Guardianas K-Pop"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
-  "ticket_url": "https://www.ticketek.com.ar/las-guardianas-k-pop",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_guardianas_generica.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lito_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -970,6 +936,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Los Palmae",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Los Palmae"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-palmae/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/los-palmae/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palmae440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "El Oficial Gordillo",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1242,6 +1225,40 @@
  },
  {
   "source": "ticketek",
+  "title": "Saraos Uranistas",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Saraos Uranistas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/saraos_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Modelo Vivo Muerto ",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Modelo Vivo Muerto "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Modelo Vivo Muerto ",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1389,6 +1406,23 @@
   "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dios Salve A La Reina",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Dios Salve A La Reina"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dios-salve-la-reina/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/dios-salve-la-reina/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/queen_a26am.png",
   "lat": null,
   "lon": null,
   "start_time": ""
