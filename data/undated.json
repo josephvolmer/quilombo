@@ -290,6 +290,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Manso Retro",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Manso Retro"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/manso-retro/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/manso-retro/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/vpyv_a6.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Sueño de Pescado",
   "date": "",
   "venue": "Teatro Opera On",
@@ -437,23 +454,6 @@
   "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Litto Nebbia",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "Litto Nebbia"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lito_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -817,6 +817,23 @@
  },
  {
   "source": "ticketek",
+  "title": "La Chamba Folk",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "La Chamba Folk"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-chamba-folk/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/la-chamba-folk/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chamba440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Chango Spasiuk",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -828,23 +845,6 @@
   "ticket_url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chango_spasiuk.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jorge Rojas",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Jorge Rojas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1225,17 +1225,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Saraos Uranistas",
+  "title": "Campo Minado",
   "date": "",
-  "venue": "Teatro Comedia",
+  "venue": "Teatro Coliseo",
   "artists": [
-   "Saraos Uranistas"
+   "Campo Minado"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
+  "url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/saraos_a26.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1395,23 +1395,6 @@
  },
  {
   "source": "ticketek",
-  "title": "The Beatles Symphonic",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "The Beatles Symphonic"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Dios Salve A La Reina",
   "date": "",
   "venue": "Arena Maipu",
@@ -1423,6 +1406,23 @@
   "ticket_url": "https://www.ticketek.com.ar/dios-salve-la-reina/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/queen_a26am.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "The Beatles Symphonic",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "The Beatles Symphonic"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""

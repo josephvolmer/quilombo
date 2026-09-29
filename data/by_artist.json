@@ -1,10 +1,10 @@
 {
- "1400 NOCHES": [
+ "1400 NOCHES DE FRUTA | Doble Pista": [
   {
    "date": "2026-10-18",
    "venue": "Av. Rafael Núñez 4614",
    "url": "https://venti.live/evento/s17-10-1400-noches-en-fruta",
-   "title": "17.10 | 1400 NOCHES EN FRUTA"
+   "title": "17.10 | 1400 NOCHES DE FRUTA | Doble Pista"
   }
  ],
  "2 TIERRAS ROCK": [
@@ -237,6 +237,14 @@
    "venue": "Teatro Vorterix",
    "url": "https://indiehoy.com/agenda/alexisonfire-argentina-2026/",
    "title": "Alexisonfire en Argentina"
+  }
+ ],
+ "ALIAGA": [
+  {
+   "date": "2026-11-01",
+   "venue": "El Atico Club",
+   "url": "https://venti.live/evento/aliaga",
+   "title": "ALIAGA"
   }
  ],
  "ALT8": [
@@ -553,6 +561,14 @@
    "title": "Bebe en Argentina"
   }
  ],
+ "Bebop Big Band": [
+  {
+   "date": "2026-09-29",
+   "venue": "Bebop Club",
+   "url": "https://ticketera.bebopclub.com.ar/evento/d78f0818-c6cc-4868-b59b-c86280b085f6",
+   "title": "Bebop Big Band"
+  }
+ ],
  "Beico": [
   {
    "date": "2026-10-24",
@@ -833,6 +849,14 @@
    "title": "Yubik"
   }
  ],
+ "Cancelado: Green Valley meets Alborosie": [
+  {
+   "date": "2026-09-29",
+   "venue": "Niceto Club",
+   "url": "https://indiehoy.com/agenda/green-valley-meets-alborosie-en-niceto-club/",
+   "title": "Cancelado: Green Valley meets Alborosie"
+  }
+ ],
  "Candela": [
   {
    "date": "2026-10-24",
@@ -935,6 +959,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/san-martin-vampire-ceretti-en-humboldt-niceto-club-18-a-os",
    "title": "SAN MARTIN VAMPIRE + CERETTI en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
+ "Cerounno": [
+  {
+   "date": "2026-12-13",
+   "venue": "La Trastienda",
+   "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
+   "title": "Cerounno, Vinyltracker y Juan 97"
   }
  ],
  "Chapterhouse": [
@@ -1159,12 +1191,28 @@
    "title": "CONEIC XVIII x ARZ MARTES 13.10"
   }
  ],
+ "COQUEIT": [
+  {
+   "date": "2026-10-11",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s10-10-fran-buxx-y-coqueit-en-fruta",
+   "title": "10.10 | FRAN BUX + COQUEIT EN FRUTA."
+  }
+ ],
  "Coral": [
   {
    "date": "2026-11-14",
    "venue": "Strummer Bar",
    "url": "https://indiehoy.com/agenda/coral-en-strummer/",
    "title": "Coral en Strummer"
+  }
+ ],
+ "Corapa 24 0ct": [
+  {
+   "date": "2026-10-25",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/corapa-24-0ct-en-humboldt-niceto-club-18-a-os",
+   "title": "Corapa 24 0ct en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Correo Argentino": [
@@ -1543,6 +1591,14 @@
    "title": "El Príncipe Idiota"
   }
  ],
+ "El Purre": [
+  {
+   "date": "2026-12-11",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/el-purre-en-the-roxy-live/",
+   "title": "El Purre"
+  }
+ ],
  "El Síndrome de Peter": [
   {
    "date": "2026-12-18",
@@ -1589,12 +1645,6 @@
    "venue": "TBA - Archi Club, Costanera",
    "url": "https://ra.co/events/2533352",
    "title": "Emanuel Satie and MAGA - Flama"
-  },
-  {
-   "date": "2026-10-04",
-   "venue": "Archi Club",
-   "url": "https://venti.live/evento/emanuel-satie-maga-flama-x-koolkidz-3-de-octubre-archi",
-   "title": "Emanuel Satie & Maga - Flama x Kool Kidz - 3 de octubre @ Archi"
   }
  ],
  "EMILIANO DEMARCO": [
@@ -1971,6 +2021,14 @@
    "title": "Yubik"
   }
  ],
+ "FRAN BUX": [
+  {
+   "date": "2026-10-11",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s10-10-fran-buxx-y-coqueit-en-fruta",
+   "title": "10.10 | FRAN BUX + COQUEIT EN FRUTA."
+  }
+ ],
  "FRANCO CINELLI": [
   {
    "date": "2026-11-23",
@@ -2123,14 +2181,6 @@
    "title": "VICTORIA WHYNOT, Inndrive - Aurora Aniversario, Quilmes"
   }
  ],
- "Green Valley meets Alborosie": [
-  {
-   "date": "2026-10-01",
-   "venue": "Niceto Club",
-   "url": "https://indiehoy.com/agenda/green-valley-meets-alborosie-en-niceto-club/",
-   "title": "Green Valley meets Alborosie"
-  }
- ],
  "Gruesome": [
   {
    "date": "2026-10-16",
@@ -2217,6 +2267,14 @@
    "title": "EDU OLIVA + HALOS"
   }
  ],
+ "Happy Groove Jam": [
+  {
+   "date": "2026-10-08",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/happy-groove-jam-en-niceto-bar",
+   "title": "Happy Groove Jam"
+  }
+ ],
  "Harari": [
   {
    "date": "2026-10-03",
@@ -2272,6 +2330,12 @@
   }
  ],
  "Hojas por el Barrio": [
+  {
+   "date": "2026-12-19",
+   "venue": "Niceto Club",
+   "url": "https://indiehoy.com/agenda/hojas-por-el-barrio-en-argentina/",
+   "title": "Hojas por el Barrio en Argentina"
+  },
   {
    "date": "2026-12-20",
    "venue": "Humboldt | Niceto Club",
@@ -2453,6 +2517,14 @@
    "title": "0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman"
   }
  ],
+ "Isla de Caras": [
+  {
+   "date": "2026-11-20",
+   "venue": "Deseo",
+   "url": "https://indiehoy.com/agenda/isla-de-caras-en-deseo/",
+   "title": "Isla de Caras"
+  }
+ ],
  "Isla Mujeres": [
   {
    "date": "2026-10-16",
@@ -2515,6 +2587,14 @@
    "venue": "Under Club",
    "url": "https://venti.live/evento/mylah-jakojako",
    "title": "JAKOJAKO | MYLAH"
+  }
+ ],
+ "Jamiroquai x Insanity": [
+  {
+   "date": "2026-09-29",
+   "venue": "Bebop Club",
+   "url": "https://ticketera.bebopclub.com.ar/evento/5c4dfd0f-3b8e-4c3d-a642-7fcb1a2e64e5",
+   "title": "Jamiroquai x Insanity"
   }
  ],
  "Jansøund": [
@@ -2675,6 +2755,14 @@
    "title": "Juan (AR) & Sergio Saffe"
   }
  ],
+ "Juan 97": [
+  {
+   "date": "2026-12-13",
+   "venue": "La Trastienda",
+   "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
+   "title": "Cerounno, Vinyltracker y Juan 97"
+  }
+ ],
  "Juan Buitrago": [
   {
    "date": "2026-10-03",
@@ -2699,6 +2787,14 @@
    "title": "Juana La Loca"
   }
  ],
+ "Juicy Nise": [
+  {
+   "date": "2026-10-18",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/juicy-nise-en-buenos-aires-en-niceto-club",
+   "title": "Juicy Nise en Buenos Aires en Niceto Club (+18 años)"
+  }
+ ],
  "JULIETA LAKE": [
   {
    "date": "2026-10-30",
@@ -2713,6 +2809,12 @@
    "venue": "Under Club",
    "url": "https://venti.live/evento/jxxxo-hers-lucas-sosa-vladimir-dubyshkin",
    "title": "JXXXO & HERS | LUCAS SOSA | VLADIMIR DUBYSHKIN"
+  },
+  {
+   "date": "2026-11-01",
+   "venue": "Switch Club",
+   "url": "https://venti.live/evento/jxxoo-tomi-almada-aniversaio-paak-switch",
+   "title": "JXXXO + TOMI ALMADA / ANIVERSARIO PAAK @ SWITCH"
   }
  ],
  "Kakkmaddafakka": [
@@ -2807,6 +2909,14 @@
    "venue": "TBA - Parque de la Ciudad, CABA",
    "url": "https://ra.co/events/2528105",
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
+  }
+ ],
+ "KILOMBO": [
+  {
+   "date": "2026-10-02",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kilombo-1-oct-en-niceto-bar",
+   "title": "KILOMBO 1 OCT"
   }
  ],
  "Kito": [
@@ -3036,17 +3146,9 @@
  "La Raxxet": [
   {
    "date": "2026-10-12",
-   "venue": "Humboldt | Niceto Club",
+   "venue": "Niceto Club",
    "url": "https://venti.live/evento/la-raxxet-11-oct-en-niceto-club-18-a-os",
    "title": "La Raxxet 11 OCT en Niceto Club (+18 años)"
-  }
- ],
- "LA ROCK AND FOLK": [
-  {
-   "date": "2026-09-28",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/la-rock-and-folk-en-niceto-club",
-   "title": "LA ROCK AND FOLK"
   }
  ],
  "Ladant": [
@@ -3491,14 +3593,6 @@
    "title": "Emanuel Satie and MAGA - Flama"
   }
  ],
- "Maga - Flama x Kool Kidz": [
-  {
-   "date": "2026-10-04",
-   "venue": "Archi Club",
-   "url": "https://venti.live/evento/emanuel-satie-maga-flama-x-koolkidz-3-de-octubre-archi",
-   "title": "Emanuel Satie & Maga - Flama x Kool Kidz - 3 de octubre @ Archi"
-  }
- ],
  "Maggie Cullen": [
   {
    "date": "2026-11-21",
@@ -3919,6 +4013,14 @@
    "title": "Mujercitas Terror, Pólvora y Nina Suárez"
   }
  ],
+ "MUSHROOM NYE 2027": [
+  {
+   "date": "2027-01-01",
+   "venue": "Estadio Nacional",
+   "url": "https://venti.live/evento/mushroom-nye-2027-the-first-sun",
+   "title": "MUSHROOM NYE 2027 — THE FIRST SUN"
+  }
+ ],
  "Mustafunk": [
   {
    "date": "2026-10-24",
@@ -3941,6 +4043,14 @@
    "venue": "Under Club",
    "url": "https://ra.co/events/2534505",
    "title": "JakoJako - MYLAH"
+  }
+ ],
+ "Nacho Lopez": [
+  {
+   "date": "2026-10-18",
+   "venue": "Switch Club",
+   "url": "https://venti.live/evento/nacho-lopez-open-to-close-switch-club",
+   "title": "NACHO LOPEZ OPEN TO CLOSE"
   }
  ],
  "Nahs": [
@@ -4315,6 +4425,14 @@
    "title": "Palito Ortega en Teatro Ópera"
   }
  ],
+ "Para Nosotras": [
+  {
+   "date": "2026-10-18",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/festival-por-y-para-nosotras-en-the-roxy-live/",
+   "title": "Festival Por y Para Nosotras"
+  }
+ ],
  "PARDO: CAPRICHO": [
   {
    "date": "2026-10-11",
@@ -4385,6 +4503,14 @@
    "title": "Peluche @ Rio de Janeiro"
   }
  ],
+ "Pepechet": [
+  {
+   "date": "2026-10-29",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
+   "title": "Pepechet y Soldana"
+  }
+ ],
  "PERLA": [
   {
    "date": "2026-10-02",
@@ -4433,6 +4559,14 @@
    "title": "Fiesta Pixie - Halloween"
   }
  ],
+ "Placebo": [
+  {
+   "date": "2027-03-03",
+   "venue": "Estadio Malvinas Argentinas",
+   "url": "https://indiehoy.com/agenda/placebo-argentina-2027-entradas/",
+   "title": "Placebo en Argentina"
+  }
+ ],
  "Planeador V": [
   {
    "date": "2026-11-06",
@@ -4447,6 +4581,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/correo-argentino-narciso-y-plomero-l-quido-en-humboldt-niceto-club",
    "title": "Correo Argentino, Narciso y Plomero líquido"
+  }
+ ],
+ "POPE": [
+  {
+   "date": "2026-10-04",
+   "venue": "POPE SOCIAL CLUB",
+   "url": "https://venti.live/evento/pope-full-cachengue-sabado-03-10",
+   "title": "POPE – FULL CACHENGUE | SABADO 03.10"
   }
  ],
  "POPE - SHOW": [
@@ -4471,6 +4613,22 @@
    "venue": "POPE SOCIAL CLUB",
    "url": "https://venti.live/evento/pope-halloween-reggaeton-retro-2000-viernes",
    "title": "POPE HALLOWEEN– REGGAETON RETRO 2000 | VIERNES"
+  }
+ ],
+ "POPE RETRO 2015 / 2020": [
+  {
+   "date": "2026-10-03",
+   "venue": "POPE SOCIAL CLUB",
+   "url": "https://venti.live/evento/pope-viernes-02-01",
+   "title": "POPE RETRO 2015 / 2020 – | VIERNES 02.10"
+  }
+ ],
+ "Por": [
+  {
+   "date": "2026-10-18",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/festival-por-y-para-nosotras-en-the-roxy-live/",
+   "title": "Festival Por y Para Nosotras"
   }
  ],
  "Poser": [
@@ -4521,6 +4679,14 @@
    "title": "Mujercitas Terror, Pólvora y Nina Suárez"
   }
  ],
+ "QUANTUM | SPECIAL GUEST LUCAS SOSA": [
+  {
+   "date": "2026-10-25",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/quantum-special-guest-lucas-sosa",
+   "title": "QUANTUM | SPECIAL GUEST LUCAS SOSA"
+  }
+ ],
  "Quetzal Chebú": [
   {
    "date": "2026-11-29",
@@ -4567,6 +4733,14 @@
    "venue": "Strummer Bar",
    "url": "https://indiehoy.com/agenda/raise-my-kilt-en-strummer-bar/",
    "title": "Raise my Kilt"
+  }
+ ],
+ "RAMBLA X VINILO": [
+  {
+   "date": "2026-10-04",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/rambla-x-vinilo-sabado-3-oct",
+   "title": "RAMBLA X VINILO - SABADO 3 OCT"
   }
  ],
  "Random Fiesta": [
@@ -4687,6 +4861,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
    "title": "ROBOT ZONDA + KLAXON"
+  }
+ ],
+ "ROCIO PORTILLO": [
+  {
+   "date": "2026-10-25",
+   "venue": "El Atico Club",
+   "url": "https://venti.live/evento/rocio-portillo",
+   "title": "ROCIO PORTILLO"
   }
  ],
  "Rocío Portillo": [
@@ -4873,6 +5055,14 @@
    "title": "Volpe, Seph(live), HERS & DEL OLMO at NOMAD TECHNO 10/10"
   }
  ],
+ "SEPHA": [
+  {
+   "date": "2026-11-15",
+   "venue": "El Atico Club",
+   "url": "https://venti.live/evento/sepha",
+   "title": "SEPHA"
+  }
+ ],
  "Serafina": [
   {
    "date": "2026-11-20",
@@ -4921,6 +5111,14 @@
    "title": "Shai T x Somos Produce"
   }
  ],
+ "Shaila": [
+  {
+   "date": "2026-12-05",
+   "venue": "Niceto Club",
+   "url": "https://indiehoy.com/agenda/shaila-en-argentina/",
+   "title": "Shaila en Argentina"
+  }
+ ],
  "SHAILA lanza \" LA CONSTANTE": [
   {
    "date": "2026-12-05",
@@ -4957,7 +5155,7 @@
   {
    "date": "2026-10-17",
    "venue": "Casa Colombo Cantina Club",
-   "url": "https://indiehoy.com/agenda/sistema-de-entretenimiento-argentina/",
+   "url": "https://indiehoy.com/agenda/sistema-de-entretenimiento-en-argentina/",
    "title": "Sistema de Entretenimiento en Argentina"
   }
  ],
@@ -4967,6 +5165,14 @@
    "venue": "Estadio Malvinas Argentinas",
    "url": "https://indiehoy.com/agenda/six-sex-malvinas-argentinas/",
    "title": "Six Sex en Malvinas Argentinas"
+  }
+ ],
+ "Slipknot": [
+  {
+   "date": "2027-09-08",
+   "venue": "Estadio de Huracán: Tomás Adolfo Ducó",
+   "url": "https://indiehoy.com/agenda/slipknot-argentina-2027-entradas/",
+   "title": "Slipknot en Argentina"
   }
  ],
  "Slot": [
@@ -5001,6 +5207,14 @@
    "title": "Sofía Campos"
   }
  ],
+ "Sofía Mora": [
+  {
+   "date": "2026-11-27",
+   "venue": "Deseo",
+   "url": "https://indiehoy.com/agenda/sofia-mora-en-deseo/",
+   "title": "Sofía Mora"
+  }
+ ],
  "Sol Ortega": [
   {
    "date": "2026-12-11",
@@ -5029,6 +5243,14 @@
    "venue": "TBA - La Biblioteca, San Telmo",
    "url": "https://ra.co/events/2538171",
    "title": "Sol Porro - My House"
+  }
+ ],
+ "Soldana": [
+  {
+   "date": "2026-10-29",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
+   "title": "Pepechet y Soldana"
   }
  ],
  "Sonata Arctica": [
@@ -5221,14 +5443,6 @@
    "title": "Highlife pres. Esa Williams (SA/UK)"
   }
  ],
- "Tantum": [
-  {
-   "date": "2026-10-17",
-   "venue": "TBA - La Biblioteca, San Telmo",
-   "url": "https://ra.co/events/2533675",
-   "title": "Tantum - Somos Produce"
-  }
- ],
  "Tarja Turunen": [
   {
    "date": "2026-12-01",
@@ -5285,6 +5499,14 @@
    "title": "Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties"
   }
  ],
+ "TERRANOVA": [
+  {
+   "date": "2026-10-18",
+   "venue": "El Atico Club",
+   "url": "https://venti.live/evento/terranova",
+   "title": "TERRANOVA"
+  }
+ ],
  "Teøs b2b Fløwerz": [
   {
    "date": "2026-10-03",
@@ -5329,6 +5551,14 @@
    "venue": "TBA - Parque de la Ciudad, CABA",
    "url": "https://ra.co/events/2528105",
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
+  }
+ ],
+ "The Blues Brothers": [
+  {
+   "date": "2026-09-29",
+   "venue": "Bebop Club",
+   "url": "https://ticketera.bebopclub.com.ar/evento/584a0acc-b34c-4155-919b-76cfd8bf65df",
+   "title": "The Blues Brothers"
   }
  ],
  "The Ganjas": [
@@ -5401,6 +5631,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
    "title": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL"
+  }
+ ],
+ "TOMI ALMADA / ANIVERSARIO PAAK": [
+  {
+   "date": "2026-11-01",
+   "venue": "Switch Club",
+   "url": "https://venti.live/evento/jxxoo-tomi-almada-aniversaio-paak-switch",
+   "title": "JXXXO + TOMI ALMADA / ANIVERSARIO PAAK @ SWITCH"
   }
  ],
  "Toomy Disco": [
@@ -5521,6 +5759,14 @@
    "title": "UNCUT"
   }
  ],
+ "UNDER RAIL • CLUB EDITION •": [
+  {
+   "date": "2026-10-10",
+   "venue": "Uriburu Club",
+   "url": "https://venti.live/evento/under-rail-clun-edittion-ii",
+   "title": "UNDER RAIL • CLUB EDITION • 09.10"
+  }
+ ],
  "UNDERBEAT x BELA > FABIO FLORIDO": [
   {
    "date": "2026-10-10",
@@ -5549,6 +5795,14 @@
    "venue": "Club Ciudad de Buenos Aires",
    "url": "https://ra.co/events/2541095",
    "title": "RAVE3000 FESTIVAL"
+  }
+ ],
+ "Valentino Merlo": [
+  {
+   "date": "2026-12-05",
+   "venue": "Hipódromo de Palermo",
+   "url": "https://indiehoy.com/agenda/valentino-merlo-en-hipodromo-de-palermo/",
+   "title": "Valentino Merlo"
   }
  ],
  "Varese": [
@@ -5603,6 +5857,14 @@
    "venue": "JET",
    "url": "https://venti.live/evento/vinmusic-halloween-wines",
    "title": "VINMUSIC HALLOWEEN"
+  }
+ ],
+ "Vinyltracker": [
+  {
+   "date": "2026-12-13",
+   "venue": "La Trastienda",
+   "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
+   "title": "Cerounno, Vinyltracker y Juan 97"
   }
  ],
  "Visuals x UnPlug.": [
