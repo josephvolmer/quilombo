@@ -528,23 +528,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Ian Lucas",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Ian Lucas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ian440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Reik",
   "date": "",
   "venue": "Arena Maipu",
@@ -596,6 +579,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Palito Ortega",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Palito Ortega"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palito_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Borges y Piazzolla",
   "date": "",
   "venue": "Teatro Comedia",
@@ -624,6 +624,23 @@
   "ticket_url": "https://www.ticketek.com.ar/mora-godoy/teatro-santa-maria",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mora_a26tsm.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Astor Universal",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Astor Universal"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/astor-universal/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/astor-universal/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/astor_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -947,6 +964,23 @@
   "ticket_url": "https://www.ticketek.com.ar/los-palmae/city-center",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palmae440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ian Lucas",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Ian Lucas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ian440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""

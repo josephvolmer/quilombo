@@ -1,4 +1,12 @@
 {
+ "(aka WTTV)": [
+  {
+   "date": "2026-10-02",
+   "venue": "TBA",
+   "url": "https://ra.co/events/2549037",
+   "title": "02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA"
+  }
+ ],
  "1400 NOCHES DE FRUTA | Doble Pista": [
   {
    "date": "2026-10-18",
@@ -129,6 +137,12 @@
  ],
  "ADHILA": [
   {
+   "date": "2026-10-16",
+   "venue": "La Nube",
+   "url": "https://ra.co/events/2532200",
+   "title": "999 x Nada pres. David Löhlein"
+  },
+  {
    "date": "2026-11-21",
    "venue": "Groove",
    "url": "https://ra.co/events/2540493",
@@ -253,6 +267,14 @@
    "venue": "Groove",
    "url": "https://ra.co/events/2540493",
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
+  }
+ ],
+ "AM Sessions": [
+  {
+   "date": "2026-10-04",
+   "venue": "MISIÓN",
+   "url": "https://venti.live/evento/am-sessions-4-10",
+   "title": "AM Sessions 4/10"
   }
  ],
  "Amanda Cadore": [
@@ -505,6 +527,14 @@
    "title": "Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties"
   }
  ],
+ "Baja Killa": [
+  {
+   "date": "2026-10-02",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/sugar-tampaxxx-las-tussi-baja-killa-en-the-roxy-live/",
+   "title": "Sugar Tampaxxx + Las Tussi + Baja Killa"
+  }
+ ],
  "BAJO ZERO": [
   {
    "date": "2026-10-12",
@@ -561,14 +591,6 @@
    "title": "Bebe en Argentina"
   }
  ],
- "Bebop Big Band": [
-  {
-   "date": "2026-09-29",
-   "venue": "Bebop Club",
-   "url": "https://ticketera.bebopclub.com.ar/evento/d78f0818-c6cc-4868-b59b-c86280b085f6",
-   "title": "Bebop Big Band"
-  }
- ],
  "Beico": [
   {
    "date": "2026-10-24",
@@ -599,14 +621,6 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/benjamin-amadeo-en-teatro-gran-rex/",
    "title": "Benjamín Amadeo"
-  }
- ],
- "Berger Muzik": [
-  {
-   "date": "2026-09-29",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2546440",
-   "title": "Minelek x T.A.B.E. w/Fuk3n3, Berger Muzik & R3x"
   }
  ],
  "Bermani": [
@@ -747,6 +761,14 @@
    "title": "BOSCO SUNSET VIERNES 30/10"
   }
  ],
+ "BOTTI": [
+  {
+   "date": "2026-10-02",
+   "venue": "TBA",
+   "url": "https://ra.co/events/2549037",
+   "title": "02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA"
+  }
+ ],
  "Brenda Asnicar": [
   {
    "date": "2026-10-14",
@@ -847,14 +869,6 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Yubik"
-  }
- ],
- "Cancelado: Green Valley meets Alborosie": [
-  {
-   "date": "2026-09-29",
-   "venue": "Niceto Club",
-   "url": "https://indiehoy.com/agenda/green-valley-meets-alborosie-en-niceto-club/",
-   "title": "Cancelado: Green Valley meets Alborosie"
   }
  ],
  "Candela": [
@@ -967,6 +981,20 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
+  }
+ ],
+ "CHANA": [
+  {
+   "date": "2026-10-03",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-viernes-2-de-octubre",
+   "title": "CHANA VIERNES 2 DE OCTUBRE"
+  },
+  {
+   "date": "2026-10-04",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-s-bado-3-de-octubre",
+   "title": "CHANA SÁBADO 3 DE OCTUBRE"
   }
  ],
  "Chapterhouse": [
@@ -1135,6 +1163,38 @@
    "title": "RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N"
   }
  ],
+ "Club 69": [
+  {
+   "date": "2026-10-04",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/club-69-3-oct-en-niceto-club-18-a-os",
+   "title": "Club 69 | 3 OCT en Niceto Club (+18 años)"
+  },
+  {
+   "date": "2026-10-11",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/club-69-10-oct-en-niceto-club-18-a-os",
+   "title": "Club 69 | 10 OCT en Niceto Club (+18 años)"
+  },
+  {
+   "date": "2026-10-18",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/club-69-17-oct-en-niceto-club-18-a-os",
+   "title": "Club 69 | 17 OCT en Niceto Club (+18 años)"
+  },
+  {
+   "date": "2026-10-25",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/club-69-24-oct-en-niceto-club-18-a-os",
+   "title": "Club 69 | 24 OCT en Niceto Club (+18 años)"
+  },
+  {
+   "date": "2026-11-01",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/club-69-31-oct-en-niceto-club-18-a-os",
+   "title": "Club 69 | 31 OCT en Niceto Club (+18 años)"
+  }
+ ],
  "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE": [
   {
    "date": "2026-10-18",
@@ -1245,6 +1305,14 @@
    "venue": "https://maps.app.goo.gl/pMSfgsMMqGLAusvu5",
    "url": "https://venti.live/evento/cosmos-festival-edicion-ii",
    "title": "Cosmos Festival - Edicion II"
+  }
+ ],
+ "Cosmos Festival 2026 / 2027": [
+  {
+   "date": "2026-12-27",
+   "venue": "Estancia Santa Isabel",
+   "url": "https://ra.co/events/2549317",
+   "title": "Cosmos Festival 2026 / 2027"
   }
  ],
  "Creamfields Argentina 2026": [
@@ -1359,6 +1427,14 @@
    "title": "DATA LOCAL x MNT > NAKAR + ZEN REVERB"
   }
  ],
+ "DATA x BELA > RADIOHEAD x Cabeza de Radio": [
+  {
+   "date": "2026-10-03",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/data-x-bela-radiohead-x-cabeza-de-radio",
+   "title": "DATA x BELA > RADIOHEAD x Cabeza de Radio"
+  }
+ ],
  "David Löhlein": [
   {
    "date": "2026-10-16",
@@ -1417,6 +1493,14 @@
    "venue": "TBA - Area Costanera, Quilmes",
    "url": "https://ra.co/events/2477333",
    "title": "Miguel Bastida - Área Costanera Quilmes - ALLMusicParties"
+  }
+ ],
+ "DIEGO CID | LEGGUI | MARIANO DC": [
+  {
+   "date": "2026-10-03",
+   "venue": "Under Club",
+   "url": "https://venti.live/evento/diego-cid-leggui-mariano-dc",
+   "title": "DIEGO CID | LEGGUI | MARIANO DC"
   }
  ],
  "DISTANT": [
@@ -1513,6 +1597,14 @@
    "title": "Don Osvaldo en Huracán"
   }
  ],
+ "DONAVON": [
+  {
+   "date": "2027-02-14",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/donavon-en-niceto-club",
+   "title": "DONAVON en Niceto Club (+18 años)"
+  }
+ ],
  "Dyango": [
   {
    "date": "2026-10-04",
@@ -1573,6 +1665,12 @@
    "venue": "APN",
    "url": "https://venti.live/evento/el-club-de-la-serpiente-17-de-octubre-kita-lujan",
    "title": "EL CLUB DE LA SERPIENTE, 17 DE OCTUBRE - KITA - LUJAN"
+  },
+  {
+   "date": "2026-10-31",
+   "venue": "Acceso Punta Carrasco",
+   "url": "https://venti.live/evento/el-club-de-la-serpiente-30-de-octubre-the-bow-complejo-punta-carrasco-caba",
+   "title": "EL CLUB DE LA SERPIENTE, 30 DE OCTUBRE - THE BOW, COMPLEJO PUNTA CARRASCO - CABA"
   }
  ],
  "El Kanka": [
@@ -1841,6 +1939,14 @@
    "title": "Juan (AR) & Sergio Saffe"
   }
  ],
+ "Federico Guerrero": [
+  {
+   "date": "2026-10-16",
+   "venue": "La Nube",
+   "url": "https://ra.co/events/2532200",
+   "title": "999 x Nada pres. David Löhlein"
+  }
+ ],
  "FEELINGS": [
   {
    "date": "2026-10-11",
@@ -1855,6 +1961,12 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/feli-colina-en-niceto-club-2/",
    "title": "Feli Colina"
+  },
+  {
+   "date": "2026-12-15",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/feli-colina-en-niceto-club-18-a-os",
+   "title": "Feli Colina en Niceto Club (+18 años)"
   }
  ],
  "FELIPE BALDOMIR": [
@@ -2061,20 +2173,20 @@
    "title": "RAVE3000 FESTIVAL"
   }
  ],
- "Fuk3n3": [
-  {
-   "date": "2026-09-29",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2546440",
-   "title": "Minelek x T.A.B.E. w/Fuk3n3, Berger Muzik & R3x"
-  }
- ],
  "Fun Fun": [
   {
    "date": "2026-10-04",
    "venue": "The Shamrock Bar & Basement Club",
    "url": "https://venti.live/evento/fun-fun-shamrock-basement-djs-pareja-all-night-long",
    "title": "Fun Fun @ Shamrock Basement - Djs Pareja All Night Long"
+  }
+ ],
+ "Fuocco": [
+  {
+   "date": "2026-10-17",
+   "venue": "Maquinal Espacio Cultural",
+   "url": "https://ra.co/events/2549971",
+   "title": "FIESTA SEXHUM:MONSTERS KINK"
   }
  ],
  "G.Martinez": [
@@ -2227,12 +2339,12 @@
    "title": "Guy Mantzur - Somos Produce"
   }
  ],
- "GUY MANTZUR - AUTÓDROMO LA RIOJA": [
+ "GUY MANTZUR - 4° ANIVERSARIO LA RIOJA": [
   {
    "date": "2026-10-04",
-   "venue": "Autódromo Ciudad de La Rioja",
+   "venue": "M&M Multiespacio",
    "url": "https://venti.live/evento/guy-mantzur-4-aniversario",
-   "title": "GUY MANTZUR - AUTÓDROMO LA RIOJA @ DESIERTO.PROD"
+   "title": "GUY MANTZUR - 4° ANIVERSARIO LA RIOJA @ DESIERTO.PROD"
   }
  ],
  "Gvtz": [
@@ -2287,6 +2399,14 @@
    "venue": "Artlab",
    "url": "https://ra.co/events/2535156",
    "title": "Highlife pres. Esa Williams (SA/UK)"
+  }
+ ],
+ "HARSH": [
+  {
+   "date": "2026-10-10",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/harsh-en-humboldt-niceto-club-18-a-os",
+   "title": "HARSH en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Hayley Williams": [
@@ -2587,14 +2707,6 @@
    "venue": "Under Club",
    "url": "https://venti.live/evento/mylah-jakojako",
    "title": "JAKOJAKO | MYLAH"
-  }
- ],
- "Jamiroquai x Insanity": [
-  {
-   "date": "2026-09-29",
-   "venue": "Bebop Club",
-   "url": "https://ticketera.bebopclub.com.ar/evento/5c4dfd0f-3b8e-4c3d-a642-7fcb1a2e64e5",
-   "title": "Jamiroquai x Insanity"
   }
  ],
  "Jansøund": [
@@ -3135,20 +3247,20 @@
    "title": "LA OLD en Wild Hops CB"
   }
  ],
- "LA PEÑA DE HUAYRA": [
-  {
-   "date": "2026-10-01",
-   "venue": "Ananá Bar & Grill Restó",
-   "url": "https://venti.live/evento/la-pe-a-de-huayra-en-lujan",
-   "title": "LA PEÑA DE HUAYRA en LUJAN"
-  }
- ],
  "La Raxxet": [
   {
    "date": "2026-10-12",
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/la-raxxet-11-oct-en-niceto-club-18-a-os",
    "title": "La Raxxet 11 OCT en Niceto Club (+18 años)"
+  }
+ ],
+ "La Romana By Picheo 808": [
+  {
+   "date": "2026-10-10",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
+   "title": "La Romana By Picheo 808"
   }
  ],
  "Ladant": [
@@ -3189,6 +3301,14 @@
    "venue": "Teatro Vorterix",
    "url": "https://indiehoy.com/agenda/las-pelotas-en-teatro-vorterix-2/",
    "title": "Las Pelotas"
+  }
+ ],
+ "Las Tussi": [
+  {
+   "date": "2026-10-02",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/sugar-tampaxxx-las-tussi-baja-killa-en-the-roxy-live/",
+   "title": "Sugar Tampaxxx + Las Tussi + Baja Killa"
   }
  ],
  "LASCIVA": [
@@ -3435,6 +3555,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Lua": [
+  {
+   "date": "2026-12-05",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/lua-lucyd-en-humboldt-niceto-club-18-a-os",
+   "title": "Lua + Lucyd en Humboldt - Niceto Club (+18 años)"
+  }
+ ],
  "LUCAS METZ": [
   {
    "date": "2026-10-24",
@@ -3449,6 +3577,14 @@
    "venue": "TBA - Club Morocco, Costanera",
    "url": "https://ra.co/events/2527593",
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
+  }
+ ],
+ "Lucyd": [
+  {
+   "date": "2026-12-05",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/lua-lucyd-en-humboldt-niceto-club-18-a-os",
+   "title": "Lua + Lucyd en Humboldt - Niceto Club (+18 años)"
   }
  ],
  "Ludovico Einaudi": [
@@ -3569,6 +3705,14 @@
    "title": "Maceo Plex"
   }
  ],
+ "MACEO PLEX": [
+  {
+   "date": "2027-01-23",
+   "venue": "El Atico Club",
+   "url": "https://venti.live/evento/maceo-plex-el-tico",
+   "title": "MACEO PLEX"
+  }
+ ],
  "Mackinon": [
   {
    "date": "2026-10-11",
@@ -3609,6 +3753,14 @@
    "title": "Mai Iachetti - Not Welcome"
   }
  ],
+ "Maia Dros": [
+  {
+   "date": "2026-10-16",
+   "venue": "La Nube",
+   "url": "https://ra.co/events/2532200",
+   "title": "999 x Nada pres. David Löhlein"
+  }
+ ],
  "Main": [
   {
    "date": "2026-10-11",
@@ -3631,6 +3783,14 @@
    "venue": "TBA - BNN, Costanera",
    "url": "https://ra.co/events/2523169",
    "title": "Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties"
+  }
+ ],
+ "Manu Barcelo": [
+  {
+   "date": "2026-10-16",
+   "venue": "La Nube",
+   "url": "https://ra.co/events/2532200",
+   "title": "999 x Nada pres. David Löhlein"
   }
  ],
  "Manu Oubiña": [
@@ -3911,20 +4071,20 @@
    "title": "DISTANT + MIMA OPEN TO CLOSE x BELA"
   }
  ],
- "Minelek x T.A.B.E.": [
-  {
-   "date": "2026-09-29",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2546440",
-   "title": "Minelek x T.A.B.E. w/Fuk3n3, Berger Muzik & R3x"
-  }
- ],
  "MIRAGE Journey vol. I - Ben Sterling": [
   {
    "date": "2027-01-16",
    "venue": "Secret Location",
    "url": "https://venti.live/evento/mirage-journey-vol-i-ben-sterling",
    "title": "MIRAGE Journey vol. I - Ben Sterling"
+  }
+ ],
+ "Miragliotta": [
+  {
+   "date": "2026-10-02",
+   "venue": "TBA",
+   "url": "https://ra.co/events/2549037",
+   "title": "02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA"
   }
  ],
  "Mis Peores Enemigos presenta \"Segundo Lugar\" junto a Full de Mango": [
@@ -4551,6 +4711,14 @@
    "title": "Javier Bussola - Karmic"
   }
  ],
+ "PIXEL 33 show": [
+  {
+   "date": "2026-11-21",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/pixel-33-show-en-vivo-en-niceto-bar",
+   "title": "PIXEL 33 show en vivo"
+  }
+ ],
  "Pixie - Halloween": [
   {
    "date": "2026-10-31",
@@ -4709,14 +4877,6 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/qu-se-siente-ara-t-en-humboldt-niceto-club",
    "title": "QUÉ SE SIENTE | ARA T"
-  }
- ],
- "R3x": [
-  {
-   "date": "2026-09-29",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2546440",
-   "title": "Minelek x T.A.B.E. w/Fuk3n3, Berger Muzik & R3x"
   }
  ],
  "RADIKAL": [
@@ -5253,14 +5413,6 @@
    "title": "Pepechet y Soldana"
   }
  ],
- "Sonata Arctica": [
-  {
-   "date": "2026-09-29",
-   "venue": "El Teatro Flores",
-   "url": "https://indiehoy.com/agenda/sonata-arctica-en-argentina/",
-   "title": "Sonata Arctica en Argentina"
-  }
- ],
  "Sosa": [
   {
    "date": "2026-10-12",
@@ -5315,6 +5467,14 @@
    "venue": "Teatro Ópera On",
    "url": "https://indiehoy.com/agenda/sueno-de-pescado-en-teatro-opera/",
    "title": "Sueño de Pescado en Teatro Ópera"
+  }
+ ],
+ "Sugar Tampaxxx": [
+  {
+   "date": "2026-10-02",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/sugar-tampaxxx-las-tussi-baja-killa-en-the-roxy-live/",
+   "title": "Sugar Tampaxxx + Las Tussi + Baja Killa"
   }
  ],
  "SUNSET EL CABLE": [
@@ -5443,6 +5603,14 @@
    "title": "Highlife pres. Esa Williams (SA/UK)"
   }
  ],
+ "Tantum": [
+  {
+   "date": "2026-10-17",
+   "venue": "TBA - La Biblioteca, San Telmo",
+   "url": "https://ra.co/events/2533675",
+   "title": "Tantum - Somos Produce"
+  }
+ ],
  "Tarja Turunen": [
   {
    "date": "2026-12-01",
@@ -5553,14 +5721,6 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
- "The Blues Brothers": [
-  {
-   "date": "2026-09-29",
-   "venue": "Bebop Club",
-   "url": "https://ticketera.bebopclub.com.ar/evento/584a0acc-b34c-4155-919b-76cfd8bf65df",
-   "title": "The Blues Brothers"
-  }
- ],
  "The Ganjas": [
   {
    "date": "2026-10-15",
@@ -5599,6 +5759,14 @@
    "venue": "TBA - Club Morocco, Costanera",
    "url": "https://ra.co/events/2529174",
    "title": "Jast - 2gthr"
+  }
+ ],
+ "Thilpek": [
+  {
+   "date": "2026-10-02",
+   "venue": "TBA",
+   "url": "https://ra.co/events/2549037",
+   "title": "02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA"
   }
  ],
  "Tigers Jaw": [
@@ -5867,14 +6035,6 @@
    "title": "Cerounno, Vinyltracker y Juan 97"
   }
  ],
- "Visuals x UnPlug.": [
-  {
-   "date": "2026-09-29",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2546440",
-   "title": "Minelek x T.A.B.E. w/Fuk3n3, Berger Muzik & R3x"
-  }
- ],
  "Void": [
   {
    "date": "2026-11-29",
@@ -5897,6 +6057,14 @@
    "venue": "Nomad Warehouse // Galpón Mercedes Sosa",
    "url": "https://ra.co/events/2542484",
    "title": "Volpe, Seph(live), HERS & DEL OLMO at NOMAD TECHNO 10/10"
+  }
+ ],
+ "VRSA": [
+  {
+   "date": "2026-10-02",
+   "venue": "TBA",
+   "url": "https://ra.co/events/2549037",
+   "title": "02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA"
   }
  ],
  "Walls": [
