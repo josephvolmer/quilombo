@@ -18,6 +18,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Homenaje Sinfónico Ennio Morricone",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Homenaje Sinfónico Ennio Morricone"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/homenaje-sinfonico-ennio-morricone/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/homenaje-sinfonico-ennio-morricone/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/em_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Tarja",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -46,23 +63,6 @@
   "ticket_url": "https://www.ticketek.com.ar/san-luis/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/sluis440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "The Mode",
-  "date": "",
-  "venue": "City Center",
-  "artists": [
-   "The Mode"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/mode/city-center",
-  "ticket_url": "https://www.ticketek.com.ar/mode/city-center",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mode440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -460,6 +460,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Poder K-Pop",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Poder K-Pop"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/poder-k-pop/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/poder-k-pop/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_kpop.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Roze",
   "date": "",
   "venue": "Teatro Opera On",
@@ -573,23 +590,6 @@
   "ticket_url": "https://www.ticketek.com.ar/bebe/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/beb-gen-show.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Palito Ortega",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Palito Ortega"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palito_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
