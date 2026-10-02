@@ -783,23 +783,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Micaela Chauque",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "Micaela Chauque"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mica440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Gabriel Prado",
   "date": "",
   "venue": "Teatro Opera On",
@@ -845,6 +828,23 @@
   "ticket_url": "https://www.ticketek.com.ar/la-chamba-folk/city-center",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chamba440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Micaela Chauque",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Micaela Chauque"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mica440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1004,23 +1004,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Luciano Pereyra",
-  "date": "",
-  "venue": "Estación Belgrano",
-  "artists": [
-   "Luciano Pereyra"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La Traviata",
   "date": "",
   "venue": "Teatro Avenida",
@@ -1083,6 +1066,23 @@
   "ticket_url": "https://www.ticketek.com.ar/cielo-abierto/teatro-regio",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ticketeck_a_cielo_abierto_440_x_600_1.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Luciano Pereyra",
+  "date": "",
+  "venue": "Estación Belgrano",
+  "artists": [
+   "Luciano Pereyra"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1372,23 +1372,6 @@
   "ticket_url": "https://www.ticketek.com.ar/clearwater/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/creed_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "The Beats",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "The Beats"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/beats/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/beats/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_41.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
