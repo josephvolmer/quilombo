@@ -494,23 +494,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Bandana",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Bandana"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/bandana/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/bandana/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/band440_0.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Camilo",
   "date": "",
   "venue": "Arena Maipu",
@@ -590,6 +573,23 @@
   "ticket_url": "https://www.ticketek.com.ar/bebe/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/beb-gen-show.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Palito Ortega",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Palito Ortega"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palito_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -759,7 +759,7 @@
   "url": "https://www.ticketek.com.ar/los-kjarkas/arena-maipu",
   "ticket_url": "https://www.ticketek.com.ar/los-kjarkas/arena-maipu",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kj_a26am.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kj_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -936,23 +936,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Los Bybys",
-  "date": "",
-  "venue": "Tropitango",
-  "artists": [
-   "Los Bybys"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-bybys/tropitango",
-  "ticket_url": "https://www.ticketek.com.ar/los-bybys/tropitango",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bybys_26_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Los Palmae",
   "date": "",
   "venue": "City Center",
@@ -998,6 +981,23 @@
   "ticket_url": "https://www.ticketek.com.ar/el-oficial-gordillo/teatro-universidad-nacional-de-la-matanza",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gordillo_440_20.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Luciano Pereyra",
+  "date": "",
+  "venue": "Estación Belgrano",
+  "artists": [
+   "Luciano Pereyra"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1072,23 +1072,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Luciano Pereyra",
-  "date": "",
-  "venue": "Estación Belgrano",
-  "artists": [
-   "Luciano Pereyra"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La Verbena de la Paloma",
   "date": "",
   "venue": "Teatro Avenida",
@@ -1134,6 +1117,40 @@
   "ticket_url": "https://www.ticketek.com.ar/hairspray",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_generica.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Modelo Vivo Muerto ",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Modelo Vivo Muerto "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Modelo Vivo Muerto ",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Modelo Vivo Muerto "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1253,74 +1270,6 @@
   "ticket_url": "https://www.ticketek.com.ar/amores-reunidos/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/amores440x600_2.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Campo Minado",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Campo Minado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Modelo Vivo Muerto ",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Modelo Vivo Muerto "
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
-  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Modelo Vivo Muerto ",
-  "date": "",
-  "venue": "Teatro Universidad Nacional de la Matanza",
-  "artists": [
-   "Modelo Vivo Muerto "
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
-  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Modelo Vivo Muerto ",
-  "date": "",
-  "venue": "Teatro Marín",
-  "artists": [
-   "Modelo Vivo Muerto "
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
-  "ticket_url": "https://www.ticketek.com.ar/modelo-vivo-muerto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/modelo_vivo_ticketek_440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
