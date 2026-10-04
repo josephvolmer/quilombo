@@ -732,23 +732,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Campedrinos",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Campedrinos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/campedrinos/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/campedrinos/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/camp440_0.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Los Kjarkas",
   "date": "",
   "venue": "Arena Maipu",
@@ -862,6 +845,23 @@
   "ticket_url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chango_spasiuk.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jorge Rojas",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Jorge Rojas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
