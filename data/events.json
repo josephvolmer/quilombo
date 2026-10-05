@@ -1,47 +1,5 @@
 [
  {
-  "source": "wp-palermo-groove",
-  "title": "Sundays by Groove @ Domingo 8 de febrero 2026 (+18)",
-  "date": "2026-02-08",
-  "venue": "Palermo Groove",
-  "artists": [
-   "Sundays by Groove @ Domingo 8 de febrero 2026 (+18)"
-  ],
-  "genres": [],
-  "url": "https://www.passline.com/eventos/sundays-by-groove-domingo-8-de-febrero-2026",
-  "ticket_url": "",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "wp-palermo-groove"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "wp-palermo-groove",
-  "title": "Black Label Society en Argentina! 27 de Abril 2026 (+12)",
-  "date": "2026-04-27",
-  "venue": "Palermo Groove",
-  "artists": [
-   "Black Label Society en Argentina! 27 de Abril 2026 (+12)"
-  ],
-  "genres": [],
-  "url": "https://www.passline.com/eventos/black-label-society-en-argentina-27-de-abril-2026",
-  "ticket_url": "",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "wp-palermo-groove"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "bebop",
   "title": "Chris Cain",
   "date": "2026-07-06",
@@ -2894,30 +2852,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "crobar",
-  "title": "Czerniak",
-  "date": "2026-10-03",
-  "venue": "Crobar Studio",
-  "artists": [
-   "Czerniak",
-   "Owners of Time",
-   "Late Game",
-   "Anyu"
-  ],
-  "genres": [],
-  "url": "https://www.crobar.com.ar/studio",
-  "ticket_url": "https://wearebombo.app.link/HOXHjMEwT5b",
-  "price": "",
-  "image": "https://www.crobar.com.ar/brand/og-studio.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "crobar"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Emanuel Satie and MAGA - Flama",
   "date": "2026-10-03",
@@ -3196,113 +3130,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "CAFÉ POLENTA X CANILLITA X PARDA",
-  "date": "2026-10-04",
-  "venue": "Canillita Café",
-  "artists": [
-   "CAFÉ POLENTA X CANILLITA X PARDA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/caf-polenta-x-canillita-x-parda",
-  "ticket_url": "https://venti.live/evento/caf-polenta-x-canillita-x-parda",
-  "price": "",
-  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
-  "lat": -34.583832,
-  "lon": -58.3909818,
-  "start_time": "19:45",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Chapterhouse",
-  "date": "2026-10-04",
-  "venue": "Niceto Club",
-  "artists": [
-   "Chapterhouse",
-   "Tomates en Verano"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43060721-chapterhouse-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43060721-chapterhouse-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "price": "Desde $45.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/7752/huge_avatar",
-  "lat": -34.58741,
-  "lon": -58.43887,
-  "start_time": "20:00",
-  "sources": [
-   "indiehoy",
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "De La Rose",
-  "date": "2026-10-04",
-  "venue": "C Complejo Art Media",
-  "artists": [
-   "De La Rose"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43420807-de-la-rose-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43420807-de-la-rose-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8437963/huge_avatar",
-  "lat": -34.59104,
-  "lon": -58.44825,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Dyango",
-  "date": "2026-10-04",
-  "venue": "Teatro Gran Rex",
-  "artists": [
-   "Dyango"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/dyango-en-teatro-gran-rex/",
-  "ticket_url": "https://comprar.tuentrada.com/tuentrada/events/53432?_gl=1*1yqyin7*_ga*MTczMzE4MDkxOC4xNzc0NTY2OTc1*_ga_K2KT0GJC8Q*czE3NzQ1NjY5NzUkbzEkZzEkdDE3NzQ1NjY5NzUkajYwJGwwJGgzMTE5NDQ0MTA.&sessionView=LIST",
-  "price": "Desde $45.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/03/1772875135164-Dyango-1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "GAUCHITO CLUB DOMINGO 4 DE OCTUBRE",
-  "date": "2026-10-04",
-  "venue": "Bodega Giol",
-  "artists": [
-   "GAUCHITO CLUB"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/gauchito-club-domingo-4-de-octubre",
-  "ticket_url": "https://venti.live/evento/gauchito-club-domingo-4-de-octubre",
-  "price": "$40.000",
-  "image": "https://images.venti.live/user-images/1790101985702-lg.jpg",
-  "lat": -32.97270202636719,
-  "lon": -68.78813171386719,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "bebop",
   "title": "JOSHUA REDMAN",
   "date": "2026-10-04",
@@ -3322,27 +3149,6 @@
   "start_time": "",
   "sources": [
    "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Robbie Williams",
-  "date": "2026-10-04",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Robbie Williams"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43257723-robbie-williams-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43257723-robbie-williams-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/290726/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
   ],
   "artist_source": "structured"
  },
@@ -3402,29 +3208,8 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "BLACK CREAM ORIGINAL DOM 04/10",
-  "date": "2026-10-05",
-  "venue": "BlackCream",
-  "artists": [
-   "BLACK CREAM ORIGINAL"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/black-cream-original-dom-04-10",
-  "ticket_url": "https://venti.live/evento/black-cream-original-dom-04-10",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1790566411234-lg.jpg",
-  "lat": -34.586299896240234,
-  "lon": -58.41642379760742,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
-  "title": "Minelek Sessions",
+  "title": "Minelek Sessions 06/10/26",
   "date": "2026-10-06",
   "venue": "La Cigale",
   "artists": [
@@ -3816,6 +3601,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Cange",
+  "date": "2026-10-09",
+  "venue": "Club Social 911",
+  "artists": [
+   "Cange"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/cange-en-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/136133-cange-band-show",
+  "price": "$10000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image-6.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Carca",
   "date": "2026-10-09",
   "venue": "La Trastienda",
@@ -4006,6 +3812,34 @@
   "start_time": "",
   "sources": [
    "crobar"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "KICK ZONE SPRING EDITION",
+  "date": "2026-10-09",
+  "venue": "TBA - LA GRECO PERU 269",
+  "artists": [
+   "@reach.music_",
+   "@tusimonium",
+   "@onlyneekho",
+   "@nack.wav",
+   "@_corzy"
+  ],
+  "genres": [
+   "Psytrance",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2552659",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
@@ -4375,6 +4209,33 @@
   "start_time": "",
   "sources": [
    "crobar"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Belin - Gonzalo Trejo - Istvan Roux - Jorge Ciccioli - NTRM",
+  "date": "2026-10-10",
+  "venue": "Under Club",
+  "artists": [
+   "Istvan Roux",
+   "Belin",
+   "Jorge Ciccioli",
+   "Gonzalo Trejo",
+   "NTRM"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2553610",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
@@ -5137,6 +4998,27 @@
  },
  {
   "source": "venti",
+  "title": "BELIN | GONZALO TREJO | ISTVAN ROUX | JORGE CICCIOLI | NTRM",
+  "date": "2026-10-11",
+  "venue": "Under Club",
+  "artists": [
+   "BELIN | GONZALO TREJO | ISTVAN ROUX | JORGE CICCIOLI | NTRM"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/belin-gonzalo-trejo-istvan-roux-jorge-ciccioli-ntrm",
+  "ticket_url": "https://venti.live/evento/belin-gonzalo-trejo-istvan-roux-jorge-ciccioli-ntrm",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1791218043940-lg.jpg",
+  "lat": -34.585975646972656,
+  "lon": -58.44016647338867,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Brindis en Wildhops CB",
   "date": "2026-10-11",
   "venue": "Wild Hops City Bell",
@@ -5622,6 +5504,49 @@
  },
  {
   "source": "venti",
+  "title": "POPE – FULL CACHENGUE | SABADO 10.10",
+  "date": "2026-10-11",
+  "venue": "POPE SOCIAL CLUB",
+  "artists": [
+   "POPE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/pope-full-cachengue-sabado-10-10",
+  "ticket_url": "https://venti.live/evento/pope-full-cachengue-sabado-10-10",
+  "price": "$16.000",
+  "image": "https://images.venti.live/user-images/1791223494379-lg.jpg",
+  "lat": -34.5325127,
+  "lon": -58.70450169999999,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "ROBOT ZONDA + KLAXON",
+  "date": "2026-10-11",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "ROBOT ZONDA",
+   "KLAXON"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
+  "ticket_url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
+  "price": "$12.000",
+  "image": "https://images.venti.live/user-images/1790021556887-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "SELF-TITLED: GOLDEN HOUR",
   "date": "2026-10-11",
   "venue": "Niceto Bar",
@@ -6031,21 +5956,20 @@
  },
  {
   "source": "venti",
-  "title": "ROBOT ZONDA + KLAXON",
+  "title": "POPE – RETRO 2000 + SHOW CHAPA C | DOMINGO 11.10",
   "date": "2026-10-12",
-  "venue": "Humboldt | Niceto Club",
+  "venue": "POPE SOCIAL CLUB",
   "artists": [
-   "ROBOT ZONDA",
-   "KLAXON"
+   "POPE"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1790021556887-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
+  "url": "https://venti.live/evento/pope-reggaeton-retro-2000-domingo-11-10",
+  "ticket_url": "https://venti.live/evento/pope-reggaeton-retro-2000-domingo-11-10",
+  "price": "$14.000",
+  "image": "https://images.venti.live/user-images/1791147595907-lg.jpg",
+  "lat": -34.5325127,
+  "lon": -58.70450169999999,
+  "start_time": "02:00",
   "sources": [
    "venti"
   ],
@@ -6134,6 +6058,29 @@
    "songkick"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Cata Sack + Mili Zampella + Sosó",
+  "date": "2026-10-13",
+  "venue": "Club Social 911",
+  "artists": [
+   "Cata Sack",
+   "Mili Zampella",
+   "Sosó"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/cata-sack-mili-zampella-soso-en-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/158441-amy-winehouse-x-cata-sack-mili-zampella-y-soso",
+  "price": "$12000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image-5.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "songkick",
@@ -6694,6 +6641,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "DEEP SESSION #20",
+  "date": "2026-10-16",
+  "venue": "Niceto Bar",
+  "artists": [
+   "DEEP SESSION #20"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/deep-session-20-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/deep-session-20-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1791208063165-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "02:30",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "crobar",
   "title": "Dj Tennis",
   "date": "2026-10-16",
@@ -7018,6 +6986,28 @@
   "ticket_url": "https://www.passline.com/eventos/roy-khan-the-black-halo-and-beyond-tour-2026",
   "price": "Desde $100.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/08/roy-khan-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Salsa y No Llores",
+  "date": "2026-10-16",
+  "venue": "Club Social 911",
+  "artists": [
+   "Salsa",
+   "No Llores"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/salsa-y-no-llores-en-club-social-911-2/",
+  "ticket_url": "https://clubsocial911.com/event/162764-salsa-y-no-llores-edicion-viva-latinoamerica",
+  "price": "$8000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image-4.webp",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -7828,6 +7818,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Yerba Brava",
+  "date": "2026-10-17",
+  "venue": "Club Social 911",
+  "artists": [
+   "Yerba Brava"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/yerba-brava-en-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/161447-cumple-del-club",
+  "price": "$6000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image-3.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Árbol en Teatro Ópera",
   "date": "2026-10-17",
   "venue": "Teatro Ópera On",
@@ -8205,6 +8216,27 @@
    "songkick"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "Polenta en Campana",
+  "date": "2026-10-18",
+  "venue": "LUX Nightlife",
+  "artists": [
+   "Polenta"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/polenta-en-campana",
+  "ticket_url": "https://venti.live/evento/polenta-en-campana",
+  "price": "$13.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.1635341,
+  "lon": -58.9583909,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -8694,6 +8726,48 @@
   "artist_source": "structured"
  },
  {
+  "source": "songkick",
+  "title": "Ramones on 45",
+  "date": "2026-10-22",
+  "venue": "Salas Ciro",
+  "artists": [
+   "Ramones on 45"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43447181-ramones-on-45-at-salas-ciro?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43447181-ramones-on-45-at-salas-ciro?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10362103/huge_avatar",
+  "lat": -34.66574,
+  "lon": -58.7286,
+  "start_time": "",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Tomates en verano + Comevidrio + Todas las anteriores",
+  "date": "2026-10-22",
+  "venue": "Club Social 911",
+  "artists": [
+   "Tomates"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/tomates-en-verano-comevidrio-todas-las-anteriores-en-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/158474-ciclo-nsqe-vol-6",
+  "price": "$8000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image-2.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Zakk Sabbath en Argentina",
   "date": "2026-10-22",
@@ -8800,6 +8874,28 @@
  },
  {
   "source": "indiehoy",
+  "title": "Incidiera + Fenicia Rubi",
+  "date": "2026-10-23",
+  "venue": "Club Social 911",
+  "artists": [
+   "Incidiera",
+   "Fenicia Rubi"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/incidiera-fenicia-rubi-en-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/162929-incidiera-fenicia-rubi",
+  "price": "$10000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image-1.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Komo Yamarte + Ostra Damus",
   "date": "2026-10-23",
   "venue": "Strummer Bar",
@@ -8840,6 +8936,28 @@
   "artist_source": "none"
  },
  {
+  "source": "songkick",
+  "title": "Malevolent Creation",
+  "date": "2026-10-23",
+  "venue": "El Teatrito",
+  "artists": [
+   "Malevolent Creation",
+   "Mystic Circle"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43269855-malevolent-creation-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43269855-malevolent-creation-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/405537/huge_avatar",
+  "lat": -34.60565,
+  "lon": -58.39155,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "resident-advisor",
   "title": "Nick Warren + Kevin Di Serna [DIA 1] - by FRAGMENT",
   "date": "2026-10-23",
@@ -8861,6 +8979,27 @@
   "start_time": "23:00",
   "sources": [
    "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "songkick",
+  "title": "Nicole Zignago",
+  "date": "2026-10-23",
+  "venue": "Niceto Club",
+  "artists": [
+   "Nicole Zignago"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43214197-nicole-zignago-at-niceto-club?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43214197-nicole-zignago-at-niceto-club?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10163804/huge_avatar",
+  "lat": -34.58741,
+  "lon": -58.43887,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
   ],
   "artist_source": "structured"
  },
@@ -9095,6 +9234,27 @@
   "ticket_url": "https://tickets.latangente.com.ar/musica/jaz-pimentel",
   "price": "Desde $20.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/09/jaz-pimentel-la-tangente.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Juana Sallies",
+  "date": "2026-10-24",
+  "venue": "Club Social 911",
+  "artists": [
+   "Juana Sallies"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/juana-sallies-en-club-social-911/",
+  "ticket_url": "https://clubsocial911.com/event/154349-juana-sallies-presentacion-en-vivo-de-ancora",
+  "price": "$15000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/image.webp",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -9546,6 +9706,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "NINETY 24 OCT",
+  "date": "2026-10-25",
+  "venue": "Niceto Bar",
+  "artists": [
+   "NINETY"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/ninety-24-oct-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/ninety-24-oct-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1791218346079-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -10215,6 +10396,27 @@
  },
  {
   "source": "venti",
+  "title": "Fiesta Lulú 30/10 - Edición Especial Halloween",
+  "date": "2026-10-31",
+  "venue": "Crobar",
+  "artists": [
+   "Lulú"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fiesta-lul-30-09",
+  "ticket_url": "https://venti.live/evento/fiesta-lul-30-09",
+  "price": "$100.000",
+  "image": "https://images.venti.live/user-images/1791223213892-lg.jpg",
+  "lat": -34.5694172,
+  "lon": -58.4205188,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Fiesta Pixie - Halloween",
   "date": "2026-10-31",
   "venue": "Niceto Bar",
@@ -10229,6 +10431,27 @@
   "lat": -34.5872316,
   "lon": -58.4383841,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)",
+  "date": "2026-10-31",
+  "venue": "Mustang Bar & Grill",
+  "artists": [
+   "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
+  "ticket_url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1791216639209-lg.jpg",
+  "lat": -34.39799499511719,
+  "lon": -58.67307662963867,
+  "start_time": "00:30",
   "sources": [
    "venti"
   ],
@@ -11027,6 +11250,32 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "luzbel [001]",
+  "date": "2026-11-06",
+  "venue": "Melt Underground",
+  "artists": [
+   "Rocco.fx",
+   "J4X",
+   "Juan Larraburo B2B VLB"
+  ],
+  "genres": [
+   "Dub Techno",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2552965",
+  "ticket_url": "",
+  "price": "$15.000",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "23:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -13207,6 +13456,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "Ian Lucas",
+  "date": "2026-12-07",
+  "venue": "Arena Mardel Plata",
+  "artists": [
+   "Ian Lucas"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/ian-lucas-en-arena-mardel-plata",
+  "ticket_url": "https://venti.live/evento/ian-lucas-en-arena-mardel-plata",
+  "price": "$65.000",
+  "image": "https://images.venti.live/user-images/1791202691461-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Agarrate Catalina en Argentina",
   "date": "2026-12-08",
@@ -13796,27 +14066,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Hojas por el Barrio en Argentina",
-  "date": "2026-12-19",
-  "venue": "Niceto Club",
-  "artists": [
-   "Hojas por el Barrio"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/hojas-por-el-barrio-en-argentina/",
-  "ticket_url": "https://venti.live/evento/hojas-por-el-barrio-presenta-a-n-que-sea-en-humboldt-niceto-club-18-a-os",
-  "price": "$15000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/hojasporel.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "venti",

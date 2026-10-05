@@ -664,6 +664,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Brad Mehldau Trio",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Brad Mehldau Trio"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/brad-mehldau-trio/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/brad-mehldau-trio/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/brad440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Raly Barrionuevo",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -953,23 +970,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Ian Lucas",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Ian Lucas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/ian-lucas/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ian440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "El Oficial Gordillo",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1191,23 +1191,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Terapia Despareja",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Terapia Despareja"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/terapia-despareja/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/terapia-despareja/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/terapia440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Elena Roger",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1270,6 +1253,23 @@
   "ticket_url": "https://www.ticketek.com.ar/amores-reunidos/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/amores440x600_2.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Campo Minado",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Campo Minado"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1406,6 +1406,23 @@
   "ticket_url": "https://www.ticketek.com.ar/jere-klein/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jerek440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Maria Elena Walsh Sinfónico",
+  "date": "",
+  "venue": "Teatro Colón",
+  "artists": [
+   "Maria Elena Walsh Sinfónico"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/maria-elena-walsh-sinfonico/teatro-colon",
+  "ticket_url": "https://www.ticketek.com.ar/maria-elena-walsh-sinfonico/teatro-colon",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/wal440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
