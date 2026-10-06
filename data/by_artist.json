@@ -155,8 +155,8 @@
   {
    "date": "2026-10-09",
    "venue": "El Teatrito",
-   "url": "https://www.songkick.com/concerts/43313833-a-flock-of-seagulls-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-   "title": "A Flock of Seagulls"
+   "url": "https://indiehoy.com/agenda/a-flock-of-seagulls-en-argentina/",
+   "title": "A Flock of Seagulls en Argentina"
   }
  ],
  "A Perfect Circle": [
@@ -199,6 +199,14 @@
    "title": "Adanowsky en Argentina"
   }
  ],
+ "Adelina Sofia": [
+  {
+   "date": "2026-10-23",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Gueva"
+  }
+ ],
  "ADHILA": [
   {
    "date": "2026-10-16",
@@ -211,14 +219,6 @@
    "venue": "Groove",
    "url": "https://ra.co/events/2540493",
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
-  }
- ],
- "Adrede (Arg)": [
-  {
-   "date": "2026-10-08",
-   "venue": "Moscú Espacio Cultural",
-   "url": "https://www.songkick.com/concerts/43428332-mis-suenos-son-de-tu-adios-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
-   "title": "mis sueños son de tu adiós"
   }
  ],
  "After Gómez": [
@@ -275,20 +275,6 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/ainda-en-niceto-club/",
    "title": "Ainda"
-  }
- ],
- "Aitana": [
-  {
-   "date": "2026-10-21",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43184477-aitana-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Aitana"
-  },
-  {
-   "date": "2026-10-22",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43184478-aitana-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Aitana"
   }
  ],
  "Ajdos": [
@@ -355,14 +341,6 @@
    "title": "ALIAGA"
   }
  ],
- "ALIMA": [
-  {
-   "date": "2026-10-16",
-   "venue": "Zadar Club",
-   "url": "https://www.songkick.com/concerts/43321887-fede-cabral-at-zadar-club?utm_medium=organic&utm_source=microformat",
-   "title": "Fede cabral"
-  }
- ],
  "Aloha Pres. Halloween Night at Oldskull Park Pilar": [
   {
    "date": "2026-11-01",
@@ -379,12 +357,12 @@
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
   }
  ],
- "Alter Bridge": [
+ "Am session x Safari": [
   {
-   "date": "2026-10-22",
-   "venue": "C Complejo Art Media",
-   "url": "https://www.songkick.com/concerts/43146061-alter-bridge-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-   "title": "Alter Bridge"
+   "date": "2026-10-11",
+   "venue": "MISIÓN",
+   "url": "https://venti.live/evento/am-session-x-safari-11-04",
+   "title": "Am session x Safari 11-04"
   }
  ],
  "Amix": [
@@ -393,14 +371,6 @@
    "venue": "The Shamrock Bar & Basement Club",
    "url": "https://venti.live/evento/amix-16-10-shamrock-basement",
    "title": "Amix 16/10 @ Shamrock Basement"
-  }
- ],
- "Amorphis": [
-  {
-   "date": "2026-10-13",
-   "venue": "El Teatrito",
-   "url": "https://www.songkick.com/concerts/43088372-amorphis-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-   "title": "Amorphis"
   }
  ],
  "Ana Hagen": [
@@ -501,14 +471,6 @@
    "title": "Antonella Restucci"
   }
  ],
- "Apocalyptica": [
-  {
-   "date": "2026-10-22",
-   "venue": "Groove",
-   "url": "https://www.songkick.com/concerts/43214161-apocalyptica-at-groove?utm_medium=organic&utm_source=microformat",
-   "title": "Apocalyptica"
-  }
- ],
  "April Palmer": [
   {
    "date": "2026-10-31",
@@ -573,14 +535,6 @@
    "title": "Sol Porro - My House"
   }
  ],
- "Armandinho": [
-  {
-   "date": "2026-10-08",
-   "venue": "La Trastienda",
-   "url": "https://www.songkick.com/concerts/43367747-armandinho-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-   "title": "Armandinho"
-  }
- ],
  "Axel": [
   {
    "date": "2026-10-23",
@@ -611,14 +565,6 @@
    "venue": "Deseo BS AS",
    "url": "https://ra.co/events/2527627",
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
-  }
- ],
- "Bad Gyal": [
-  {
-   "date": "2026-10-14",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43214235-bad-gyal-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Bad Gyal"
   }
  ],
  "Baez & Saint": [
@@ -749,14 +695,6 @@
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
   }
  ],
- "Bertoncelli": [
-  {
-   "date": "2026-10-10",
-   "venue": "Uniclub",
-   "url": "https://www.songkick.com/concerts/43300656-bertoncelli-at-uniclub?utm_medium=organic&utm_source=microformat",
-   "title": "Bertoncelli"
-  }
- ],
  "BESARABIA pres. BABAN": [
   {
    "date": "2026-10-17",
@@ -765,20 +703,12 @@
    "title": "BESARABIA pres. BABAN & VASCO"
   }
  ],
- "Between The Buried And Me": [
+ "Between the Buried and Me": [
   {
    "date": "2026-10-15",
    "venue": "Uniclub",
-   "url": "https://www.songkick.com/concerts/43148904-between-the-buried-and-me-at-uniclub?utm_medium=organic&utm_source=microformat",
-   "title": "Between The Buried And Me"
-  }
- ],
- "Beyond Madness": [
-  {
-   "date": "2026-10-18",
-   "venue": "Espacio Rincón",
-   "url": "https://www.songkick.com/festivals/3544857-smashed-fest/id/43428603-smashed-fest-2026?utm_medium=organic&utm_source=microformat",
-   "title": "SMASHED FEST 2026"
+   "url": "https://indiehoy.com/agenda/between-the-buried-and-me-en-argentina/",
+   "title": "Between the Buried and Me en Argentina"
   }
  ],
  "Bianca del Rio": [
@@ -899,6 +829,14 @@
    "title": "Laura Esquivel y Brenda Asnicar"
   }
  ],
+ "Brenda Verhagen": [
+  {
+   "date": "2026-11-07",
+   "venue": "Elements Club B.A.",
+   "url": "https://venti.live/evento/pacs-platero-tom-gorom-b2b-brenda-verhagen",
+   "title": "PACS + Platero + Tom Gorom b2b Brenda Verhagen"
+  }
+ ],
  "Bresh": [
   {
    "date": "2026-10-12",
@@ -965,14 +903,6 @@
    "venue": "Comodoro Rivadavia",
    "url": "https://venti.live/evento/s-bado-17-10-cachengue-fest-comodoro-rivadavia",
    "title": "Sábado 17/10 - Cachengue Fest"
-  }
- ],
- "Cadena Perpetua": [
-  {
-   "date": "2026-10-10",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/42886174-die-toten-hosen-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Die Toten Hosen"
   }
  ],
  "Caitto": [
@@ -1071,6 +1001,14 @@
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
   }
  ],
+ "CASTELO OPEN AIR": [
+  {
+   "date": "2026-12-19",
+   "venue": "Bahía Blanca",
+   "url": "https://venti.live/evento/chapa-castelo-open-air-track-club",
+   "title": "CHAPA & CASTELO OPEN AIR @ TRACK CLUB"
+  }
+ ],
  "Cata Sack": [
   {
    "date": "2026-10-13",
@@ -1127,6 +1065,28 @@
    "title": "Cerounno, Vinyltracker y Juan 97"
   }
  ],
+ "CHANA": [
+  {
+   "date": "2026-10-10",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-viernes-9-de-octubre",
+   "title": "CHANA VIERNES 9 DE OCTUBRE"
+  },
+  {
+   "date": "2026-10-11",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-s-bado-10-de-octubre",
+   "title": "CHANA SÁBADO 10 DE OCTUBRE"
+  }
+ ],
+ "CHAPA": [
+  {
+   "date": "2026-12-19",
+   "venue": "Bahía Blanca",
+   "url": "https://venti.live/evento/chapa-castelo-open-air-track-club",
+   "title": "CHAPA & CASTELO OPEN AIR @ TRACK CLUB"
+  }
+ ],
  "Charlotte de Witte": [
   {
    "date": "2026-11-14",
@@ -1171,6 +1131,22 @@
    "venue": "Deseo BS AS",
    "url": "https://ra.co/events/2527627",
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
+  }
+ ],
+ "CHOGGEO La primera fiesta de Chogger de llega a Humboldt | Niceto Club": [
+  {
+   "date": "2026-11-15",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/choggeo-la-primera-fiesta-de-chogger-de-llega-a-humboldt-niceto-club",
+   "title": "CHOGGEO La primera fiesta de Chogger de llega a"
+  }
+ ],
+ "Chris Lake": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ],
  "Chris Parodi": [
@@ -1295,6 +1271,22 @@
    "title": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE"
   }
  ],
+ "CLUB QUBA": [
+  {
+   "date": "2026-10-09",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/club-quba-08-10-queves-session-1",
+   "title": "CLUB QUBA | 08.10 QUEVES SESSION #1"
+  }
+ ],
+ "Cnel. Niceto Vega 5699, CABA.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
  "COCALEROS": [
   {
    "date": "2026-10-17",
@@ -1311,12 +1303,28 @@
    "title": "COCKTAIL SOCIAL PARA CONGRESO DE CIRUJANOS 2026"
   }
  ],
+ "Coeus": [
+  {
+   "date": "2026-11-21",
+   "venue": "Mute Beach",
+   "url": "https://ra.co/events/2553944",
+   "title": "Opening MUTE"
+  }
+ ],
  "COLLABS 3000 | JULIETA LAKE | KØLPØS": [
   {
    "date": "2026-10-31",
    "venue": "Under Club",
    "url": "https://venti.live/evento/collab-3000-julieta-lake-k-lp-s",
    "title": "COLLABS 3000 | JULIETA LAKE | KØLPØS"
+  }
+ ],
+ "Colyn": [
+  {
+   "date": "2026-11-21",
+   "venue": "Mute Beach",
+   "url": "https://ra.co/events/2553944",
+   "title": "Opening MUTE"
   }
  ],
  "COLYN": [
@@ -1431,26 +1439,20 @@
    "title": "Crisá en Imaginario Cultural"
   }
  ],
+ "Cromind": [
+  {
+   "date": "2026-10-23",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Gueva"
+  }
+ ],
  "CTM": [
   {
    "date": "2026-10-24",
    "venue": "Arena Sur Centro Cultural",
    "url": "https://indiehoy.com/agenda/ctm-en-arena-sur/",
    "title": "CTM en Arena Sur"
-  }
- ],
- "Cuarteto de nos": [
-  {
-   "date": "2026-10-11",
-   "venue": "Estadio GEI",
-   "url": "https://www.songkick.com/concerts/43345560-el-cuarteto-de-nos-at-estadio-gei?utm_medium=organic&utm_source=microformat",
-   "title": "El Cuarteto de Nos"
-  },
-  {
-   "date": "2026-10-12",
-   "venue": "Auditorio Sur",
-   "url": "https://www.songkick.com/concerts/43436053-el-cuarteto-de-nos-at-auditorio-sur?utm_medium=organic&utm_source=microformat",
-   "title": "El Cuarteto de Nos"
   }
  ],
  "CØD1GO - HALLOWEEN EDITION - The Secret Code": [
@@ -1523,14 +1525,6 @@
    "venue": "TBA - Club Morocco, Costanera",
    "url": "https://ra.co/events/2527593",
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
-  }
- ],
- "David Bisbal": [
-  {
-   "date": "2026-10-12",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43214239-david-bisbal-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "David Bisbal"
   }
  ],
  "David Löhlein": [
@@ -1609,14 +1603,6 @@
    "title": "Miguel Bastida - Área Costanera Quilmes - ALLMusicParties"
   }
  ],
- "Die Toten Hosen": [
-  {
-   "date": "2026-10-10",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/42886174-die-toten-hosen-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Die Toten Hosen"
-  }
- ],
  "Divididos": [
   {
    "date": "2026-12-10",
@@ -1689,14 +1675,6 @@
    "title": "DONAVON en Niceto Club (+18 años)"
   }
  ],
- "Dregen": [
-  {
-   "date": "2026-10-09",
-   "venue": "Liverpool Club",
-   "url": "https://www.songkick.com/concerts/43300657-dregen-at-liverpool-club?utm_medium=organic&utm_source=microformat",
-   "title": "Dregen"
-  }
- ],
  "Dyango": [
   {
    "date": "2026-10-07",
@@ -1741,20 +1719,12 @@
    "venue": "Acceso Punta Carrasco",
    "url": "https://venti.live/evento/el-club-de-la-serpiente-30-de-octubre-the-bow-complejo-punta-carrasco-caba",
    "title": "EL CLUB DE LA SERPIENTE, 30 DE OCTUBRE - THE BOW, COMPLEJO PUNTA CARRASCO - CABA"
-  }
- ],
- "El Cuarteto de Nos": [
-  {
-   "date": "2026-10-11",
-   "venue": "Estadio GEI",
-   "url": "https://www.songkick.com/concerts/43345560-el-cuarteto-de-nos-at-estadio-gei?utm_medium=organic&utm_source=microformat",
-   "title": "El Cuarteto de Nos"
   },
   {
-   "date": "2026-10-12",
-   "venue": "Auditorio Sur",
-   "url": "https://www.songkick.com/concerts/43436053-el-cuarteto-de-nos-at-auditorio-sur?utm_medium=organic&utm_source=microformat",
-   "title": "El Cuarteto de Nos"
+   "date": "2026-11-08",
+   "venue": "Complejo Chocolate",
+   "url": "https://venti.live/evento/el-club-de-la-serpiente-7-de-noviembre-chocolate-bahia-blanca",
+   "title": "EL CLUB DE LA SERPIENTE, 7 DE NOVIEMBRE - CHOCOLATE - BAHIA BLANCA"
   }
  ],
  "El Kanka": [
@@ -1763,6 +1733,14 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/el-kanka-en-gran-rex-buenos-aires-argentina-2027/",
    "title": "El Kanka en Argentina"
+  }
+ ],
+ "EL MAGO": [
+  {
+   "date": "2026-10-31",
+   "venue": "Wild Hops City Bell",
+   "url": "https://venti.live/evento/el-mago-y-la-nueva-luna-en-wildhops",
+   "title": "EL MAGO Y LA NUEVA LUNA EN WILDHOPS"
   }
  ],
  "El Príncipe Idiota": [
@@ -1819,14 +1797,6 @@
    "venue": "TBA - Mandarine Park, Punta Carrasco",
    "url": "https://ra.co/events/2533711",
    "title": "Emiliano Demarco"
-  }
- ],
- "End It": [
-  {
-   "date": "2026-10-16",
-   "venue": "Club Cultural Bula",
-   "url": "https://www.songkick.com/concerts/43356830-end-it-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-   "title": "End It"
   }
  ],
  "Enrico Sangiuliano": [
@@ -1947,6 +1917,14 @@
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
   }
  ],
+ "Facundo Losardo": [
+  {
+   "date": "2026-10-17",
+   "venue": "TBA - La Biblioteca, San Telmo",
+   "url": "https://ra.co/events/2533675",
+   "title": "Tantum - Somos Produce"
+  }
+ ],
  "Faithless": [
   {
    "date": "2026-11-14",
@@ -1969,14 +1947,6 @@
    "title": "Fantasmagoria en Palacio Libertad"
   }
  ],
- "Fede cabral": [
-  {
-   "date": "2026-10-16",
-   "venue": "Zadar Club",
-   "url": "https://www.songkick.com/concerts/43321887-fede-cabral-at-zadar-club?utm_medium=organic&utm_source=microformat",
-   "title": "Fede cabral"
-  }
- ],
  "Federico Guerrero": [
   {
    "date": "2026-10-16",
@@ -1991,20 +1961,6 @@
    "venue": "El ROBLE WAKE COMPLEX",
    "url": "https://venti.live/evento/feelings-11-10",
    "title": "FEELINGS 11-10"
-  }
- ],
- "Feine Sahne Fischfilet": [
-  {
-   "date": "2026-10-09",
-   "venue": "Teatro Vorterix",
-   "url": "https://www.songkick.com/concerts/43304587-feine-sahne-fischfilet-at-teatro-vorterix?utm_medium=organic&utm_source=microformat",
-   "title": "Feine Sahne Fischfilet"
-  },
-  {
-   "date": "2026-10-10",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/42886174-die-toten-hosen-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Die Toten Hosen"
   }
  ],
  "Feli Colina": [
@@ -2046,6 +2002,12 @@
   }
  ],
  "Festa Bros": [
+  {
+   "date": "2026-10-31",
+   "venue": "Mustang Bar & Grill",
+   "url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
+   "title": "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)"
+  },
   {
    "date": "2026-11-14",
    "venue": "TBA - Parque de la Ciudad, CABA",
@@ -2099,6 +2061,12 @@
  ],
  "FISHER": [
   {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  },
+  {
    "date": "2026-11-14",
    "venue": "Parque de la Ciudad",
    "url": "https://venti.live/evento/creamfields-2026",
@@ -2111,12 +2079,12 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
- "Fit for a King": [
+ "Fit For a King": [
   {
    "date": "2026-10-22",
    "venue": "El Teatrito",
-   "url": "https://www.songkick.com/concerts/43200679-fit-for-a-king-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-   "title": "Fit for a King"
+   "url": "https://indiehoy.com/agenda/fit-for-a-king-en-argentina/",
+   "title": "Fit For a King en Argentina"
   }
  ],
  "Floor Jansen": [
@@ -2147,6 +2115,14 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/fonso-las-paritarias-la-trastienda/",
    "title": "Fonso y Las Paritarias"
+  }
+ ],
+ "Formato Boiler.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ],
  "Four H4nds": [
@@ -2297,16 +2273,16 @@
   {
    "date": "2026-10-16",
    "venue": "Uniclub",
-   "url": "https://www.songkick.com/concerts/43259452-gruesome-at-uniclub?utm_medium=organic&utm_source=microformat",
-   "title": "Gruesome"
+   "url": "https://indiehoy.com/agenda/gruesome-en-argentina/",
+   "title": "Gruesome en Argentina"
   }
  ],
- "Grupo Frontera": [
+ "Gueva": [
   {
-   "date": "2026-10-13",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/42943198-grupo-frontera-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Grupo Frontera"
+   "date": "2026-10-23",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Gueva"
   }
  ],
  "Guido Sartoris": [
@@ -2326,17 +2302,15 @@
  "Guy J": [
   {
    "date": "2026-11-28",
+   "venue": "Autódromo Óscar y Juan Gálvez",
+   "url": "https://venti.live/evento/guy-j-aut-dromo-de-buenos-aires",
+   "title": "GUY J - AUTÓDROMO DE BUENOS AIRES @ 2GTHR OPEN AIR, Sábado 28.11 - 20hs a 06hs"
+  },
+  {
+   "date": "2026-11-28",
    "venue": "TBA - Autodromo de Buenos Aires, Villa Lugano",
    "url": "https://ra.co/events/2491671",
    "title": "Guy J & MORE ARTISTS [OPEN AIR] - by 2GTHR"
-  }
- ],
- "GUY J - AUTÓDROMO DE BUENOS AIRES": [
-  {
-   "date": "2026-11-29",
-   "venue": "Autódromo Óscar y Juan Gálvez",
-   "url": "https://venti.live/evento/guy-j-aut-dromo-de-buenos-aires",
-   "title": "GUY J - AUTÓDROMO DE BUENOS AIRES @ 2GTHR OPEN AIR, Sábado 28.11"
   }
  ],
  "Gvtz": [
@@ -2481,6 +2455,14 @@
    "title": "Hot Water Music en Argentina"
   }
  ],
+ "HOUSEPARTY": [
+  {
+   "date": "2026-10-11",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/houseparty-10-10",
+   "title": "HOUSEPARTY 10.10"
+  }
+ ],
  "HUGEL": [
   {
    "date": "2026-11-14",
@@ -2602,21 +2584,9 @@
  "Iron Maiden": [
   {
    "date": "2026-10-20",
-   "venue": "Estadio Club Atletico Huracan",
-   "url": "https://www.songkick.com/concerts/43034943-iron-maiden-at-estadio-club-atletico-huracan?utm_medium=organic&utm_source=microformat",
-   "title": "Iron Maiden"
-  },
-  {
-   "date": "2026-10-20",
    "venue": "Estadio de Huracán: Tomás Adolfo Ducó",
    "url": "https://indiehoy.com/agenda/iron-maiden-argentina-2026/",
    "title": "Iron Maiden en Argentina"
-  },
-  {
-   "date": "2026-10-21",
-   "venue": "Estadio Club Atletico Huracan",
-   "url": "https://www.songkick.com/concerts/43034944-iron-maiden-at-estadio-club-atletico-huracan?utm_medium=organic&utm_source=microformat",
-   "title": "Iron Maiden"
   }
  ],
  "Isabella": [
@@ -2733,7 +2703,7 @@
   {
    "date": "2026-10-22",
    "venue": "Deseo",
-   "url": "https://www.songkick.com/concerts/43313784-javiera-mena-at-deseo?utm_medium=organic&utm_source=microformat",
+   "url": "https://indiehoy.com/agenda/javiera-mena-en-deseo/",
    "title": "Javiera Mena"
   }
  ],
@@ -2785,14 +2755,6 @@
    "title": "John Creamer"
   }
  ],
- "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)": [
-  {
-   "date": "2026-10-31",
-   "venue": "Mustang Bar & Grill",
-   "url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
-   "title": "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)"
-  }
- ],
  "Jorge Ciccioli": [
   {
    "date": "2026-10-10",
@@ -2815,6 +2777,14 @@
    "venue": "TCQ",
    "url": "https://ra.co/events/2546040",
    "title": "TCQ Invites: Anna Amato"
+  }
+ ],
+ "Joseph Capriati": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ],
  "Josephine": [
@@ -3003,6 +2973,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Kinopio": [
+  {
+   "date": "2026-10-31",
+   "venue": "Mustang Bar & Grill",
+   "url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
+   "title": "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)"
+  }
+ ],
  "Kito": [
   {
    "date": "2026-10-16",
@@ -3025,14 +3003,6 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
    "title": "ROBOT ZONDA + KLAXON"
-  }
- ],
- "kneecap": [
-  {
-   "date": "2026-10-19",
-   "venue": "C Complejo Art Media",
-   "url": "https://www.songkick.com/concerts/43357522-kneecap-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-   "title": "kneecap"
   }
  ],
  "Kolsch": [
@@ -3065,14 +3035,6 @@
    "venue": "Native Beach Club",
    "url": "https://ra.co/events/2504252",
    "title": "RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N"
-  }
- ],
- "Kutis": [
-  {
-   "date": "2026-10-09",
-   "venue": "Crow Bar Oculto",
-   "url": "https://www.songkick.com/concerts/43440609-kutis-at-crow-bar-oculto?utm_medium=organic&utm_source=microformat",
-   "title": "Kutis"
   }
  ],
  "Kybba": [
@@ -3227,6 +3189,14 @@
    "title": "La Nosti - Dom 11/10 (Pre feriado)"
   }
  ],
+ "LA NUEVA LUNA": [
+  {
+   "date": "2026-10-31",
+   "venue": "Wild Hops City Bell",
+   "url": "https://venti.live/evento/el-mago-y-la-nueva-luna-en-wildhops",
+   "title": "EL MAGO Y LA NUEVA LUNA EN WILDHOPS"
+  }
+ ],
  "LA OLD": [
   {
    "date": "2026-10-18",
@@ -3267,6 +3237,14 @@
    "title": "Innen x AVG pres. Manu Oubiña, Ladant"
   }
  ],
+ "LAGRIMITAS presenta": [
+  {
+   "date": "2026-11-28",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/lagrimitas-presenta-en-vivo-su-nueva-etapa-en-humboldt-niceto-club-18-a-os",
+   "title": "LAGRIMITAS presenta en vivo su nueva etapa en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
  "LAKALOR": [
   {
    "date": "2026-10-17",
@@ -3289,14 +3267,6 @@
    "venue": "Maquinal Espacio Cultural",
    "url": "https://indiehoy.com/agenda/las-eras-sakatumba-maquinal/",
    "title": "Las Eras y Sakatumba en Maquinal"
-  }
- ],
- "Las Historias": [
-  {
-   "date": "2026-10-11",
-   "venue": "Club Cultural Bula",
-   "url": "https://www.songkick.com/concerts/43329775-las-historias-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-   "title": "Las Historias"
   }
  ],
  "Las Paritarias": [
@@ -3425,22 +3395,6 @@
    "title": "Parientes y León Vodo"
   }
  ],
- "Llagas": [
-  {
-   "date": "2026-10-08",
-   "venue": "Moscú Espacio Cultural",
-   "url": "https://www.songkick.com/concerts/43428332-mis-suenos-son-de-tu-adios-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
-   "title": "mis sueños son de tu adiós"
-  }
- ],
- "LOBEL": [
-  {
-   "date": "2026-10-15",
-   "venue": "La Tangente",
-   "url": "https://www.songkick.com/concerts/43401203-lobel-at-la-tangente?utm_medium=organic&utm_source=microformat",
-   "title": "LOBEL"
-  }
- ],
  "Loco Lucho and Facu Alt": [
   {
    "date": "2026-10-11",
@@ -3477,7 +3431,7 @@
   {
    "date": "2026-10-22",
    "venue": "Teatro Gran Rex",
-   "url": "https://www.songkick.com/concerts/43122709-los-pericos-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
+   "url": "https://indiehoy.com/agenda/los-pericos-en-teatro-gran-rex/",
    "title": "Los Pericos"
   }
  ],
@@ -3612,9 +3566,9 @@
  "Lulú": [
   {
    "date": "2026-10-31",
-   "venue": "Crobar",
-   "url": "https://venti.live/evento/fiesta-lul-30-09",
-   "title": "Fiesta Lulú 30/10 - Edición Especial Halloween"
+   "venue": "Crobar Studio - Av. Coronel Marcelino E. Freyre 3832 (Paseo de la Infanta / Los Arcos de Palermo)",
+   "url": "https://venti.live/evento/fiesta-lul-30-10-especial-halloween",
+   "title": "Fiesta Lulú - 30/10 - Especial Halloween"
   }
  ],
  "Lulú Matheou": [
@@ -3729,14 +3683,6 @@
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
   }
  ],
- "Malevolent Creation": [
-  {
-   "date": "2026-10-23",
-   "venue": "El Teatrito",
-   "url": "https://www.songkick.com/concerts/43269855-malevolent-creation-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-   "title": "Malevolent Creation"
-  }
- ],
  "Mandrake": [
   {
    "date": "2026-10-17",
@@ -3831,7 +3777,7 @@
   {
    "date": "2026-10-09",
    "venue": "Biri Biri",
-   "url": "https://www.songkick.com/concerts/43412335-marcelo-ezquiaga-at-biri-biri?utm_medium=organic&utm_source=microformat",
+   "url": "https://indiehoy.com/agenda/marcelo-ezquiaga-en-biri-biri/",
    "title": "Marcelo Ezquiaga"
   }
  ],
@@ -3897,6 +3843,22 @@
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
   }
  ],
+ "Matroda y John Summit.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
+ "Mau P": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
  "Maxi Degrassi": [
   {
    "date": "2026-10-11",
@@ -3911,14 +3873,6 @@
    "venue": "2GTHR Club Morocco (Viernes)",
    "url": "https://venti.live/evento/jast-germ-n-cicala-b2b-mazzeo-2gthr-morocco-16-10",
    "title": "JAST, GERMÁN CICALA b2b MAZZEO @ 2GTHR Morocco, 16/10"
-  }
- ],
- "Mercedes Cañas": [
-  {
-   "date": "2026-10-07",
-   "venue": "La Tangente",
-   "url": "https://www.songkick.com/concerts/43255734-mercedes-canas-at-la-tangente?utm_medium=organic&utm_source=microformat",
-   "title": "Mercedes Cañas"
   }
  ],
  "MERMELADA - HALLOWEEN": [
@@ -4045,14 +3999,6 @@
    "title": "MIS AMIGAS QUIEREN TOCAR X DATA LOCAL"
   }
  ],
- "mis sueños son de tu adiós": [
-  {
-   "date": "2026-10-08",
-   "venue": "Moscú Espacio Cultural",
-   "url": "https://www.songkick.com/concerts/43428332-mis-suenos-son-de-tu-adios-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
-   "title": "mis sueños son de tu adiós"
-  }
- ],
  "MISSA - ORGULLO 026": [
   {
    "date": "2026-11-08",
@@ -4091,12 +4037,12 @@
    "title": "16.10 | MON QALAMARI EN FRUTA"
   }
  ],
- "Monique Kessous": [
+ "Montse • Fredrik Svabø • Thea Wang": [
   {
-   "date": "2026-10-17",
-   "venue": "Centro Cultural Thames",
-   "url": "https://www.songkick.com/festivals/3805630-suena-primavera/id/43418483-suena-primavera-2026?utm_medium=organic&utm_source=microformat",
-   "title": "Suena Primavera 2026"
+   "date": "2026-11-27",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/from-fjords-to-andes-tour-en-niceto-bar",
+   "title": "Montse • Fredrik Svabø • Thea Wang"
   }
  ],
  "Mora Navarro": [
@@ -4104,12 +4050,6 @@
    "date": "2026-10-15",
    "venue": "The Roxy Live",
    "url": "https://indiehoy.com/agenda/mora-navarro-en-the-roxy-live/",
-   "title": "Mora Navarro"
-  },
-  {
-   "date": "2026-10-15",
-   "venue": "The Roxy Live!",
-   "url": "https://www.songkick.com/concerts/43326431-mora-navarro-at-roxy-live?utm_medium=organic&utm_source=microformat",
    "title": "Mora Navarro"
   }
  ],
@@ -4119,14 +4059,6 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/more-fayah-8-oct-en-niceto-bar",
    "title": "MORE FAYAH 8 OCT"
-  }
- ],
- "Mortiis": [
-  {
-   "date": "2026-10-17",
-   "venue": "Club Cultural Bula",
-   "url": "https://www.songkick.com/concerts/43372063-mortiis-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-   "title": "Mortiis"
   }
  ],
  "Moyka": [
@@ -4183,14 +4115,6 @@
    "venue": "TBA - Varias Locaciones / Several Locations",
    "url": "https://ra.co/events/2340175",
    "title": "MUTEK.AR EDICIÓN 8"
-  }
- ],
- "Mystic Circle": [
-  {
-   "date": "2026-10-23",
-   "venue": "El Teatrito",
-   "url": "https://www.songkick.com/concerts/43269855-malevolent-creation-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-   "title": "Malevolent Creation"
   }
  ],
  "Nacho Lopez": [
@@ -4291,14 +4215,6 @@
    "venue": "TBA - AMK Club, Almagro",
    "url": "https://ra.co/events/2491901",
    "title": "Nick Warren [DIA 2] - by FRAGMENT"
-  }
- ],
- "Nicole Zignago": [
-  {
-   "date": "2026-10-23",
-   "venue": "Niceto Club",
-   "url": "https://www.songkick.com/concerts/43214197-nicole-zignago-at-niceto-club?utm_medium=organic&utm_source=microformat",
-   "title": "Nicole Zignago"
   }
  ],
  "Nicolás Leonelli": [
@@ -4485,6 +4401,14 @@
    "title": "Komo Yamarte + Ostra Damus"
   }
  ],
+ "Owners of Time": [
+  {
+   "date": "2026-10-23",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Gueva"
+  }
+ ],
  "Pabels": [
   {
    "date": "2026-10-16",
@@ -4517,6 +4441,14 @@
    "venue": "Teatro Xirgu",
    "url": "https://indiehoy.com/agenda/pablopablo-en-argentina/",
    "title": "pablopablo en Argentina"
+  }
+ ],
+ "PACS": [
+  {
+   "date": "2026-11-07",
+   "venue": "Elements Club B.A.",
+   "url": "https://venti.live/evento/pacs-platero-tom-gorom-b2b-brenda-verhagen",
+   "title": "PACS + Platero + Tom Gorom b2b Brenda Verhagen"
   }
  ],
  "Palito Ortega": [
@@ -4557,14 +4489,6 @@
    "title": "Parientes y León Vodo"
   }
  ],
- "Parusía Orquesta": [
-  {
-   "date": "2026-10-10",
-   "venue": "Playón Municipal de Caseros",
-   "url": "https://www.songkick.com/concerts/43436639-parusia-orquesta-at-playon-municipal-de-caseros?utm_medium=organic&utm_source=microformat",
-   "title": "Parusía Orquesta"
-  }
- ],
  "Pato Mallet": [
   {
    "date": "2026-10-16",
@@ -4582,6 +4506,12 @@
   }
  ],
  "PAWSA": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  },
   {
    "date": "2026-11-21",
    "venue": "TBA - Arena Norte, Nuñez",
@@ -4651,20 +4581,6 @@
    "title": "Javier Bussola - Karmic"
   }
  ],
- "Pimpinela": [
-  {
-   "date": "2026-10-09",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43214248-pimpinela-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Pimpinela"
-  },
-  {
-   "date": "2026-10-18",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/42943196-pimpinela-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Pimpinela"
-  }
- ],
  "PIXEL 33 show": [
   {
    "date": "2026-11-21",
@@ -4695,6 +4611,14 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/planeador-v-en-niceto-club/",
    "title": "Planeador V"
+  }
+ ],
+ "Platero": [
+  {
+   "date": "2026-11-07",
+   "venue": "Elements Club B.A.",
+   "url": "https://venti.live/evento/pacs-platero-tom-gorom-b2b-brenda-verhagen",
+   "title": "PACS + Platero + Tom Gorom b2b Brenda Verhagen"
   }
  ],
  "Plomero líquido": [
@@ -4887,26 +4811,6 @@
    "title": "Raise my Kilt"
   }
  ],
- "Ramones on 45": [
-  {
-   "date": "2026-10-09",
-   "venue": "Bar Clandestino",
-   "url": "https://www.songkick.com/concerts/43404774-ramones-on-45-at-bar-clandestino?utm_medium=organic&utm_source=microformat",
-   "title": "Ramones on 45"
-  },
-  {
-   "date": "2026-10-15",
-   "venue": "Casa Colombo Cantina Club",
-   "url": "https://www.songkick.com/concerts/43402999-ramones-on-45-at-casa-colombo-cantina-club?utm_medium=organic&utm_source=microformat",
-   "title": "Ramones on 45"
-  },
-  {
-   "date": "2026-10-22",
-   "venue": "Salas Ciro",
-   "url": "https://www.songkick.com/concerts/43447181-ramones-on-45-at-salas-ciro?utm_medium=organic&utm_source=microformat",
-   "title": "Ramones on 45"
-  }
- ],
  "Random Fiesta": [
   {
    "date": "2026-11-14",
@@ -4999,8 +4903,8 @@
   {
    "date": "2026-10-15",
    "venue": "Torquato Tasso",
-   "url": "https://www.songkick.com/concerts/43367742-roberta-campos-at-torquato-tasso?utm_medium=organic&utm_source=microformat",
-   "title": "Roberta Campos"
+   "url": "https://indiehoy.com/agenda/roberta-campos-en-argentina/",
+   "title": "Roberta Campos en Argentina"
   }
  ],
  "ROBOT ZONDA": [
@@ -5139,12 +5043,12 @@
    "title": "SATOSHI TOMIIE / GROOVIN WINE"
   }
  ],
- "Saturnus": [
+ "SECRET RAVE at HI FI STUDIO": [
   {
-   "date": "2026-10-07",
-   "venue": "Club Cultural Bula",
-   "url": "https://www.songkick.com/concerts/43300659-saturnus-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-   "title": "Saturnus"
+   "date": "2026-10-10",
+   "venue": "HI FI STUDIO",
+   "url": "https://venti.live/evento/secret-rave-at-hi-fi-studio",
+   "title": "SECRET RAVE"
   }
  ],
  "Seda": [
@@ -5201,14 +5105,6 @@
    "venue": "El Atico Club",
    "url": "https://venti.live/evento/sepha",
    "title": "SEPHA"
-  }
- ],
- "Sepultura": [
-  {
-   "date": "2026-10-06",
-   "venue": "C Complejo Art Media",
-   "url": "https://www.songkick.com/concerts/43329530-sepultura-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-   "title": "Sepultura"
   }
  ],
  "Serafina": [
@@ -5283,6 +5179,14 @@
    "title": "Shift Aniversario - Invitado Internacional - Formato Boiler"
   }
  ],
+ "Shift cumple 3 años": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
  "Shintaro Sakamoto": [
   {
    "date": "2026-12-08",
@@ -5299,12 +5203,12 @@
    "title": "KALIX pres. ARSENAL (PBJ & TTAIPAN), ARGØN, SID B2B ZKY"
   }
  ],
- "SISTEMA DE ENTRETENIMIENTO": [
+ "Sistema de Entretenimiento": [
   {
    "date": "2026-10-17",
    "venue": "Casa Colombo Cantina Club",
-   "url": "https://www.songkick.com/concerts/43401583-sistema-de-entretenimiento-at-casa-colombo-cantina-club?utm_medium=organic&utm_source=microformat",
-   "title": "SISTEMA DE ENTRETENIMIENTO"
+   "url": "https://indiehoy.com/agenda/sistema-de-entretenimiento-en-argentina/",
+   "title": "Sistema de Entretenimiento en Argentina"
   }
  ],
  "Six Sex": [
@@ -5399,6 +5303,22 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
    "title": "Pepechet y Soldana"
+  }
+ ],
+ "Solomun": [
+  {
+   "date": "2027-01-02",
+   "venue": "Mute Beach",
+   "url": "https://ra.co/events/2553945",
+   "title": "Solomun - MUTE"
+  }
+ ],
+ "Sonido Funktion One.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ],
  "Soren": [
@@ -5723,12 +5643,20 @@
    "title": "Jast - 2gthr"
   }
  ],
+ "Tickets en bio.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
  "Tigers Jaw": [
   {
    "date": "2026-10-08",
    "venue": "Uniclub",
-   "url": "https://www.songkick.com/concerts/43224467-tigers-jaw-at-uniclub?utm_medium=organic&utm_source=microformat",
-   "title": "Tigers Jaw"
+   "url": "https://indiehoy.com/agenda/tigers-jaw-gier-buenos-aires-argentina-2026/",
+   "title": "Tigers Jaw en Argentina"
   }
  ],
  "Tobika": [
@@ -5745,6 +5673,22 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
    "title": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL"
+  }
+ ],
+ "Tom Gorom": [
+  {
+   "date": "2026-11-07",
+   "venue": "Elements Club B.A.",
+   "url": "https://venti.live/evento/pacs-platero-tom-gorom-b2b-brenda-verhagen",
+   "title": "PACS + Platero + Tom Gorom b2b Brenda Verhagen"
+  }
+ ],
+ "Tomasello": [
+  {
+   "date": "2026-10-31",
+   "venue": "Mustang Bar & Grill",
+   "url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
+   "title": "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)"
   }
  ],
  "Tomates": [
@@ -5777,6 +5721,22 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/tr-st-en-argentina/",
    "title": "TR/ST en Argentina"
+  }
+ ],
+ "Tres años construyendo esta pista entre todos.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
+ "Tres años de música, encuentros y mutaciones.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ],
  "TREVI": [
@@ -5935,12 +5895,28 @@
    "title": "Vasko"
   }
  ],
+ "Viernes 16 de Octubre.": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
  "VINMUSIC HALLOWEEN": [
   {
    "date": "2026-10-31",
    "venue": "JET",
    "url": "https://venti.live/evento/vinmusic-halloween-wines",
    "title": "VINMUSIC HALLOWEEN"
+  }
+ ],
+ "Vintage Culture": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ],
  "Vinyltracker": [
@@ -5973,6 +5949,12 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/ciclo-void-en-humboldt-niceto-club",
    "title": "Ciclo Void"
+  },
+  {
+   "date": "2026-12-06",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/ciclo-void-5-dic-en-humboldt-niceto-club-18-a-os",
+   "title": "Ciclo Void 5 DIC en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Volkoder": [
@@ -6039,6 +6021,14 @@
    "title": "RAVE3000 FESTIVAL"
   }
  ],
+ "Y para una noche así, tenía que volver alguien especial:": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
+  }
+ ],
  "Yerba Brava": [
   {
    "date": "2026-10-17",
@@ -6085,14 +6075,6 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/zappo-dalton-puerto-coral-en-niceto-bar",
    "title": "ZAPPO + DALTON + PUERTO CORAL"
-  }
- ],
- "ZAYN": [
-  {
-   "date": "2026-10-06",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43191209-zayn-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "ZAYN"
   }
  ],
  "Ze Pequeña": [
@@ -6165,6 +6147,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Jorge Savoretti B2B Ariel Rodz"
+  }
+ ],
+ "⏱ 23:59 hs": [
+  {
+   "date": "2026-10-16",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2553993",
+   "title": "Shift - BRN - Edicion Internacional - Aniversario"
   }
  ]
 }

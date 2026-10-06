@@ -171,17 +171,34 @@
  },
  {
   "source": "ticketek",
-  "title": "Zoe Gotusso",
+  "title": "Dillom",
   "date": "",
-  "venue": "Teatro Coliseo",
+  "venue": "Bendu Arena",
   "artists": [
-   "Zoe Gotusso"
+   "Dillom"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
+  "url": "https://www.ticketek.com.ar/dillom/bendu-arena",
+  "ticket_url": "https://www.ticketek.com.ar/dillom/bendu-arena",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/zoe_a26.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dillom_a27.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "El Plan de la Mariposa",
+  "date": "",
+  "venue": "Bendu Arena",
+  "artists": [
+   "El Plan de la Mariposa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
+  "ticket_url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_epdm_-_ticketek.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -198,7 +215,7 @@
   "url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
   "ticket_url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/plan_m_26a.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_epdm_-_ticketek.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -215,7 +232,7 @@
   "url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
   "ticket_url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/plan_m_26a.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_epdm_-_ticketek.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -428,6 +445,23 @@
   "source": "ticketek",
   "title": "Ciro y Los Persas",
   "date": "",
+  "venue": "Estadio Argentinos Juniors",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
   "venue": "DOW Center",
   "artists": [
    "Ciro y Los Persas"
@@ -445,7 +479,7 @@
   "source": "ticketek",
   "title": "Ciro y Los Persas",
   "date": "",
-  "venue": "Estadio Argentinos Juniors",
+  "venue": "Bendu Arena",
   "artists": [
    "Ciro y Los Persas"
   ],
@@ -488,6 +522,23 @@
   "ticket_url": "https://www.ticketek.com.ar/roze/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/roze_ag.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Zoe Gotusso",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Zoe Gotusso"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/zoe-gotusso/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/zoe_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1514,6 +1565,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Juli Bellese",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Juli Bellese"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/juli-bellese/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/juli-bellese/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/belle440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Dalia Gutmann",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1559,23 +1627,6 @@
   "ticket_url": "https://www.ticketek.com.ar/pablo-angeli/teatro-devoto",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600pa.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Javier Santaolalla",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Javier Santaolalla"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/javier-santaolalla/teatro-astengo",
-  "ticket_url": "https://www.ticketek.com.ar/javier-santaolalla/teatro-astengo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/el_club_de_la_tusa_ticketek_post_vertical_rosario.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
