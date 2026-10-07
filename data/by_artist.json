@@ -1,28 +1,4 @@
 {
- "01am": [
-  {
-   "date": "2026-10-06",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2552691",
-   "title": "Minelek Sessions 06/10/26"
-  }
- ],
- "09pm Maiki Muro": [
-  {
-   "date": "2026-10-06",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2552691",
-   "title": "Minelek Sessions 06/10/26"
-  }
- ],
- "11pm Agustin Alejandrof": [
-  {
-   "date": "2026-10-06",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2552691",
-   "title": "Minelek Sessions 06/10/26"
-  }
- ],
  "1400 NOCHES DE FRUTA | Doble Pista": [
   {
    "date": "2026-10-18",
@@ -253,6 +229,22 @@
    "title": "Beico & D3fai"
   }
  ],
+ "AGUSTA by DANTE": [
+  {
+   "date": "2026-10-31",
+   "venue": "Bodega Dante Robino",
+   "url": "https://venti.live/evento/agusta-by-dante-31-10",
+   "title": "AGUSTA by DANTE 31/10"
+  }
+ ],
+ "Agustín Ganem": [
+  {
+   "date": "2026-10-18",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/agustin-ganem-en-la-tangente/",
+   "title": "Agustín Ganem"
+  }
+ ],
  "Ahyre": [
   {
    "date": "2026-10-08",
@@ -304,9 +296,9 @@
  "Alci": [
   {
    "date": "2026-10-10",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Alci"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555006",
+   "title": "Crobar Phuture Pres.: Alci"
   }
  ],
  "Alex Ubago": [
@@ -373,6 +365,14 @@
    "title": "Amix 16/10 @ Shamrock Basement"
   }
  ],
+ "Amorphis": [
+  {
+   "date": "2026-10-13",
+   "venue": "El Teatrito",
+   "url": "https://indiehoy.com/agenda/amorphis-en-argentina/",
+   "title": "Amorphis en Argentina"
+  }
+ ],
  "Ana Hagen": [
   {
    "date": "2026-11-07",
@@ -407,6 +407,14 @@
    "venue": "complejo forest",
    "url": "https://venti.live/evento/closing-party-andres-koller-x-afl",
    "title": "CLOSING PARTY @ ANDRES KOLLER X AFL"
+  }
+ ],
+ "Andy Hillar": [
+  {
+   "date": "2026-10-30",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/andy-hillar-carism-tico-player-en-niceto-bar",
+   "title": "Andy Hillar + Carismático Player"
   }
  ],
  "Anfisa Letyago": [
@@ -457,7 +465,7 @@
  ],
  "ANTIGAL SESSIONS": [
   {
-   "date": "2026-10-10",
+   "date": "2026-10-17",
    "venue": "Antigal Winery & Estates",
    "url": "https://venti.live/evento/antigal-sessions",
    "title": "ANTIGAL SESSIONS"
@@ -514,9 +522,9 @@
  "Ariel Rodz": [
   {
    "date": "2026-10-09",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Jorge Savoretti B2B Ariel Rodz"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555003",
+   "title": "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma"
   }
  ],
  "ARKADIA PRESENTA: EL FIN DE LA NOSTALGIA": [
@@ -679,14 +687,6 @@
    "title": "Benjamín Amadeo"
   }
  ],
- "Berger Muzik": [
-  {
-   "date": "2026-10-06",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2552691",
-   "title": "Minelek Sessions 06/10/26"
-  }
- ],
  "Bermani": [
   {
    "date": "2026-11-06",
@@ -745,14 +745,6 @@
    "venue": "Foro Costanera Norte (FCN)",
    "url": "https://ra.co/events/2512586",
    "title": "Blondish pres. Abracadabra at FCN by Hïst Entertainment"
-  }
- ],
- "BOHEMIA SESSION HORROR": [
-  {
-   "date": "2026-10-31",
-   "venue": "Aráoz 2424",
-   "url": "https://venti.live/evento/bohemia-session-horror",
-   "title": "BOHEMIA SESSION HORROR"
   }
  ],
  "Bondarük": [
@@ -855,6 +847,12 @@
    "venue": "Gala Hotel & Convenciones",
    "url": "https://venti.live/evento/fiesta-bresh-en-resistencia-31-de-octubre",
    "title": "Fiesta Bresh en Resistencia - 31 de Octubre (Edición Halloween)"
+  },
+  {
+   "date": "2026-12-06",
+   "venue": "El Español Club",
+   "url": "https://venti.live/evento/fiesta-bresh-en-posadas-5-de-diciembre",
+   "title": "Fiesta Bresh en Posadas - 5 de Diciembre"
   }
  ],
  "Brindis": [
@@ -969,6 +967,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Carismático Player": [
+  {
+   "date": "2026-10-30",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/andy-hillar-carism-tico-player-en-niceto-bar",
+   "title": "Andy Hillar + Carismático Player"
+  }
+ ],
  "Carlos Willengton": [
   {
    "date": "2026-12-11",
@@ -1077,6 +1083,12 @@
    "venue": "Chana Club",
    "url": "https://venti.live/evento/chana-s-bado-10-de-octubre",
    "title": "CHANA SÁBADO 10 DE OCTUBRE"
+  },
+  {
+   "date": "2026-10-12",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-domingo-11-de-octubre-18-a-25-a-os",
+   "title": "CHANA DOMINGO 11 DE OCTUBRE + 18 A 25 AÑOS"
   }
  ],
  "CHAPA": [
@@ -1263,6 +1275,14 @@
    "title": "Club 69 | 31 OCT HALLOWEEN en Niceto Club (+18 años)"
   }
  ],
+ "Club 69 | PRIDE": [
+  {
+   "date": "2026-11-08",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/club-69-pride-en-niceto-club-18-a-os",
+   "title": "Club 69 | PRIDE en Niceto Club (+18 años)"
+  }
+ ],
  "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE": [
   {
    "date": "2026-10-18",
@@ -1271,12 +1291,28 @@
    "title": "CLUB LAB PRODUCCIONES X PANDA X MAKTUB EXPERIENCE"
   }
  ],
+ "Club Marfil": [
+  {
+   "date": "2026-11-13",
+   "venue": "Lucille",
+   "url": "https://indiehoy.com/agenda/club-marfil-en-lucille/",
+   "title": "Club Marfil"
+  }
+ ],
  "CLUB QUBA": [
   {
    "date": "2026-10-09",
    "venue": "Quba, café de mar",
    "url": "https://venti.live/evento/club-quba-08-10-queves-session-1",
    "title": "CLUB QUBA | 08.10 QUEVES SESSION #1"
+  }
+ ],
+ "CLUBBIN HALLOWEEN": [
+  {
+   "date": "2026-10-31",
+   "venue": "JET",
+   "url": "https://venti.live/evento/clubbin-halloween",
+   "title": "CLUBBIN HALLOWEEN"
   }
  ],
  "Cnel. Niceto Vega 5699, CABA.": [
@@ -1292,7 +1328,7 @@
    "date": "2026-10-17",
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/cocaleros-jinete-luciana-salda-a",
-   "title": "COCALEROS + JINETE + LUCIANA SALDAÑA"
+   "title": "COCALEROS + JINETE + LUCIANA SALDAÑA x BELA"
   }
  ],
  "COCKTAIL SOCIAL PARA CONGRESO DE CIRUJANOS 2026": [
@@ -1317,6 +1353,14 @@
    "venue": "Under Club",
    "url": "https://venti.live/evento/collab-3000-julieta-lake-k-lp-s",
    "title": "COLLABS 3000 | JULIETA LAKE | KØLPØS"
+  }
+ ],
+ "Collini Bday": [
+  {
+   "date": "2026-10-11",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/tcq-pres-kid-riot-collini-bday",
+   "title": "TCQ Pres: Kid Riot & Collini Bday"
   }
  ],
  "Colyn": [
@@ -1386,9 +1430,9 @@
  "Cosenza": [
   {
    "date": "2026-10-10",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Alci"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555006",
+   "title": "Crobar Phuture Pres.: Alci"
   }
  ],
  "COSMIC: Perception": [
@@ -1535,6 +1579,14 @@
    "title": "999 x Nada pres. David Löhlein"
   }
  ],
+ "de cine mutante \"X-Men: Camino a Doomsday": [
+  {
+   "date": "2026-10-14",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/ciclo-de-cine-mutante-x-men-camino-a-doomsday",
+   "title": "Ciclo de cine mutante \"X-Men: Camino a Doomsday\""
+  }
+ ],
  "DEE JASON": [
   {
    "date": "2026-11-21",
@@ -1675,6 +1727,14 @@
    "title": "DONAVON en Niceto Club (+18 años)"
   }
  ],
+ "Donavon Frankenreiter": [
+  {
+   "date": "2027-02-14",
+   "venue": "Niceto Club",
+   "url": "https://indiehoy.com/agenda/donavon-frankenreiter-argentina/",
+   "title": "Donavon Frankenreiter en Argentina"
+  }
+ ],
  "Dyango": [
   {
    "date": "2026-10-07",
@@ -1799,6 +1859,14 @@
    "title": "Emiliano Demarco"
   }
  ],
+ "Emma": [
+  {
+   "date": "2026-10-09",
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555003",
+   "title": "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma"
+  }
+ ],
  "Enrico Sangiuliano": [
   {
    "date": "2026-11-14",
@@ -1824,9 +1892,9 @@
  "Erika Halliday": [
   {
    "date": "2026-10-09",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Jorge Savoretti B2B Ariel Rodz"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555003",
+   "title": "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma"
   }
  ],
  "Eslavos": [
@@ -2109,6 +2177,22 @@
    "title": "ANA HAGEN | DEE JASON | FLOORPLAN"
   }
  ],
+ "FLOR IBARRA": [
+  {
+   "date": "2026-11-22",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/flor-ibarra-en-niceto-bar",
+   "title": "FLOR IBARRA"
+  }
+ ],
+ "FOMO Last dande indoor": [
+  {
+   "date": "2026-10-18",
+   "venue": "Bodega Giol",
+   "url": "https://venti.live/evento/fomo-last-dande-indoor",
+   "title": "FOMO Last dande indoor"
+  }
+ ],
  "Fonso": [
   {
    "date": "2026-10-17",
@@ -2173,6 +2257,14 @@
    "title": "RAVE3000 FESTIVAL"
   }
  ],
+ "Frutillas con Crema - Halloween Edition": [
+  {
+   "date": "2026-11-01",
+   "venue": "Archi Open Air - Avenida Rafael Obligado 6551 - Ingreso por parque",
+   "url": "https://venti.live/evento/frutillas-con-crema-halloween-edition",
+   "title": "Frutillas con Crema - Halloween Edition"
+  }
+ ],
  "Fuocco": [
   {
    "date": "2026-10-17",
@@ -2195,6 +2287,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/gallo-criollo-celebra-su-1er-a-o-en-humboldt-niceto-club",
    "title": "Gallo Criollo celebra su 1er año"
+  }
+ ],
+ "GastroFeat Vol 3": [
+  {
+   "date": "2026-10-22",
+   "venue": "Avenida Sarmiento",
+   "url": "https://venti.live/evento/gastrofeat-vol-3",
+   "title": "GastroFeat Vol 3"
   }
  ],
  "GEMMA": [
@@ -2337,6 +2437,14 @@
    "title": "HALLOWEEN x ARZ SÁB 31.10"
   }
  ],
+ "HALLOWILD": [
+  {
+   "date": "2026-11-01",
+   "venue": "Bodega Giol",
+   "url": "https://venti.live/evento/hallowild",
+   "title": "HALLOWILD"
+  }
+ ],
  "HALOS": [
   {
    "date": "2026-11-14",
@@ -2455,12 +2563,12 @@
    "title": "Hot Water Music en Argentina"
   }
  ],
- "HOUSEPARTY": [
+ "HOUSEPARTY x BELA": [
   {
    "date": "2026-10-11",
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/houseparty-10-10",
-   "title": "HOUSEPARTY 10.10"
+   "title": "HOUSEPARTY x BELA 10.10"
   }
  ],
  "HUGEL": [
@@ -2546,9 +2654,9 @@
  "Inda Jani": [
   {
    "date": "2026-10-09",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Jorge Savoretti B2B Ariel Rodz"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555003",
+   "title": "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma"
   }
  ],
  "Indios": [
@@ -2744,7 +2852,7 @@
    "date": "2026-10-17",
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/cocaleros-jinete-luciana-salda-a",
-   "title": "COCALEROS + JINETE + LUCIANA SALDAÑA"
+   "title": "COCALEROS + JINETE + LUCIANA SALDAÑA x BELA"
   }
  ],
  "John Creamer": [
@@ -2766,9 +2874,9 @@
  "Jorge Savoretti": [
   {
    "date": "2026-10-09",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Jorge Savoretti B2B Ariel Rodz"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555003",
+   "title": "Crobar Club Pres.: Jorge Savoretti B2B Ariel Rodz, Inda Jani, Erika Halliday B2B Ëmma"
   }
  ],
  "Josefina Muñoz": [
@@ -3000,7 +3108,7 @@
  "KLAXON": [
   {
    "date": "2026-10-11",
-   "venue": "Humboldt | Niceto Club",
+   "venue": "Niceto Bar",
    "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
    "title": "ROBOT ZONDA + KLAXON"
   }
@@ -3507,12 +3615,12 @@
    "title": "JXXXO & HERS - LUCAS SOSA - Vladimir Dubyshkin"
   }
  ],
- "LUCIANA SALDAÑA": [
+ "LUCIANA SALDAÑA x BELA": [
   {
    "date": "2026-10-17",
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/cocaleros-jinete-luciana-salda-a",
-   "title": "COCALEROS + JINETE + LUCIANA SALDAÑA"
+   "title": "COCALEROS + JINETE + LUCIANA SALDAÑA x BELA"
   }
  ],
  "Luciano Martz": [
@@ -3627,6 +3735,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Macedonia": [
+  {
+   "date": "2026-10-16",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/romphonics-macedonia-en-la-tangente/",
+   "title": "Romphonics + Macedonia"
+  }
+ ],
  "Maceo Plex": [
   {
    "date": "2026-10-16",
@@ -3681,6 +3797,14 @@
    "venue": "TBA - Club Morocco, Costanera",
    "url": "https://ra.co/events/2527593",
    "title": "CASSIMM, Matias Sundblad - La Playa - ALLMusicParties"
+  }
+ ],
+ "Malevolent Creation": [
+  {
+   "date": "2026-10-23",
+   "venue": "El Teatrito",
+   "url": "https://indiehoy.com/agenda/malevolent-creation-mystic-circle-en-argentina/",
+   "title": "Malevolent Creation + Mystic Circle en Argentina"
   }
  ],
  "Mandrake": [
@@ -4117,6 +4241,14 @@
    "title": "MUTEK.AR EDICIÓN 8"
   }
  ],
+ "Mystic Circle": [
+  {
+   "date": "2026-10-23",
+   "venue": "El Teatrito",
+   "url": "https://indiehoy.com/agenda/malevolent-creation-mystic-circle-en-argentina/",
+   "title": "Malevolent Creation + Mystic Circle en Argentina"
+  }
+ ],
  "Nacho Lopez": [
   {
    "date": "2026-10-18",
@@ -4160,9 +4292,9 @@
  "Nebula Estudio": [
   {
    "date": "2026-10-10",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Alci"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2555006",
+   "title": "Crobar Phuture Pres.: Alci"
   }
  ],
  "NEON PARTY BA": [
@@ -4265,6 +4397,14 @@
    "title": "Then, Elements"
   }
  ],
+ "No Rules Vinyl Night (Frctal Bar)": [
+  {
+   "date": "2026-10-18",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/no-rules-vinyl-night-frctal-bar",
+   "title": "No Rules Vinyl Night (Frctal Bar)"
+  }
+ ],
  "No Rush": [
   {
    "date": "2026-10-11",
@@ -4311,6 +4451,14 @@
    "venue": "Av. Costanera Rafael Obligado 6600",
    "url": "https://venti.live/evento/not-welcome-100-edition-presents-rsquared",
    "title": "NOT WELCOME 100 EDITION Presents RSQUARED"
+  }
+ ],
+ "NOT WELCOME PRESENTS MARTYNO DOWSHA": [
+  {
+   "date": "2026-10-16",
+   "venue": "Tokyo Club BA",
+   "url": "https://venti.live/evento/not-welcome-presents-martyno-dowsha",
+   "title": "NOT WELCOME PRESENTS MARTYNO DOWSHA"
   }
  ],
  "NTRM": [
@@ -4811,6 +4959,14 @@
    "title": "Raise my Kilt"
   }
  ],
+ "RAMBLA CODE X": [
+  {
+   "date": "2026-10-11",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/rambla-code-x-10-10",
+   "title": "RAMBLA CODE X 10.10"
+  }
+ ],
  "Random Fiesta": [
   {
    "date": "2026-11-14",
@@ -4891,6 +5047,14 @@
    "title": "RHYE en Argentina"
   }
  ],
+ "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA": [
+  {
+   "date": "2026-11-09",
+   "venue": "humboldt | Niceto Club",
+   "url": "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club",
+   "title": "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
  "Robert Hood": [
   {
    "date": "2026-11-22",
@@ -4910,7 +5074,7 @@
  "ROBOT ZONDA": [
   {
    "date": "2026-10-11",
-   "venue": "Humboldt | Niceto Club",
+   "venue": "Niceto Bar",
    "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
    "title": "ROBOT ZONDA + KLAXON"
   }
@@ -4953,6 +5117,14 @@
    "venue": "Crobar Studio",
    "url": "https://www.crobar.com.ar/studio",
    "title": "Raiann"
+  }
+ ],
+ "Romphonics": [
+  {
+   "date": "2026-10-16",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/romphonics-macedonia-en-la-tangente/",
+   "title": "Romphonics + Macedonia"
   }
  ],
  "ROTO": [
@@ -5211,6 +5383,14 @@
    "title": "Sistema de Entretenimiento en Argentina"
   }
  ],
+ "Six Feet Under": [
+  {
+   "date": "2026-10-27",
+   "venue": "El Teatrito",
+   "url": "https://indiehoy.com/agenda/six-feet-under-en-buenos-aires-argentina-2026/",
+   "title": "Six Feet Under en Argentina"
+  }
+ ],
  "Six Sex": [
   {
    "date": "2026-10-16",
@@ -5359,6 +5539,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "John Creamer"
+  }
+ ],
+ "Space 2000": [
+  {
+   "date": "2026-10-24",
+   "venue": "The Shamrock Bar & Basement Club",
+   "url": "https://venti.live/evento/space-2000-shamrock-basement-pace-all-night-long",
+   "title": "Space 2000 @ Shamrock Basement - Pace All Night Long"
   }
  ],
  "SPEED ANIVERSARIO": [
@@ -5515,6 +5703,22 @@
    "venue": "Teatro Coliseo",
    "url": "https://indiehoy.com/agenda/tarja-turunen-argentina-2026/",
    "title": "Tarja Turunen en Argentina"
+  }
+ ],
+ "TCQ pres: Himoura - Julea - Galo - Jazenda": [
+  {
+   "date": "2026-10-10",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/tcq-pres-himoura-julea-galo-jazenda",
+   "title": "TCQ pres: Himoura - Julea - Galo - Jazenda"
+  }
+ ],
+ "TCQ Pres: Kid Riot": [
+  {
+   "date": "2026-10-11",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/tcq-pres-kid-riot-collini-bday",
+   "title": "TCQ Pres: Kid Riot & Collini Bday"
   }
  ],
  "Teateo": [
@@ -5723,6 +5927,14 @@
    "title": "TR/ST en Argentina"
   }
  ],
+ "TRACK CLUB PRESENTA: HALLOWEEN BOUTIQUE": [
+  {
+   "date": "2026-11-01",
+   "venue": "Bahía Blanca",
+   "url": "https://venti.live/evento/track-club-presenta-halloween-boutique",
+   "title": "TRACK CLUB PRESENTA: HALLOWEEN BOUTIQUE"
+  }
+ ],
  "Tres años construyendo esta pista entre todos.": [
   {
    "date": "2026-10-16",
@@ -5777,12 +5989,18 @@
    "title": "Ultra Buenos Aires 2027, Ciudad de Buenos Aires | ALLMusicParties"
   }
  ],
- "ULTRALIGERA": [
+ "Ultraligera": [
+  {
+   "date": "2026-11-15",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/ultraligera-en-niceto-club",
+   "title": "ULTRALIGERA en Humboldt | Niceto Club (+18 años)"
+  },
   {
    "date": "2026-11-15",
    "venue": "Niceto Club",
-   "url": "https://venti.live/evento/ultraligera-en-niceto-club",
-   "title": "ULTRALIGERA en Niceto Club (+18 años)"
+   "url": "https://indiehoy.com/agenda/ultraligera-en-argentina/",
+   "title": "Ultraligera en Argentina"
   }
  ],
  "UMA SCHEFFER": [
@@ -5895,6 +6113,14 @@
    "title": "Vasko"
   }
  ],
+ "Vida Pura": [
+  {
+   "date": "2026-11-08",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/vida-pura-en-la-tangente/",
+   "title": "Vida Pura"
+  }
+ ],
  "Viernes 16 de Octubre.": [
   {
    "date": "2026-10-16",
@@ -5925,14 +6151,6 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
-  }
- ],
- "Visuals x UnPlug.": [
-  {
-   "date": "2026-10-06",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2552691",
-   "title": "Minelek Sessions 06/10/26"
   }
  ],
  "Vladimir Dubyshkin": [
@@ -6139,14 +6357,6 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/cantamarta-en-niceto-club/",
    "title": "Çantamarta"
-  }
- ],
- "Ëmma": [
-  {
-   "date": "2026-10-09",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Jorge Savoretti B2B Ariel Rodz"
   }
  ],
  "⏱ 23:59 hs": [

@@ -834,23 +834,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Gabriel Prado",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Gabriel Prado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/gabriel-prado/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fol440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Victor Heredia",
   "date": "",
   "venue": "Teatro Opera On",
@@ -895,7 +878,7 @@
   "url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
   "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mica440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/micchauque440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -930,6 +913,23 @@
   "ticket_url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Universo Tupay",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Universo Tupay"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/universo-tupay/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/universo-tupay/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/univer440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -981,6 +981,23 @@
   "ticket_url": "https://www.ticketek.com.ar/rodrigo-tapari/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/rtapari440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ricky Maravilla",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Ricky Maravilla"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ricky-maravilla/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/ricky-maravilla/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/rick440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1066,6 +1083,23 @@
   "ticket_url": "https://www.ticketek.com.ar/la-traviata/teatro-avenida",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/traviata_26a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Festival La Porteña",
+  "date": "",
+  "venue": "Hipódromo de Palermo",
+  "artists": [
+   "Festival La Porteña"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600-100.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
