@@ -89,29 +89,6 @@
  },
  {
   "source": "bebop",
-  "title": "Chet Baker Sings",
-  "date": "2026-08-07",
-  "venue": "Bebop Club",
-  "artists": [
-   "Chet Baker Sings"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/4b17b8c0-ce3e-4ab3-a112-d3835e70b143",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/4b17b8c0-ce3e-4ab3-a112-d3835e70b143",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "FADEIROS",
   "date": "2026-08-07",
   "venue": "Bebop Club",
@@ -3209,48 +3186,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Dyango",
-  "date": "2026-10-07",
-  "venue": "Teatro Gran Rex",
-  "artists": [
-   "Dyango"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/dyango-teatro-gran-rex-2026/",
-  "ticket_url": "https://comprar.tuentrada.com/tuentrada/events/53432?_gl=1*1yqyin7*_ga*MTczMzE4MDkxOC4xNzc0NTY2OTc1*_ga_K2KT0GJC8Q*czE3NzQ1NjY5NzUkbzEkZzEkdDE3NzQ1NjY5NzUkajYwJGwwJGgzMTE5NDQ0MTA.&sessionView=LIST",
-  "price": "Desde $45.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/dyango-nueva-fecha.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Las Pelotas",
-  "date": "2026-10-07",
-  "venue": "Teatro Vorterix",
-  "artists": [
-   "Las Pelotas"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/las-pelotas-en-teatro-vorterix-2/",
-  "ticket_url": "https://www.allaccess.com.ar/event/las-pelotas---teatro-vorterix",
-  "price": "Desde $60.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/las-pelotas-vorterix.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "MUTEK.AR EDICIÓN 8",
   "date": "2026-10-07",
@@ -3690,6 +3625,32 @@
   "artist_source": "title"
  },
  {
+  "source": "resident-advisor",
+  "title": "MELT VINYL NIGHT",
+  "date": "2026-10-09",
+  "venue": "Melt Underground",
+  "artists": [
+   "RDKS",
+   "JHON WOODLEY",
+   "DJ BAHÍA"
+  ],
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2556112",
+  "ticket_url": "",
+  "price": "$10.000",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "23:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "MIS AMIGAS QUIEREN TOCAR X DATA LOCAL",
   "date": "2026-10-09",
@@ -3826,11 +3787,11 @@
  },
  {
   "source": "venti",
-  "title": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL",
+  "title": "TOBIKA presenta INTELIGENCIA ARTESANAL",
   "date": "2026-10-09",
   "venue": "Niceto Club",
   "artists": [
-   "TOBIKA presenta INTELIGENCIAiiii ARTESANAL"
+   "TOBIKA presenta INTELIGENCIA ARTESANAL"
   ],
   "genres": [],
   "url": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
@@ -3907,27 +3868,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ANIVERSARIO MIRAGE III - BLOND:ISH",
-  "date": "2026-10-10",
-  "venue": "Alma Hydra Lodge",
-  "artists": [
-   "BLOND:ISH"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/aniversario-mirage-iii-blond-ish",
-  "ticket_url": "https://venti.live/evento/aniversario-mirage-iii-blond-ish",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1784416083023-lg.jpg",
-  "lat": -33.0633659362793,
-  "lon": -68.82918548583984,
-  "start_time": "01:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -4286,27 +4226,6 @@
  },
  {
   "source": "venti",
-  "title": "La Romana By Picheo 808",
-  "date": "2026-10-10",
-  "venue": "Niceto Club",
-  "artists": [
-   "La Romana By Picheo 808"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
-  "price": "$8.000",
-  "image": "https://images.venti.live/user-images/1790617828197-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "MIHAI POPOVICIU - HOUSE JOURNEY OUTDOOR",
   "date": "2026-10-10",
   "venue": "Cruz Espacio",
@@ -4408,6 +4327,27 @@
   "lat": null,
   "lon": null,
   "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SOLO DISCOS | TERRAZA de",
+  "date": "2026-10-10",
+  "venue": "Niceto Bar",
+  "artists": [
+   "SOLO DISCOS | TERRAZA de Niceto Bar"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/solo-discos-terraza-de-niceto-bar",
+  "ticket_url": "https://venti.live/evento/solo-discos-terraza-de-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1791406696767-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -4535,6 +4475,27 @@
   "lat": -34.5872316,
   "lon": -58.4383841,
   "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "VANINA: IDÍLICA en Humboldt | Niceto Club (+18 años)",
+  "date": "2026-10-10",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "VANINA: IDÍLICA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/vanina-id-lica-en-humboldt-niceto-club",
+  "ticket_url": "https://venti.live/evento/vanina-id-lica-en-humboldt-niceto-club",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1785271771655-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -4912,7 +4873,7 @@
   "url": "https://venti.live/evento/club-69-10-oct-en-niceto-club-18-a-os",
   "ticket_url": "https://venti.live/evento/club-69-10-oct-en-niceto-club-18-a-os",
   "price": "$30.000",
-  "image": "https://images.venti.live/user-images/1790720790303-lg.jpg",
+  "image": "https://images.venti.live/user-images/1791398189306-lg.jpg",
   "lat": -34.5872682,
   "lon": -58.43876030000001,
   "start_time": "",
@@ -5000,6 +4961,27 @@
   "image": "https://images.venti.live/user-images/1789676620475-lg.jpg",
   "lat": -34.5875434,
   "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "FOMO X",
+  "date": "2026-10-11",
+  "venue": "Quba, café de mar",
+  "artists": [
+   "FOMO X QUBA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fomo-x-quba-sabado-10-10",
+  "ticket_url": "https://venti.live/evento/fomo-x-quba-sabado-10-10",
+  "price": "$5.000",
+  "image": "https://images.venti.live/user-images/1785786108433-lg.jpg",
+  "lat": -38.0312385559082,
+  "lon": -57.53220748901367,
   "start_time": "",
   "sources": [
    "venti"
@@ -5133,27 +5115,6 @@
   "lat": -34.6085966,
   "lon": -58.38250240000001,
   "start_time": "01:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Mardel Burger 2026",
-  "date": "2026-10-11",
-  "venue": "Archivo Museo Histórico Municipal Roberto T. Barili",
-  "artists": [
-   "Mardel Burger 2026"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/mardel-burger-2026",
-  "ticket_url": "https://venti.live/evento/mardel-burger-2026",
-  "price": "$17.000",
-  "image": "https://images.venti.live/user-images/1789348910219-lg.jpg",
-  "lat": -38.0207945,
-  "lon": -57.55250949999999,
-  "start_time": "14:00",
   "sources": [
    "venti"
   ],
@@ -5307,18 +5268,18 @@
  },
  {
   "source": "venti",
-  "title": "ROBOT ZONDA + KLAXON",
+  "title": "ROBOT ZONDA + NOMBRAME OTRA VEZ",
   "date": "2026-10-11",
   "venue": "Niceto Bar",
   "artists": [
    "ROBOT ZONDA",
-   "KLAXON"
+   "NOMBRAME OTRA VEZ"
   ],
   "genres": [],
   "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
   "ticket_url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
   "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1790021556887-lg.jpg",
+  "image": "https://images.venti.live/user-images/1791398007512-lg.jpg",
   "lat": -34.5872316,
   "lon": -58.4383841,
   "start_time": "23:00",
@@ -5561,27 +5522,6 @@
   "image": "https://images.venti.live/user-images/1790571947784-lg.jpg",
   "lat": -34.586299896240234,
   "lon": -58.41642379760742,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CHANA DOMINGO 11 DE OCTUBRE + 18 A 25 AÑOS",
-  "date": "2026-10-12",
-  "venue": "Chana Club",
-  "artists": [
-   "CHANA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/chana-domingo-11-de-octubre-18-a-25-a-os",
-  "ticket_url": "https://venti.live/evento/chana-domingo-11-de-octubre-18-a-25-a-os",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1791324556501-lg.jpg",
-  "lat": -34.6061182,
-  "lon": -58.36424899999999,
   "start_time": "",
   "sources": [
    "venti"
@@ -6274,6 +6214,27 @@
  },
  {
   "source": "venti",
+  "title": "BLACK CREAM ORIGINAL JUEVES 15/10",
+  "date": "2026-10-16",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-jueves-15-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-jueves-15-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "BOSCO SUNSET VIERNES 16/10",
   "date": "2026-10-16",
   "venue": "Bosco Restaurant",
@@ -6377,7 +6338,8 @@
   "lon": null,
   "start_time": "",
   "sources": [
-   "crobar"
+   "crobar",
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
@@ -7261,7 +7223,8 @@
   "lon": null,
   "start_time": "",
   "sources": [
-   "crobar"
+   "crobar",
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
@@ -7358,6 +7321,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "More Music Please - GF+",
+  "date": "2026-10-17",
+  "venue": "Archi Club",
+  "artists": [
+   "More Music Please - GF"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/more-music-please-gf",
+  "ticket_url": "https://venti.live/evento/more-music-please-gf",
+  "price": "$18.750",
+  "image": "https://images.venti.live/user-images/1791409491824-lg.jpg",
+  "lat": -34.5485628,
+  "lon": -58.4305062,
+  "start_time": "04:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -7548,6 +7532,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "ZETA CLUB - APERTURA OFICIAL",
+  "date": "2026-10-17",
+  "venue": "Güemes 2607",
+  "artists": [
+   "ZETA CLUB - APERTURA OFICIAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/apertura-oficial",
+  "ticket_url": "https://venti.live/evento/apertura-oficial",
+  "price": "$4.000",
+  "image": "https://images.venti.live/user-images/1791408330571-lg.jpg",
+  "lat": -32.9323859,
+  "lon": -60.6563121,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -7953,6 +7958,30 @@
  },
  {
   "source": "venti",
+  "title": "PAREDÓN TECHNO x BELA > TOBI LOPEZ + ACID PAZ + CHEENZO + ROUS",
+  "date": "2026-10-18",
+  "venue": "Angelo de Peredo 325",
+  "artists": [
+   "PAREDÓN TECHNO x BELA > TOBI LOPEZ",
+   "ACID PAZ",
+   "CHEENZO",
+   "ROUS"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/pared-n-techno-x-bela-tobi-lopez-acid-paz-cheenzo-rous",
+  "ticket_url": "https://venti.live/evento/pared-n-techno-x-bela-tobi-lopez-acid-paz-cheenzo-rous",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1791409459271-lg.jpg",
+  "lat": -31.42649219999999,
+  "lon": -64.1935086,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "PRANA & OBLIVION; DIMMISH; SEGUNDO ANIVERSARIO",
   "date": "2026-10-18",
   "venue": "Ele Multiespacio",
@@ -7988,6 +8017,27 @@
   "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
   "lat": -34.1635341,
   "lon": -58.9583909,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "RUE REVES X",
+  "date": "2026-10-18",
+  "venue": "Quba, café de mar",
+  "artists": [
+   "RUE REVES X QUBA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/rue-reves-x-quba-s-bado-17-10",
+  "ticket_url": "https://venti.live/evento/rue-reves-x-quba-s-bado-17-10",
+  "price": "$12.000",
+  "image": "https://images.venti.live/user-images/1791394013752-lg.jpg",
+  "lat": -38.0312385559082,
+  "lon": -57.53220748901367,
   "start_time": "",
   "sources": [
    "venti"
@@ -8094,6 +8144,27 @@
   "image": "https://images.venti.live/user-images/1789867908593-lg.jpg",
   "lat": -34.6085966,
   "lon": -58.38250240000001,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOMINGO 18/10",
+  "date": "2026-10-19",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-domingo-18-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-domingo-18-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
   "start_time": "",
   "sources": [
    "venti"
@@ -8433,6 +8504,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL JUEVES 22/10",
+  "date": "2026-10-23",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-jueves-22-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-jueves-22-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -8873,6 +8965,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "La Romana By Picheo 808",
+  "date": "2026-10-24",
+  "venue": "Niceto Club",
+  "artists": [
+   "La Romana By Picheo 808"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
+  "ticket_url": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790617828197-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Los Intocables",
   "date": "2026-10-24",
@@ -9278,6 +9391,27 @@
  },
  {
   "source": "venti",
+  "title": "Fiesta Bresh en Catamarca - 24 de Octubre",
+  "date": "2026-10-25",
+  "venue": "Soho Club",
+  "artists": [
+   "Bresh"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fiesta-bresh-en-catamarca-24-de-octubre",
+  "ticket_url": "https://venti.live/evento/fiesta-bresh-en-catamarca-24-de-octubre",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1791407673664-lg.jpg",
+  "lat": -28.45078149999999,
+  "lon": -65.7646123,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "IVAN MENNA OPEN TO CLOSE",
   "date": "2026-10-25",
   "venue": "Switch Club",
@@ -9450,6 +9584,27 @@
  },
  {
   "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOMINGO 25/10",
+  "date": "2026-10-26",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-domingo-25-10",
+  "ticket_url": "https://venti.live/evento/black-cream-original-domingo-25-10",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Franco Rizzaro en Niceto Club (+18 años)",
   "date": "2026-10-27",
   "venue": "Niceto Club",
@@ -9488,6 +9643,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "28/11 | Lulú x Bombi - Aniversario",
+  "date": "2026-10-28",
+  "venue": "Lulú",
+  "artists": [
+   "Lulú x Bombi - Aniversario"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s28-11-lul-x-bombi-aniversario",
+  "ticket_url": "https://venti.live/evento/s28-11-lul-x-bombi-aniversario",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1791409935722-lg.jpg",
+  "lat": -34.5920071,
+  "lon": -58.42639819999999,
+  "start_time": "03:59",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -9703,10 +9879,31 @@
   "url": "https://venti.live/evento/andy-hillar-carism-tico-player-en-niceto-bar",
   "ticket_url": "https://venti.live/evento/andy-hillar-carism-tico-player-en-niceto-bar",
   "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1791320432640-lg.jpg",
+  "image": "https://images.venti.live/user-images/1791405512027-lg.jpg",
   "lat": -34.5872316,
   "lon": -58.4383841,
-  "start_time": "23:30",
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM JUE 29/10 HALLOWEEN 1",
+  "date": "2026-10-30",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-jue-29-10-halloween-1",
+  "ticket_url": "https://venti.live/evento/black-cream-jue-29-10-halloween-1",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -10245,6 +10442,27 @@
  },
  {
   "source": "venti",
+  "title": "RioSanto – Hombre Búho en vivo",
+  "date": "2026-10-31",
+  "venue": "Niceto Bar",
+  "artists": [
+   "RioSanto"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/riosanto-hombre-b-ho-en-vivo-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/riosanto-hombre-b-ho-en-vivo-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1791465267614-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "SUNSET EL ROBLE 31-10",
   "date": "2026-10-31",
   "venue": "El ROBLE WAKE COMPLEX",
@@ -10413,6 +10631,27 @@
  },
  {
   "source": "venti",
+  "title": "EL CLUB DE LA SERPIENTE, 31 DE OCTUBRE - GROOVE - CABA",
+  "date": "2026-11-01",
+  "venue": "GROOVE PALERMO",
+  "artists": [
+   "EL CLUB DE LA SERPIENTE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/el-club-de-la-serpiente-31-de-octubre-groove-caba",
+  "ticket_url": "https://venti.live/evento/el-club-de-la-serpiente-31-de-octubre-groove-caba",
+  "price": "$18.000",
+  "image": "https://images.venti.live/user-images/1791393114059-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "FIESTA MERMELADA - HALLOWEEN en Humboldt | Niceto Club (+18 años)",
   "date": "2026-11-01",
   "venue": "Humboldt | Niceto Club",
@@ -10511,6 +10750,27 @@
   "lat": -38.0312385559082,
   "lon": -57.53220748901367,
   "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "GUIDO SARTORIS @ CULT",
+  "date": "2026-11-01",
+  "venue": "Veer",
+  "artists": [
+   "GUIDO SARTORIS"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/guido-sartoris-cult",
+  "ticket_url": "https://venti.live/evento/guido-sartoris-cult",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1791326981916-lg.jpg",
+  "lat": -28.4519199,
+  "lon": -65.7655254,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -10688,6 +10948,27 @@
  },
  {
   "source": "venti",
+  "title": "BLACK CREAM DOMINGO 01/11 HALLOWEEN 2",
+  "date": "2026-11-02",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-domingo-01-11-halloween-2",
+  "ticket_url": "https://venti.live/evento/black-cream-domingo-01-11-halloween-2",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "COCKTAIL SOCIAL PARA CONGRESO DE CIRUJANOS 2026",
   "date": "2026-11-02",
   "venue": "Chana Club",
@@ -10851,6 +11132,27 @@
   "start_time": "23:00",
   "sources": [
    "indiehoy",
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL JUEVES 05/11",
+  "date": "2026-11-06",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-jueves-05-11",
+  "ticket_url": "https://venti.live/evento/black-cream-original-jueves-05-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
    "venti"
   ],
   "artist_source": "title"
@@ -11296,7 +11598,7 @@
   "url": "https://venti.live/evento/club-69-pride-en-niceto-club-18-a-os",
   "ticket_url": "https://venti.live/evento/club-69-pride-en-niceto-club-18-a-os",
   "price": "$40.000",
-  "image": "https://images.venti.live/user-images/1791327727610-lg.jpg",
+  "image": "https://images.venti.live/user-images/1791398215758-lg.jpg",
   "lat": -34.5872682,
   "lon": -58.43876030000001,
   "start_time": "",
@@ -11328,6 +11630,27 @@
  },
  {
   "source": "venti",
+  "title": "Fun Fun Post Marcha @ Shamrock Basement - Djs Pareja / Maleena / Tom Tom Clubber / Lastbeats",
+  "date": "2026-11-08",
+  "venue": "The Shamrock Bar & Basement Club",
+  "artists": [
+   "Fun Fun Post Marcha"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fun-fun-post-marcha-shamrock-basement-maleena-last-lastbeats-djs-pareja-tom-tom-clubber",
+  "ticket_url": "https://venti.live/evento/fun-fun-post-marcha-shamrock-basement-maleena-last-lastbeats-djs-pareja-tom-tom-clubber",
+  "price": "$18.000",
+  "image": "https://images.venti.live/user-images/1791467042848-lg.jpg",
+  "lat": -34.5946306,
+  "lon": -58.3922647,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "MISSA - ORGULLO 026",
   "date": "2026-11-08",
   "venue": "Cnel. Niceto Vega 5699",
@@ -11342,6 +11665,27 @@
   "lat": -34.5859155,
   "lon": -58.4400986,
   "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "Mardel Burger 2026",
+  "date": "2026-11-08",
+  "venue": "Archivo Museo Histórico Municipal Roberto T. Barili",
+  "artists": [
+   "Mardel Burger 2026"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/mardel-burger-2026",
+  "ticket_url": "https://venti.live/evento/mardel-burger-2026",
+  "price": "$17.000",
+  "image": "https://images.venti.live/user-images/1791474175428-lg.jpg",
+  "lat": -38.0207945,
+  "lon": -57.55250949999999,
+  "start_time": "14:00",
   "sources": [
    "venti"
   ],
@@ -11395,7 +11739,11 @@
   "date": "2026-11-08",
   "venue": "Blow",
   "artists": [
-   "[PRIDE] MISSA ORGULLO 2026"
+   "Rumi de Baires",
+   "Tina Disco",
+   "Camila Isabel",
+   "panko",
+   "Rumanians"
   ],
   "genres": [
    "House",
@@ -11410,6 +11758,27 @@
   "start_time": "18:00",
   "sources": [
    "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOMINGO 08/11",
+  "date": "2026-11-09",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-domingo-08-11",
+  "ticket_url": "https://venti.live/evento/black-cream-original-domingo-08-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790571947784-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -11494,6 +11863,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL JUEVES 12/11",
+  "date": "2026-11-13",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-jueves-12-11",
+  "ticket_url": "https://venti.live/evento/black-cream-original-jueves-12-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -11940,6 +12330,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOMINGO 15/11",
+  "date": "2026-11-16",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-domingo-15-11",
+  "ticket_url": "https://venti.live/evento/black-cream-original-domingo-15-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Alexisonfire en Argentina",
   "date": "2026-11-17",
@@ -12018,6 +12429,27 @@
   "lat": -34.5875434,
   "lon": -58.438918,
   "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL JUEVES 19/11",
+  "date": "2026-11-20",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-jueves-19-11",
+  "ticket_url": "https://venti.live/evento/black-cream-original-jueves-19-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -12116,6 +12548,30 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "RI7MO DEL GHETTO",
+  "date": "2026-11-20",
+  "venue": "Crobar - Buenos Aires",
+  "artists": [
+   "RI7MO DEL GHETTO"
+  ],
+  "genres": [
+   "Electronica",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2556483",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "23:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -12476,6 +12932,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "BIG FUN | sábado 21/11 | tributo a Studio 54",
+  "date": "2026-11-22",
+  "venue": "Casinos de la Provincia",
+  "artists": [
+   "Lenni Funk"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/big-fun-s-bado-21-11",
+  "ticket_url": "https://venti.live/evento/big-fun-s-bado-21-11",
+  "price": "$12.000",
+  "image": "https://images.venti.live/user-images/1789768635084-lg.jpg",
+  "lat": -38.0041548,
+  "lon": -57.54227040000001,
+  "start_time": "01:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "resident-advisor",
   "title": "CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 )",
   "date": "2026-11-22",
@@ -12563,6 +13040,27 @@
    "venti"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "BLACK CREAM ORIGINAL DOMINGO 22/11",
+  "date": "2026-11-23",
+  "venue": "BlackCream",
+  "artists": [
+   "BLACK CREAM ORIGINAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/black-cream-original-domingo-22-11",
+  "ticket_url": "https://venti.live/evento/black-cream-original-domingo-22-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1790571947784-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -12761,33 +13259,6 @@
   "artist_source": "title"
  },
  {
-  "source": "resident-advisor",
-  "title": "Paralelo 51/31 presenta: Barker",
-  "date": "2026-11-27",
-  "venue": "La Cúpula del Palacio Libertad",
-  "artists": [
-   "Barker",
-   "aantz",
-   "La Kelly",
-   "Esteparia (VJ)"
-  ],
-  "genres": [
-   "Electronica",
-   "Experimental"
-  ],
-  "url": "https://ra.co/events/2538956",
-  "ticket_url": "",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "20:00",
-  "sources": [
-   "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Sofía Mora",
   "date": "2026-11-27",
@@ -12870,6 +13341,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "ANATO FEST 2026",
+  "date": "2026-11-28",
+  "venue": "Aráoz 2424",
+  "artists": [
+   "ANATO FEST 2026"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/anato-fest-2026",
+  "ticket_url": "https://venti.live/evento/anato-fest-2026",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1791412519349-lg.jpg",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -13464,7 +13956,7 @@
   "url": "https://venti.live/evento/fiesta-bresh-en-posadas-5-de-diciembre",
   "ticket_url": "https://venti.live/evento/fiesta-bresh-en-posadas-5-de-diciembre",
   "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1791218433355-lg.jpg",
+  "image": "https://images.venti.live/user-images/1791398486733-lg.jpg",
   "lat": -27.3619659,
   "lon": -55.9480089,
   "start_time": "",
@@ -13535,6 +14027,27 @@
    "venti"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "RYAN presenta “Zafarrancho”",
+  "date": "2026-12-07",
+  "venue": "Niceto Club",
+  "artists": [
+   "RYAN presenta “Zafarrancho”"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/ryan-presenta-zafarrancho-en-niceto-club",
+  "ticket_url": "https://venti.live/evento/ryan-presenta-zafarrancho-en-niceto-club",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1790078595260-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",

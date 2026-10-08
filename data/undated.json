@@ -630,17 +630,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Palito Ortega",
+  "title": "Luciano Pereyra",
   "date": "",
-  "venue": "Teatro Opera On",
+  "venue": "Estación Belgrano",
   "artists": [
-   "Palito Ortega"
+   "Luciano Pereyra"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
+  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palito_a26.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1004,6 +1004,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Los Yaguaru",
+  "date": "",
+  "venue": "Tropitango",
+  "artists": [
+   "Los Yaguaru"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-yaguaru/tropitango",
+  "ticket_url": "https://www.ticketek.com.ar/los-yaguaru/tropitango",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/yaguaru_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Daniel Agostini",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1049,23 +1066,6 @@
   "ticket_url": "https://www.ticketek.com.ar/el-oficial-gordillo/teatro-universidad-nacional-de-la-matanza",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gordillo_440_20.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Luciano Pereyra",
-  "date": "",
-  "venue": "Estación Belgrano",
-  "artists": [
-   "Luciano Pereyra"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
   "lat": null,
   "lon": null,
   "start_time": ""

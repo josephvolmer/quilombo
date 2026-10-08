@@ -119,14 +119,6 @@
    "title": "KICK ZONE SPRING EDITION"
   }
  ],
- "[PRIDE] MISSA ORGULLO 2026": [
-  {
-   "date": "2026-11-08",
-   "venue": "Blow",
-   "url": "https://ra.co/events/2551303",
-   "title": "[PRIDE] MISSA ORGULLO 2026"
-  }
- ],
  "A Flock of Seagulls": [
   {
    "date": "2026-10-09",
@@ -151,20 +143,20 @@
    "title": "a1.series // 17 de Octubre //"
   }
  ],
- "aantz": [
-  {
-   "date": "2026-11-27",
-   "venue": "La Cúpula del Palacio Libertad",
-   "url": "https://ra.co/events/2538956",
-   "title": "Paralelo 51/31 presenta: Barker"
-  }
- ],
  "Abel Pintos": [
   {
    "date": "2026-11-13",
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/abel-pintos-teatro-gran-rex/",
    "title": "Abel Pintos"
+  }
+ ],
+ "ACID PAZ": [
+  {
+   "date": "2026-10-18",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/pared-n-techno-x-bela-tobi-lopez-acid-paz-cheenzo-rous",
+   "title": "PAREDÓN TECHNO x BELA > TOBI LOPEZ + ACID PAZ + CHEENZO + ROUS"
   }
  ],
  "Adanowsky": [
@@ -393,6 +385,14 @@
    "title": "Ana Hagen - DEE JASON - Floorplan"
   }
  ],
+ "ANATO FEST 2026": [
+  {
+   "date": "2026-11-28",
+   "venue": "Aráoz 2424",
+   "url": "https://venti.live/evento/anato-fest-2026",
+   "title": "ANATO FEST 2026"
+  }
+ ],
  "ANDRES CAPRA": [
   {
    "date": "2026-10-24",
@@ -607,14 +607,6 @@
    "title": "Barbi Recanati"
   }
  ],
- "Barker": [
-  {
-   "date": "2026-11-27",
-   "venue": "La Cúpula del Palacio Libertad",
-   "url": "https://ra.co/events/2538956",
-   "title": "Paralelo 51/31 presenta: Barker"
-  }
- ],
  "BB ASUL": [
   {
    "date": "2026-11-08",
@@ -719,6 +711,20 @@
    "title": "Bianca del Rio en Argentina"
   }
  ],
+ "BLACK CREAM": [
+  {
+   "date": "2026-10-30",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-jue-29-10-halloween-1",
+   "title": "BLACK CREAM JUE 29/10 HALLOWEEN 1"
+  },
+  {
+   "date": "2026-11-02",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-domingo-01-11-halloween-2",
+   "title": "BLACK CREAM DOMINGO 01/11 HALLOWEEN 2"
+  }
+ ],
  "BLACK CREAM ORIGINAL": [
   {
    "date": "2026-10-09",
@@ -731,15 +737,69 @@
    "venue": "BlackCream",
    "url": "https://venti.live/evento/black-cream-original-dom-11-10",
    "title": "BLACK CREAM ORIGINAL DOM 11/10"
+  },
+  {
+   "date": "2026-10-16",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-jueves-15-10",
+   "title": "BLACK CREAM ORIGINAL JUEVES 15/10"
+  },
+  {
+   "date": "2026-10-19",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-domingo-18-10",
+   "title": "BLACK CREAM ORIGINAL DOMINGO 18/10"
+  },
+  {
+   "date": "2026-10-23",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-jueves-22-10",
+   "title": "BLACK CREAM ORIGINAL JUEVES 22/10"
+  },
+  {
+   "date": "2026-10-26",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-domingo-25-10",
+   "title": "BLACK CREAM ORIGINAL DOMINGO 25/10"
+  },
+  {
+   "date": "2026-11-06",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-jueves-05-11",
+   "title": "BLACK CREAM ORIGINAL JUEVES 05/11"
+  },
+  {
+   "date": "2026-11-09",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-domingo-08-11",
+   "title": "BLACK CREAM ORIGINAL DOMINGO 08/11"
+  },
+  {
+   "date": "2026-11-13",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-jueves-12-11",
+   "title": "BLACK CREAM ORIGINAL JUEVES 12/11"
+  },
+  {
+   "date": "2026-11-16",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-domingo-15-11",
+   "title": "BLACK CREAM ORIGINAL DOMINGO 15/11"
+  },
+  {
+   "date": "2026-11-20",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-jueves-19-11",
+   "title": "BLACK CREAM ORIGINAL JUEVES 19/11"
+  },
+  {
+   "date": "2026-11-23",
+   "venue": "BlackCream",
+   "url": "https://venti.live/evento/black-cream-original-domingo-22-11",
+   "title": "BLACK CREAM ORIGINAL DOMINGO 22/11"
   }
  ],
  "BLOND:ISH": [
-  {
-   "date": "2026-10-10",
-   "venue": "Alma Hydra Lodge",
-   "url": "https://venti.live/evento/aniversario-mirage-iii-blond-ish",
-   "title": "ANIVERSARIO MIRAGE III - BLOND:ISH"
-  },
   {
    "date": "2026-10-10",
    "venue": "Foro Costanera Norte (FCN)",
@@ -837,6 +897,12 @@
    "title": "Fiesta Bresh en Carlos Paz - 11 de Octubre"
   },
   {
+   "date": "2026-10-25",
+   "venue": "Soho Club",
+   "url": "https://venti.live/evento/fiesta-bresh-en-catamarca-24-de-octubre",
+   "title": "Fiesta Bresh en Catamarca - 24 de Octubre"
+  },
+  {
    "date": "2026-11-01",
    "venue": "Mandarine Park & Tent",
    "url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween",
@@ -925,6 +991,14 @@
    "venue": "Bodega Dante Robino",
    "url": "https://venti.live/evento/calma-sunset-11-10",
    "title": "CALMA SUNSET - 11/10"
+  }
+ ],
+ "Camila Isabel": [
+  {
+   "date": "2026-11-08",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2551303",
+   "title": "[PRIDE] MISSA ORGULLO 2026"
   }
  ],
  "Candela": [
@@ -1083,12 +1157,6 @@
    "venue": "Chana Club",
    "url": "https://venti.live/evento/chana-s-bado-10-de-octubre",
    "title": "CHANA SÁBADO 10 DE OCTUBRE"
-  },
-  {
-   "date": "2026-10-12",
-   "venue": "Chana Club",
-   "url": "https://venti.live/evento/chana-domingo-11-de-octubre-18-a-25-a-os",
-   "title": "CHANA DOMINGO 11 DE OCTUBRE + 18 A 25 AÑOS"
   }
  ],
  "CHAPA": [
@@ -1119,6 +1187,14 @@
    "venue": "El Teatrito",
    "url": "https://indiehoy.com/agenda/charlotte-wessels-en-argentina/",
    "title": "Charlotte Wessels en Argentina"
+  }
+ ],
+ "CHEENZO": [
+  {
+   "date": "2026-10-18",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/pared-n-techno-x-bela-tobi-lopez-acid-paz-cheenzo-rous",
+   "title": "PAREDÓN TECHNO x BELA > TOBI LOPEZ + ACID PAZ + CHEENZO + ROUS"
   }
  ],
  "Chino": [
@@ -1663,6 +1739,14 @@
    "title": "Divididos en Teatro Flores"
   }
  ],
+ "DJ BAHÍA": [
+  {
+   "date": "2026-10-09",
+   "venue": "Melt Underground",
+   "url": "https://ra.co/events/2556112",
+   "title": "MELT VINYL NIGHT"
+  }
+ ],
  "Dj Tennis": [
   {
    "date": "2026-10-16",
@@ -1735,14 +1819,6 @@
    "title": "Donavon Frankenreiter en Argentina"
   }
  ],
- "Dyango": [
-  {
-   "date": "2026-10-07",
-   "venue": "Teatro Gran Rex",
-   "url": "https://indiehoy.com/agenda/dyango-teatro-gran-rex-2026/",
-   "title": "Dyango"
-  }
- ],
  "Ed Sheeran": [
   {
    "date": "2026-11-29",
@@ -1779,6 +1855,12 @@
    "venue": "Acceso Punta Carrasco",
    "url": "https://venti.live/evento/el-club-de-la-serpiente-30-de-octubre-the-bow-complejo-punta-carrasco-caba",
    "title": "EL CLUB DE LA SERPIENTE, 30 DE OCTUBRE - THE BOW, COMPLEJO PUNTA CARRASCO - CABA"
+  },
+  {
+   "date": "2026-11-01",
+   "venue": "GROOVE PALERMO",
+   "url": "https://venti.live/evento/el-club-de-la-serpiente-31-de-octubre-groove-caba",
+   "title": "EL CLUB DE LA SERPIENTE, 31 DE OCTUBRE - GROOVE - CABA"
   },
   {
    "date": "2026-11-08",
@@ -1911,14 +1993,6 @@
    "venue": "Palermo",
    "url": "https://venti.live/evento/essence-sunset-mart-n-huergo",
    "title": "ESSENCE SUNSET · MARTÍN HUERGO"
-  }
- ],
- "Esteparia (VJ)": [
-  {
-   "date": "2026-11-27",
-   "venue": "La Cúpula del Palacio Libertad",
-   "url": "https://ra.co/events/2538956",
-   "title": "Paralelo 51/31 presenta: Barker"
   }
  ],
  "Estoy Bien": [
@@ -2193,6 +2267,14 @@
    "title": "FOMO Last dande indoor"
   }
  ],
+ "FOMO X QUBA": [
+  {
+   "date": "2026-10-11",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/fomo-x-quba-sabado-10-10",
+   "title": "FOMO X"
+  }
+ ],
  "Fonso": [
   {
    "date": "2026-10-17",
@@ -2263,6 +2345,14 @@
    "venue": "Archi Open Air - Avenida Rafael Obligado 6551 - Ingreso por parque",
    "url": "https://venti.live/evento/frutillas-con-crema-halloween-edition",
    "title": "Frutillas con Crema - Halloween Edition"
+  }
+ ],
+ "Fun Fun Post Marcha": [
+  {
+   "date": "2026-11-08",
+   "venue": "The Shamrock Bar & Basement Club",
+   "url": "https://venti.live/evento/fun-fun-post-marcha-shamrock-basement-maleena-last-lastbeats-djs-pareja-tom-tom-clubber",
+   "title": "Fun Fun Post Marcha @ Shamrock Basement - Djs Pareja / Maleena / Tom Tom Clubber / Lastbeats"
   }
  ],
  "Fuocco": [
@@ -2397,6 +2487,14 @@
    "venue": "TBA - Parque de la Ciudad, CABA",
    "url": "https://ra.co/events/2528105",
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
+  }
+ ],
+ "GUIDO SARTORIS": [
+  {
+   "date": "2026-11-01",
+   "venue": "Veer",
+   "url": "https://venti.live/evento/guido-sartoris-cult",
+   "title": "GUIDO SARTORIS @ CULT"
   }
  ],
  "Guy J": [
@@ -2847,6 +2945,14 @@
    "title": "Jere Klein en Argentina"
   }
  ],
+ "JHON WOODLEY": [
+  {
+   "date": "2026-10-09",
+   "venue": "Melt Underground",
+   "url": "https://ra.co/events/2556112",
+   "title": "MELT VINYL NIGHT"
+  }
+ ],
  "JINETE": [
   {
    "date": "2026-10-17",
@@ -3105,14 +3211,6 @@
    "title": "Klav: tINI, Momo Trosman y Ana Hagen"
   }
  ],
- "KLAXON": [
-  {
-   "date": "2026-10-11",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
-   "title": "ROBOT ZONDA + KLAXON"
-  }
- ],
  "Kolsch": [
   {
    "date": "2026-11-14",
@@ -3259,14 +3357,6 @@
    "title": "La Finquita Sunset | Edición Especial - 21/11"
   }
  ],
- "La Kelly": [
-  {
-   "date": "2026-11-27",
-   "venue": "La Cúpula del Palacio Libertad",
-   "url": "https://ra.co/events/2538956",
-   "title": "Paralelo 51/31 presenta: Barker"
-  }
- ],
  "La Máquina Camaleón": [
   {
    "date": "2026-10-15",
@@ -3323,7 +3413,7 @@
  ],
  "La Romana By Picheo 808": [
   {
-   "date": "2026-10-10",
+   "date": "2026-10-24",
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/la-romana-by-picheo-808-en-niceto-club",
    "title": "La Romana By Picheo 808"
@@ -3385,14 +3475,6 @@
    "title": "Fonso y Las Paritarias"
   }
  ],
- "Las Pelotas": [
-  {
-   "date": "2026-10-07",
-   "venue": "Teatro Vorterix",
-   "url": "https://indiehoy.com/agenda/las-pelotas-en-teatro-vorterix-2/",
-   "title": "Las Pelotas"
-  }
- ],
  "Laura Esquivel": [
   {
    "date": "2026-10-14",
@@ -3445,6 +3527,14 @@
    "venue": "TBA - Ciudad Universitaria, Belgrano",
    "url": "https://ra.co/events/2525297",
    "title": "Lee Burridge, Danny Tenaglia - Corona Sunsets, Buenos Aires"
+  }
+ ],
+ "Lenni Funk": [
+  {
+   "date": "2026-11-22",
+   "venue": "Casinos de la Provincia",
+   "url": "https://venti.live/evento/big-fun-s-bado-21-11",
+   "title": "BIG FUN | sábado 21/11 | tributo a Studio 54"
   }
  ],
  "Leo Middea": [
@@ -3703,6 +3793,14 @@
    "title": "17/10 | Lulú pres LEO JANEIRO - INDA JANI - MOSES"
   }
  ],
+ "Lulú x Bombi - Aniversario": [
+  {
+   "date": "2026-10-28",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s28-11-lul-x-bombi-aniversario",
+   "title": "28/11 | Lulú x Bombi - Aniversario"
+  }
+ ],
  "Lulú x Mora": [
   {
    "date": "2026-10-10",
@@ -3915,7 +4013,7 @@
  ],
  "Mardel Burger 2026": [
   {
-   "date": "2026-10-11",
+   "date": "2026-11-08",
    "venue": "Archivo Museo Histórico Municipal Roberto T. Barili",
    "url": "https://venti.live/evento/mardel-burger-2026",
    "title": "Mardel Burger 2026"
@@ -4185,6 +4283,14 @@
    "title": "MORE FAYAH 8 OCT"
   }
  ],
+ "More Music Please - GF": [
+  {
+   "date": "2026-10-17",
+   "venue": "Archi Club",
+   "url": "https://venti.live/evento/more-music-please-gf",
+   "title": "More Music Please - GF+"
+  }
+ ],
  "Moyka": [
   {
    "date": "2026-11-25",
@@ -4231,14 +4337,6 @@
    "venue": "Comité 357",
    "url": "https://venti.live/evento/mutek-x-comite-357",
    "title": "MUTEK x"
-  }
- ],
- "MUTEK.AR EDICIÓN 8": [
-  {
-   "date": "2026-10-07",
-   "venue": "TBA - Varias Locaciones / Several Locations",
-   "url": "https://ra.co/events/2340175",
-   "title": "MUTEK.AR EDICIÓN 8"
   }
  ],
  "Mystic Circle": [
@@ -4429,6 +4527,14 @@
    "title": "Nocturnal Depression en Argentina"
   }
  ],
+ "NOMBRAME OTRA VEZ": [
+  {
+   "date": "2026-10-11",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
+   "title": "ROBOT ZONDA + NOMBRAME OTRA VEZ"
+  }
+ ],
  "NORA": [
   {
    "date": "2026-11-08",
@@ -4613,6 +4719,14 @@
    "title": "Palito Ortega en Teatro Ópera"
   }
  ],
+ "panko": [
+  {
+   "date": "2026-11-08",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2551303",
+   "title": "[PRIDE] MISSA ORGULLO 2026"
+  }
+ ],
  "Para Nosotras": [
   {
    "date": "2026-10-18",
@@ -4627,6 +4741,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/festival-pardo-capricho-y-las-cruxes-en-humboldt-niceto-club-18-a-os",
    "title": "FESTIVAL PARDO: CAPRICHO y LAS CRUXES en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
+ "PAREDÓN TECHNO x BELA > TOBI LOPEZ": [
+  {
+   "date": "2026-10-18",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/pared-n-techno-x-bela-tobi-lopez-acid-paz-cheenzo-rous",
+   "title": "PAREDÓN TECHNO x BELA > TOBI LOPEZ + ACID PAZ + CHEENZO + ROUS"
   }
  ],
  "Parientes": [
@@ -4999,6 +5121,14 @@
    "title": "Rave3000"
   }
  ],
+ "RDKS": [
+  {
+   "date": "2026-10-09",
+   "venue": "Melt Underground",
+   "url": "https://ra.co/events/2556112",
+   "title": "MELT VINYL NIGHT"
+  }
+ ],
  "RENZO LEALI": [
   {
    "date": "2026-12-19",
@@ -5047,12 +5177,28 @@
    "title": "RHYE en Argentina"
   }
  ],
+ "RI7MO DEL GHETTO": [
+  {
+   "date": "2026-11-20",
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2556483",
+   "title": "RI7MO DEL GHETTO"
+  }
+ ],
  "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA": [
   {
    "date": "2026-11-09",
    "venue": "humboldt | Niceto Club",
    "url": "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club",
    "title": "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
+ "RioSanto": [
+  {
+   "date": "2026-10-31",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/riosanto-hombre-b-ho-en-vivo-en-niceto-bar",
+   "title": "RioSanto – Hombre Búho en vivo"
   }
  ],
  "Robert Hood": [
@@ -5076,7 +5222,7 @@
    "date": "2026-10-11",
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/robot-zonda-klaxon-en-humboldt-niceto-club",
-   "title": "ROBOT ZONDA + KLAXON"
+   "title": "ROBOT ZONDA + NOMBRAME OTRA VEZ"
   }
  ],
  "Rocco.fx": [
@@ -5135,6 +5281,14 @@
    "title": "CICLO ROTO 23 OCT"
   }
  ],
+ "ROUS": [
+  {
+   "date": "2026-10-18",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/pared-n-techno-x-bela-tobi-lopez-acid-paz-cheenzo-rous",
+   "title": "PAREDÓN TECHNO x BELA > TOBI LOPEZ + ACID PAZ + CHEENZO + ROUS"
+  }
+ ],
  "Roy Khan": [
   {
    "date": "2026-10-16",
@@ -5149,6 +5303,38 @@
    "venue": "Teatro Ópera On",
    "url": "https://indiehoy.com/agenda/roze-en-teatro-opera-2/",
    "title": "Roze en Teatro Ópera"
+  }
+ ],
+ "RUE REVES X QUBA": [
+  {
+   "date": "2026-10-18",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/rue-reves-x-quba-s-bado-17-10",
+   "title": "RUE REVES X"
+  }
+ ],
+ "Rumanians": [
+  {
+   "date": "2026-11-08",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2551303",
+   "title": "[PRIDE] MISSA ORGULLO 2026"
+  }
+ ],
+ "Rumi de Baires": [
+  {
+   "date": "2026-11-08",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2551303",
+   "title": "[PRIDE] MISSA ORGULLO 2026"
+  }
+ ],
+ "RYAN presenta “Zafarrancho”": [
+  {
+   "date": "2026-12-07",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/ryan-presenta-zafarrancho-en-niceto-club",
+   "title": "RYAN presenta “Zafarrancho”"
   }
  ],
  "SACER": [
@@ -5483,6 +5669,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
    "title": "Pepechet y Soldana"
+  }
+ ],
+ "SOLO DISCOS | TERRAZA de Niceto Bar": [
+  {
+   "date": "2026-10-10",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/solo-discos-terraza-de-niceto-bar",
+   "title": "SOLO DISCOS | TERRAZA de"
   }
  ],
  "Solomun": [
@@ -5863,6 +6057,14 @@
    "title": "Tigers Jaw en Argentina"
   }
  ],
+ "Tina Disco": [
+  {
+   "date": "2026-11-08",
+   "venue": "Blow",
+   "url": "https://ra.co/events/2551303",
+   "title": "[PRIDE] MISSA ORGULLO 2026"
+  }
+ ],
  "Tobika": [
   {
    "date": "2026-10-09",
@@ -5871,12 +6073,12 @@
    "title": "Tobika"
   }
  ],
- "TOBIKA presenta INTELIGENCIAiiii ARTESANAL": [
+ "TOBIKA presenta INTELIGENCIA ARTESANAL": [
   {
    "date": "2026-10-09",
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/tobika-presenta-inteligencia-artesanal-en-niceto-club",
-   "title": "TOBIKA presenta INTELIGENCIAiiii ARTESANAL"
+   "title": "TOBIKA presenta INTELIGENCIA ARTESANAL"
   }
  ],
  "Tom Gorom": [
@@ -6087,6 +6289,14 @@
    "venue": "Hipódromo de Palermo",
    "url": "https://indiehoy.com/agenda/valentino-merlo-en-hipodromo-de-palermo/",
    "title": "Valentino Merlo"
+  }
+ ],
+ "VANINA: IDÍLICA": [
+  {
+   "date": "2026-10-10",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/vanina-id-lica-en-humboldt-niceto-club",
+   "title": "VANINA: IDÍLICA en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Varese": [
@@ -6301,6 +6511,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/ze-peque-a-en-niceto-club",
    "title": "Ze Pequeña en Niceto Club (+18 años)"
+  }
+ ],
+ "ZETA CLUB - APERTURA OFICIAL": [
+  {
+   "date": "2026-10-17",
+   "venue": "Güemes 2607",
+   "url": "https://venti.live/evento/apertura-oficial",
+   "title": "ZETA CLUB - APERTURA OFICIAL"
   }
  ],
  "Zisko": [
