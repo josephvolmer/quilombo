@@ -120,23 +120,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Hello El Unplugged",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Hello El Unplugged"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600piezas.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Horacio Burgos",
   "date": "",
   "venue": "Teatro Comedia",
@@ -182,6 +165,23 @@
   "ticket_url": "https://www.ticketek.com.ar/dillom/bendu-arena",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dillom_a27.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La K'onga y La Delio Valdez + Candu Dominguez",
+  "date": "",
+  "venue": "Bendu Arena",
+  "artists": [
+   "La K'onga y La Delio Valdez + Candu Dominguez"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-konga-y-la-delio-valdez-candu-dominguez/bendu-arena",
+  "ticket_url": "https://www.ticketek.com.ar/la-konga-y-la-delio-valdez-candu-dominguez/bendu-arena",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kondvcd440x600.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -641,23 +641,6 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Borges y Piazzolla",
-  "date": "",
-  "venue": "Teatro Comedia",
-  "artists": [
-   "Borges y Piazzolla"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/borges-y-piazzolla/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/borges-y-piazzolla/teatro-comedia",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/byp_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
