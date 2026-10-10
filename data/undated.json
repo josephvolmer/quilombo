@@ -241,6 +241,23 @@
   "source": "ticketek",
   "title": "Baglietto + Vitale",
   "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Baglietto + Vitale"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Baglietto + Vitale",
+  "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
   "artists": [
    "Baglietto + Vitale"
@@ -249,7 +266,7 @@
   "url": "https://www.ticketek.com.ar/baglietto-vitale",
   "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baggen440_0.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -266,7 +283,7 @@
   "url": "https://www.ticketek.com.ar/baglietto-vitale",
   "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/baggen440_0.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -284,23 +301,6 @@
   "ticket_url": "https://www.ticketek.com.ar/seru-giran/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/seru_giran_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Enrico Barbizi",
-  "date": "",
-  "venue": "Teatro Comedia",
-  "artists": [
-   "Enrico Barbizi"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/enrico-barbizi/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/enrico-barbizi/teatro-comedia",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/enrico_barbizi_400.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -488,6 +488,23 @@
   "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Litto Nebbia",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Litto Nebbia"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lito_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -756,25 +773,8 @@
    "Ahyre"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/ahyre",
-  "ticket_url": "https://www.ticketek.com.ar/ahyre",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ahygen440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ahyre",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Ahyre"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ahyre",
-  "ticket_url": "https://www.ticketek.com.ar/ahyre",
+  "url": "https://www.ticketek.com.ar/ahyre/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/ahyre/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ahygen440.jpg",
   "lat": null,
@@ -1355,23 +1355,6 @@
   "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "QueenPhony",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "QueenPhony"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/queenphony/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/queenphony/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/queenph440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
