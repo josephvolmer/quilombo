@@ -171,17 +171,17 @@
  },
  {
   "source": "ticketek",
-  "title": "La K'onga y La Delio Valdez + Candu Dominguez",
+  "title": "Hello El Unplugged",
   "date": "",
-  "venue": "Bendu Arena",
+  "venue": "Teatro Coliseo",
   "artists": [
-   "La K'onga y La Delio Valdez + Candu Dominguez"
+   "Hello El Unplugged"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/la-konga-y-la-delio-valdez-candu-dominguez/bendu-arena",
-  "ticket_url": "https://www.ticketek.com.ar/la-konga-y-la-delio-valdez-candu-dominguez/bendu-arena",
+  "url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kondvcd440x600.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600piezas_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -834,40 +834,6 @@
  },
  {
   "source": "ticketek",
-  "title": "La Chamba Folk",
-  "date": "",
-  "venue": "City Center",
-  "artists": [
-   "La Chamba Folk"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/la-chamba-folk/city-center",
-  "ticket_url": "https://www.ticketek.com.ar/la-chamba-folk/city-center",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chamba440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Micaela Chauque",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "Micaela Chauque"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/micaela-chauque/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/micchauque440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Chango Spasiuk",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -913,6 +879,40 @@
   "ticket_url": "https://www.ticketek.com.ar/universo-tupay/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/univer440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Abel Pintos",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Abel Pintos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/abel-pintos",
+  "ticket_url": "https://www.ticketek.com.ar/abel-pintos",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ap_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Abel Pintos",
+  "date": "",
+  "venue": "Teatro Tronador",
+  "artists": [
+   "Abel Pintos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/abel-pintos",
+  "ticket_url": "https://www.ticketek.com.ar/abel-pintos",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ap_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
