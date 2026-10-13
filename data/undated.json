@@ -1293,23 +1293,6 @@
  },
  {
   "source": "ticketek",
-  "title": "El Hombre Inesperado",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "El Hombre Inesperado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/el-hombre-inesperado/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/hombre_inesperado.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Amores Reunidos",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1338,6 +1321,23 @@
   "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Edad es Ahora",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "La Edad es Ahora"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-edad-es-ahora/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/la-edad-es-ahora/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/leea_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
