@@ -1293,23 +1293,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Amores Reunidos",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Amores Reunidos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/amores-reunidos/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/amores-reunidos/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/amores440x600_2.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Campo Minado",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1338,6 +1321,23 @@
   "ticket_url": "https://www.ticketek.com.ar/la-edad-es-ahora/teatro-comedia",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/leea_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Por piernas y boca",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Por piernas y boca"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/por-piernas-y-boca/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/por-piernas-y-boca/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ppyb_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1575,7 +1575,7 @@
   "url": "https://www.ticketek.com.ar/juli-bellese/teatro-opera",
   "ticket_url": "https://www.ticketek.com.ar/juli-bellese/teatro-opera",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/belle440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/julibellese440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
