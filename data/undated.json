@@ -171,17 +171,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Hello El Unplugged",
+  "title": "Tobías Arizio",
   "date": "",
-  "venue": "Teatro Coliseo",
+  "venue": "Teatro Santa María",
   "artists": [
-   "Hello El Unplugged"
+   "Tobías Arizio"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/hello-el-unplugged/teatro-coliseo",
+  "url": "https://www.ticketek.com.ar/tobias-arizio/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/tobias-arizio/teatro-santa-maria",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600piezas_0.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tobias_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1531,23 +1531,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Emilio Lovera",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Emilio Lovera"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lov440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Volar es Humano Aterrizar es Divino",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1559,6 +1542,23 @@
   "ticket_url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/2.vhad_coliseo2026_difusion_coliseo_440x600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Emilio Lovera",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Emilio Lovera"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lov440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
