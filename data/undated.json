@@ -307,6 +307,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Carnaval Toda la Orquesta",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Carnaval Toda la Orquesta"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/carnaval-toda-la-orquesta/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/carnaval-toda-la-orquesta/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/carn440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Sueño de Pescado",
   "date": "",
   "venue": "Teatro Opera On",
@@ -477,23 +494,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Litto Nebbia",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "Litto Nebbia"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lito_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Poder K-Pop",
   "date": "",
   "venue": "Teatro Devoto",
@@ -521,7 +521,7 @@
   "url": "https://www.ticketek.com.ar/roze/teatro-opera",
   "ticket_url": "https://www.ticketek.com.ar/roze/teatro-opera",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/roze_ag.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/roz440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -709,6 +709,23 @@
   "ticket_url": "https://www.ticketek.com.ar/brad-mehldau-trio/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/brad440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Pablo Juarez",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "Pablo Juarez"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/pablo-juarez/teatro-astengo",
+  "ticket_url": "https://www.ticketek.com.ar/pablo-juarez/teatro-astengo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_62.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
