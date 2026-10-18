@@ -766,23 +766,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Ahyre",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Ahyre"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ahyre/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/ahyre/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ahygen440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Los Kjarkas",
   "date": "",
   "venue": "Arena Maipu",
@@ -1531,23 +1514,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Volar es Humano Aterrizar es Divino",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Volar es Humano Aterrizar es Divino"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/2.vhad_coliseo2026_difusion_coliseo_440x600.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Emilio Lovera",
   "date": "",
   "venue": "Teatro Opera On",
@@ -1559,6 +1525,23 @@
   "ticket_url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lov440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Volar es Humano Aterrizar es Divino",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Volar es Humano Aterrizar es Divino"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/2.vhad_coliseo2026_difusion_coliseo_440x600.png",
   "lat": null,
   "lon": null,
   "start_time": ""
