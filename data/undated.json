@@ -241,30 +241,13 @@
   "source": "ticketek",
   "title": "Baglietto + Vitale",
   "date": "",
-  "venue": "Teatro Universidad Nacional de la Matanza",
-  "artists": [
-   "Baglietto + Vitale"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/baglietto-vitale",
-  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Baglietto + Vitale",
-  "date": "",
   "venue": "Teatro El Círculo",
   "artists": [
    "Baglietto + Vitale"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/baglietto-vitale",
-  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "url": "https://www.ticketek.com.ar/baglietto-vitale/teatro-el-circulo",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale/teatro-el-circulo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
   "lat": null,
@@ -664,23 +647,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Astor Universal",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "Astor Universal"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/astor-universal/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/astor-universal/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/astor_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Jairo",
   "date": "",
   "venue": "Teatro Devoto",
@@ -964,23 +930,6 @@
   "ticket_url": "https://www.ticketek.com.ar/ricky-maravilla/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/rick440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Los Yaguaru",
-  "date": "",
-  "venue": "Tropitango",
-  "artists": [
-   "Los Yaguaru"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-yaguaru/tropitango",
-  "ticket_url": "https://www.ticketek.com.ar/los-yaguaru/tropitango",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/yaguaru_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1310,23 +1259,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Por piernas y boca",
-  "date": "",
-  "venue": "Teatro Comedia",
-  "artists": [
-   "Por piernas y boca"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/por-piernas-y-boca/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/por-piernas-y-boca/teatro-comedia",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ppyb_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Ecos",
   "date": "",
   "venue": "Teatro Devoto",
@@ -1378,23 +1310,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Jackson Project",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "Jackson Project"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jp_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Dios Salve A La Reina",
   "date": "",
   "venue": "Arena Maipu",
@@ -1423,6 +1338,23 @@
   "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Jackson Project",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Jackson Project"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jp_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
