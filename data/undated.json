@@ -1021,6 +1021,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Festival de Danzas Españolas ",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "Festival de Danzas Españolas "
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-de-danzas-espanolas/teatro-astengo",
+  "ticket_url": "https://www.ticketek.com.ar/festival-de-danzas-espanolas/teatro-astengo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/imagen_3_440x600.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "La verdadera historia de Ricardo III",
   "date": "",
   "venue": "Teatro San Martín",
@@ -1480,6 +1497,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Juampi Gonzalez",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Juampi Gonzalez"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/juampi-gonzalez/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/juampi-gonzalez/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juamp440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Juli Bellese",
   "date": "",
   "venue": "Teatro Opera On",
@@ -1525,23 +1559,6 @@
   "ticket_url": "https://www.ticketek.com.ar/bianca-del-rio/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bianca_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Pablo Angeli",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Pablo Angeli"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/pablo-angeli/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/pablo-angeli/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600pa.png",
   "lat": null,
   "lon": null,
   "start_time": ""
