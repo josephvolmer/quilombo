@@ -1,12 +1,4 @@
 {
- "11pm": [
-  {
-   "date": "2026-10-20",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2564151",
-   "title": "Minelek Sessions w/Berger Muzik & Micaela Ledesma"
-  }
- ],
  "18 años)": [
   {
    "date": "2026-12-04",
@@ -45,14 +37,6 @@
    "venue": "Aráoz 2424",
    "url": "https://venti.live/evento/s6th-anniversary-x-arz-s-b-12-12",
    "title": "6TH ANNIVERSARY x ARZ SÁB 12.12"
-  }
- ],
- "9pm Micaela Ledesma": [
-  {
-   "date": "2026-10-20",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2564151",
-   "title": "Minelek Sessions w/Berger Muzik & Micaela Ledesma"
   }
  ],
  "@aude": [
@@ -301,6 +285,14 @@
    "title": "Akriila"
   }
  ],
+ "Alcest": [
+  {
+   "date": "2027-02-17",
+   "venue": "Uniclub",
+   "url": "https://indiehoy.com/agenda/alcest-en-argentina/",
+   "title": "Alcest en Argentina"
+  }
+ ],
  "Alejo Rivero, Nico Zas": [
   {
    "date": "2026-11-01",
@@ -347,6 +339,14 @@
    "venue": "El Atico Club",
    "url": "https://venti.live/evento/aliaga",
    "title": "ALIAGA"
+  }
+ ],
+ "ALMELA": [
+  {
+   "date": "2026-10-31",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s30-10-almela-fer-mualdo-by-plurar",
+   "title": "30.10 | ALMELA & FER MUALDO by PLURAR"
   }
  ],
  "Almela": [
@@ -487,14 +487,6 @@
    "title": "ANA HAGEN | DEE JASON | FLOORPLAN"
   }
  ],
- "ANOTHER FUTURE": [
-  {
-   "date": "2026-10-25",
-   "venue": "Av. Rafael Núñez 4614",
-   "url": "https://venti.live/evento/s24-10-another-future-b-i-g-pista-blu",
-   "title": "24.10 | ANOTHER FUTURE & B.I.G | PISTA BLU"
-  }
- ],
  "ANTIGAL SESSIONS": [
   {
    "date": "2026-10-31",
@@ -607,12 +599,12 @@
    "title": "Año Nuevo"
   }
  ],
- "B.I.G | PISTA BLU": [
+ "B.I.G": [
   {
    "date": "2026-10-25",
    "venue": "Av. Rafael Núñez 4614",
    "url": "https://venti.live/evento/s24-10-another-future-b-i-g-pista-blu",
-   "title": "24.10 | ANOTHER FUTURE & B.I.G | PISTA BLU"
+   "title": "24.10 | B.I.G + REDSPACE | PISTA BLU"
   }
  ],
  "b2b VIKTORIA": [
@@ -711,14 +703,6 @@
    "title": "Benjamín Amadeo"
   }
  ],
- "Berger Muzik": [
-  {
-   "date": "2026-10-20",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2564151",
-   "title": "Minelek Sessions w/Berger Muzik & Micaela Ledesma"
-  }
- ],
  "Bermani": [
   {
    "date": "2026-11-06",
@@ -813,6 +797,14 @@
    "venue": "BlackCream",
    "url": "https://venti.live/evento/black-cream-original-domingo-22-11",
    "title": "BLACK CREAM ORIGINAL DOMINGO 22/11"
+  }
+ ],
+ "Bodeler": [
+  {
+   "date": "2026-11-21",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Bodeler & Manu Desrets"
   }
  ],
  "Bondarük": [
@@ -921,7 +913,7 @@
  ],
  "BRUNO ALBANO": [
   {
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/bruno-albano-en-humboldt-niceto-club-18-a-os",
    "title": "BRUNO ALBANO en Humboldt | Niceto Club (+18 años)"
@@ -965,6 +957,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/cabaret-voltaire-en-niceto-club",
    "title": "CABARET VOLTAIRE en Niceto Club (+18 años)"
+  }
+ ],
+ "Cadelago": [
+  {
+   "date": "2026-11-20",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cadelago & Super (ARG)"
   }
  ],
  "Callejón González": [
@@ -1079,6 +1079,14 @@
    "title": "CAZADORES - CONOR DELIA"
   }
  ],
+ "Cecilia Zabala": [
+  {
+   "date": "2026-10-23",
+   "venue": "Sociedad Italiana de Morón",
+   "url": "https://www.songkick.com/concerts/43473748-cecilia-zabala-at-sociedad-italiana-de-moron?utm_medium=organic&utm_source=microformat",
+   "title": "Cecilia Zabala"
+  }
+ ],
  "Cera Khin": [
   {
    "date": "2026-12-11",
@@ -1139,6 +1147,14 @@
    "venue": "El Teatrito",
    "url": "https://indiehoy.com/agenda/charlotte-wessels-en-argentina/",
    "title": "Charlotte Wessels en Argentina"
+  }
+ ],
+ "Chiclex": [
+  {
+   "date": "2026-11-07",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2565871",
+   "title": "HIHATDANCER INVITA"
   }
  ],
  "CHIRI": [
@@ -1257,6 +1273,20 @@
    "venue": "Lucille",
    "url": "https://indiehoy.com/agenda/club-marfil-en-lucille/",
    "title": "Club Marfil"
+  }
+ ],
+ "CLUB QUBA": [
+  {
+   "date": "2026-10-23",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/club-quba-22-10-queves",
+   "title": "CLUB"
+  },
+  {
+   "date": "2026-10-25",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/club-quba-s-bado-24-10-26",
+   "title": "CLUB"
   }
  ],
  "CLUB QUBA X NO PAIN": [
@@ -1475,6 +1505,14 @@
    "title": "David Cross Band en Argentina"
   }
  ],
+ "David Meiser": [
+  {
+   "date": "2026-11-27",
+   "venue": "Melt Underground",
+   "url": "https://ra.co/events/2566699",
+   "title": "Melt Pres. David Meiser (Live)"
+  }
+ ],
  "David Schunk": [
   {
    "date": "2026-11-01",
@@ -1671,12 +1709,28 @@
    "title": "Donavon Frankenreiter en Argentina"
   }
  ],
+ "DRAMER": [
+  {
+   "date": "2026-11-06",
+   "venue": "Crobar Studio",
+   "url": "https://www.crobar.com.ar/studio",
+   "title": "DRAMER"
+  }
+ ],
  "ECNO": [
   {
    "date": "2026-10-24",
    "venue": "La Greco",
    "url": "https://ra.co/events/2562933",
    "title": "Death Symphony By Moisé Soto"
+  }
+ ],
+ "ECOS DE VENTANIA 2026": [
+  {
+   "date": "2026-11-28",
+   "venue": "Glamping Puente Blanco",
+   "url": "https://venti.live/evento/ecos-de-ventania-2026-preventa-oficial",
+   "title": "ECOS DE VENTANIA 2026 @ TRACK CLUB"
   }
  ],
  "Eczodia": [
@@ -1855,6 +1909,14 @@
    "title": "LBC + Euge Quevedo"
   }
  ],
+ "Evergreen Terrace": [
+  {
+   "date": "2027-01-28",
+   "venue": "Uniclub",
+   "url": "https://indiehoy.com/agenda/evergreen-terrace-en-argentina/",
+   "title": "Evergreen Terrace en Argentina"
+  }
+ ],
  "Extreme": [
   {
    "date": "2026-11-05",
@@ -1953,6 +2015,14 @@
    "venue": "Club Social 911",
    "url": "https://indiehoy.com/agenda/incidiera-fenicia-rubi-en-club-social-911/",
    "title": "Incidiera + Fenicia Rubi"
+  }
+ ],
+ "FER MUALDO by PLURAR": [
+  {
+   "date": "2026-10-31",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s30-10-almela-fer-mualdo-by-plurar",
+   "title": "30.10 | ALMELA & FER MUALDO by PLURAR"
   }
  ],
  "Fergus Sweetland": [
@@ -2059,6 +2129,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/flor-ibarra-en-niceto-bar",
    "title": "FLOR IBARRA"
+  }
+ ],
+ "FLOWIE": [
+  {
+   "date": "2026-11-06",
+   "venue": "Crobar Studio",
+   "url": "https://www.crobar.com.ar/studio",
+   "title": "DRAMER"
   }
  ],
  "Fran Busso": [
@@ -2221,6 +2299,14 @@
    "title": "Holographic - Experiencia Photographic II"
   }
  ],
+ "Groover": [
+  {
+   "date": "2026-11-20",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cadelago & Super (ARG)"
+  }
+ ],
  "Gueva": [
   {
    "date": "2026-10-23",
@@ -2345,12 +2431,36 @@
    "title": "Hayley Williams en Argentina"
   }
  ],
+ "Hellripper": [
+  {
+   "date": "2027-01-19",
+   "venue": "Uniclub",
+   "url": "https://indiehoy.com/agenda/hellripper-en-argentina-buenos-aires-2027/",
+   "title": "Hellripper en Argentina"
+  }
+ ],
  "HERS": [
   {
    "date": "2026-11-20",
    "venue": "Crobar - Buenos Aires",
    "url": "https://ra.co/events/2556483",
    "title": "RI7MO DEL GHETTO"
+  }
+ ],
+ "HIHATDANCER": [
+  {
+   "date": "2026-11-07",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2565871",
+   "title": "HIHATDANCER INVITA"
+  }
+ ],
+ "Hirax": [
+  {
+   "date": "2027-02-10",
+   "venue": "Uniclub",
+   "url": "https://indiehoy.com/agenda/hirax-en-argentina/",
+   "title": "Hirax en Argentina"
   }
  ],
  "Hojas por el Barrio": [
@@ -2505,18 +2615,6 @@
  ],
  "Iron Maiden": [
   {
-   "date": "2026-10-20",
-   "venue": "Estadio Club Atletico Huracan",
-   "url": "https://www.songkick.com/concerts/43034943-iron-maiden-at-estadio-club-atletico-huracan?utm_medium=organic&utm_source=microformat",
-   "title": "Iron Maiden"
-  },
-  {
-   "date": "2026-10-20",
-   "venue": "Estadio de Huracán: Tomás Adolfo Ducó",
-   "url": "https://indiehoy.com/agenda/iron-maiden-argentina-2026/",
-   "title": "Iron Maiden en Argentina"
-  },
-  {
    "date": "2026-10-21",
    "venue": "Estadio Club Atletico Huracan",
    "url": "https://www.songkick.com/concerts/43034944-iron-maiden-at-estadio-club-atletico-huracan?utm_medium=organic&utm_source=microformat",
@@ -2544,6 +2642,12 @@
    "date": "2026-11-05",
    "venue": "La Quadra Bar",
    "url": "https://www.songkick.com/concerts/43445317-its-all-red-at-la-quadra-bar?utm_medium=organic&utm_source=microformat",
+   "title": "It's All Red"
+  },
+  {
+   "date": "2026-11-06",
+   "venue": "Jony Bar",
+   "url": "https://www.songkick.com/concerts/43445319-its-all-red-at-jony-bar?utm_medium=organic&utm_source=microformat",
    "title": "It's All Red"
   }
  ],
@@ -2715,6 +2819,14 @@
    "title": "Juana Sallies"
   }
  ],
+ "Juku Ares": [
+  {
+   "date": "2026-11-11",
+   "venue": "Maquinal Espacio Cultural",
+   "url": "https://indiehoy.com/agenda/juku-ares-en-maquinal/",
+   "title": "Juku Ares en Maquinal"
+  }
+ ],
  "JULIETA LAKE": [
   {
    "date": "2026-10-30",
@@ -2765,6 +2877,14 @@
    "venue": "Avant Garten",
    "url": "https://ra.co/events/2514007",
    "title": "Innen x AVG pres. KARBONI (IT), Lukas, Manu Oubiña"
+  }
+ ],
+ "KARM4": [
+  {
+   "date": "2026-11-06",
+   "venue": "Crobar Studio",
+   "url": "https://www.crobar.com.ar/studio",
+   "title": "DRAMER"
   }
  ],
  "Kas:st": [
@@ -3105,6 +3225,14 @@
    "title": "LAGRIMITAS presenta en vivo su nueva etapa en Humboldt | Niceto Club (+18 años)"
   }
  ],
+ "Lapidvs": [
+  {
+   "date": "2026-11-07",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2565871",
+   "title": "HIHATDANCER INVITA"
+  }
+ ],
  "LAUTA": [
   {
    "date": "2026-11-29",
@@ -3313,6 +3441,14 @@
    "title": "Los Reyes del Falsete"
   }
  ],
+ "Los Sub": [
+  {
+   "date": "2026-11-06",
+   "venue": "Lalalá",
+   "url": "https://www.songkick.com/concerts/43458036-los-sub-at-lalala?utm_medium=organic&utm_source=microformat",
+   "title": "Los Sub"
+  }
+ ],
  "Los Tipitos": [
   {
    "date": "2026-11-14",
@@ -3324,7 +3460,7 @@
  "Los40 Primavera Pop": [
   {
    "date": "2026-10-28",
-   "venue": "Teatro Ópera On",
+   "venue": "Teatro Ópera ON",
    "url": "https://indiehoy.com/agenda/los40-primavera-pop-en-teatro-opera/",
    "title": "Los40 Primavera Pop en Teatro Ópera"
   }
@@ -3465,12 +3601,12 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
- "Lulú pres KENIA - DOBAO - SIGNO": [
+ "Lulú pres KENNY JONES - DOBAO - SIGNO - FELIX CLARKE": [
   {
    "date": "2026-10-25",
    "venue": "Lulú",
    "url": "https://venti.live/evento/s24-10-lul-pres-kenia-dobao-signo",
-   "title": "24/10 | Lulú pres KENIA - DOBAO - SIGNO"
+   "title": "24/10 | Lulú pres KENNY JONES - DOBAO - SIGNO - FELIX CLARKE"
   }
  ],
  "Lulú x Animalia pres ADANA TWINS - PAUL DEEP - Lean Aguero": [
@@ -3549,6 +3685,14 @@
    "venue": "Dune Park",
    "url": "https://ra.co/events/2558443",
    "title": "mita x"
+  }
+ ],
+ "Manu Desrets": [
+  {
+   "date": "2026-11-21",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Bodeler & Manu Desrets"
   }
  ],
  "Manu Hattom": [
@@ -3735,6 +3879,22 @@
    "title": "Deer Jade"
   }
  ],
+ "MEGA FIESTA - LINE DANCE CLUB presenta a JOHNNY ROSSATO": [
+  {
+   "date": "2026-12-12",
+   "venue": "Aráoz 2424",
+   "url": "https://venti.live/evento/line-dancer-club-presenta-a-johnny-rossato",
+   "title": "MEGA FIESTA - LINE DANCE CLUB presenta a JOHNNY ROSSATO"
+  }
+ ],
+ "MEL EMBOM": [
+  {
+   "date": "2026-11-06",
+   "venue": "Crobar Studio",
+   "url": "https://www.crobar.com.ar/studio",
+   "title": "DRAMER"
+  }
+ ],
  "Melania Wonder": [
   {
    "date": "2026-10-23",
@@ -3827,6 +3987,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/miley-cyrus-fest-edici-n-mileyween-en-niceto-bar",
    "title": "Miley Cyrus Fest — Edición Mileyween"
+  }
+ ],
+ "Militarie Gun": [
+  {
+   "date": "2026-11-26",
+   "venue": "Uniclub",
+   "url": "https://indiehoy.com/agenda/militarie-gun-en-argentina/",
+   "title": "Militarie Gun en Argentina"
   }
  ],
  "MIMI MAURA presenta Bailaré": [
@@ -4131,20 +4299,18 @@
    "title": "Noelia Sinkunas"
   }
  ],
- "NORA": [
-  {
-   "date": "2026-11-08",
-   "venue": "Magna Club",
-   "url": "https://venti.live/evento/nora-en-pure-x-2gthr-archi-open-air",
-   "title": "NORA EN PURE x 2GTHR - ARCHI OPEN AIR | 07.11"
-  }
- ],
  "Nora En Pure": [
   {
    "date": "2026-11-07",
    "venue": "TBA - Archi Club, Costanera",
    "url": "https://ra.co/events/2535774",
    "title": "Nora En Pure - 2gthr, Archi Club Open Air - ALLMusicParties"
+  },
+  {
+   "date": "2026-11-08",
+   "venue": "Magna Club",
+   "url": "https://venti.live/evento/nora-en-pure-x-2gthr-archi-open-air",
+   "title": "NORA EN PURE x 2GTHR - ARCHI OPEN AIR | 07.11"
   }
  ],
  "NUMBERS x BELA - Franzizca - Open to Close": [
@@ -4239,6 +4405,14 @@
    "venue": "Teatro Vorterix",
    "url": "https://indiehoy.com/agenda/orishas-en-argentina/",
    "title": "Orishas en Argentina"
+  }
+ ],
+ "Ortega b2b Galo (AR)": [
+  {
+   "date": "2026-11-20",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cadelago & Super (ARG)"
   }
  ],
  "Osees": [
@@ -4543,6 +4717,14 @@
    "title": "POP UP ROPA DE AUTOR"
   }
  ],
+ "POPE": [
+  {
+   "date": "2026-10-25",
+   "venue": "POPE SOCIAL CLUB",
+   "url": "https://venti.live/evento/pope-full-cachengue-sabado-24-10",
+   "title": "POPE – FULL CACHENGUE | SABADO 24.10"
+  }
+ ],
  "POPE - SHOW": [
   {
    "date": "2026-10-29",
@@ -4573,6 +4755,14 @@
    "venue": "POPE SOCIAL CLUB",
    "url": "https://venti.live/evento/pope-viernes-23-10",
    "title": "POPE RETRO 2000 – | VIERNES 23.10"
+  }
+ ],
+ "Ppia": [
+  {
+   "date": "2026-11-07",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2565871",
+   "title": "HIHATDANCER INVITA"
   }
  ],
  "Primavera Sound Buenos Aires 2026": [
@@ -4647,20 +4837,6 @@
    "title": "ONLY FRIENDS & RADIKAL 1 de Noviembre"
   }
  ],
- "Ramones on 45": [
-  {
-   "date": "2026-10-22",
-   "venue": "Salas Ciro",
-   "url": "https://www.songkick.com/concerts/43447181-ramones-on-45-at-salas-ciro?utm_medium=organic&utm_source=microformat",
-   "title": "Ramones on 45"
-  },
-  {
-   "date": "2026-10-23",
-   "venue": "Cemento",
-   "url": "https://www.songkick.com/concerts/43432516-ramones-on-45-at-cemento?utm_medium=organic&utm_source=microformat",
-   "title": "Ramones on 45"
-  }
- ],
  "Random Fiesta": [
   {
    "date": "2026-11-14",
@@ -4699,6 +4875,22 @@
    "venue": "Tokyo Club BA",
    "url": "https://venti.live/evento/recibida-ditella-x-tokyo-ba",
    "title": "Recibida DiTella X Tokyo.ba"
+  }
+ ],
+ "Redhz": [
+  {
+   "date": "2026-11-07",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2565871",
+   "title": "HIHATDANCER INVITA"
+  }
+ ],
+ "REDSPACE | PISTA BLU": [
+  {
+   "date": "2026-10-25",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s24-10-another-future-b-i-g-pista-blu",
+   "title": "24.10 | B.I.G + REDSPACE | PISTA BLU"
   }
  ],
  "renke": [
@@ -4816,7 +5008,7 @@
  "Roze": [
   {
    "date": "2026-10-24",
-   "venue": "Teatro Ópera On",
+   "venue": "Teatro Ópera ON",
    "url": "https://indiehoy.com/agenda/roze-en-teatro-opera-2/",
    "title": "Roze en Teatro Ópera"
   }
@@ -5109,6 +5301,14 @@
    "title": "Mariano DC - Steve Bicknell"
   }
  ],
+ "Stevie Paladini": [
+  {
+   "date": "2026-11-21",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Bodeler & Manu Desrets"
+  }
+ ],
  "STUDIO 8 x FRÈRES": [
   {
    "date": "2026-11-09",
@@ -5120,7 +5320,7 @@
  "Sueño de Pescado": [
   {
    "date": "2026-11-26",
-   "venue": "Teatro Ópera On",
+   "venue": "Teatro Ópera ON",
    "url": "https://indiehoy.com/agenda/sueno-de-pescado-en-teatro-opera/",
    "title": "Sueño de Pescado en Teatro Ópera"
   }
@@ -5163,6 +5363,14 @@
    "venue": "El ROBLE WAKE COMPLEX",
    "url": "https://venti.live/evento/sunset-el-roble-28-10",
    "title": "SUNSET EL ROBLE 28-10"
+  }
+ ],
+ "Super (ARG)": [
+  {
+   "date": "2026-11-20",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cadelago & Super (ARG)"
   }
  ],
  "SuperVos cierra el año": [
@@ -5489,6 +5697,14 @@
    "title": "UNDER RAIL • OPEN AIR • 14.11"
   }
  ],
+ "Undertale": [
+  {
+   "date": "2027-03-09",
+   "venue": "Teatro Ópera ON",
+   "url": "https://indiehoy.com/agenda/undertale-en-argentina/",
+   "title": "Undertale en Argentina"
+  }
+ ],
  "Underworld": [
   {
    "date": "2026-11-26",
@@ -5527,12 +5743,28 @@
    "title": "UNDERWORLD @ Mandarine Park"
   }
  ],
+ "Verde y los caballos a marte": [
+  {
+   "date": "2026-11-06",
+   "venue": "Lalalá",
+   "url": "https://www.songkick.com/concerts/43458036-los-sub-at-lalala?utm_medium=organic&utm_source=microformat",
+   "title": "Los Sub"
+  }
+ ],
  "VEZEL": [
   {
    "date": "2026-10-24",
    "venue": "La Greco",
    "url": "https://ra.co/events/2562933",
    "title": "Death Symphony By Moisé Soto"
+  }
+ ],
+ "Viaje Relámpago": [
+  {
+   "date": "2026-11-06",
+   "venue": "Lalalá",
+   "url": "https://www.songkick.com/concerts/43458036-los-sub-at-lalala?utm_medium=organic&utm_source=microformat",
+   "title": "Los Sub"
   }
  ],
  "Victoria Engel": [
@@ -5565,14 +5797,6 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
-  }
- ],
- "Visuals x UnPlug.": [
-  {
-   "date": "2026-10-20",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2564151",
-   "title": "Minelek Sessions w/Berger Muzik & Micaela Ledesma"
   }
  ],
  "Void": [
@@ -5651,6 +5875,14 @@
    "venue": "Uniclub",
    "url": "https://indiehoy.com/agenda/youth-of-today-en-argentina/",
    "title": "Youth of Today en Argentina"
+  }
+ ],
+ "ZABAL: PIRANHA": [
+  {
+   "date": "2026-11-14",
+   "venue": "Under Club",
+   "url": "https://venti.live/evento/zabalpiranha",
+   "title": "ZABAL: PIRANHA"
   }
  ],
  "Zakk Sabbath": [

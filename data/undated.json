@@ -681,6 +681,40 @@
  },
  {
   "source": "ticketek",
+  "title": "Jorge Migoya",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Jorge Migoya"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/jorge-migoya/teatro-el-circulo",
+  "ticket_url": "https://www.ticketek.com.ar/jorge-migoya/teatro-el-circulo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/migo440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Luca Topino Quinteto",
+  "date": "",
+  "venue": "Teatro El Círculo",
+  "artists": [
+   "Luca Topino Quinteto"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/luca-topino-quinteto/teatro-el-circulo",
+  "ticket_url": "https://www.ticketek.com.ar/luca-topino-quinteto/teatro-el-circulo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/topino440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Pablo Juarez",
   "date": "",
   "venue": "Teatro Astengo",
@@ -1423,6 +1457,23 @@
   "ticket_url": "https://www.ticketek.com.ar/giselle/teatro-el-circulo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/giselle440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ballet de San Petersburgo",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Ballet de San Petersburgo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ballet-de-san-petersburgo/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/ballet-de-san-petersburgo/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bsp440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
