@@ -250,11 +250,11 @@
  },
  {
   "source": "bebop",
-  "title": "Scaglione - Loiacono Quintet",
+  "title": "Mariano Loiacono plays Miles",
   "date": "2026-09-14",
   "venue": "Bebop Club",
   "artists": [
-   "Scaglione - Loiacono Quintet"
+   "Mariano Loiacono plays Miles"
   ],
   "genres": [
    "Jazz"
@@ -2872,6 +2872,29 @@
   "artist_source": "structured"
  },
  {
+  "source": "bebop",
+  "title": "Grito Sagrado",
+  "date": "2026-10-09",
+  "venue": "Bebop Club",
+  "artists": [
+   "Grito Sagrado"
+  ],
+  "genres": [
+   "Jazz"
+  ],
+  "url": "https://ticketera.bebopclub.com.ar/evento/a37fec6a-17de-4fb3-95e7-785416b31422",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/a37fec6a-17de-4fb3-95e7-785416b31422",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "bebop"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "resident-advisor",
   "title": "KICK ZONE SPRING EDITION",
   "date": "2026-10-09",
@@ -3065,30 +3088,6 @@
   "url": "https://ra.co/events/2550505",
   "ticket_url": "",
   "price": "-",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "resident-advisor",
-  "title": "ILLUSIONIZE - Costanera Buenos Aires - ALLMusicParties",
-  "date": "2026-10-10",
-  "venue": "TBA - Locación a confirmar, Costanera",
-  "artists": [
-   "ILLUSIONIZE"
-  ],
-  "genres": [
-   "House",
-   "Tech House"
-  ],
-  "url": "https://ra.co/events/2543287",
-  "ticket_url": "",
-  "price": "",
   "image": "",
   "lat": null,
   "lon": null,
@@ -3381,29 +3380,6 @@
   ],
   "url": "https://ticketera.bebopclub.com.ar/evento/2d04ff6d-59d1-4368-a1a8-23434f6b0882",
   "ticket_url": "https://ticketera.bebopclub.com.ar/evento/2d04ff6d-59d1-4368-a1a8-23434f6b0882",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "Homenaje Al Buena Vista Social Club y la Música Cubana",
-  "date": "2026-10-13",
-  "venue": "Bebop Club",
-  "artists": [
-   "Homenaje Al Buena Vista Social Club y la Música Cubana"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/52bc6827-76b4-4d68-a79d-395e7c686851",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/52bc6827-76b4-4d68-a79d-395e7c686851",
   "price": "",
   "image": "",
   "lat": null,
@@ -4067,27 +4043,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Iron Maiden en Argentina",
-  "date": "2026-10-20",
-  "venue": "Estadio de Huracán: Tomás Adolfo Ducó",
-  "artists": [
-   "Iron Maiden"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/iron-maiden-argentina-2026/",
-  "ticket_url": "https://livepass.com.ar/events/iron-maiden-en-huracan",
-  "price": "Desde $90.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2025/12/iron-maiden-argentina-2026.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "bebop",
   "title": "James Carter Quintet",
   "date": "2026-10-20",
@@ -4276,86 +4231,71 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Aitana",
+  "source": "bebop",
+  "title": "ADRIAN IAIES CUARTETO",
   "date": "2026-10-21",
-  "venue": "Movistar Arena",
+  "venue": "Bebop Club",
   "artists": [
-   "Aitana"
+   "ADRIAN IAIES CUARTETO"
   ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43184477-aitana-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43184477-aitana-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+  "genres": [
+   "Jazz"
+  ],
+  "url": "https://ticketera.bebopclub.com.ar/evento/66c42be1-070e-470f-8134-ec7c4222ff9c",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/66c42be1-070e-470f-8134-ec7c4222ff9c",
   "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/9500809/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP” en Niceto Club (+18 años)",
-  "date": "2026-10-21",
-  "venue": "Niceto Club",
-  "artists": [
-   "HOMOGÉNICA FESTEJA 1 AÑO DE “POST POP”"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1785862694130-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Homogénica",
-  "date": "2026-10-21",
-  "venue": "Niceto Club",
-  "artists": [
-   "Homogénica"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/homogenica-en-niceto-club-2/",
-  "ticket_url": "https://venti.live/evento/homog-nica-festeja-1-a-o-de-post-pop-en-niceto-club",
-  "price": "$19000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/niceto-01.jpg",
+  "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "indiehoy"
+   "bebop"
   ],
-  "artist_source": "title"
+  "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Iron Maiden",
+  "source": "bebop",
+  "title": "Andrés Pellican Plays Jaco Pastorius",
   "date": "2026-10-21",
-  "venue": "Estadio Club Atletico Huracan",
+  "venue": "Bebop Club",
   "artists": [
-   "Iron Maiden"
+   "Andrés Pellican Plays Jaco Pastorius"
   ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43034944-iron-maiden-at-estadio-club-atletico-huracan?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43034944-iron-maiden-at-estadio-club-atletico-huracan?utm_medium=organic&utm_source=microformat",
+  "genres": [
+   "Jazz"
+  ],
+  "url": "https://ticketera.bebopclub.com.ar/evento/61856310-9936-45a1-b0ac-8b02d618597e",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/61856310-9936-45a1-b0ac-8b02d618597e",
   "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/438390/huge_avatar",
-  "lat": -34.60368,
-  "lon": -58.38156,
-  "start_time": "19:00",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "songkick"
+   "bebop"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "bebop",
+  "title": "Deborah Dixon & Luciana Palacios",
+  "date": "2026-10-21",
+  "venue": "Bebop Club",
+  "artists": [
+   "Deborah Dixon & Luciana Palacios"
+  ],
+  "genres": [
+   "Jazz"
+  ],
+  "url": "https://ticketera.bebopclub.com.ar/evento/348a49a7-a036-4972-a2a5-485c5a9eb7be",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/348a49a7-a036-4972-a2a5-485c5a9eb7be",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "bebop"
   ],
   "artist_source": "structured"
  },
@@ -4381,89 +4321,25 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Aitana",
-  "date": "2026-10-22",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Aitana"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43184478-aitana-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43184478-aitana-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/9500809/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Alter Bridge",
-  "date": "2026-10-22",
-  "venue": "C Complejo Art Media",
-  "artists": [
-   "Alter Bridge"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43146061-alter-bridge-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43146061-alter-bridge-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/2250667/huge_avatar",
-  "lat": -34.59104,
-  "lon": -58.44825,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Apocalyptica",
-  "date": "2026-10-22",
-  "venue": "Groove",
-  "artists": [
-   "Apocalyptica"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43214161-apocalyptica-at-groove?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43214161-apocalyptica-at-groove?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/216253/huge_avatar",
-  "lat": -34.57953,
-  "lon": -58.42309,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Fit for a King",
+  "source": "indiehoy",
+  "title": "Fit For a King en Argentina",
   "date": "2026-10-22",
   "venue": "El Teatrito",
   "artists": [
-   "Fit for a King"
+   "Fit For a King"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43200679-fit-for-a-king-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43200679-fit-for-a-king-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/fit-for-a-king-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos/fit-for-a-king",
   "price": "Desde $100.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/1035378/huge_avatar",
-  "lat": -34.60565,
-  "lon": -58.39155,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/fit-for-a-king-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -4487,7 +4363,7 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
+  "source": "indiehoy",
   "title": "Javiera Mena",
   "date": "2026-10-22",
   "venue": "Deseo",
@@ -4495,18 +4371,17 @@
    "Javiera Mena"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43313784-javiera-mena-at-deseo?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43313784-javiera-mena-at-deseo?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/javiera-mena-en-deseo/",
+  "ticket_url": "https://www.enigmatickets.com/event/ad39f4b6-8c9c-464d-bdb7-d5c077f64249",
   "price": "$62500",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/381785/huge_avatar",
-  "lat": -34.58446,
-  "lon": -58.46985,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2025/09/javieramena-deseo-buenos-aires-argentina-2026.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -4551,7 +4426,7 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
+  "source": "indiehoy",
   "title": "Los Pericos",
   "date": "2026-10-22",
   "venue": "Teatro Gran Rex",
@@ -4559,41 +4434,17 @@
    "Los Pericos"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43122709-los-pericos-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43122709-los-pericos-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/los-pericos-en-teatro-gran-rex/",
+  "ticket_url": "https://comprar.tuentrada.com/tuentrada/select/2804268?_gl=1*20brr6*_gcl_au*ODQ1MTc1NjIuMTc3NTQ3ODQ0Nw..*_ga*MTQ2MjkzOTQwMy4xNzc1NDc4NDQ3*_ga_K2KT0GJC8Q*czE3NzU0Nzg0NDYkbzEkZzAkdDE3NzU0Nzg0NDckajU5JGwwJGg1MzcyMjIxMTk.&viewCode=V_blockmap",
   "price": "Desde $45.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/303416/huge_avatar",
-  "lat": -34.60339,
-  "lon": -58.37887,
+  "image": "https://indiehoy.com/wp-content/uploads/2026/04/656695329_18402729142182689_3864283203874088204_n-1.jpg",
+  "lat": null,
+  "lon": null,
   "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Tomates en Verano",
-  "date": "2026-10-22",
-  "venue": "Club Social 911",
-  "artists": [
-   "Tomates en Verano",
-   "todas las anteriores",
-   "COMEVIDRIO"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43465770-tomates-en-verano-at-club-social-911?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43465770-tomates-en-verano-at-club-social-911?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8698598/huge_avatar",
-  "lat": -34.59434,
-  "lon": -58.42689,
-  "start_time": "20:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -4785,27 +4636,6 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Cecilia Zabala",
-  "date": "2026-10-23",
-  "venue": "Sociedad Italiana de Morón",
-  "artists": [
-   "Cecilia Zabala"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43473748-cecilia-zabala-at-sociedad-italiana-de-moron?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43473748-cecilia-zabala-at-sociedad-italiana-de-moron?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/634840/huge_avatar",
-  "lat": -34.65395,
-  "lon": -58.62241,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "CÍRCULO | Sunset 23/10",
   "date": "2026-10-23",
@@ -4816,8 +4646,8 @@
   "genres": [],
   "url": "https://venti.live/evento/c-rculo-sunset-23-10",
   "ticket_url": "https://venti.live/evento/c-rculo-sunset-23-10",
-  "price": "$12.000",
-  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "price": "$18.000",
+  "image": "https://images.venti.live/user-images/1792675074643-lg.jpg",
   "lat": -32.97325134277344,
   "lon": -68.73474884033203,
   "start_time": "21:00",
@@ -4961,28 +4791,6 @@
   "artist_source": "none"
  },
  {
-  "source": "songkick",
-  "title": "Malevolent Creation",
-  "date": "2026-10-23",
-  "venue": "El Teatrito",
-  "artists": [
-   "Malevolent Creation",
-   "Mystic Circle"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43269855-malevolent-creation-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43269855-malevolent-creation-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/405537/huge_avatar",
-  "lat": -34.60565,
-  "lon": -58.39155,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Malevolent Creation + Mystic Circle en Argentina",
   "date": "2026-10-23",
@@ -5026,27 +4834,6 @@
   "start_time": "23:00",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Nicole Zignago",
-  "date": "2026-10-23",
-  "venue": "Niceto Club",
-  "artists": [
-   "Nicole Zignago"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43214197-nicole-zignago-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43214197-nicole-zignago-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10163804/huge_avatar",
-  "lat": -34.58741,
-  "lon": -58.43887,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
   ],
   "artist_source": "structured"
  },
@@ -5169,16 +4956,16 @@
  },
  {
   "source": "venti",
-  "title": "1ER PREVENTA - EL CABLE EVENTS",
+  "title": "2DA PREVENTA - EL CABLE EVENTS",
   "date": "2026-10-24",
   "venue": "El Cable Wakepark",
   "artists": [
-   "1ER PREVENTA - EL CABLE EVENTS"
+   "2DA PREVENTA - EL CABLE EVENTS"
   ],
   "genres": [],
   "url": "https://venti.live/evento/first-drop-el-cable-events",
   "ticket_url": "https://venti.live/evento/first-drop-el-cable-events",
-  "price": "$15.000",
+  "price": "$18.000",
   "image": "https://images.venti.live/user-images/1792015159920-lg.jpg",
   "lat": -34.7652277,
   "lon": -68.3333457,
@@ -5187,27 +4974,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "BEN MARCUS",
-  "date": "2026-10-24",
-  "venue": "Niceto Club",
-  "artists": [
-   "BEN MARCUS"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43368193-ben-marcus-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43368193-ben-marcus-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10238845/huge_avatar",
-  "lat": -34.58741,
-  "lon": -58.43887,
-  "start_time": "20:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -5288,25 +5054,25 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Briganti",
+  "source": "venti",
+  "title": "CHANA VIERNES DE CLÁSICOS 23 DE OCTUBRE | Visual Sessions",
   "date": "2026-10-24",
-  "venue": "Jony Bar Multiespacio",
+  "venue": "Chana Club",
   "artists": [
-   "Briganti"
+   "CHANA VIERNES DE CLÁSICOS"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43411823-briganti-at-jony-bar-multiespacio?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43411823-briganti-at-jony-bar-multiespacio?utm_medium=organic&utm_source=microformat",
+  "url": "https://venti.live/evento/chana-viernes-23-de-octubre",
+  "ticket_url": "https://venti.live/evento/chana-viernes-23-de-octubre",
   "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8954409/huge_avatar",
-  "lat": null,
-  "lon": null,
-  "start_time": "21:00",
+  "image": "https://images.venti.live/user-images/1792523110000-lg.jpg",
+  "lat": -34.6061182,
+  "lon": -58.36424899999999,
+  "start_time": "",
   "sources": [
-   "songkick"
+   "venti"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -5532,6 +5298,27 @@
  },
  {
   "source": "venti",
+  "title": "LA HISTÓRICA SUNSET // WINE FESTIVAL // 24 OCTUBRE",
+  "date": "2026-10-24",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET // WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-24-10",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-24-10",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1785344982834-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "La Finquita Sunset - 24/10",
   "date": "2026-10-24",
   "venue": "LA FINQUITA 1920",
@@ -5592,49 +5379,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Luciano Pereyra",
-  "date": "2026-10-24",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Luciano Pereyra"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43257719-luciano-pereyra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43257719-luciano-pereyra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8884009/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Mujer Cebra",
-  "date": "2026-10-24",
-  "venue": "Club de Arte Tempuja",
-  "artists": [
-   "Mujer Cebra",
-   "Kill Flora"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43434689-mujer-cebra-at-club-de-arte-tempuja?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43434689-mujer-cebra-at-club-de-arte-tempuja?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10186971/huge_avatar",
-  "lat": -34.70766,
-  "lon": -58.28892,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -5807,27 +5551,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Silvina Moreno",
-  "date": "2026-10-24",
-  "venue": "Teatro Margarita Xirgu",
-  "artists": [
-   "Silvina Moreno"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43367736-silvina-moreno-at-teatro-margarita-xirgu?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43367736-silvina-moreno-at-teatro-margarita-xirgu?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/3484466/huge_avatar",
-  "lat": -34.61823,
-  "lon": -58.37598,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -6052,7 +5775,7 @@
   "url": "https://venti.live/evento/club-quba-s-bado-24-10-26",
   "ticket_url": "https://venti.live/evento/club-quba-s-bado-24-10-26",
   "price": "$6.000",
-  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "image": "https://images.venti.live/user-images/1792597011395-lg.jpg",
   "lat": -38.0312385559082,
   "lon": -57.53220748901367,
   "start_time": "",
@@ -6081,27 +5804,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Camilo",
-  "date": "2026-10-25",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Camilo"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43257717-camilo-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43257717-camilo-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/98787/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -6144,27 +5846,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Dethklok",
-  "date": "2026-10-25",
-  "venue": "El Teatrito",
-  "artists": [
-   "Dethklok"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43284327-dethklok-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43284327-dethklok-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/2023392/huge_avatar",
-  "lat": -34.60565,
-  "lon": -58.39155,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -6486,28 +6167,25 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Six Feet Under",
+  "source": "indiehoy",
+  "title": "Six Feet Under en Argentina",
   "date": "2026-10-27",
   "venue": "El Teatrito",
   "artists": [
-   "Six Feet Under",
-   "Matan s.a.",
-   "Lesa Humanidad"
+   "Six Feet Under"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43189086-six-feet-under-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43189086-six-feet-under-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/six-feet-under-en-buenos-aires-argentina-2026/",
+  "ticket_url": "https://www.passline.com/eventos/six-feet-under-latin-american-tour-2026",
   "price": "$100000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/396440/huge_avatar",
-  "lat": -34.60565,
-  "lon": -58.39155,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/01-1.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -6573,7 +6251,7 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
+  "source": "indiehoy",
   "title": "H2O",
   "date": "2026-10-29",
   "venue": "El Teatrito",
@@ -6581,40 +6259,38 @@
    "H2O"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43314407-h2o-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43314407-h2o-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/h2o-en-el-teatrito/",
+  "ticket_url": "https://www.passline.com/eventos/h2o",
   "price": "Desde $85.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/59669/huge_avatar",
-  "lat": -34.60565,
-  "lon": -58.39155,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/09/h2o-teatrito.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Humbe",
+  "source": "indiehoy",
+  "title": "Humbe en Argentina",
   "date": "2026-10-29",
   "venue": "Teatro Gran Rex",
   "artists": [
    "Humbe"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43224409-humbe-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43224409-humbe-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/humbe-argentina-gran-rex/",
+  "ticket_url": "https://www.tuentrada.com/humbe-tgr",
   "price": "Desde $45.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10166255/huge_avatar",
-  "lat": -34.60339,
-  "lon": -58.37887,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/02/humbre-argentina-gran-rex.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -6683,29 +6359,28 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Ploho",
+  "source": "indiehoy",
+  "title": "Ploho en Argentina",
   "date": "2026-10-29",
   "venue": "Uniclub",
   "artists": [
    "Ploho"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43284305-ploho-at-uniclub?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43284305-ploho-at-uniclub?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/ploho-en-argentina/",
+  "ticket_url": "https://alpogo.com/evento/ploho-rus-unico-show-en-argentina-27151",
   "price": "$70000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/9090004/huge_avatar",
-  "lat": -34.60268,
-  "lon": -58.41224,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/ploho-argenitna.png",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
-  "source": "songkick",
+  "source": "indiehoy",
   "title": "Sofía Campos",
   "date": "2026-10-29",
   "venue": "Biri Biri",
@@ -6713,18 +6388,17 @@
    "Sofía Campos"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43374774-sofia-campos-at-biri-biri?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43374774-sofia-campos-at-biri-biri?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/sofia-campos-en-biri-biri/",
+  "ticket_url": "https://www.passline.com/eventos/sofia-campos",
   "price": "$15000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10065553/huge_avatar",
-  "lat": -34.59382,
-  "lon": -58.4315,
-  "start_time": "20:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/sofiacampos.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -6819,26 +6493,25 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Benediction",
+  "source": "indiehoy",
+  "title": "Benediction en Argentina",
   "date": "2026-10-30",
   "venue": "Uniclub",
   "artists": [
    "Benediction"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/42841910-benediction-at-uniclub?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/42841910-benediction-at-uniclub?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/benediction-en-argentina/",
+  "ticket_url": "https://alpogo.com/evento/benediction-30-octubre-2026-uniclub-22180",
   "price": "$90000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/329398/huge_avatar",
-  "lat": -34.60268,
-  "lon": -58.41224,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/03/bene.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -6883,27 +6556,6 @@
   "start_time": "",
   "sources": [
    "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Chris Liebing",
-  "date": "2026-10-30",
-  "venue": "Under Club",
-  "artists": [
-   "Chris Liebing"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43418641-chris-liebing-at-under-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43418641-chris-liebing-at-under-club?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/443529/huge_avatar",
-  "lat": -34.58608,
-  "lon": -58.44025,
-  "start_time": "",
-  "sources": [
-   "songkick"
   ],
   "artist_source": "structured"
  },
@@ -6959,26 +6611,25 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Fishbone",
+  "source": "indiehoy",
+  "title": "Fishbone en Argentina",
   "date": "2026-10-30",
   "venue": "La Trastienda",
   "artists": [
    "Fishbone"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43314462-fishbone-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43314462-fishbone-at-la-trastienda?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/fishbone-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos-ficha-dvm/fishbone-regresa-a-la-argentina",
   "price": "Desde $65.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/512389/huge_avatar",
-  "lat": -34.6131,
-  "lon": -58.37037,
+  "image": "https://indiehoy.com/wp-content/uploads/2026/06/fishbone-la-trastienda.jpg",
+  "lat": null,
+  "lon": null,
   "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -7045,27 +6696,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Oliver Heldens",
-  "date": "2026-10-30",
-  "venue": "PM Open Air",
-  "artists": [
-   "Oliver Heldens"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43422542-oliver-heldens-at-pm-open-air?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43422542-oliver-heldens-at-pm-open-air?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/7776184/huge_avatar",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -7218,6 +6848,27 @@
   "lat": -34.586299896240234,
   "lon": -58.41642379760742,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BAMH X MUSICOLOGY",
+  "date": "2026-10-31",
+  "venue": "Niceto Bar",
+  "artists": [
+   "BAMH X MUSICOLOGY"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/bamh-x-musicology-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/bamh-x-musicology-en-niceto-bar",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1792597742262-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
@@ -7680,27 +7331,6 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Tipling Rock",
-  "date": "2026-10-31",
-  "venue": "The Roxy Live!",
-  "artists": [
-   "Tipling Rock"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43358575-tipling-rock-at-roxy-live?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43358575-tipling-rock-at-roxy-live?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8719729/huge_avatar",
-  "lat": -34.58711,
-  "lon": -58.43884,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "venti",
   "title": "31.10 HALLOWEEN X",
   "date": "2026-11-01",
@@ -7739,27 +7369,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "A Wilhelm Scream",
-  "date": "2026-11-01",
-  "venue": "Club Cultural Bula",
-  "artists": [
-   "A Wilhelm Scream"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43107247-a-wilhelm-scream-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43107247-a-wilhelm-scream-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/413226/huge_avatar",
-  "lat": -34.6001,
-  "lon": -58.41785,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -7865,27 +7474,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Diosque",
-  "date": "2026-11-01",
-  "venue": "Centro Cultural Kirchner (CCK)",
-  "artists": [
-   "Diosque"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43409563-diosque-at-centro-cultural-kirchner?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43409563-diosque-at-centro-cultural-kirchner?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/774421/huge_avatar",
-  "lat": -34.60366,
-  "lon": -58.3695,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -8097,27 +7685,6 @@
    "venti"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Jesse & Joy",
-  "date": "2026-11-01",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Jesse & Joy"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43214234-jesse-and-joy-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43214234-jesse-and-joy-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/75290/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -8356,131 +7923,50 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Bersuit Vergarabat",
+  "source": "resident-advisor",
+  "title": "WORLD MUSIC AVG",
   "date": "2026-11-03",
-  "venue": "Movistar Arena",
+  "venue": "Avant Garten",
   "artists": [
-   "Bersuit Vergarabat"
+   "DJ Karen",
+   "IGGY DOB"
   ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43319990-bersuit-vergarabat-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43319990-bersuit-vergarabat-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+  "genres": [
+   "Afro House",
+   "Dub"
+  ],
+  "url": "https://ra.co/events/2566796",
+  "ticket_url": "",
   "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/394006/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Ocean Alley",
-  "date": "2026-11-03",
-  "venue": "Palermo Groove",
-  "artists": [
-   "Ocean Alley"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43385281-ocean-alley-at-palermo-groove?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43385281-ocean-alley-at-palermo-groove?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/7559144/huge_avatar",
+  "image": "",
   "lat": null,
   "lon": null,
-  "start_time": "",
+  "start_time": "20:00",
   "sources": [
-   "songkick"
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Opeth",
-  "date": "2026-11-03",
-  "venue": "Teatro Gran Rivadavia",
-  "artists": [
-   "Opeth"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43439958-opeth-at-teatro-gran-rivadavia?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43439958-opeth-at-teatro-gran-rivadavia?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/438148/huge_avatar",
-  "lat": -34.63472,
-  "lon": -58.48537,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Adanowsky",
+  "source": "indiehoy",
+  "title": "Adanowsky en Argentina",
   "date": "2026-11-04",
   "venue": "La Trastienda",
   "artists": [
    "Adanowsky"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43406492-adanowsky-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43406492-adanowsky-at-la-trastienda?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/adanowsky-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos-ficha-dvm/adanowsky-presenta-amador-y-el-idolo-una-esquizofrenia-musical",
   "price": "$60000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10282594/huge_avatar",
-  "lat": -34.6131,
-  "lon": -58.37037,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/08/ADAN-1080x1440-V2.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Bunbury",
-  "date": "2026-11-04",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Bunbury"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43098265-bunbury-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43098265-bunbury-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10131812/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "OneUs",
-  "date": "2026-11-04",
-  "venue": "Groove",
-  "artists": [
-   "OneUs"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43457800-oneus-at-groove?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43457800-oneus-at-groove?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10127661/huge_avatar",
-  "lat": -34.57953,
-  "lon": -58.42309,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -8504,48 +7990,46 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "TR/ST",
+  "source": "indiehoy",
+  "title": "TR/ST en Argentina",
   "date": "2026-11-04",
   "venue": "Niceto Club",
   "artists": [
    "TR/ST"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43313849-trst-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43313849-trst-at-niceto-club?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/tr-st-en-argentina/",
+  "ticket_url": "https://venti.com.ar/evento/tr-st-en-niceto-club",
   "price": "$65000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/6137504/huge_avatar",
-  "lat": -34.58741,
-  "lon": -58.43887,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/06/tr-st.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "The Rasmus",
+  "source": "indiehoy",
+  "title": "The Rasmus en Argentina",
   "date": "2026-11-04",
   "venue": "El Teatro Flores",
   "artists": [
    "The Rasmus"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43233224-rasmus-at-el-teatro-flores?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43233224-rasmus-at-el-teatro-flores?utm_medium=organic&utm_source=microformat",
+  "url": "https://indiehoy.com/agenda/the-rasmus-en-argentina/",
+  "ticket_url": "https://www.passline.com/eventos/the-rasmus-4-noviembre-2026",
   "price": "$110.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/475787/huge_avatar",
-  "lat": -34.63228,
-  "lon": -58.47477,
-  "start_time": "19:00",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/06/the-rasmus-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
   "sources": [
-   "indiehoy",
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -8590,133 +8074,26 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Def Leppard",
-  "date": "2026-11-05",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Def Leppard",
-   "Extreme"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43257699-def-leppard-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43257699-def-leppard-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/449005/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "It's All Red",
-  "date": "2026-11-05",
-  "venue": "La Quadra Bar",
-  "artists": [
-   "It's All Red"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43445317-its-all-red-at-la-quadra-bar?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43445317-its-all-red-at-la-quadra-bar?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10191023/huge_avatar",
-  "lat": -34.6376,
-  "lon": -58.56132,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Lewis OfMan",
+  "source": "venti",
+  "title": "LEWIS OFMAN en Niceto Club (+18 años)",
   "date": "2026-11-05",
   "venue": "Niceto Club",
   "artists": [
-   "Lewis OfMan"
+   "LEWIS OFMAN"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43406246-lewis-ofman-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43406246-lewis-ofman-at-niceto-club?utm_medium=organic&utm_source=microformat",
+  "url": "https://venti.live/evento/lewis-ofman-en-niceto-club",
+  "ticket_url": "https://venti.live/evento/lewis-ofman-en-niceto-club",
   "price": "$55.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8703243/huge_avatar",
-  "lat": -34.58741,
-  "lon": -58.43887,
-  "start_time": "19:00",
+  "image": "https://images.venti.live/user-images/1788879061394-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "23:00",
   "sources": [
    "indiehoy",
-   "songkick",
    "venti"
   ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Noelia Sinkunas",
-  "date": "2026-11-05",
-  "venue": "Galpón B",
-  "artists": [
-   "Noelia Sinkunas"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43448155-noelia-sinkunas-at-galpon-b?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43448155-noelia-sinkunas-at-galpon-b?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/9698599/huge_avatar",
-  "lat": -34.62502,
-  "lon": -58.40089,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Teresa Cristina",
-  "date": "2026-11-05",
-  "venue": "La Trastienda",
-  "artists": [
-   "Teresa Cristina"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43367746-teresa-cristina-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43367746-teresa-cristina-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/320460/huge_avatar",
-  "lat": -34.6131,
-  "lon": -58.37037,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Akriila",
-  "date": "2026-11-06",
-  "venue": "C Complejo Art Media",
-  "artists": [
-   "Akriila"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43237164-akriila-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43237164-akriila-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10317433/huge_avatar",
-  "lat": -34.59104,
-  "lon": -58.44825,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -8781,27 +8158,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Crim",
-  "date": "2026-11-06",
-  "venue": "Club Cultural Bula",
-  "artists": [
-   "Crim"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43407003-crim-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43407003-crim-at-club-cultural-bula?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/621063/huge_avatar",
-  "lat": -34.6001,
-  "lon": -58.41785,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "crobar",
@@ -8875,28 +8231,6 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Fran Busso",
-  "date": "2026-11-06",
-  "venue": "El Terzo Posto",
-  "artists": [
-   "Fran Busso",
-   "Callejón González"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43399677-fran-busso-at-el-terzo-posto?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43399677-fran-busso-at-el-terzo-posto?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/9070149/huge_avatar",
-  "lat": -34.59685,
-  "lon": -58.43037,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "indiehoy",
   "title": "Ignacia",
   "date": "2026-11-06",
@@ -8916,27 +8250,6 @@
    "indiehoy"
   ],
   "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "It's All Red",
-  "date": "2026-11-06",
-  "venue": "Jony Bar",
-  "artists": [
-   "It's All Red"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43445319-its-all-red-at-jony-bar?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43445319-its-all-red-at-jony-bar?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10191023/huge_avatar",
-  "lat": -34.6587,
-  "lon": -58.66418,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -9010,27 +8323,27 @@
   "artist_source": "title"
  },
  {
-  "source": "songkick",
-  "title": "Los Sub",
+  "source": "indiehoy",
+  "title": "Los Sub y Verde y Los Caballos a Marte",
   "date": "2026-11-06",
   "venue": "Lalalá",
   "artists": [
    "Los Sub",
-   "Viaje Relámpago",
-   "Verde y los caballos a marte"
+   "Verde",
+   "Los Caballos a Marte"
   ],
   "genres": [],
-  "url": "https://www.songkick.com/concerts/43458036-los-sub-at-lalala?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43458036-los-sub-at-lalala?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8363653/huge_avatar",
-  "lat": -34.57838,
-  "lon": -58.46392,
+  "url": "https://indiehoy.com/agenda/los-sub-y-verde-y-los-caballos-a-marte-en-lalala/",
+  "ticket_url": "https://www.passline.com/eventos/611-los-sub-prentan-destruye-todo-apertura-viaje-relampago-verde-y-los-caballos-a-marte",
+  "price": "Desde $10.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/los-sub-lalala.jpg",
+  "lat": null,
+  "lon": null,
   "start_time": "",
   "sources": [
-   "songkick"
+   "indiehoy"
   ],
-  "artist_source": "structured"
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -9248,6 +8561,32 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "BEFORE DAWN presents XAVI ST + FACU SANSE + GIOVANNI TOMASSO",
+  "date": "2026-11-07",
+  "venue": "The Lift 1967",
+  "artists": [
+   "Xavi ST",
+   "Facu Sanse",
+   "Giovanni Tomasso"
+  ],
+  "genres": [
+   "House",
+   "Progressive House"
+  ],
+  "url": "https://ra.co/events/2566850",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -9846,6 +9185,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "ROCIO PORTILLO",
+  "date": "2026-11-08",
+  "venue": "El Atico Club",
+  "artists": [
+   "ROCIO PORTILLO"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/rocio-portillo",
+  "ticket_url": "https://venti.live/evento/rocio-portillo",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1792450606342-lg.jpg",
+  "lat": -33.007798,
+  "lon": -68.91847349999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Vida Pura",
   "date": "2026-11-08",
@@ -10000,6 +9360,31 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "WORLD MUSIC AVG",
+  "date": "2026-11-10",
+  "venue": "Avant Garten",
+  "artists": [
+   "DJ Karen",
+   "JACK BULGARO"
+  ],
+  "genres": [
+   "Afro House",
+   "Disco"
+  ],
+  "url": "https://ra.co/events/2566801",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "20:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -10303,6 +9688,32 @@
   "artist_source": "structured"
  },
  {
+  "source": "resident-advisor",
+  "title": "FOMO presents HOUSE PARTY",
+  "date": "2026-11-13",
+  "venue": "The Lift 1967",
+  "artists": [
+   "ALFON",
+   "Conde & Caruso",
+   "Ito & François"
+  ],
+  "genres": [
+   "House",
+   "Tech House"
+  ],
+  "url": "https://ra.co/events/2566851",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Party Pipol",
   "date": "2026-11-13",
@@ -10562,6 +9973,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Los Aspirantes",
+  "date": "2026-11-14",
+  "venue": "The Roxy Live",
+  "artists": [
+   "Los Aspirantes"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/los-aspirantes-en-the-roxy-live/",
+  "ticket_url": "https://www.allaccess.com.ar/event/los-aspirantes",
+  "price": "$18000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/aspirantes.webp",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Los Tipitos",
   "date": "2026-11-14",
   "venue": "Teatro Coliseo",
@@ -10622,6 +10054,32 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "NEXO vol. 17 presents HOBIN RUDE",
+  "date": "2026-11-14",
+  "venue": "The Lift 1967",
+  "artists": [
+   "Hobin Rude",
+   "Zualet",
+   "Nicolás Casalegno"
+  ],
+  "genres": [
+   "Deep House",
+   "Progressive House"
+  ],
+  "url": "https://ra.co/events/2566852",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -10727,6 +10185,28 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SUNSET W/ DAN GHENACIA & JORGE SAVORETTI AT REFUGIO 428",
+  "date": "2026-11-14",
+  "venue": "Av. Eudoro Carrasco 2034",
+  "artists": [
+   "Dan Ghenacia",
+   "Jorge Savoretti"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sunset-w-dan-ghenacia-jorge-savoretti-at-refugio-428",
+  "ticket_url": "https://venti.live/evento/sunset-w-dan-ghenacia-jorge-savoretti-at-refugio-428",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1792593946961-lg.jpg",
+  "lat": -32.8916134,
+  "lon": -60.6855965,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -11021,6 +10501,31 @@
   "artist_source": "title"
  },
  {
+  "source": "resident-advisor",
+  "title": "WOLRD MUSICA AVG",
+  "date": "2026-11-17",
+  "venue": "Avant Garten",
+  "artists": [
+   "DJ Karen",
+   "Clara Spagnuolo"
+  ],
+  "genres": [
+   "Afro House",
+   "Disco"
+  ],
+  "url": "https://ra.co/events/2566804",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "20:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Kakkmaddafakka en Argentina",
   "date": "2026-11-18",
@@ -11108,6 +10613,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "Willy Bronca 19 NOV",
+  "date": "2026-11-19",
+  "venue": "Niceto Club",
+  "artists": [
+   "Willy Bronca"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/willy-bronca-19-nov-en-niceto-club",
+  "ticket_url": "https://venti.live/evento/willy-bronca-19-nov-en-niceto-club",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1792679028861-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -11376,6 +10902,32 @@
    "Techno"
   ],
   "url": "https://ra.co/events/2491864",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "BEFORE DAWN presents AGUSTIN PIETROCOLA + PALI EDGECHMAN b2b MATIAS GAUNA + ALAN MAHONE",
+  "date": "2026-11-21",
+  "venue": "The Lift 1967",
+  "artists": [
+   "Agustín Pietrocola",
+   "Pali Edgechman b2b Matías Gauna",
+   "Alan Mahone"
+  ],
+  "genres": [
+   "House",
+   "Progressive House"
+  ],
+  "url": "https://ra.co/events/2566855",
   "ticket_url": "",
   "price": "",
   "image": "",
@@ -11895,6 +11447,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "FIEBRE FIESTA en SANTA FÉ 21/11",
+  "date": "2026-11-22",
+  "venue": "Complejo Complot",
+  "artists": [
+   "FIEBRE FIESTA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fiebre-fiesta-en-santa-f-21-11",
+  "ticket_url": "https://venti.live/evento/fiebre-fiesta-en-santa-f-21-11",
+  "price": "$8.000",
+  "image": "https://images.venti.live/user-images/1792437459843-lg.jpg",
+  "lat": -31.6419737,
+  "lon": -60.66769009999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -13117,6 +12690,32 @@
   "artist_source": "title"
  },
  {
+  "source": "resident-advisor",
+  "title": "DROID9 SHOWCASE BUENOS AIRES",
+  "date": "2026-12-04",
+  "venue": "The Lift 1967",
+  "artists": [
+   "Gux Jiménez",
+   "Grisel Esquivel",
+   "Jerry Chiu b2b Golden Canopy"
+  ],
+  "genres": [
+   "Deep House",
+   "Progressive House"
+  ],
+  "url": "https://ra.co/events/2566857",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "Mi Amigo Invencible Regresa a Niceto Club (+18 años)",
   "date": "2026-12-04",
@@ -13879,6 +13478,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA VIN - LOS TOTORA - BURBUJAS FEST",
+  "date": "2026-12-12",
+  "venue": "Bali costanera",
+  "artists": [
+   "LA VIN - LOS TOTORA - BURBUJAS FEST"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-vin-los-totora-burbujas-fest",
+  "ticket_url": "https://venti.live/evento/la-vin-los-totora-burbujas-fest",
+  "price": "$35.000",
+  "image": "https://images.venti.live/user-images/1792673728059-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "20:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },

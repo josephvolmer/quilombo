@@ -987,23 +987,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Los Palmae",
-  "date": "",
-  "venue": "City Center",
-  "artists": [
-   "Los Palmae"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-palmae/city-center",
-  "ticket_url": "https://www.ticketek.com.ar/los-palmae/city-center",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palmae440_0.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "El Oficial Gordillo",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1038,23 +1021,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Festival La Porteña",
-  "date": "",
-  "venue": "Hipódromo de Palermo",
-  "artists": [
-   "Festival La Porteña"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
-  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600-100.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Festival de Danzas Españolas ",
   "date": "",
   "venue": "Teatro Astengo",
@@ -1066,6 +1032,23 @@
   "ticket_url": "https://www.ticketek.com.ar/festival-de-danzas-espanolas/teatro-astengo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/imagen_3_440x600.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Festival La Porteña",
+  "date": "",
+  "venue": "Hipódromo de Palermo",
+  "artists": [
+   "Festival La Porteña"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600-100.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
