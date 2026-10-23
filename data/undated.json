@@ -358,119 +358,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Ciro y Los Persas",
+  "title": "JAF",
   "date": "",
-  "venue": "Arena Maipu",
+  "venue": "City Center",
   "artists": [
-   "Ciro y Los Persas"
+   "JAF"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "url": "https://www.ticketek.com.ar/jaf/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/jaf/city-center",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
-  "venue": "Predio Ferial",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
-  "venue": "Estadio Ruca Che",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
-  "venue": "Gimnasio Bomberos Voluntarios",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
-  "venue": "Estadio Argentinos Juniors",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
-  "venue": "DOW Center",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
-  "venue": "Bendu Arena",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juanantonio440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -488,6 +386,23 @@
   "ticket_url": "https://www.ticketek.com.ar/poder-k-pop/teatro-devoto",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_kpop.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Antonio Orozco",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Antonio Orozco"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/antonio-orozco/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/antonio-orozco/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/orozco440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -607,23 +522,6 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Palito Ortega",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Palito Ortega"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/palito-ortega/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/palito_a26_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -817,6 +715,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Cuti y Roberto Carabajal",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Cuti y Roberto Carabajal"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/cuti-y-roberto-carabajal/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/cuti-y-roberto-carabajal/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/robcut440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Chango Spasiuk",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -964,6 +879,23 @@
   "ticket_url": "https://www.ticketek.com.ar/ricky-maravilla/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/rick440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Los Angeles de Charly",
+  "date": "",
+  "venue": "Tropitango",
+  "artists": [
+   "Los Angeles de Charly"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-angeles-de-charly/tropitango",
+  "ticket_url": "https://www.ticketek.com.ar/los-angeles-de-charly/tropitango",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/1001185568.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1191,40 +1123,6 @@
  },
  {
   "source": "ticketek",
-  "title": "La Jenny",
-  "date": "",
-  "venue": "Teatro Marín",
-  "artists": [
-   "La Jenny"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/la-jenny",
-  "ticket_url": "https://www.ticketek.com.ar/la-jenny",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/img_1554.jpg.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "La Jenny",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "La Jenny"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/la-jenny",
-  "ticket_url": "https://www.ticketek.com.ar/la-jenny",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/img_1554.jpg.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Elena Roger",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1287,6 +1185,23 @@
   "ticket_url": "https://www.ticketek.com.ar/la-edad-es-ahora/teatro-comedia",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/leea_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Luis Zahera",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "Luis Zahera"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/luis-zahera/teatro-astengo",
+  "ticket_url": "https://www.ticketek.com.ar/luis-zahera/teatro-astengo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/260914_ticketek_rosario_v1_440x600.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1389,23 +1304,6 @@
   "ticket_url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jp_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jere Klein",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Jere Klein"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jere-klein/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/jere-klein/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jerek440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1576,23 +1474,6 @@
   "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Bianca del Rio",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Bianca del Rio"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/bianca-del-rio/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/bianca-del-rio/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bianca_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
