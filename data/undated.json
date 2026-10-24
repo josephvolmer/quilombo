@@ -1446,6 +1446,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Pablito Castillo",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Pablito Castillo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/pablito-castillo/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/pablito-castillo/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/pablito_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Juli Bellese",
   "date": "",
   "venue": "Teatro Opera On",
