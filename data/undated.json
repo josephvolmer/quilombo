@@ -409,23 +409,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Roze",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Roze"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/roze/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/roze/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/roz440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Zoe Gotusso",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -522,6 +505,23 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Alex Ubago",
+  "date": "",
+  "venue": "Quality Espacio",
+  "artists": [
+   "Alex Ubago"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/alex-ubago/quality-espacio",
+  "ticket_url": "https://www.ticketek.com.ar/alex-ubago/quality-espacio",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/alex_u_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -902,23 +902,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Daniel Agostini",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "Daniel Agostini"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/daniel-agostini/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/daniel-agostini/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ticketek_440x600_4.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "El Oficial Gordillo",
   "date": "",
   "venue": "Teatro Universidad Nacional de la Matanza",
@@ -1174,23 +1157,6 @@
  },
  {
   "source": "ticketek",
-  "title": "La Edad es Ahora",
-  "date": "",
-  "venue": "Teatro Comedia",
-  "artists": [
-   "La Edad es Ahora"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/la-edad-es-ahora/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/la-edad-es-ahora/teatro-comedia",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/leea_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Luis Zahera",
   "date": "",
   "venue": "Teatro Astengo",
@@ -1202,6 +1168,23 @@
   "ticket_url": "https://www.ticketek.com.ar/luis-zahera/teatro-astengo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/260914_ticketek_rosario_v1_440x600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Saraos Uranistas",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Saraos Uranistas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/saraos_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1287,23 +1270,6 @@
   "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jackson Project",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "Jackson Project"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/jackson-project/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jp_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
