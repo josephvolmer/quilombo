@@ -158,29 +158,6 @@
  },
  {
   "source": "bebop",
-  "title": "Gingersoul Band",
-  "date": "2026-08-25",
-  "venue": "Bebop Club",
-  "artists": [
-   "Gingersoul Band"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/864e47f8-47ee-4bc5-b9e6-2697928bc6a7",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/864e47f8-47ee-4bc5-b9e6-2697928bc6a7",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "Old Bones",
   "date": "2026-08-25",
   "venue": "Bebop Club",
@@ -2114,29 +2091,6 @@
  },
  {
   "source": "bebop",
-  "title": "Getz & Gilberto",
-  "date": "2026-09-30",
-  "venue": "Bebop Club",
-  "artists": [
-   "Getz & Gilberto"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/118557f3-6817-45ef-b4c0-32b6fd171f91",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/118557f3-6817-45ef-b4c0-32b6fd171f91",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "Grito Sagrado",
   "date": "2026-09-30",
   "venue": "Bebop Club",
@@ -3066,30 +3020,6 @@
   "url": "https://ra.co/events/2550505",
   "ticket_url": "",
   "price": "-",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "resident-advisor",
-  "title": "ILLUSIONIZE - Costanera Buenos Aires - ALLMusicParties",
-  "date": "2026-10-10",
-  "venue": "TBA - Locación a confirmar, Costanera",
-  "artists": [
-   "ILLUSIONIZE"
-  ],
-  "genres": [
-   "House",
-   "Tech House"
-  ],
-  "url": "https://ra.co/events/2543287",
-  "ticket_url": "",
-  "price": "",
   "image": "",
   "lat": null,
   "lon": null,
@@ -4740,90 +4670,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "Boom Boom Kid 25 OCT",
-  "date": "2026-10-25",
-  "venue": "Niceto Club",
-  "artists": [
-   "Boom Boom Kid"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/boom-boom-kid-25-oct-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/boom-boom-kid-25-oct-en-niceto-club",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1786141976489-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Camilo",
-  "date": "2026-10-25",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Camilo"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43257717-camilo-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43257717-camilo-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/98787/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Dethklok",
-  "date": "2026-10-25",
-  "venue": "El Teatrito",
-  "artists": [
-   "Dethklok"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43284327-dethklok-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43284327-dethklok-at-el-teatrito?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/2023392/huge_avatar",
-  "lat": -34.60565,
-  "lon": -58.39155,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Ivy Queen",
-  "date": "2026-10-25",
-  "venue": "Teatro Gran Rex",
-  "artists": [
-   "Ivy Queen"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/ivy-queen-en-teatro-gran-rex/",
-  "ticket_url": "https://www.tuentrada.com/ivy-queen-tgr",
-  "price": "Desde $45.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/05/ivy-queen-gran-rex.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "Nick Warren - Noche 2 Sábado",
   "date": "2026-10-25",
@@ -4847,70 +4693,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Resistencia, Les Kinky Reggae y más",
-  "date": "2026-10-25",
-  "venue": "Strummer Bar",
-  "artists": [
-   "Resistencia",
-   "Les Kinky Reggae"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/resistencia-les-kinky-reggae-strummer-bar/",
-  "ticket_url": "https://bue.tickethoy.com/entradas-musica/fiesta-reggae-dancehall-resistencia-les-kinky-reggae-y-",
-  "price": "Desde $17.250",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/fiesta-reggae-dancehall-strummer.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "SUNHAUS x MANU DESRETS 25.10",
-  "date": "2026-10-25",
-  "venue": "Concejal Tribulato 192",
-  "artists": [
-   "SUNHAUS x MANU DESRETS"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/sunhaus-x-manu-desrets-25-10",
-  "ticket_url": "https://venti.live/evento/sunhaus-x-manu-desrets-25-10",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1790813684597-lg.jpg",
-  "lat": -34.5325127,
-  "lon": -58.70450169999999,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "BLACK CREAM ORIGINAL DOMINGO 25/10",
-  "date": "2026-10-26",
-  "venue": "BlackCream",
-  "artists": [
-   "BLACK CREAM ORIGINAL"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/black-cream-original-domingo-25-10",
-  "ticket_url": "https://venti.live/evento/black-cream-original-domingo-25-10",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
-  "lat": -34.586299896240234,
-  "lon": -58.41642379760742,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "venti",
   "title": "Franco Rizzaro en Niceto Club (+18 años)",
   "date": "2026-10-27",
@@ -4931,6 +4713,36 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x",
+  "date": "2026-10-27",
+  "venue": "La Cigale",
+  "artists": [
+   "Berger Muzik",
+   "Ella Anzoise",
+   "Line-Up:",
+   "09:00pm",
+   "11:30pm Nymphes",
+   "01:30am",
+   "Visuals x UnPlug."
+  ],
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2569185",
+  "ticket_url": "",
+  "price": "$15.000.-",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "21:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "songkick",
@@ -5189,7 +5001,7 @@
   "image": "https://images.venti.live/user-images/1792770904388-lg.jpg",
   "lat": -34.5872682,
   "lon": -58.43876030000001,
-  "start_time": "23:30",
+  "start_time": "23:00",
   "sources": [
    "venti"
   ],
@@ -5327,6 +5139,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "CLUB",
+  "date": "2026-10-30",
+  "venue": "Quba, café de mar",
+  "artists": [
+   "CLUB QUBA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/club-quba-29-10-queves",
+  "ticket_url": "https://venti.live/evento/club-quba-29-10-queves",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1792966752478-lg.jpg",
+  "lat": -38.0312385559082,
+  "lon": -57.53220748901367,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -5626,6 +5459,31 @@
   "artist_source": "title"
  },
  {
+  "source": "resident-advisor",
+  "title": "THE LIFT CLUB presents PROGRESSIVE MOOD Vol. 2",
+  "date": "2026-10-30",
+  "venue": "The Lift 1967",
+  "artists": [
+   "Verdier b2b Mati Gomez",
+   "Lara Medina",
+   "Maro"
+  ],
+  "genres": [
+   "Progressive House"
+  ],
+  "url": "https://ra.co/events/2569733",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "30.10 | ALMELA & FER MUALDO by PLURAR",
   "date": "2026-10-31",
@@ -5793,6 +5651,27 @@
   "image": "https://images.venti.live/user-images/1790881800682-lg.jpg",
   "lat": -34.5485628,
   "lon": -58.4305062,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "CHANA VIERNES 30 DE OCTUBRE +18 A 25 AÑOS | Halloween Night",
+  "date": "2026-10-31",
+  "venue": "Chana Club",
+  "artists": [
+   "CHANA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/chana-viernes-30-de-octubre-halloween-night",
+  "ticket_url": "https://venti.live/evento/chana-viernes-30-de-octubre-halloween-night",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793027749238-lg.jpg",
+  "lat": -34.6061182,
+  "lon": -58.36424899999999,
   "start_time": "",
   "sources": [
    "venti"
@@ -6096,7 +5975,7 @@
   "genres": [],
   "url": "https://venti.live/evento/masquerade-party-by-zeta-club",
   "ticket_url": "https://venti.live/evento/masquerade-party-by-zeta-club",
-  "price": "$3.500",
+  "price": "$2.500",
   "image": "https://images.venti.live/user-images/1791933894578-lg.jpg",
   "lat": -32.9323859,
   "lon": -60.6563121,
@@ -7790,20 +7669,20 @@
  },
  {
   "source": "venti",
-  "title": "SAUNDERS - OPEN TO CLOSE",
+  "title": "SELF-TITLED - OPEN AIR",
   "date": "2026-11-06",
   "venue": "Niceto Bar",
   "artists": [
-   "SAUNDERS - OPEN TO CLOSE"
+   "SELF-TITLED - OPEN AIR"
   ],
   "genres": [],
   "url": "https://venti.live/evento/saunders-open-to-close-en-niceto-bar",
   "ticket_url": "https://venti.live/evento/saunders-open-to-close-en-niceto-bar",
   "price": "",
-  "image": "https://images.venti.live/user-images/1791993347562-lg.jpg",
+  "image": "https://images.venti.live/user-images/1793025257080-lg.jpg",
   "lat": -34.5872316,
   "lon": -58.4383841,
-  "start_time": "22:00",
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
@@ -8672,6 +8551,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "indiehoy",
+  "title": "Cypress Hill en Argentina",
+  "date": "2026-11-08",
+  "venue": "Estadio Malvinas Argentinas",
+  "artists": [
+   "Cypress Hill"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/cypress-hill-en-argentina/",
+  "ticket_url": "https://www.entradauno.com/landing/16771-cypress-hill?idEspectaculoCartel=16771&cHashValidacion=eb393a8ea0b8b40d2a9c466fadae8f930a06cfa5",
+  "price": "Desde $95.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/cypress-hill-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "DOMINGO CACHENGUE BY BOSCO SUNSET 8/11 Vísperas de Feriado",
   "date": "2026-11-08",
@@ -9487,6 +9387,28 @@
   "artist_source": "title"
  },
  {
+  "source": "songkick",
+  "title": "Casiqueva",
+  "date": "2026-11-13",
+  "venue": "XLR Club",
+  "artists": [
+   "Casiqueva",
+   "hermanos de la calle"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43426391-casiqueva-at-xlr-club?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43426391-casiqueva-at-xlr-club?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/8880474/huge_avatar",
+  "lat": -34.53479,
+  "lon": -58.70666,
+  "start_time": "22:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Club Marfil",
   "date": "2026-11-13",
@@ -9582,6 +9504,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "songkick",
+  "title": "NATAS - Broide - Villagra - Bereciartúa",
+  "date": "2026-11-13",
+  "venue": "C Complejo Art Media",
+  "artists": [
+   "NATAS - Broide - Villagra - Bereciartúa"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43218763-natas-broide-villagra-bereciartua-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43218763-natas-broide-villagra-bereciartua-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10405458/huge_avatar",
+  "lat": -34.59104,
+  "lon": -58.44825,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Party Pipol",
   "date": "2026-11-13",
@@ -9652,6 +9595,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Adrián Berra",
+  "date": "2026-11-14",
+  "venue": "La Trastienda",
+  "artists": [
+   "Adrián Berra"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/adrian-berra-en-la-trastienda/",
+  "ticket_url": "https://www.passline.com/eventos-ficha-dvm/adrian-berra-505076?utm_source=perfit&utm_medium=email&utm_campaign=ADRIAN%20BERRA%20-%2014%20DE%20NOVIEMBRE%20TRASTIENDA",
+  "price": "Desde $30.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/adrian-berra-la-trastienda.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -10083,6 +10047,27 @@
  },
  {
   "source": "venti",
+  "title": "Peña Regina: La brasita de mi Chala - SUNSET TERRAZA",
+  "date": "2026-11-14",
+  "venue": "Niceto Bar",
+  "artists": [
+   "Peña Regina: La brasita de mi Chala - SUNSET TERRAZA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/pe-a-regina-la-brasita-de-mi-chala-sunset-terraza-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/pe-a-regina-la-brasita-de-mi-chala-sunset-terraza-en-niceto-bar",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1793021416841-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Random Fiesta en Niceto Club (+18 años)",
   "date": "2026-11-14",
   "venue": "Niceto Club",
@@ -10202,6 +10187,27 @@
   "image": "https://images.venti.live/user-images/1792517669255-lg.jpg",
   "lat": -34.585975646972656,
   "lon": -58.44016647338867,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "107 Faunos en Humboldt | Niceto Club (+18 años)",
+  "date": "2026-11-15",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "107 Faunos"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s107-faunos-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/s107-faunos-en-humboldt-niceto-club-18-a-os",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1792939997221-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
   "start_time": "",
   "sources": [
    "venti"
@@ -11427,7 +11433,7 @@
   "source": "venti",
   "title": "The Party Name Is Vibes x Global Swing",
   "date": "2026-11-21",
-  "venue": "tba",
+  "venue": "SALDÍAS ARENA - EVENTOS",
   "artists": [
    "The Party Name Is Vibes x Global Swing"
   ],
@@ -11436,8 +11442,8 @@
   "ticket_url": "https://venti.live/evento/the-party-name-is-vibes-x-global-swing",
   "price": "$20.000",
   "image": "https://images.venti.live/user-images/1792772745450-lg.jpg",
-  "lat": null,
-  "lon": null,
+  "lat": -34.5742419,
+  "lon": -58.39871309999999,
   "start_time": "",
   "sources": [
    "venti"
@@ -12333,6 +12339,27 @@
    "venti"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "God Save the Queen",
+  "date": "2026-11-28",
+  "venue": "Teatro Gran Rex",
+  "artists": [
+   "God Save the Queen"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/god-save-the-queen-en-teatro-gran-rex/",
+  "ticket_url": "https://comprar.tuentrada.com/tuentrada/events/51326",
+  "price": "Desde $33.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/god-save-the-queen-gran-rex.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -13653,6 +13680,28 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "VALERIO & LOS EXTRAVAGANTES EN VIVO! ARTISTA INVITADO: PLEIN en Humboldt | Niceto Club (+18 años)",
+  "date": "2026-12-11",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "VALERIO",
+   "LOS EXTRAVAGANTES"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os",
+  "price": "$25.000",
+  "image": "https://images.venti.live/user-images/1793020994905-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -15424,6 +15473,28 @@
   "ticket_url": "https://alpogo.com/evento/gang-of-four-en-argentina-junto-a-buenos-vampiros-y-playa-nudista-29541",
   "price": "Desde $65.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/10/gang-of-four.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Alexis y Fido en Argentina",
+  "date": "2027-03-21",
+  "venue": "Teatro Gran Rex",
+  "artists": [
+   "Alexis",
+   "Fido"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/alexis-y-fido-en-argentina/",
+  "ticket_url": "https://comprar.tuentrada.com/tuentrada/select/3045396?_gl=1*mcqrm*_ga*MTQ2MjkzOTQwMy4xNzc1NDc4NDQ3*_ga_K2KT0GJC8Q*czE3OTMwMTIwNzAkbzIwJGcwJHQxNzkzMDEyMDcwJGo2MCRsMCRoNzk5OTg2MzA2&viewCode=V_blockmap",
+  "price": "Desde $50.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/alexis-fido-gran-rex.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
