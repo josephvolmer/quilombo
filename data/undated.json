@@ -426,6 +426,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Agus Bernasconi",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Agus Bernasconi"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/agus_bernasconi_teatro_opera_artista.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Camilo",
   "date": "",
   "venue": "Arena Maipu",
@@ -445,13 +462,30 @@
   "source": "ticketek",
   "title": "Sandra Mihanovich",
   "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Sandra Mihanovich"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/sandra-mihanovich",
+  "ticket_url": "https://www.ticketek.com.ar/sandra-mihanovich",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mihaparaiso440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Sandra Mihanovich",
+  "date": "",
   "venue": "Auditorio de Belgrano",
   "artists": [
    "Sandra Mihanovich"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/sandra-mihanovich/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/sandra-mihanovich/auditorio-de-belgrano",
+  "url": "https://www.ticketek.com.ar/sandra-mihanovich",
+  "ticket_url": "https://www.ticketek.com.ar/sandra-mihanovich",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/mihaparaiso440.jpg",
   "lat": null,
@@ -505,23 +539,6 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Alex Ubago",
-  "date": "",
-  "venue": "Quality Espacio",
-  "artists": [
-   "Alex Ubago"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/alex-ubago/quality-espacio",
-  "ticket_url": "https://www.ticketek.com.ar/alex-ubago/quality-espacio",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/alex_u_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -862,6 +879,23 @@
   "ticket_url": "https://www.ticketek.com.ar/rodrigo-tapari/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/rtapari440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Los Charros",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Los Charros"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-charros/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/los-charros/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/web_destacado_.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1344,23 +1378,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Emilio Lovera",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Emilio Lovera"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lov440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Volar es Humano Aterrizar es Divino",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1389,6 +1406,23 @@
   "ticket_url": "https://www.ticketek.com.ar/juampi-gonzalez/city-center",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juamp440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Emilio Lovera",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Emilio Lovera"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/emilio-lovera/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lov440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
