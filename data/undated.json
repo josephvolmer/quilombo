@@ -307,23 +307,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Sueño de Pescado",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Sueño de Pescado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/sueno-de-pescado/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/sueno-de-pescado/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/sdp440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Virus",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -369,6 +352,108 @@
   "ticket_url": "https://www.ticketek.com.ar/jaf/city-center",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juanantonio440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
+  "venue": "Predio Ferial",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
+  "venue": "Estadio Ruca Che",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
+  "venue": "Gimnasio Bomberos Voluntarios",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
+  "venue": "DOW Center",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ciro y Los Persas",
+  "date": "",
+  "venue": "Bendu Arena",
+  "artists": [
+   "Ciro y Los Persas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -885,23 +970,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Los Charros",
-  "date": "",
-  "venue": "Auditorio de Belgrano",
-  "artists": [
-   "Los Charros"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-charros/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/los-charros/auditorio-de-belgrano",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/web_destacado_.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Ricky Maravilla",
   "date": "",
   "venue": "Teatro Opera On",
@@ -930,6 +998,23 @@
   "ticket_url": "https://www.ticketek.com.ar/los-angeles-de-charly/tropitango",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/1001185568.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Uriel Lozano",
+  "date": "",
+  "venue": "Tropitango",
+  "artists": [
+   "Uriel Lozano"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/uriel-lozano/tropitango",
+  "ticket_url": "https://www.ticketek.com.ar/uriel-lozano/tropitango",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/1001185799.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1191,17 +1276,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Saraos Uranistas",
+  "title": "Abuela Lluvia",
   "date": "",
   "venue": "Teatro Comedia",
   "artists": [
-   "Saraos Uranistas"
+   "Abuela Lluvia"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/saraos-uranistas/teatro-comedia",
+  "url": "https://www.ticketek.com.ar/abuela-lluvia/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/abuela-lluvia/teatro-comedia",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/saraos_a26.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/abuela_lluvia_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""

@@ -7,36 +7,12 @@
    "title": "noche de lxs muertxs"
   }
  ],
- "01:30am": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
-  }
- ],
- "09:00pm": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
-  }
- ],
  "107 Faunos": [
   {
    "date": "2026-11-15",
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/s107-faunos-en-humboldt-niceto-club-18-a-os",
    "title": "107 Faunos en Humboldt | Niceto Club (+18 años)"
-  }
- ],
- "11:30pm Nymphes": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
   }
  ],
  "18 años)": [
@@ -327,14 +303,6 @@
    "title": "Codigo Halloween - Mushroom| ALLMusicParties"
   }
  ],
- "Aloha Pres. Halloween Night at Oldskull Park Pilar": [
-  {
-   "date": "2026-10-31",
-   "venue": "Oldskull Park, Pilar",
-   "url": "https://venti.live/evento/aloha-pres-halloween-night-at-oldskull-park-pilar",
-   "title": "Aloha Pres. Halloween Night at Oldskull Park Pilar"
-  }
- ],
  "ALT8": [
   {
    "date": "2026-11-21",
@@ -585,14 +553,6 @@
    "title": "BEN SIMS | BONDARÜK & SMT"
   }
  ],
- "BEN STERLING": [
-  {
-   "date": "2026-10-31",
-   "venue": "Archi Club",
-   "url": "https://venti.live/evento/ben-sterling-30-octubre-archi-open-air",
-   "title": "BEN STERLING - 30 octubre @ Archi Open Air"
-  }
- ],
  "Benediction": [
   {
    "date": "2026-10-30",
@@ -607,14 +567,6 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/benjamin-amadeo-en-teatro-gran-rex/",
    "title": "Benjamín Amadeo"
-  }
- ],
- "Berger Muzik": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
   }
  ],
  "Bermani": [
@@ -821,6 +773,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/bruno-albano-en-humboldt-niceto-club-18-a-os",
    "title": "BRUNO ALBANO en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
+ "BRUXISMO": [
+  {
+   "date": "2026-11-10",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
+   "title": "CODA + BRUXISMO en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "BUBALU": [
@@ -1189,20 +1149,20 @@
    "title": "CLUB"
   }
  ],
- "CLUBBIN HALLOWEEN": [
-  {
-   "date": "2026-10-31",
-   "venue": "JET",
-   "url": "https://venti.live/evento/clubbin-halloween",
-   "title": "CLUBBIN HALLOWEEN"
-  }
- ],
  "COCKTAIL SOCIAL PARA CONGRESO DE CIRUJANOS 2026": [
   {
    "date": "2026-11-02",
    "venue": "Chana Club",
    "url": "https://venti.live/evento/cocktail-social-para-congreso-de-cirujanos-2026",
    "title": "COCKTAIL SOCIAL PARA CONGRESO DE CIRUJANOS 2026"
+  }
+ ],
+ "CODA": [
+  {
+   "date": "2026-11-10",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
+   "title": "CODA + BRUXISMO en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Coeus": [
@@ -1235,6 +1195,12 @@
    "venue": "Roll and Rock Beach House",
    "url": "https://venti.live/evento/colyn-27-de-diciembre-en-pde",
    "title": "COLYN - 27 de diciembre @ PDE"
+  },
+  {
+   "date": "2027-01-03",
+   "venue": "Quinta Doña Elvira",
+   "url": "https://venti.live/evento/el-atico-el-atico",
+   "title": "COLYN"
   }
  ],
  "Comida para Llevar": [
@@ -1430,12 +1396,6 @@
   }
  ],
  "Dennis Cruz": [
-  {
-   "date": "2026-11-21",
-   "venue": "TBA - Arena Norte, Nuñez",
-   "url": "https://ra.co/events/2434107",
-   "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves"
-  },
   {
    "date": "2026-11-21",
    "venue": "Arena Norte",
@@ -1651,6 +1611,22 @@
    "title": "EDU OLIVA + HALOS"
   }
  ],
+ "Egotot": [
+  {
+   "date": "2026-11-07",
+   "venue": "TBA - Buenos Aires - Zona Norte",
+   "url": "https://ra.co/events/2571197",
+   "title": "GRAND GROOVE RECORDS × DAKTILAR RECORDINGS × 091 RECORDS"
+  }
+ ],
+ "ekøs": [
+  {
+   "date": "2026-11-07",
+   "venue": "TBA - Buenos Aires - Zona Norte",
+   "url": "https://ra.co/events/2571197",
+   "title": "GRAND GROOVE RECORDS × DAKTILAR RECORDINGS × 091 RECORDS"
+  }
+ ],
  "El Ciclo Federal": [
   {
    "date": "2026-11-12",
@@ -1693,14 +1669,6 @@
    "title": "El Kanka en Argentina"
   }
  ],
- "EL MAGO": [
-  {
-   "date": "2026-10-31",
-   "venue": "Wild Hops City Bell",
-   "url": "https://venti.live/evento/el-mago-y-la-nueva-luna-en-wildhops",
-   "title": "EL MAGO Y LA NUEVA LUNA EN WILDHOPS"
-  }
- ],
  "EL PELELE (MINI-LIVE)": [
   {
    "date": "2026-10-31",
@@ -1741,6 +1709,14 @@
    "title": "ZABAL: PIRANHA"
   }
  ],
+ "Electric Party VÍSPERAS DE HALLOWEEN - AFTER SHOW": [
+  {
+   "date": "2026-10-30",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-niceto-club-18-a-os",
+   "title": "Electric Party VÍSPERAS DE HALLOWEEN - AFTER SHOW en Niceto Club (+18 años)"
+  }
+ ],
  "ELEKTIDE X QUBA": [
   {
    "date": "2026-11-08",
@@ -1755,14 +1731,6 @@
    "venue": "Deseo BS AS",
    "url": "https://ra.co/events/2527627",
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
-  }
- ],
- "Ella Anzoise": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
   }
  ],
  "Ema Iglesias": [
@@ -1857,6 +1825,22 @@
    "venue": "The Lift 1967",
    "url": "https://ra.co/events/2566850",
    "title": "BEFORE DAWN presents XAVI ST + FACU SANSE + GIOVANNI TOMASSO"
+  }
+ ],
+ "FACUNDO MOSS": [
+  {
+   "date": "2026-10-30",
+   "venue": "Viajero Buenos Aires Hostel",
+   "url": "https://ra.co/events/2571166",
+   "title": "SINCRONICIDAD ED. VAMPIROS BLADE"
+  }
+ ],
+ "FACUNDO RONDINELLA , D-RED": [
+  {
+   "date": "2026-11-07",
+   "venue": "TBA - Buenos Aires - Zona Norte",
+   "url": "https://ra.co/events/2571197",
+   "title": "GRAND GROOVE RECORDS × DAKTILAR RECORDINGS × 091 RECORDS"
   }
  ],
  "Faithless": [
@@ -2043,20 +2027,20 @@
    "title": "RARESH + FRANCO CINELLI + MOMO TROSMAN"
   }
  ],
- "Franco Rizzaro": [
-  {
-   "date": "2026-10-27",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/franco-rizzaro-en-niceto-club",
-   "title": "Franco Rizzaro en Niceto Club (+18 años)"
-  }
- ],
  "Frankie and the Witch Fingers": [
   {
    "date": "2027-01-20",
    "venue": "Ciudad Cultural Konex",
    "url": "https://venti.live/evento/levitation-festarg-2027",
    "title": "LEVITATION ARGENTINA 2027"
+  }
+ ],
+ "Fransia": [
+  {
+   "date": "2026-10-31",
+   "venue": "Strummer Bar",
+   "url": "https://indiehoy.com/agenda/fransia-en-strummer-bar/",
+   "title": "Fransia"
   }
  ],
  "Franzizca.": [
@@ -2121,6 +2105,12 @@
    "venue": "Blue Velvet Bar de Copas",
    "url": "https://ra.co/events/2568875",
    "title": "Fuocco's NIGHT"
+  },
+  {
+   "date": "2026-10-30",
+   "venue": "Viajero Buenos Aires Hostel",
+   "url": "https://ra.co/events/2571166",
+   "title": "SINCRONICIDAD ED. VAMPIROS BLADE"
   }
  ],
  "Gallo Criollo celebra su 1er año": [
@@ -2153,6 +2143,14 @@
    "venue": "Quba, café de mar",
    "url": "https://venti.live/evento/get-over-x-quba-halloween-s-bado-31-10",
    "title": "GET OVER X"
+  }
+ ],
+ "GGASPEN": [
+  {
+   "date": "2026-10-30",
+   "venue": "Viajero Buenos Aires Hostel",
+   "url": "https://ra.co/events/2571166",
+   "title": "SINCRONICIDAD ED. VAMPIROS BLADE"
   }
  ],
  "GIAN PISANI & THOMAS ILKOW": [
@@ -2557,6 +2555,14 @@
    "title": "WORLD MUSIC AVG"
   }
  ],
+ "JARDIN DE HAL > Charla Djs": [
+  {
+   "date": "2026-11-07",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/jardin-de-hal-charla-djs-noctilunio-mica-rocket",
+   "title": "JARDIN DE HAL > Charla Djs + NOCTILUNIO + MICA ROCKET"
+  }
+ ],
  "Javier Bussola": [
   {
    "date": "2026-10-30",
@@ -2705,6 +2711,14 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/kakkmaddafakka-argentina-2026/",
    "title": "Kakkmaddafakka en Argentina"
+  }
+ ],
+ "Karamelo Santo": [
+  {
+   "date": "2026-11-28",
+   "venue": "Strummer Bar",
+   "url": "https://indiehoy.com/agenda/karamelo-santo-en-strummer-bar/",
+   "title": "Karamelo Santo"
   }
  ],
  "Karaoke canciones de señoras": [
@@ -3017,14 +3031,6 @@
    "title": "la montaña * caba 18.12 / doppel gangs (dj set) / caskobi / kmila @ shamrock basement"
   }
  ],
- "LA NUEVA LUNA": [
-  {
-   "date": "2026-10-31",
-   "venue": "Wild Hops City Bell",
-   "url": "https://venti.live/evento/el-mago-y-la-nueva-luna-en-wildhops",
-   "title": "EL MAGO Y LA NUEVA LUNA EN WILDHOPS"
-  }
- ],
  "LA PATRULLA ESPACIAL": [
   {
    "date": "2026-12-06",
@@ -3199,14 +3205,6 @@
    "title": "LEWIS OFMAN en Niceto Club (+18 años)"
   }
  ],
- "Line-Up:": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
-  }
- ],
  "Link de entradas en la bio.": [
   {
    "date": "2026-11-06",
@@ -3253,6 +3251,14 @@
    "venue": "Lalalá",
    "url": "https://indiehoy.com/agenda/los-sub-y-verde-y-los-caballos-a-marte-en-lalala/",
    "title": "Los Sub y Verde y Los Caballos a Marte"
+  }
+ ],
+ "Los Charros": [
+  {
+   "date": "2026-10-31",
+   "venue": "Wild Hops City Bell",
+   "url": "https://venti.live/evento/el-mago-y-la-nueva-luna-en-wildhops",
+   "title": "Los Charros en WILDHOPS"
   }
  ],
  "LOS DESERTORES": [
@@ -3463,6 +3469,14 @@
    "title": "28/11 | Lulú x Bombi - Aniversario"
   }
  ],
+ "LUT": [
+  {
+   "date": "2026-10-30",
+   "venue": "Viajero Buenos Aires Hostel",
+   "url": "https://ra.co/events/2571166",
+   "title": "SINCRONICIDAD ED. VAMPIROS BLADE"
+  }
+ ],
  "MAAY": [
   {
    "date": "2026-10-31",
@@ -3493,6 +3507,14 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/maggie-cullen-la-trastienda/",
    "title": "Maggie Cullen"
+  }
+ ],
+ "MAGOYA": [
+  {
+   "date": "2026-10-30",
+   "venue": "Viajero Buenos Aires Hostel",
+   "url": "https://ra.co/events/2571166",
+   "title": "SINCRONICIDAD ED. VAMPIROS BLADE"
   }
  ],
  "maleena": [
@@ -3775,13 +3797,15 @@
    "title": "Mi Amigo Invencible Regresa a Niceto Club (+18 años)"
   }
  ],
- "Michael Bibi": [
+ "MICA ROCKET": [
   {
-   "date": "2026-11-21",
-   "venue": "TBA - Arena Norte, Nuñez",
-   "url": "https://ra.co/events/2434107",
-   "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves"
-  },
+   "date": "2026-11-07",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/jardin-de-hal-charla-djs-noctilunio-mica-rocket",
+   "title": "JARDIN DE HAL > Charla Djs + NOCTILUNIO + MICA ROCKET"
+  }
+ ],
+ "Michael Bibi": [
   {
    "date": "2026-11-21",
    "venue": "Arena Norte",
@@ -3811,6 +3835,14 @@
    "venue": "TBA - La Biblioteca, San Telmo",
    "url": "https://ra.co/events/2539091",
    "title": "Mike Rish - Somos Produce"
+  }
+ ],
+ "MIKE RISH": [
+  {
+   "date": "2026-11-14",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s13-11-mike-rish-en-fruta",
+   "title": "13.11 | MIKE RISH EN FRUTA."
   }
  ],
  "Mila": [
@@ -3963,14 +3995,6 @@
    "title": "Mujercitas Terror, Pólvora y Nina Suárez"
   }
  ],
- "MUSHROOM - La Agencia Take Over": [
-  {
-   "date": "2026-11-01",
-   "venue": "Estadio Nacional",
-   "url": "https://venti.live/evento/mushroom-la-agencia-take-over",
-   "title": "MUSHROOM - La Agencia Take Over"
-  }
- ],
  "MUSHROOM NYE 2027": [
   {
    "date": "2027-01-01",
@@ -4111,6 +4135,14 @@
    "venue": "La Tangente",
    "url": "https://indiehoy.com/agenda/nochteff-y-los-pendulos-en-la-tangente/",
    "title": "Nochteff y Los Péndulos"
+  }
+ ],
+ "NOCTILUNIO": [
+  {
+   "date": "2026-11-07",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/jardin-de-hal-charla-djs-noctilunio-mica-rocket",
+   "title": "JARDIN DE HAL > Charla Djs + NOCTILUNIO + MICA ROCKET"
   }
  ],
  "Nocturnal Depression": [
@@ -4291,6 +4323,14 @@
    "title": "[PRIDE] MISSA ORGULLO 2026"
   }
  ],
+ "PARDO: da skate": [
+  {
+   "date": "2026-11-29",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/festival-pardo-da-skate-en-en-humboldt-niceto-club-18-a-os",
+   "title": "FESTIVAL PARDO: da skate en en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
  "PARDO: Elektromanos": [
   {
    "date": "2026-11-21",
@@ -4324,12 +4364,6 @@
   }
  ],
  "PAWSA": [
-  {
-   "date": "2026-11-21",
-   "venue": "TBA - Arena Norte, Nuñez",
-   "url": "https://ra.co/events/2434107",
-   "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves"
-  },
   {
    "date": "2026-11-21",
    "venue": "Arena Norte",
@@ -4733,14 +4767,6 @@
    "title": "República Folklore 2026"
   }
  ],
- "RI7MO DEL GHETTO pres Fergus Sweetland": [
-  {
-   "date": "2026-11-20",
-   "venue": "Crobar Studio",
-   "url": "https://www.crobar.com.ar/studio",
-   "title": "RI7MO DEL GHETTO pres Fergus Sweetland"
-  }
- ],
  "RI7MO DEL GHETTO X UNDER CLUB": [
   {
    "date": "2026-11-21",
@@ -4901,14 +4927,6 @@
    "title": "Savia"
   }
  ],
- "Secches presenta ELLAS POR ELLAS": [
-  {
-   "date": "2026-10-27",
-   "venue": "Bebop Club",
-   "url": "https://ticketera.bebopclub.com.ar/evento/2f047c36-5e63-4d70-a595-bac22ecd99f9",
-   "title": "Secches presenta ELLAS POR ELLAS"
-  }
- ],
  "secret lineup": [
   {
    "date": "2026-11-28",
@@ -4987,14 +5005,6 @@
    "venue": "Dune Park",
    "url": "https://ra.co/events/2557949",
    "title": "BY.WOMANS en DUNEPARK CLUB"
-  }
- ],
- "Six Feet Under": [
-  {
-   "date": "2026-10-27",
-   "venue": "El Teatrito",
-   "url": "https://indiehoy.com/agenda/six-feet-under-en-buenos-aires-argentina-2026/",
-   "title": "Six Feet Under en Argentina"
   }
  ],
  "Slipknot": [
@@ -5215,14 +5225,6 @@
    "venue": "DESEO CLUB",
    "url": "https://venti.live/evento/sven-v-th-creamfields-official-pre-party",
    "title": "Sven Väth - Creamfields Official Pre Party"
-  }
- ],
- "SVG X SAFARI X STJEPANEK X TOKYO": [
-  {
-   "date": "2026-11-01",
-   "venue": "Tokyo Club BA",
-   "url": "https://venti.live/evento/svg-x-safari-x-stjepanek-x-tokyo",
-   "title": "SVG X SAFARI X STJEPANEK X TOKYO"
   }
  ],
  "SÁBADO CACHENGUE BY BOSCO SUNSET": [
@@ -5599,14 +5601,6 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
-  }
- ],
- "Visuals x UnPlug.": [
-  {
-   "date": "2026-10-27",
-   "venue": "La Cigale",
-   "url": "https://ra.co/events/2569185",
-   "title": "Minelek w/Nymphes, Ella Anzoise & Berger Muzik x"
   }
  ],
  "Void": [
