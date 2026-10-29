@@ -732,6 +732,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Festival de Danzas Armenias",
+  "date": "",
+  "venue": "Teatro Avenida",
+  "artists": [
+   "Festival de Danzas Armenias"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-de-danzas-armenias/teatro-avenida",
+  "ticket_url": "https://www.ticketek.com.ar/festival-de-danzas-armenias/teatro-avenida",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/masis_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Festival Patria",
   "date": "",
   "venue": "Teatro Opera On",
@@ -879,40 +896,6 @@
   "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/la_portena_2026_hipodromo_440x600_1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Abel Pintos",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Abel Pintos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/abel-pintos",
-  "ticket_url": "https://www.ticketek.com.ar/abel-pintos",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ap_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Abel Pintos",
-  "date": "",
-  "venue": "Teatro Tronador",
-  "artists": [
-   "Abel Pintos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/abel-pintos",
-  "ticket_url": "https://www.ticketek.com.ar/abel-pintos",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ap_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1259,23 +1242,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Luis Zahera",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Luis Zahera"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/luis-zahera/teatro-astengo",
-  "ticket_url": "https://www.ticketek.com.ar/luis-zahera/teatro-astengo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/260914_ticketek_rosario_v1_440x600.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Abuela Lluvia",
   "date": "",
   "venue": "Teatro Comedia",
@@ -1287,6 +1253,23 @@
   "ticket_url": "https://www.ticketek.com.ar/abuela-lluvia/teatro-comedia",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/abuela_lluvia_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Bailarinas Incendiadas",
+  "date": "",
+  "venue": "Teatro Comedia",
+  "artists": [
+   "Bailarinas Incendiadas"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/bailarinas-incendiadas/teatro-comedia",
+  "ticket_url": "https://www.ticketek.com.ar/bailarinas-incendiadas/teatro-comedia",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bailarinas_incend_a26_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""

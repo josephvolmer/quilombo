@@ -303,6 +303,14 @@
    "title": "Codigo Halloween - Mushroom| ALLMusicParties"
   }
  ],
+ "Aloha Pres. Halloween Night at Magna Club": [
+  {
+   "date": "2026-11-01",
+   "venue": "Location",
+   "url": "https://venti.live/evento/aloha-pres-halloween-night-at-oldskull-park-pilar",
+   "title": "Aloha Pres. Halloween Night at Magna Club, Costanera"
+  }
+ ],
  "ALT8": [
   {
    "date": "2026-11-21",
@@ -409,14 +417,6 @@
    "title": "ANA HAGEN | DEE JASON | FLOORPLAN"
   }
  ],
- "ANTIGAL SESSIONS": [
-  {
-   "date": "2026-10-31",
-   "venue": "Antigal Winery & Estates",
-   "url": "https://venti.live/evento/antigal-sessions",
-   "title": "ANTIGAL SESSIONS"
-  }
- ],
  "April Palmer": [
   {
    "date": "2026-10-31",
@@ -447,6 +447,14 @@
    "venue": "Bosque Cacheuta",
    "url": "https://venti.live/evento/arcana-experience-5-y-7-de-diciembre-cacheuta",
    "title": "Arcana Experience - 5 y 7 de diciembre @ Cacheuta"
+  }
+ ],
+ "ARTROX - PREESCUCHA 11:23": [
+  {
+   "date": "2026-11-22",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/artrox-preescucha-11-23-en-humboldt-niceto-club",
+   "title": "ARTROX - PREESCUCHA 11:23"
   }
  ],
  "Autocine": [
@@ -553,6 +561,14 @@
    "title": "BEN SIMS | BONDARÜK & SMT"
   }
  ],
+ "BEN STERLING": [
+  {
+   "date": "2026-10-31",
+   "venue": "Archi Club",
+   "url": "https://venti.live/evento/ben-sterling-30-octubre-archi-open-air",
+   "title": "BEN STERLING - 30 octubre @ Archi Open Air"
+  }
+ ],
  "Benediction": [
   {
    "date": "2026-10-30",
@@ -651,6 +667,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Bodeler & Manu Desrets"
+  }
+ ],
+ "Bombardeo Fest 1": [
+  {
+   "date": "2026-11-13",
+   "venue": "Strummer Bar",
+   "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
+   "title": "Bombardeo Fest 1"
   }
  ],
  "Bondarük": [
@@ -1243,6 +1267,14 @@
    "title": "Cosmos Festival 2026 / 2027"
   }
  ],
+ "Costanera": [
+  {
+   "date": "2026-11-01",
+   "venue": "Location",
+   "url": "https://venti.live/evento/aloha-pres-halloween-night-at-oldskull-park-pilar",
+   "title": "Aloha Pres. Halloween Night at Magna Club, Costanera"
+  }
+ ],
  "Creamfields Argentina 2026": [
   {
    "date": "2026-11-14",
@@ -1323,6 +1355,14 @@
    "title": "Dança Tropical"
   }
  ],
+ "DATA LOCAL x BELA > Jazmin": [
+  {
+   "date": "2026-11-21",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/data-local-x-bela-jazmin-y-el-pel-cano-yo-sin-coser",
+   "title": "DATA LOCAL x BELA > Jazmin y el pelícano + Yo sin coser"
+  }
+ ],
  "DATA LOCAL x BELA > TESTI": [
   {
    "date": "2026-10-30",
@@ -1396,6 +1436,12 @@
   }
  ],
  "Dennis Cruz": [
+  {
+   "date": "2026-11-21",
+   "venue": "TBA - Arena Norte, Nuñez",
+   "url": "https://ra.co/events/2434107",
+   "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves"
+  },
   {
    "date": "2026-11-21",
    "venue": "Arena Norte",
@@ -1677,6 +1723,14 @@
    "title": "noche de lxs muertxs"
   }
  ],
+ "el pelícano": [
+  {
+   "date": "2026-11-21",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/data-local-x-bela-jazmin-y-el-pel-cano-yo-sin-coser",
+   "title": "DATA LOCAL x BELA > Jazmin y el pelícano + Yo sin coser"
+  }
+ ],
  "El Príncipe Idiota": [
   {
    "date": "2026-10-31",
@@ -1857,6 +1911,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Fede Real": [
+  {
+   "date": "2026-10-31",
+   "venue": "TBA - Roca Bruja",
+   "url": "https://ra.co/events/2572174",
+   "title": "MASTER pres. Pabels, Fede Real, U.V. (AR)"
+  }
+ ],
  "Fedi Sanzo": [
   {
    "date": "2026-10-30",
@@ -2009,6 +2071,14 @@
    "venue": "Crobar Studio",
    "url": "https://www.crobar.com.ar/studio",
    "title": "DRAMER"
+  }
+ ],
+ "Fonseca": [
+  {
+   "date": "2027-03-06",
+   "venue": "Teatro Gran Rex",
+   "url": "https://indiehoy.com/agenda/fonseca-en-argentina/",
+   "title": "Fonseca en Argentina"
   }
  ],
  "Franco Cinelli": [
@@ -2491,6 +2561,14 @@
    "venue": "Búzios",
    "url": "https://venti.live/evento/ilha-ii-buzios",
    "title": "Ilha II"
+  }
+ ],
+ "Ilán Amores": [
+  {
+   "date": "2026-11-20",
+   "venue": "The Roxy Live",
+   "url": "https://indiehoy.com/agenda/ilan-amores-en-the-roxy-live-2/",
+   "title": "Ilán Amores"
   }
  ],
  "Indios": [
@@ -3031,6 +3109,14 @@
    "title": "la montaña * caba 18.12 / doppel gangs (dj set) / caskobi / kmila @ shamrock basement"
   }
  ],
+ "La Nosti - 5 aniversario-sábado": [
+  {
+   "date": "2026-11-22",
+   "venue": "Stadium Complejo La Normandina",
+   "url": "https://venti.live/evento/la-nosti-5-aniversario-s-bado-21-11",
+   "title": "La Nosti - 5 aniversario-sábado 21/11"
+  }
+ ],
  "LA PATRULLA ESPACIAL": [
   {
    "date": "2026-12-06",
@@ -3323,14 +3409,6 @@
    "venue": "Teatro Coliseo",
    "url": "https://indiehoy.com/agenda/los-tipitos-en-teatro-coliseo/",
    "title": "Los Tipitos"
-  }
- ],
- "Los40 Primavera Pop": [
-  {
-   "date": "2026-10-28",
-   "venue": "Teatro Ópera ON",
-   "url": "https://indiehoy.com/agenda/los40-primavera-pop-en-teatro-opera/",
-   "title": "Los40 Primavera Pop en Teatro Ópera"
   }
  ],
  "Loud Luxury": [
@@ -3693,6 +3771,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Martino Gesualdi &#038; Camaradas": [
+  {
+   "date": "2026-11-05",
+   "venue": "Strummer Bar",
+   "url": "https://indiehoy.com/agenda/martino-gesualdi-camaradas-en-strummer-bar/",
+   "title": "Martino Gesualdi &#038; Camaradas"
+  }
+ ],
  "MASQUERADE PARTY BY ZETA CLUB": [
   {
    "date": "2026-10-31",
@@ -3806,6 +3892,12 @@
   }
  ],
  "Michael Bibi": [
+  {
+   "date": "2026-11-21",
+   "venue": "TBA - Arena Norte, Nuñez",
+   "url": "https://ra.co/events/2434107",
+   "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves"
+  },
   {
    "date": "2026-11-21",
    "venue": "Arena Norte",
@@ -4167,12 +4259,12 @@
    "title": "NORA EN PURE x 2GTHR - ARCHI OPEN AIR | 07.11"
   }
  ],
- "NOT WELCOME PRESENTA ZAGITAR": [
+ "NOT WELCOME PRESENTA ·ZAGITAR· ·MAITI MERLINO": [
   {
    "date": "2026-10-30",
    "venue": "Tokyo Club BA",
    "url": "https://venti.live/evento/not-welcome-presenta-zagitar",
-   "title": "NOT WELCOME PRESENTA ZAGITAR"
+   "title": "NOT WELCOME PRESENTA ·ZAGITAR· ·MAITI MERLINO"
   }
  ],
  "NUMBERS x BELA - Franzizca - Open to Close": [
@@ -4261,6 +4353,12 @@
    "venue": "Deseo BS AS",
    "url": "https://ra.co/events/2534371",
    "title": "0800-LINEA-CALIENTE & DESEO pres. Halloween with Marcellus Pittman"
+  },
+  {
+   "date": "2026-10-31",
+   "venue": "TBA - Roca Bruja",
+   "url": "https://ra.co/events/2572174",
+   "title": "MASTER pres. Pabels, Fede Real, U.V. (AR)"
   },
   {
    "date": "2026-11-14",
@@ -4364,6 +4462,12 @@
   }
  ],
  "PAWSA": [
+  {
+   "date": "2026-11-21",
+   "venue": "TBA - Arena Norte, Nuñez",
+   "url": "https://ra.co/events/2434107",
+   "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves"
+  },
   {
    "date": "2026-11-21",
    "venue": "Arena Norte",
@@ -4533,6 +4637,14 @@
    "venue": "Km 101, Ruta Nacional 7",
    "url": "https://venti.live/evento/polenta-en-san-andres-de-giles",
    "title": "Polenta en San Andres de Giles"
+  }
+ ],
+ "POLENTA NECOCHEA": [
+  {
+   "date": "2026-12-05",
+   "venue": "Kabryl Necochea",
+   "url": "https://venti.live/evento/polenta-necochea",
+   "title": "POLENTA NECOCHEA"
   }
  ],
  "POP UP ROPA DE AUTOR": [
@@ -4855,6 +4967,14 @@
    "title": "RYAN presenta “Zafarrancho”"
   }
  ],
+ "SAFARI PRES - SHOWCASE TREEP RECORDS": [
+  {
+   "date": "2026-11-29",
+   "venue": "Humboldt 1391",
+   "url": "https://venti.live/evento/safari-pres-showcase-treep-records",
+   "title": "SAFARI PRES - SHOWCASE TREEP RECORDS"
+  }
+ ],
  "SAN MARTIN VAMPIRE": [
   {
    "date": "2026-11-07",
@@ -5175,6 +5295,14 @@
    "title": "SUNSET EL ROBLE 28-10"
   }
  ],
+ "SUNSET EL ROBLE- LOS PLAYEROS": [
+  {
+   "date": "2026-11-08",
+   "venue": "El ROBLE WAKE COMPLEX",
+   "url": "https://venti.live/evento/sunset-el-roble-los-playeros",
+   "title": "SUNSET EL ROBLE- LOS PLAYEROS"
+  }
+ ],
  "Super (ARG)": [
   {
    "date": "2026-11-20",
@@ -5441,6 +5569,22 @@
    "title": "Ty Segall en Argentina"
   }
  ],
+ "U.V. (AR)": [
+  {
+   "date": "2026-10-31",
+   "venue": "TBA - Roca Bruja",
+   "url": "https://ra.co/events/2572174",
+   "title": "MASTER pres. Pabels, Fede Real, U.V. (AR)"
+  }
+ ],
+ "Uji &#038; Friends": [
+  {
+   "date": "2026-11-12",
+   "venue": "Teatro Xirgu",
+   "url": "https://indiehoy.com/agenda/uji-friends-en-teatro-xirgu/",
+   "title": "Uji &#038; Friends"
+  }
+ ],
  "Ultra Buenos Aires 2027": [
   {
    "date": "2027-04-02",
@@ -5671,6 +5815,14 @@
    "venue": "Club Ciudad de Buenos Aires",
    "url": "https://ra.co/events/2541095",
    "title": "RAVE3000 FESTIVAL"
+  }
+ ],
+ "Yo sin coser": [
+  {
+   "date": "2026-11-21",
+   "venue": "Angelo de Peredo 325",
+   "url": "https://venti.live/evento/data-local-x-bela-jazmin-y-el-pel-cano-yo-sin-coser",
+   "title": "DATA LOCAL x BELA > Jazmin y el pelícano + Yo sin coser"
   }
  ],
  "YOKO CLERC": [

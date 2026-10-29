@@ -158,29 +158,6 @@
  },
  {
   "source": "bebop",
-  "title": "Old Bones",
-  "date": "2026-08-25",
-  "venue": "Bebop Club",
-  "artists": [
-   "Old Bones"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/d2a70393-8aca-45b1-9db8-09bab4aaea49",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/d2a70393-8aca-45b1-9db8-09bab4aaea49",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "KENNY GARRETT AND SOUNDS FROM THE ANCESTORS",
   "date": "2026-09-01",
   "venue": "Bebop Club",
@@ -4885,27 +4862,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Los40 Primavera Pop en Teatro Ópera",
-  "date": "2026-10-28",
-  "venue": "Teatro Ópera ON",
-  "artists": [
-   "Los40 Primavera Pop"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/los40-primavera-pop-en-teatro-opera/",
-  "ticket_url": "https://www.tuentrada.com/los-40-primavera-pop",
-  "price": "Desde $35.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/40principales-teatro-opera.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "venti",
   "title": "CAROLINA MAMA presenta AMINA",
   "date": "2026-10-29",
@@ -5504,11 +5460,11 @@
  },
  {
   "source": "venti",
-  "title": "NOT WELCOME PRESENTA ZAGITAR",
+  "title": "NOT WELCOME PRESENTA ·ZAGITAR· ·MAITI MERLINO",
   "date": "2026-10-30",
   "venue": "Tokyo Club BA",
   "artists": [
-   "NOT WELCOME PRESENTA ZAGITAR"
+   "NOT WELCOME PRESENTA ·ZAGITAR· ·MAITI MERLINO"
   ],
   "genres": [],
   "url": "https://venti.live/evento/not-welcome-presenta-zagitar",
@@ -5683,27 +5639,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "ANTIGAL SESSIONS",
-  "date": "2026-10-31",
-  "venue": "Antigal Winery & Estates",
-  "artists": [
-   "ANTIGAL SESSIONS"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/antigal-sessions",
-  "ticket_url": "https://venti.live/evento/antigal-sessions",
-  "price": "$25.000",
-  "image": "https://images.venti.live/user-images/1792499353154-lg.jpg",
-  "lat": -33.007113,
-  "lon": -68.807137,
-  "start_time": "17:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "ATOM",
   "date": "2026-10-31",
@@ -5766,6 +5701,27 @@
   "lat": -34.5872316,
   "lon": -58.4383841,
   "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BEN STERLING - 30 octubre @ Archi Open Air",
+  "date": "2026-10-31",
+  "venue": "Archi Club",
+  "artists": [
+   "BEN STERLING"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/ben-sterling-30-octubre-archi-open-air",
+  "ticket_url": "https://venti.live/evento/ben-sterling-30-octubre-archi-open-air",
+  "price": "$25.000",
+  "image": "https://images.venti.live/user-images/1790881800682-lg.jpg",
+  "lat": -34.5485628,
+  "lon": -58.4305062,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -6121,6 +6077,31 @@
  },
  {
   "source": "resident-advisor",
+  "title": "MASTER pres. Pabels, Fede Real, U.V. (AR)",
+  "date": "2026-10-31",
+  "venue": "TBA - Roca Bruja",
+  "artists": [
+   "Pabels",
+   "Fede Real",
+   "U.V. (AR)"
+  ],
+  "genres": [
+   "House"
+  ],
+  "url": "https://ra.co/events/2572174",
+  "ticket_url": "",
+  "price": "$40000-$20000",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
   "title": "May Mc Laren 7 HORAS",
   "date": "2026-10-31",
   "venue": "Under Club",
@@ -6391,6 +6372,28 @@
  },
  {
   "source": "venti",
+  "title": "Aloha Pres. Halloween Night at Magna Club, Costanera",
+  "date": "2026-11-01",
+  "venue": "Location",
+  "artists": [
+   "Aloha Pres. Halloween Night at Magna Club",
+   "Costanera"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/aloha-pres-halloween-night-at-oldskull-park-pilar",
+  "ticket_url": "https://venti.live/evento/aloha-pres-halloween-night-at-oldskull-park-pilar",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1793222133409-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "BRUNO ALBANO en Humboldt | Niceto Club (+18 años)",
   "date": "2026-11-01",
   "venue": "Humboldt | Niceto Club",
@@ -6505,7 +6508,7 @@
   "genres": [],
   "url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween",
   "ticket_url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween",
-  "price": "$25.000",
+  "price": "$50.000",
   "image": "https://images.venti.live/user-images/1788467950321-lg.jpg",
   "lat": -34.5655013,
   "lon": -58.4011499,
@@ -7096,6 +7099,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Martino Gesualdi &#038; Camaradas",
+  "date": "2026-11-05",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Martino Gesualdi &#038; Camaradas"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/martino-gesualdi-camaradas-en-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/martino-gesualdi-camaradas",
+  "price": "$17250",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/img-strummer-2.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Autocine en Congo",
   "date": "2026-11-06",
   "venue": "Congo Club Cultural",
@@ -7572,11 +7596,11 @@
   "genres": [],
   "url": "https://venti.live/evento/s6-11-fiesta-maruja",
   "ticket_url": "https://venti.live/evento/s6-11-fiesta-maruja",
-  "price": "$15.000",
+  "price": "$18.000",
   "image": "https://images.venti.live/user-images/1791642814982-lg.jpg",
   "lat": -31.363313674926758,
   "lon": -64.23645782470703,
-  "start_time": "02:00",
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -8306,7 +8330,7 @@
   "genres": [],
   "url": "https://venti.live/evento/el-club-de-la-serpiente-7-de-noviembre-chocolate-bahia-blanca",
   "ticket_url": "https://venti.live/evento/el-club-de-la-serpiente-7-de-noviembre-chocolate-bahia-blanca",
-  "price": "$14.000",
+  "price": "$12.000",
   "image": "https://images.venti.live/user-images/1791298406301-lg.jpg",
   "lat": -38.6991739,
   "lon": -62.264929,
@@ -8480,6 +8504,27 @@
   "lat": -33.007798,
   "lon": -68.91847349999999,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SUNSET EL ROBLE- LOS PLAYEROS",
+  "date": "2026-11-08",
+  "venue": "El ROBLE WAKE COMPLEX",
+  "artists": [
+   "SUNSET EL ROBLE- LOS PLAYEROS"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sunset-el-roble-los-playeros",
+  "ticket_url": "https://venti.live/evento/sunset-el-roble-los-playeros",
+  "price": "$25.000",
+  "image": "https://images.venti.live/user-images/1793289829431-lg.jpg",
+  "lat": -32.97325134277344,
+  "lon": -68.73474884033203,
+  "start_time": "22:00",
   "sources": [
    "venti"
   ],
@@ -8881,6 +8926,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Uji &#038; Friends",
+  "date": "2026-11-12",
+  "venue": "Teatro Xirgu",
+  "artists": [
+   "Uji &#038; Friends"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/uji-friends-en-teatro-xirgu/",
+  "ticket_url": "https://www.passline.com/eventos-plano/ujifriends",
+  "price": "Desde $80.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/uji-friends-xirgu.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Abel Pintos",
   "date": "2026-11-13",
   "venue": "Teatro Gran Rex",
@@ -8960,6 +9026,27 @@
   "start_time": "23:00",
   "sources": [
    "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Bombardeo Fest 1",
+  "date": "2026-11-13",
+  "venue": "Strummer Bar",
+  "artists": [
+   "Bombardeo Fest 1"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
+  "ticket_url": "https://bue.tickethoy.com/entradas-musica/bombardeo-fest-1",
+  "price": "$17250",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/bombardeo-strummer.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -10306,6 +10393,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "indiehoy",
+  "title": "Ilán Amores",
+  "date": "2026-11-20",
+  "venue": "The Roxy Live",
+  "artists": [
+   "Ilán Amores"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/ilan-amores-en-the-roxy-live-2/",
+  "ticket_url": "https://www.allaccess.com.ar/event/ilan-amores-despide-el-anio-en-el-roxy?utm_source=perfit&utm_medium=email&utm_campaign=ILAN%20ROXY%20NOV",
+  "price": "Desde $30.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/ilan-amores-roxy.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Innen x AVG pres. KARBONI (IT), Lukas, Manu Oubiña",
   "date": "2026-11-20",
@@ -10382,8 +10490,8 @@
    "Cloudy",
    "KUKO",
    "Serafina",
-   "Kessler",
-   "THD+N"
+   "THD+N",
+   "Kessler"
   ],
   "genres": [
    "Hard Drum",
@@ -10595,6 +10703,29 @@
  },
  {
   "source": "venti",
+  "title": "DATA LOCAL x BELA > Jazmin y el pelícano + Yo sin coser",
+  "date": "2026-11-21",
+  "venue": "Angelo de Peredo 325",
+  "artists": [
+   "DATA LOCAL x BELA > Jazmin",
+   "el pelícano",
+   "Yo sin coser"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/data-local-x-bela-jazmin-y-el-pel-cano-yo-sin-coser",
+  "ticket_url": "https://venti.live/evento/data-local-x-bela-jazmin-y-el-pel-cano-yo-sin-coser",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793230844057-lg.jpg",
+  "lat": -31.42649219999999,
+  "lon": -64.1935086,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "EL CLUB DE LA SERPIENTE, 20 DE NOVIEMBRE - AUDITORIO SUR- TEMPERLEY, BUENOS AIRES",
   "date": "2026-11-21",
   "venue": "Auditorio Sur",
@@ -10604,7 +10735,7 @@
   "genres": [],
   "url": "https://venti.live/evento/el-club-de-la-serpiente-20-de-noviembre-auditorio-sur-temperley-buenos-aires",
   "ticket_url": "https://venti.live/evento/el-club-de-la-serpiente-20-de-noviembre-auditorio-sur-temperley-buenos-aires",
-  "price": "$22.000",
+  "price": "$18.000",
   "image": "https://images.venti.live/user-images/1792420813964-lg.jpg",
   "lat": -34.7743741,
   "lon": -58.3973778,
@@ -10720,6 +10851,32 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Michael Bibi B3B PAWSA B3B Dennis Cruz - Solid Grooves",
+  "date": "2026-11-21",
+  "venue": "TBA - Arena Norte, Nuñez",
+  "artists": [
+   "Dennis Cruz",
+   "Michael Bibi",
+   "PAWSA"
+  ],
+  "genres": [
+   "House",
+   "Tech House"
+  ],
+  "url": "https://ra.co/events/2434107",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "16:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -11048,6 +11205,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "ARTROX - PREESCUCHA 11:23",
+  "date": "2026-11-22",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "ARTROX - PREESCUCHA 11:23"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/artrox-preescucha-11-23-en-humboldt-niceto-club",
+  "ticket_url": "https://venti.live/evento/artrox-preescucha-11-23-en-humboldt-niceto-club",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793227511270-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "00:30",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Alien Ritual - Burn in Noise",
   "date": "2026-11-22",
@@ -11281,6 +11459,27 @@
   "lat": -33.0231819152832,
   "lon": -68.79568481445312,
   "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "La Nosti - 5 aniversario-sábado 21/11",
+  "date": "2026-11-22",
+  "venue": "Stadium Complejo La Normandina",
+  "artists": [
+   "La Nosti - 5 aniversario-sábado"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-nosti-5-aniversario-s-bado-21-11",
+  "ticket_url": "https://venti.live/evento/la-nosti-5-aniversario-s-bado-21-11",
+  "price": "$11.250",
+  "image": "https://images.venti.live/user-images/1792555093804-lg.jpg",
+  "lat": -38.0260747,
+  "lon": -57.53042979999999,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -11782,6 +11981,25 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "27.11 WASABI FEST en Temperley",
+  "date": "2026-11-28",
+  "venue": "Auditorio Sur",
+  "artists": [],
+  "genres": [],
+  "url": "https://venti.live/evento/s27-11-wasabi-fest-en-temperley-auditorio-sur",
+  "ticket_url": "https://venti.live/evento/s27-11-wasabi-fest-en-temperley-auditorio-sur",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1788481127690-lg.jpg",
+  "lat": -34.7743741,
+  "lon": -58.3973778,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "none"
  },
  {
   "source": "crobar",
@@ -12380,6 +12598,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "SAFARI PRES - SHOWCASE TREEP RECORDS",
+  "date": "2026-11-29",
+  "venue": "Humboldt 1391",
+  "artists": [
+   "SAFARI PRES - SHOWCASE TREEP RECORDS"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/safari-pres-showcase-treep-records",
+  "ticket_url": "https://venti.live/evento/safari-pres-showcase-treep-records",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793147179464-lg.jpg",
+  "lat": -34.5874809,
+  "lon": -58.4385164,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Taburete en Argentina",
   "date": "2026-11-29",
@@ -12654,6 +12893,27 @@
   "lat": -34.5875434,
   "lon": -58.438918,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "POLENTA NECOCHEA",
+  "date": "2026-12-05",
+  "venue": "Kabryl Necochea",
+  "artists": [
+   "POLENTA NECOCHEA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/polenta-necochea",
+  "ticket_url": "https://venti.live/evento/polenta-necochea",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1793223537335-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "23:00",
   "sources": [
    "venti"
   ],
@@ -15052,6 +15312,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Fonseca en Argentina",
+  "date": "2027-03-06",
+  "venue": "Teatro Gran Rex",
+  "artists": [
+   "Fonseca"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/fonseca-en-argentina/",
+  "ticket_url": "https://www.tuentrada.com/fonseca-tgr?srsltid=AU7gw4XsoMObe_6ZoTWSTR0czV6pdvFGqbtCdOxS-jqIyOAU6FFQYwJf&gad_source=1&gad_campaignid=24382488895&gbraid=0AAAAA9pfPVFbwvsEeySFZKGzloD9vmM10&gclid=CjwKCAjwuobXBhBXEiwAYUaIlT3OY1Dg7GkyJaJifvYsCaUrtvrFJdJle7bLE19rmoJPzTJ3r0n9BhoCf7sQAvD_BwE",
+  "price": "Desde $60.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/fonseca-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
