@@ -103,23 +103,6 @@
  },
  {
   "source": "ticketek",
-  "title": "MICU",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "MICU"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/micu/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/micu/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/micu_a_26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Gibran Alcocer",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -182,6 +165,23 @@
   "ticket_url": "https://www.ticketek.com.ar/la-konga-y-la-delio-valdez-candu-dominguez/bendu-arena",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kondvcd440x600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Slash",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Slash"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/slash/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/slash/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/slash.jpeg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -267,23 +267,6 @@
   "ticket_url": "https://www.ticketek.com.ar/seru-giran/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/seru_giran_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Manso Retro",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Manso Retro"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/manso-retro/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/manso-retro/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/vpyv_a6.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -454,6 +437,23 @@
   "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Litto Nebbia",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Litto Nebbia"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lito_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -929,7 +929,7 @@
   "url": "https://www.ticketek.com.ar/dalila/teatro-opera",
   "ticket_url": "https://www.ticketek.com.ar/dalila/teatro-opera",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dal440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalila_ar_26.png",
   "lat": null,
   "lon": null,
   "start_time": ""

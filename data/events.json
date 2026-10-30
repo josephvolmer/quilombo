@@ -89,29 +89,6 @@
  },
  {
   "source": "bebop",
-  "title": "Belén Cabrera + Banda",
-  "date": "2026-08-25",
-  "venue": "Bebop Club",
-  "artists": [
-   "Belén Cabrera + Banda"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/1448f571-e277-4323-ba47-13951a6149fe",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/1448f571-e277-4323-ba47-13951a6149fe",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "EKATHE",
   "date": "2026-08-25",
   "venue": "Bebop Club",
@@ -123,29 +100,6 @@
   ],
   "url": "https://ticketera.bebopclub.com.ar/evento/893d9354-aec1-48f1-a5b7-77b9c98874fd",
   "ticket_url": "https://ticketera.bebopclub.com.ar/evento/893d9354-aec1-48f1-a5b7-77b9c98874fd",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "FUEGO AMIGO",
-  "date": "2026-08-25",
-  "venue": "Bebop Club",
-  "artists": [
-   "FUEGO AMIGO"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/9eddf058-b7fb-4f48-94df-11f8923fe106",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/9eddf058-b7fb-4f48-94df-11f8923fe106",
   "price": "",
   "image": "",
   "lat": null,
@@ -2914,31 +2868,6 @@
  },
  {
   "source": "resident-advisor",
-  "title": "Crobar Phuture Pres.: Alci",
-  "date": "2026-10-10",
-  "venue": "Crobar - Buenos Aires",
-  "artists": [
-   "Alci",
-   "Cosenza",
-   "Nebula Estudio"
-  ],
-  "genres": [
-   "House"
-  ],
-  "url": "https://ra.co/events/2555006",
-  "ticket_url": "",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "resident-advisor"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "resident-advisor",
   "title": "HOUSE BLOCK x MICH",
   "date": "2026-10-10",
   "venue": "TBA",
@@ -4862,27 +4791,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "CAROLINA MAMA presenta AMINA",
-  "date": "2026-10-29",
-  "venue": "Centro Cultural Richards",
-  "artists": [
-   "CAROLINA MAMA presenta AMINA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/carolina-mama-presenta-amina",
-  "ticket_url": "https://venti.live/evento/carolina-mama-presenta-amina",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1791586180199-lg.jpg",
-  "lat": -34.5870475769043,
-  "lon": -58.4327278137207,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "Fuocco's NIGHT",
   "date": "2026-10-29",
@@ -4904,176 +4812,27 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "H2O",
+  "source": "bebop",
+  "title": "MARIÚ FERNÁNDEZ",
   "date": "2026-10-29",
-  "venue": "El Teatrito",
+  "venue": "Bebop Club",
   "artists": [
-   "H2O"
+   "MARIÚ FERNÁNDEZ"
   ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/h2o-en-el-teatrito/",
-  "ticket_url": "https://www.passline.com/eventos/h2o",
-  "price": "Desde $85.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/h2o-teatrito.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
+  "genres": [
+   "Jazz"
   ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Humbe en Argentina",
-  "date": "2026-10-29",
-  "venue": "Teatro Gran Rex",
-  "artists": [
-   "Humbe"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/humbe-argentina-gran-rex/",
-  "ticket_url": "https://www.tuentrada.com/humbe-tgr",
-  "price": "Desde $45.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/02/humbre-argentina-gran-rex.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Mujercitas Terror, Pólvora y Nina Suárez",
-  "date": "2026-10-29",
-  "venue": "La Tangente",
-  "artists": [
-   "Mujercitas Terror",
-   "Pólvora",
-   "Nina Suárez"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/mujercitas-terror-polvora-y-nina-suarez-en-la-tangente/",
-  "ticket_url": "https://tickets.latangente.com.ar/musica/mujercitas-terror-p-lvora-nina-suarez",
-  "price": "Desde $11.500",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/mujercitas-terror-la-tangente.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "POPE - SHOW EN VIVO PITI FERNANDEZ",
-  "date": "2026-10-29",
-  "venue": "POPE SOCIAL CLUB",
-  "artists": [
-   "POPE - SHOW"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pope-piti-fernandez",
-  "ticket_url": "https://venti.live/evento/pope-piti-fernandez",
-  "price": "$70.000",
-  "image": "https://images.venti.live/user-images/1793048795282-lg.jpg",
-  "lat": -34.5325127,
-  "lon": -58.70450169999999,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Pepechet y Soldana",
-  "date": "2026-10-29",
-  "venue": "Niceto Bar",
-  "artists": [
-   "Pepechet",
-   "Soldana"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/pepechet-y-soldana-en-niceto-bar",
+  "url": "https://ticketera.bebopclub.com.ar/evento/50037599-daa4-4d15-bf88-b99bd660baa9",
+  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/50037599-daa4-4d15-bf88-b99bd660baa9",
   "price": "",
-  "image": "https://images.venti.live/user-images/1790625268363-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Ploho en Argentina",
-  "date": "2026-10-29",
-  "venue": "Uniclub",
-  "artists": [
-   "Ploho"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/ploho-en-argentina/",
-  "ticket_url": "https://alpogo.com/evento/ploho-rus-unico-show-en-argentina-27151",
-  "price": "$70000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/ploho-argenitna.png",
+  "image": "",
   "lat": null,
   "lon": null,
   "start_time": "",
   "sources": [
-   "indiehoy"
+   "bebop"
   ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Sofía Campos",
-  "date": "2026-10-29",
-  "venue": "Biri Biri",
-  "artists": [
-   "Sofía Campos"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/sofia-campos-en-biri-biri/",
-  "ticket_url": "https://www.passline.com/eventos/sofia-campos",
-  "price": "$15000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/08/sofiacampos.webp",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Sunlid y Pizza en Niceto Club (+18 años)",
-  "date": "2026-10-29",
-  "venue": "Niceto Club",
-  "artists": [
-   "Sunlid",
-   "Pizza"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/sunlid-y-pizza-en-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/sunlid-y-pizza-en-niceto-club-18-a-os",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1792770904388-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
+  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -5120,27 +4879,6 @@
   "lat": -34.5872316,
   "lon": -58.4383841,
   "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "BLACK CREAM JUE 29/10 HALLOWEEN 1",
-  "date": "2026-10-30",
-  "venue": "BlackCream",
-  "artists": [
-   "BLACK CREAM"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/black-cream-jue-29-10-halloween-1",
-  "ticket_url": "https://venti.live/evento/black-cream-jue-29-10-halloween-1",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
-  "lat": -34.586299896240234,
-  "lon": -58.41642379760742,
-  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -5210,27 +4948,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "CLUB",
-  "date": "2026-10-30",
-  "venue": "Quba, café de mar",
-  "artists": [
-   "CLUB QUBA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/club-quba-29-10-queves",
-  "ticket_url": "https://venti.live/evento/club-quba-29-10-queves",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1792966752478-lg.jpg",
-  "lat": -38.0312385559082,
-  "lon": -57.53220748901367,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "COLLABS 3000 - JULIETA LAKE - KØLPØS",
   "date": "2026-10-30",
@@ -5273,27 +4990,6 @@
   "lat": -31.42649219999999,
   "lon": -64.1935086,
   "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Electric Party VÍSPERAS DE HALLOWEEN - AFTER SHOW en Niceto Club (+18 años)",
-  "date": "2026-10-30",
-  "venue": "Niceto Club",
-  "artists": [
-   "Electric Party VÍSPERAS DE HALLOWEEN - AFTER SHOW"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/electric-party-v-speras-de-halloween-after-show-en-niceto-club-18-a-os",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793138626142-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -5396,27 +5092,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "KILOMBO Jue 29 OCT",
-  "date": "2026-10-30",
-  "venue": "Niceto Bar",
-  "artists": [
-   "KILOMBO"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/kilombo-jue-29-oct-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/kilombo-jue-29-oct-en-niceto-bar",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793040884184-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "indiehoy",
   "title": "Kasta en Argentina",
   "date": "2026-10-30",
@@ -5455,27 +5130,6 @@
   "start_time": "",
   "sources": [
    "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "NOT WELCOME PRESENTA ·ZAGITAR· ·MAITI MERLINO",
-  "date": "2026-10-30",
-  "venue": "Tokyo Club BA",
-  "artists": [
-   "NOT WELCOME PRESENTA ·ZAGITAR· ·MAITI MERLINO"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/not-welcome-presenta-zagitar",
-  "ticket_url": "https://venti.live/evento/not-welcome-presenta-zagitar",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1792600454008-lg.jpg",
-  "lat": -34.5471568,
-  "lon": -58.431173,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
   ],
   "artist_source": "title"
  },
@@ -5943,29 +5597,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "JOHNNIE WALKER at MUSTANG HALLOWEEN (FEEL THE FEAR)",
-  "date": "2026-10-31",
-  "venue": "Mustang Bar & Grill",
-  "artists": [
-   "Festa Bros",
-   "Tomasello",
-   "Kinopio"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
-  "ticket_url": "https://venti.live/evento/johnnie-walker-at-mustang-halloween-feel-the-fear",
-  "price": "$40.000",
-  "image": "https://images.venti.live/user-images/1791299929320-lg.jpg",
-  "lat": -34.39799499511719,
-  "lon": -58.67307662963867,
-  "start_time": "00:30",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "crobar",
   "title": "Kas:st",
   "date": "2026-10-31",
@@ -6350,6 +5981,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "AM Sessions 1/11",
+  "date": "2026-11-01",
+  "venue": "MISIÓN",
+  "artists": [
+   "AM Sessions"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/am-sessions-1-11",
+  "ticket_url": "https://venti.live/evento/am-sessions-1-11",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1793318471401-lg.jpg",
+  "lat": -34.5874387,
+  "lon": -58.4336819,
+  "start_time": "09:30",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Akapellah",
   "date": "2026-11-01",
@@ -6499,17 +6151,17 @@
  },
  {
   "source": "venti",
-  "title": "Fiesta Bresh en Mandarine - 31 de Octubre (Edición Halloween)",
+  "title": "Fiesta Bresh en Mandarine - 31 de Octubre (Edición Halloween) - 2",
   "date": "2026-11-01",
   "venue": "Mandarine Park & Tent",
   "artists": [
    "Bresh"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween",
-  "ticket_url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween",
-  "price": "$50.000",
-  "image": "https://images.venti.live/user-images/1788467950321-lg.jpg",
+  "url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween-2",
+  "ticket_url": "https://venti.live/evento/fiesta-bresh-en-mandarine-31-de-octubre-edici-n-halloween-2",
+  "price": "$45.000",
+  "image": "https://images.venti.live/user-images/1791298731024-lg.jpg",
   "lat": -34.5655013,
   "lon": -58.4011499,
   "start_time": "",
@@ -6972,6 +6624,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Baja Killa",
+  "date": "2026-11-04",
+  "venue": "La Tangente",
+  "artists": [
+   "Baja Killa"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/baja-killa-en-la-tangente/",
+  "ticket_url": "https://tickets.latangente.com.ar/musica/baja-killa-no-me-dejen-as-kironimia?utm_source=perfit&utm_medium=email",
+  "price": "Desde $10.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/baja-killa-la-tangente.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Sergio Dalma en Argentina",
   "date": "2026-11-04",
   "venue": "Teatro Gran Rex",
@@ -7120,6 +6793,27 @@
  },
  {
   "source": "indiehoy",
+  "title": "Mujer Cebra en El Emergente",
+  "date": "2026-11-05",
+  "venue": "El Emergente Almagro",
+  "artists": [
+   "Mujer Cebra"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/mujer-cebra-en-el-emergente/",
+  "ticket_url": "https://events.flashpass.com.ar/eventos/mujer-cebra-festeja-5-anos-de-su-album-debut-4434?fbclid=PAZXh0bgNhZW0CMTEAcGRvZgRzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadmoYtuMSOHTrDTIMaffAD4gGYZ-mozkRO9szrjN74Bu4OdIbT11P7LhoYcNQ_aem_sLD1qASlR2xhBASon13Mkg",
+  "price": "Desde $20.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/mujer-cebra-emergente.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Autocine en Congo",
   "date": "2026-11-06",
   "venue": "Congo Club Cultural",
@@ -7200,6 +6894,28 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "DATA LOCAL x BELA > Comandante Cruz + El Refolk",
+  "date": "2026-11-06",
+  "venue": "Angelo de Peredo 325",
+  "artists": [
+   "DATA LOCAL x BELA > Comandante Cruz",
+   "El Refolk"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/data-local-x-bela-comandante-cruz-el-refolk",
+  "ticket_url": "https://venti.live/evento/data-local-x-bela-comandante-cruz-el-refolk",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793304417612-lg.jpg",
+  "lat": -31.42649219999999,
+  "lon": -64.1935086,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -8363,6 +8079,28 @@
  },
  {
   "source": "venti",
+  "title": "F1 GP SÃO PAULO + LA HISTÓRICA SUNSET",
+  "date": "2026-11-08",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "F1 GP SÃO PAULO",
+   "LA HISTÓRICA SUNSET"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/f1-gp-s-o-paulo-la-hist-rica-sunset",
+  "ticket_url": "https://venti.live/evento/f1-gp-s-o-paulo-la-hist-rica-sunset",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1793370755584-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "15:30",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "FIESTA TREVI 7 NOV en Humboldt - Niceto Club (+18 años)",
   "date": "2026-11-08",
   "venue": "Humboldt | Niceto Club",
@@ -8500,7 +8238,7 @@
   "url": "https://venti.live/evento/rocio-portillo",
   "ticket_url": "https://venti.live/evento/rocio-portillo",
   "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1792450606342-lg.jpg",
+  "image": "https://images.venti.live/user-images/1793315030754-lg.jpg",
   "lat": -33.007798,
   "lon": -68.91847349999999,
   "start_time": "",
@@ -8840,6 +8578,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Meien Williams",
+  "date": "2026-11-11",
+  "venue": "Biri Biri",
+  "artists": [
+   "Meien Williams"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/meien-williams-en-biri-biri/",
+  "ticket_url": "https://sumoticket.com/eventos/7446046e-5dc0-4d85-a0d1-097a1286ec04/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAaeCyQsgbY8XpU8HOlWfHkuVteKRyp-tBkQWEbeITfAhXk1Gu3mhqOMzmeFAyA_aem_YmiJ8WztVM4rlLFEPcSyjw",
+  "price": "Desde $10.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/meien-williams-biri-biri.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "El Ciclo Federal",
   "date": "2026-11-12",
@@ -9111,6 +8870,29 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "DATA LOCAL x BELA > Killimet & Canterbeat + Resurface",
+  "date": "2026-11-13",
+  "venue": "Angelo de Peredo 325",
+  "artists": [
+   "DATA LOCAL x BELA > Killimet",
+   "Canterbeat",
+   "Resurface"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
+  "ticket_url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793304765551-lg.jpg",
+  "lat": -31.42649219999999,
+  "lon": -64.1935086,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -9837,6 +9619,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "The Space Lady en Argentina",
+  "date": "2026-11-14",
+  "venue": "Maquinal Espacio Cultural",
+  "artists": [
+   "The Space Lady"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/the-space-lady-en-argentina/",
+  "ticket_url": "https://teatrina.com/obras/the-space-lady",
+  "price": "Desde $50.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/the-space-lady-argentina.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "ZABAL: PIRANHA",
   "date": "2026-11-14",
@@ -9954,6 +9757,27 @@
   "image": "https://images.venti.live/user-images/1792004988651-lg.jpg",
   "lat": -38.0312385559082,
   "lon": -57.53220748901367,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "FIESTA FATAL",
+  "date": "2026-11-15",
+  "venue": "Podestá",
+  "artists": [
+   "FATAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fiesta-fatal",
+  "ticket_url": "https://venti.live/evento/fiesta-fatal",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1793373242612-lg.jpg",
+  "lat": -34.5889447,
+  "lon": -58.4268204,
   "start_time": "",
   "sources": [
    "venti"
@@ -10194,6 +10018,28 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Astro0kate y Flor Lovaglio",
+  "date": "2026-11-18",
+  "venue": "Biri Biri",
+  "artists": [
+   "Astro0kate",
+   "Flor Lovaglio"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/astro0kate-y-flor-lovaglio-en-biri-biri/",
+  "ticket_url": "https://sumoticket.com/eventos/a6bd0873-0995-4f8f-9749-b26ddafe6bac/",
+  "price": "Desde $10.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/astrokate-biri-biri.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -11359,6 +11205,27 @@
  },
  {
   "source": "venti",
+  "title": "Fiesta Bresh en Viedma - 21 de Noviembre",
+  "date": "2026-11-22",
+  "venue": "Av. Francisco de Viedma 1057",
+  "artists": [
+   "Bresh en"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/fiesta-bresh-en-viedma-21-de-noviembre",
+  "ticket_url": "https://venti.live/evento/fiesta-bresh-en-viedma-21-de-noviembre",
+  "price": "$18.000",
+  "image": "https://images.venti.live/user-images/1793303297964-lg.jpg",
+  "lat": -40.8178619,
+  "lon": -62.9769193,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Gvtz en en Humboldt | Niceto Club (+16 años)",
   "date": "2026-11-22",
   "venue": "Humboldt | Niceto Club",
@@ -11867,6 +11734,29 @@
   "lat": -34.5875434,
   "lon": -58.438918,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "Julián Elordi + Martín Zta y la Flia Cohete",
+  "date": "2026-11-27",
+  "venue": "Niceto Bar",
+  "artists": [
+   "Julián Elordi",
+   "Martín Zta",
+   "la Flia Cohete"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/juli-n-elordi-mart-n-zta-y-la-flia-cohete-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/juli-n-elordi-mart-n-zta-y-la-flia-cohete-en-niceto-bar",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1793362233443-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
   "sources": [
    "venti"
   ],
@@ -12619,6 +12509,29 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "TONACO + FRANCO ARMELLINI",
+  "date": "2026-11-29",
+  "venue": "Switch Club",
+  "artists": [
+   "Tonaco",
+   "Franco Armellini",
+   "Desert Dope"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/tonaco-franco-armellini-switch-club",
+  "ticket_url": "https://venti.live/evento/tonaco-franco-armellini-switch-club",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1793303027957-lg.jpg",
+  "lat": -32.939125,
+  "lon": -60.65062629999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Taburete en Argentina",
   "date": "2026-11-29",
@@ -12715,6 +12628,27 @@
   "ticket_url": "https://venti.com.ar/evento/leo-middea-presenta-noticias-de-puglia-en-buenos-aires-en-niceto-club",
   "price": "$30000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/04/leomid.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Malcriada",
+  "date": "2026-12-03",
+  "venue": "The Roxy Live",
+  "artists": [
+   "Malcriada"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/malcriada-en-the-roxy-live/",
+  "ticket_url": "https://www.allaccess.com.ar/event/malcriada",
+  "price": "Desde $50.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/malcriada-roxy.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
@@ -13859,6 +13793,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "FESTIVAL LA NORTE",
+  "date": "2026-12-13",
+  "venue": "Anexo Berlin",
+  "artists": [
+   "LA NORTE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/festival-la-norte",
+  "ticket_url": "https://venti.live/evento/festival-la-norte",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1793303907271-lg.jpg",
+  "lat": -34.4300314,
+  "lon": -58.5650721,
+  "start_time": "19:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Festival Plasma",
   "date": "2026-12-13",
@@ -14205,6 +14160,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Camionero en Ferro",
+  "date": "2026-12-19",
+  "venue": "Microestadio de Ferro",
+  "artists": [
+   "Camionero"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/camionero-en-ferro/",
+  "ticket_url": "https://www.passline.com/eventos/camionero-en-ferro?srsltid=AYCX9vKwOFXmowR9dlP4eUwTlqXwdgvrBQ66MKjPNKx3RGLEfSIwviGu",
+  "price": "Desde $45.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/camionero-ferro.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "Lola Avesani",
   "date": "2026-12-19",
@@ -14462,6 +14438,49 @@
  },
  {
   "source": "venti",
+  "title": "SOLACE x KOOLKIDZ",
+  "date": "2026-12-25",
+  "venue": "Archi Club",
+  "artists": [
+   "SOLACE x KOOLKIDZ"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/solace-x-koolkidz",
+  "ticket_url": "https://venti.live/evento/solace-x-koolkidz",
+  "price": "$24.000",
+  "image": "https://images.venti.live/user-images/1793308109156-lg.jpg",
+  "lat": -34.5485628,
+  "lon": -58.4305062,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "FRCTL & Fam Producciones presentan: FIDEL NADAL",
+  "date": "2026-12-26",
+  "venue": "TCQ",
+  "artists": [
+   "FRCTL",
+   "Fam Producciones presentan: FIDEL NADAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/tcq-frctl-bar-presentan-fidel-nadal",
+  "ticket_url": "https://venti.live/evento/tcq-frctl-bar-presentan-fidel-nadal",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1793365085291-lg.jpg",
+  "lat": -34.6085966,
+  "lon": -58.38250240000001,
+  "start_time": "01:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Cosmos Festival - Edicion II",
   "date": "2026-12-27",
   "venue": "https://maps.app.goo.gl/pMSfgsMMqGLAusvu5",
@@ -14609,6 +14628,25 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "31.12.2026 COLLAGE NYE",
+  "date": "2027-01-01",
+  "venue": "Aguaverde Wine Lodge",
+  "artists": [],
+  "genres": [],
+  "url": "https://venti.live/evento/s31-12-2026-collage-nye-aguaverde-wine-lodge",
+  "ticket_url": "https://venti.live/evento/s31-12-2026-collage-nye-aguaverde-wine-lodge",
+  "price": "$141.120",
+  "image": "https://images.venti.live/user-images/1792787991757-lg.jpg",
+  "lat": -34.843634,
+  "lon": -54.87865110000001,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "none"
  },
  {
   "source": "venti",
@@ -14825,6 +14863,27 @@
  },
  {
   "source": "venti",
+  "title": "05.01.2027 - HEART CHAKRA HOSTED BY YOYAKU",
+  "date": "2027-01-05",
+  "venue": "Aguaverde Wine Lodge",
+  "artists": [
+   "HEART CHAKRA HOSTED BY YOYAKU"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s05-01-2027-heart-chakra-hosted-by-yoyaku-aguaverde-wine-lodge",
+  "ticket_url": "https://venti.live/evento/s05-01-2027-heart-chakra-hosted-by-yoyaku-aguaverde-wine-lodge",
+  "price": "$67.200",
+  "image": "https://images.venti.live/user-images/1793306958906-lg.jpg",
+  "lat": -34.843634,
+  "lon": -54.87865110000001,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "Dos Besinhos",
   "date": "2027-01-05",
   "venue": "Búzios",
@@ -14929,6 +14988,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "UMN ELECTRONIK | Vie 8 de Enero",
+  "date": "2027-01-09",
+  "venue": "UMANO",
+  "artists": [
+   "UMN ELECTRONIK"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/umn-electronik-vie-8-de-enero",
+  "ticket_url": "https://venti.live/evento/umn-electronik-vie-8-de-enero",
+  "price": "$35.000",
+  "image": "https://images.venti.live/user-images/1793293264984-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Geoff Tate en Argentina",
   "date": "2027-01-14",
@@ -14985,6 +15065,27 @@
   "image": "https://images.venti.live/user-images/1789482645918-lg.jpg",
   "lat": null,
   "lon": null,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "UMN ELECTRONIK | Vie 15 de Enero",
+  "date": "2027-01-16",
+  "venue": "UMANO",
+  "artists": [
+   "UMN ELECTRONIK"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/umn-electronik-vie-15-de-enero",
+  "ticket_url": "https://venti.live/evento/umn-electronik-vie-15-de-enero",
+  "price": "$40.000",
+  "image": "https://images.venti.live/user-images/1793293093026-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
   "start_time": "02:00",
   "sources": [
    "venti"
@@ -15080,6 +15181,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "UMN ELECTRONIK | Vie 22 de Enero",
+  "date": "2027-01-23",
+  "venue": "UMANO",
+  "artists": [
+   "UMN ELECTRONIK"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/umn-electronik-vie-22-de-enero",
+  "ticket_url": "https://venti.live/evento/umn-electronik-vie-22-de-enero",
+  "price": "$35.000",
+  "image": "https://images.venti.live/user-images/1793293116992-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Evergreen Terrace en Argentina",
   "date": "2027-01-28",
@@ -15116,6 +15238,27 @@
   "lat": -33.0231819152832,
   "lon": -68.79568481445312,
   "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "UMN ELECTRONIK | Vie 29 de Enero",
+  "date": "2027-01-30",
+  "venue": "UMANO",
+  "artists": [
+   "UMN ELECTRONIK"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/umn-electronik-vie-29-de-enero",
+  "ticket_url": "https://venti.live/evento/umn-electronik-vie-29-de-enero",
+  "price": "$40.000",
+  "image": "https://images.venti.live/user-images/1793293213076-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
+  "start_time": "02:00",
   "sources": [
    "venti"
   ],
@@ -15410,6 +15553,48 @@
   "ticket_url": "https://alpogo.com/evento/gang-of-four-en-argentina-junto-a-buenos-vampiros-y-playa-nudista-29541",
   "price": "Desde $65.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/10/gang-of-four.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Antonio Orozco en Argentina",
+  "date": "2027-03-17",
+  "venue": "Teatro Ópera ON",
+  "artists": [
+   "Antonio Orozco"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/antonio-orozco-en-argentina/",
+  "ticket_url": "https://www.ticketek.com.ar/antonio-orozco/teatro-opera",
+  "price": "Desde $67.800",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/orozco-argentina.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "Pedro Capó en Argentina",
+  "date": "2027-03-17",
+  "venue": "Teatro Gran Rex",
+  "artists": [
+   "Pedro Capó"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/pedro-capo-en-argentina-2/",
+  "ticket_url": "https://tuentrada.com/pedro-capo-tgr",
+  "price": "Desde $80.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/10/pedro-capo-argentina.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
