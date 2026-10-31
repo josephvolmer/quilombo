@@ -1038,23 +1038,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Festival de Danzas Españolas ",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Festival de Danzas Españolas "
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/festival-de-danzas-espanolas/teatro-astengo",
-  "ticket_url": "https://www.ticketek.com.ar/festival-de-danzas-espanolas/teatro-astengo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/imagen_3_440x600.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La verdadera historia de Ricardo III",
   "date": "",
   "venue": "Teatro San Martín",
@@ -1191,6 +1174,40 @@
  },
  {
   "source": "ticketek",
+  "title": "El jefe del jefe",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "El jefe del jefe"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
+  "ticket_url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/eljefe_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "El jefe del jefe",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "El jefe del jefe"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
+  "ticket_url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/eljefe_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Elena Roger",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -1253,23 +1270,6 @@
   "ticket_url": "https://www.ticketek.com.ar/abuela-lluvia/teatro-comedia",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/abuela_lluvia_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Bailarinas Incendiadas",
-  "date": "",
-  "venue": "Teatro Comedia",
-  "artists": [
-   "Bailarinas Incendiadas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/bailarinas-incendiadas/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/bailarinas-incendiadas/teatro-comedia",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bailarinas_incend_a26_0.png",
   "lat": null,
   "lon": null,
   "start_time": ""
