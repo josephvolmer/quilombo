@@ -307,23 +307,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Guasones",
-  "date": "",
-  "venue": "CLUB A. MARIANO MORENO",
-  "artists": [
-   "Guasones"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/guasones/club-mariano-moreno",
-  "ticket_url": "https://www.ticketek.com.ar/guasones/club-mariano-moreno",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/tkt-960-x-400-gok.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "JAF",
   "date": "",
   "venue": "City Center",
@@ -443,17 +426,34 @@
  },
  {
   "source": "ticketek",
-  "title": "Litto Nebbia",
+  "title": "Los Tipitos",
   "date": "",
-  "venue": "Teatro Santa María",
+  "venue": "Teatro Coliseo",
   "artists": [
-   "Litto Nebbia"
+   "Los Tipitos"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/litto-nebbia/teatro-santa-maria",
+  "url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/lito_a.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tipitos_coliseo_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ecos",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Ecos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -624,23 +624,6 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jairo",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Jairo"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jairo/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/jairo/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/jairo_440.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -896,23 +879,6 @@
   "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/la_portena_2026_hipodromo_440x600_1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Festi Power Cumbia",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Festi Power Cumbia"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/festi-power-cumbia/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/festi-power-cumbia/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/festi_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1276,23 +1242,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Ecos",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Ecos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Clearwater",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1446,23 +1395,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Volar es Humano Aterrizar es Divino",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Volar es Humano Aterrizar es Divino"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/volar-es-humano-aterrizar-es-divino/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/2.vhad_coliseo2026_difusion_coliseo_440x600.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Juampi Gonzalez",
   "date": "",
   "venue": "City Center",
@@ -1542,6 +1474,23 @@
   "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Costa",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Costa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/costa/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/costa/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/atodacosta440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
