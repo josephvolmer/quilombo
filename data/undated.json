@@ -241,13 +241,30 @@
   "source": "ticketek",
   "title": "Baglietto + Vitale",
   "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Baglietto + Vitale"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Baglietto + Vitale",
+  "date": "",
   "venue": "Teatro El Círculo",
   "artists": [
    "Baglietto + Vitale"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/baglietto-vitale/teatro-el-circulo",
-  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale/teatro-el-circulo",
+  "url": "https://www.ticketek.com.ar/baglietto-vitale",
+  "ticket_url": "https://www.ticketek.com.ar/baglietto-vitale",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bagliettovitale440_0.jpg",
   "lat": null,
@@ -1021,6 +1038,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Julián Hernández",
+  "date": "",
+  "venue": "Radio City",
+  "artists": [
+   "Julián Hernández"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/julian-hernandez/radio-city",
+  "ticket_url": "https://www.ticketek.com.ar/julian-hernandez/radio-city",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/julian_h_a27.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "INVASIONES I",
   "date": "",
   "venue": "Teatro San Martín",
@@ -1225,23 +1259,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Abuela Lluvia",
-  "date": "",
-  "venue": "Teatro Comedia",
-  "artists": [
-   "Abuela Lluvia"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/abuela-lluvia/teatro-comedia",
-  "ticket_url": "https://www.ticketek.com.ar/abuela-lluvia/teatro-comedia",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/abuela_lluvia_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Clearwater",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1304,6 +1321,23 @@
   "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Katseye: The tribute experience",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Katseye: The tribute experience"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""

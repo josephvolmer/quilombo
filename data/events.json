@@ -158,52 +158,6 @@
  },
  {
   "source": "bebop",
-  "title": "En Desórbita",
-  "date": "2026-09-15",
-  "venue": "Bebop Club",
-  "artists": [
-   "En Desórbita"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/65883e43-d23a-4a9f-8c92-9fcb7ee10dd1",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/65883e43-d23a-4a9f-8c92-9fcb7ee10dd1",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "NINA, BURT & GEORGE",
-  "date": "2026-09-15",
-  "venue": "Bebop Club",
-  "artists": [
-   "NINA, BURT & GEORGE"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/fda3c49d-abab-4e81-bd2f-6c4393ae3415",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/fda3c49d-abab-4e81-bd2f-6c4393ae3415",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "Raúl Lavié + Quinteto",
   "date": "2026-09-15",
   "venue": "Bebop Club",
@@ -5149,48 +5103,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Akapellah",
-  "date": "2026-11-01",
-  "venue": "Niceto Club",
-  "artists": [
-   "Akapellah"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/akapellah-en-niceto-club/",
-  "ticket_url": "https://venti.live/evento/akapellah-la-cruz-tour-2026-en-buenos-aires-en-niceto-club-18-a-os",
-  "price": "$35000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/09/akapellah.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "HABITAT en Wildhops",
-  "date": "2026-11-01",
-  "venue": "Wild Hops City Bell",
-  "artists": [
-   "HABITAT"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/habitat-en-wildhops",
-  "ticket_url": "https://venti.live/evento/habitat-en-wildhops",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1792525313019-lg.jpg",
-  "lat": -34.8656763,
-  "lon": -58.0434438,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "LUMBRA en Cemento",
   "date": "2026-11-01",
@@ -5217,48 +5129,6 @@
  },
  {
   "source": "venti",
-  "title": "Ángela Torres - No me olvides Tour",
-  "date": "2026-11-01",
-  "venue": "Arena Mardel Plata",
-  "artists": [
-   "Angela Torres"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/ngela-torres-no-me-olvides-tour-en-arena-mardel-plata",
-  "ticket_url": "https://venti.live/evento/ngela-torres-no-me-olvides-tour-en-arena-mardel-plata",
-  "price": "$65.000",
-  "image": "https://images.venti.live/user-images/1793499650795-lg.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "BLACK CREAM DOMINGO 01/11 HALLOWEEN 2",
-  "date": "2026-11-02",
-  "venue": "BlackCream",
-  "artists": [
-   "BLACK CREAM"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/black-cream-domingo-01-11-halloween-2",
-  "ticket_url": "https://venti.live/evento/black-cream-domingo-01-11-halloween-2",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1790570992904-lg.jpg",
-  "lat": -34.586299896240234,
-  "lon": -58.41642379760742,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "COCKTAIL SOCIAL PARA CONGRESO DE CIRUJANOS 2026",
   "date": "2026-11-02",
   "venue": "Chana Club",
@@ -5268,7 +5138,7 @@
   "genres": [],
   "url": "https://venti.live/evento/cocktail-social-para-congreso-de-cirujanos-2026",
   "ticket_url": "https://venti.live/evento/cocktail-social-para-congreso-de-cirujanos-2026",
-  "price": "$100.000",
+  "price": "$112.500",
   "image": "https://images.venti.live/user-images/1789568803876-lg.jpg",
   "lat": -34.6061182,
   "lon": -58.36424899999999,
@@ -5736,6 +5606,27 @@
   "artist_source": "none"
  },
  {
+  "source": "venti",
+  "title": "KILOMBO Jue 5 NOV",
+  "date": "2026-11-06",
+  "venue": "Niceto Bar",
+  "artists": [
+   "KILOMBO"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/kilombo-jue-5-nov-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/kilombo-jue-5-nov-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793636656533-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI",
   "date": "2026-11-06",
@@ -5846,6 +5737,57 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Minelek XIX Anniversary",
+  "date": "2026-11-06",
+  "venue": "Niceto Club",
+  "artists": [
+   "May Mc Laren",
+   "Victoria Arena",
+   "Romina Cohn",
+   "Berger Muzik",
+   "X Chvnli (Live!)",
+   "Valentina Lopez",
+   "Visuals x UnPlug."
+  ],
+  "genres": [
+   "Acid",
+   "Techno"
+  ],
+  "url": "https://ra.co/events/2574307",
+  "ticket_url": "",
+  "price": "$25.000.-",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "NOT WELCOME PRESENTS DELUM",
+  "date": "2026-11-06",
+  "venue": "Tokyo Club BA",
+  "artists": [
+   "NOT WELCOME PRESENTS DELUM"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/not-welcome-presents-delum",
+  "ticket_url": "https://venti.live/evento/not-welcome-presents-delum",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1793640100250-lg.jpg",
+  "lat": -34.5471568,
+  "lon": -58.431173,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -6046,6 +5988,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "BAILAR O MORIR",
+  "date": "2026-11-07",
+  "venue": "Güemes 2607",
+  "artists": [
+   "BAILAR O MORIR"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/bailar-o-morir",
+  "ticket_url": "https://venti.live/evento/bailar-o-morir",
+  "price": "$3.000",
+  "image": "https://images.venti.live/user-images/1793603138524-lg.jpg",
+  "lat": -32.9323859,
+  "lon": -60.6563121,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "BEFORE DAWN presents XAVI ST + FACU SANSE + GIOVANNI TOMASSO",
   "date": "2026-11-07",
@@ -6114,6 +6077,28 @@
   "lat": -34.6061182,
   "lon": -58.36424899999999,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "EL CABLE SUNSET | TOTO SALOMÓN & ZOOLO",
+  "date": "2026-11-07",
+  "venue": "El Cable Wakepark",
+  "artists": [
+   "EL CABLE SUNSET | TOTO SALOMÓN",
+   "ZOOLO"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/el-cable-sunset-toto-salom-n-zoolo",
+  "ticket_url": "https://venti.live/evento/el-cable-sunset-toto-salom-n-zoolo",
+  "price": "$12.000",
+  "image": "https://images.venti.live/user-images/1793633118107-lg.jpg",
+  "lat": -34.7652277,
+  "lon": -68.3333457,
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
@@ -6388,6 +6373,32 @@
   "artist_source": "title"
  },
  {
+  "source": "resident-advisor",
+  "title": "Music With Strangers",
+  "date": "2026-11-07",
+  "venue": "Artlab",
+  "artists": [
+   "Victoria Arena",
+   "Isabella",
+   "Music With Strangers"
+  ],
+  "genres": [
+   "Deep House",
+   "House"
+  ],
+  "url": "https://ra.co/events/2574376",
+  "ticket_url": "",
+  "price": "$20000",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "23:00",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "Natural progressive Sunset",
   "date": "2026-11-07",
@@ -6567,6 +6578,28 @@
  },
  {
   "source": "indiehoy",
+  "title": "Tigre Ulli y Bonaerense",
+  "date": "2026-11-07",
+  "venue": "La Tangente",
+  "artists": [
+   "Tigre Ulli",
+   "Bonaerense"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/tigre-ulli-y-bonaerense-en-la-tangente/",
+  "ticket_url": "https://tickets.latangente.com.ar/musica/tigre-ulli-bonaerense",
+  "price": "Desde $10.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/11/tigre-ulli-bonaerense-la-tangente.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Ty Segall en Argentina",
   "date": "2026-11-07",
   "venue": "Niceto Club",
@@ -6611,7 +6644,7 @@
  },
  {
   "source": "venti",
-  "title": "07.11 | BOB TOSH EN FRUTA.",
+  "title": "07.11 | BOB TOSH en FRUTA EXTENDED",
   "date": "2026-11-08",
   "venue": "Av. Rafael Núñez 4614",
   "artists": [
@@ -6620,7 +6653,7 @@
   "genres": [],
   "url": "https://venti.live/evento/s07-11-bob-tosh-en-fruta",
   "ticket_url": "https://venti.live/evento/s07-11-bob-tosh-en-fruta",
-  "price": "$15.000",
+  "price": "$22.000",
   "image": "https://images.venti.live/user-images/1792713153010-lg.jpg",
   "lat": -31.363313674926758,
   "lon": -64.23645782470703,
@@ -6794,6 +6827,27 @@
   "image": "https://images.venti.live/user-images/1792786464225-lg.jpg",
   "lat": -38.0312385559082,
   "lon": -57.53220748901367,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "ESCORPIO ZODIACAL x ARZ SÁB 07.11",
+  "date": "2026-11-08",
+  "venue": "Aráoz 2424",
+  "artists": [
+   "ESCORPIO ZODIACAL x ARZ"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/escorpio-zodiacal-x-arz-s-b-07-11",
+  "ticket_url": "https://venti.live/evento/escorpio-zodiacal-x-arz-s-b-07-11",
+  "price": "",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
   "start_time": "",
   "sources": [
    "venti"
@@ -7861,6 +7915,27 @@
  },
  {
   "source": "venti",
+  "title": "DANZA",
+  "date": "2026-11-14",
+  "venue": "Uriburu Club",
+  "artists": [
+   "DANZA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/danza",
+  "ticket_url": "https://venti.live/evento/danza",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1793642402446-lg.jpg",
+  "lat": -34.5891835,
+  "lon": -58.3945664,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "EDU OLIVA + HALOS",
   "date": "2026-11-14",
   "venue": "Niceto Bar",
@@ -8363,6 +8438,27 @@
   "artist_source": "title"
  },
  {
+  "source": "indiehoy",
+  "title": "Vale Acevedo",
+  "date": "2026-11-14",
+  "venue": "Teatro Xirgu",
+  "artists": [
+   "Vale Acevedo"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/vale-acevedo-en-teatro-xirgu/",
+  "ticket_url": "https://www.passline.com/eventos-plano/vale-acevedo-unplugged-360",
+  "price": "Desde $23.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/11/vale-acevedo-xirgu.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "venti",
   "title": "ZABAL: PIRANHA",
   "date": "2026-11-14",
@@ -8439,27 +8535,6 @@
   "lat": null,
   "lon": null,
   "start_time": "11:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CHOGGEO La primera fiesta de Chogger de llega a",
-  "date": "2026-11-15",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "CHOGGEO La primera fiesta de Chogger de llega a Humboldt | Niceto Club"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/choggeo-la-primera-fiesta-de-chogger-de-llega-a-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/choggeo-la-primera-fiesta-de-chogger-de-llega-a-humboldt-niceto-club",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1791251301451-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -8546,6 +8621,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "OLD SCHOOL /2005 - 2015/ x ARZ SÁB 14.11",
+  "date": "2026-11-15",
+  "venue": "Aráoz 2424",
+  "artists": [
+   "OLD SCHOOL /2005 - 2015/ x ARZ"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/old-school-2005-2015-x-arz-s-b-14-11",
+  "ticket_url": "https://venti.live/evento/old-school-2005-2015-x-arz-s-b-14-11",
+  "price": "",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -9687,7 +9783,7 @@
  },
  {
   "source": "venti",
-  "title": "SUNSET EL ROBLE 21-10",
+  "title": "SUNSET EL ROBLE 21-11",
   "date": "2026-11-21",
   "venue": "El ROBLE WAKE COMPLEX",
   "artists": [
@@ -9697,7 +9793,7 @@
   "url": "https://venti.live/evento/sunset-el-roble-21-10",
   "ticket_url": "https://venti.live/evento/sunset-el-roble-21-10",
   "price": "$20.000",
-  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "image": "https://images.venti.live/user-images/1793642248306-lg.jpg",
   "lat": -32.97325134277344,
   "lon": -68.73474884033203,
   "start_time": "22:00",
@@ -10142,6 +10238,27 @@
  },
  {
   "source": "venti",
+  "title": "SAGITARIO TOTAL BLACK x ARZ SÁB 21.11",
+  "date": "2026-11-22",
+  "venue": "Aráoz 2424",
+  "artists": [
+   "SAGITARIO TOTAL BLACK x ARZ"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sagitario-total-black-x-arz-s-b-21-11",
+  "ticket_url": "https://venti.live/evento/sagitario-total-black-x-arz-s-b-21-11",
+  "price": "",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "BLACK CREAM ORIGINAL DOMINGO 22/11",
   "date": "2026-11-23",
   "venue": "BlackCream",
@@ -10155,6 +10272,27 @@
   "image": "https://images.venti.live/user-images/1790571947784-lg.jpg",
   "lat": -34.586299896240234,
   "lon": -58.41642379760742,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "CHIRI | KENNY LARKIN | ROBERT HOOD",
+  "date": "2026-11-23",
+  "venue": "Gascón 1040",
+  "artists": [
+   "CHIRI | KENNY LARKIN | ROBERT HOOD"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/chiri-kenny-larkin-robert-hood",
+  "ticket_url": "https://venti.live/evento/chiri-kenny-larkin-robert-hood",
+  "price": "$39.000",
+  "image": "https://images.venti.live/user-images/1786128712430-lg.jpg",
+  "lat": -34.5987418,
+  "lon": -58.42395019999999,
   "start_time": "",
   "sources": [
    "venti"
@@ -11003,7 +11141,7 @@
  },
  {
   "source": "venti",
-  "title": "SUNSET EL ROBLE 28-10",
+  "title": "SUNSET EL ROBLE 28-11",
   "date": "2026-11-28",
   "venue": "El ROBLE WAKE COMPLEX",
   "artists": [
@@ -11013,7 +11151,7 @@
   "url": "https://venti.live/evento/sunset-el-roble-28-10",
   "ticket_url": "https://venti.live/evento/sunset-el-roble-28-10",
   "price": "$20.000",
-  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "image": "https://images.venti.live/user-images/1793642283524-lg.jpg",
   "lat": -32.97325134277344,
   "lon": -68.73474884033203,
   "start_time": "22:00",
@@ -11214,17 +11352,17 @@
  },
  {
   "source": "venti",
-  "title": "Lucas Edi",
+  "title": "Lucas Edi - Abril Roitman | 28.10",
   "date": "2026-11-29",
   "venue": "Niceto Bar",
   "artists": [
-   "Lucas Edi"
+   "Lucas Edi - Abril Roitman"
   ],
   "genres": [],
   "url": "https://venti.live/evento/lucas-edi-en-niceto-bar",
   "ticket_url": "https://venti.live/evento/lucas-edi-en-niceto-bar",
   "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1791917680841-lg.jpg",
+  "image": "https://images.venti.live/user-images/1793635608783-lg.jpg",
   "lat": -34.5872316,
   "lon": -58.4383841,
   "start_time": "",
@@ -11270,6 +11408,27 @@
   "lat": -26.8317073,
   "lon": -65.18138859999999,
   "start_time": "01:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "OLD SCHOOL 2.0 /2015-2020/ x ARZ SÁB 28.11",
+  "date": "2026-11-29",
+  "venue": "Aráoz 2424",
+  "artists": [
+   "OLD SCHOOL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/old-school-2-0-2015-2020-x-arz-s-b-28-11",
+  "ticket_url": "https://venti.live/evento/old-school-2-0-2015-2020-x-arz-s-b-28-11",
+  "price": "",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.586299896240234,
+  "lon": -58.41642379760742,
+  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -11579,6 +11738,50 @@
  },
  {
   "source": "indiehoy",
+  "title": "Santiago Motorizado",
+  "date": "2026-12-04",
+  "venue": "Deseo",
+  "artists": [
+   "Santiago Motorizado"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/santiago-motorizado-en-deseo/",
+  "ticket_url": "https://www.enigmatickets.com/checkout2/4c823155-46ba-415f-9c78-c005c8478e62/selection",
+  "price": "Desde $55.000",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/11/santiago-motorizado-deseo.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF",
+  "date": "2026-12-05",
+  "venue": "Niceto Bar",
+  "artists": [
+   "DESORDEN con OPINEL",
+   "ISLA TUCAN",
+   "JTF"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1793642506950-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
   "title": "Don Osvaldo en Huracán",
   "date": "2026-12-05",
   "venue": "Estadio de Huracán: Tomás Adolfo Ducó",
@@ -11789,6 +11992,27 @@
   "image": "https://images.venti.live/user-images/1791296304963-lg.jpg",
   "lat": -34.5875434,
   "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "FRANCISCO VALENTIN X FUNKION",
+  "date": "2026-12-06",
+  "venue": "Switch Club",
+  "artists": [
+   "FRANCISCO VALENTIN X FUNKION"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/francisco-valentin-x-funkion-switch-club",
+  "ticket_url": "https://venti.live/evento/francisco-valentin-x-funkion-switch-club",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1793633192665-lg.jpg",
+  "lat": -32.939125,
+  "lon": -60.65062629999999,
   "start_time": "",
   "sources": [
    "venti"
@@ -12964,6 +13188,48 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "OCTAFONIC 18 DIC en Niceto Club (+18 años)",
+  "date": "2026-12-18",
+  "venue": "Niceto Club",
+  "artists": [
+   "OCTAFONIC"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/octafonic-18-dic-en-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/octafonic-18-dic-en-niceto-club-18-a-os",
+  "price": "$25.000",
+  "image": "https://images.venti.live/user-images/1793636909125-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "indiehoy",
+  "title": "After Roca",
+  "date": "2026-12-19",
+  "venue": "La Tangente",
+  "artists": [
+   "After Roca"
+  ],
+  "genres": [],
+  "url": "https://indiehoy.com/agenda/after-roca-en-la-tangente/",
+  "ticket_url": "https://tickets.latangente.com.ar/musica/after-roca",
+  "price": "$11.500",
+  "image": "https://indiehoy.com/wp-content/uploads/2026/11/after-latangente.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Ben Sims - Bondarük & SMT",
   "date": "2026-12-19",
@@ -13419,6 +13685,27 @@
  },
  {
   "source": "venti",
+  "title": "FESTIVAL PARDO: LAS LIGAS MENORES en Humboldt | Niceto Club (+18 años)",
+  "date": "2026-12-27",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "PARDO: LAS LIGAS MENORES"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/festival-pardo-las-ligas-menores-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/festival-pardo-las-ligas-menores-en-humboldt-niceto-club-18-a-os",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1793623764482-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "OOSTIL - STJEPANEK- FACUNDO SVAL /EROS",
   "date": "2026-12-27",
   "venue": "Pergamino",
@@ -13449,7 +13736,7 @@
   "genres": [],
   "url": "https://venti.live/evento/colyn-27-de-diciembre-en-pde",
   "ticket_url": "https://venti.live/evento/colyn-27-de-diciembre-en-pde",
-  "price": "$48.150",
+  "price": "$47.040",
   "image": "https://images.venti.live/user-images/1789497587284-lg.jpg",
   "lat": -34.9485596,
   "lon": -54.923812,

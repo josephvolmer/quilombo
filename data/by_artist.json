@@ -111,6 +111,14 @@
    "title": "Fantazy Land Festival - Post Marcha Del Orgullo"
   }
  ],
+ "After Roca": [
+  {
+   "date": "2026-12-19",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/after-roca-en-la-tangente/",
+   "title": "After Roca"
+  }
+ ],
  "Agarrate Catalina": [
   {
    "date": "2026-12-08",
@@ -135,14 +143,6 @@
    "title": "BEFORE DAWN presents AGUSTIN PIETROCOLA + PALI EDGECHMAN b2b MATIAS GAUNA + ALAN MAHONE"
   }
  ],
- "Akapellah": [
-  {
-   "date": "2026-11-01",
-   "venue": "Niceto Club",
-   "url": "https://indiehoy.com/agenda/akapellah-en-niceto-club/",
-   "title": "Akapellah"
-  }
- ],
  "Alan Mahone": [
   {
    "date": "2026-11-21",
@@ -157,14 +157,6 @@
    "venue": "Uniclub",
    "url": "https://indiehoy.com/agenda/alcest-en-argentina/",
    "title": "Alcest en Argentina"
-  }
- ],
- "Alejo Rivero, Nico Zas": [
-  {
-   "date": "2026-11-01",
-   "venue": "Cemento Cultural",
-   "url": "https://ra.co/events/2562570",
-   "title": "LUMBRA en Cemento"
   }
  ],
  "Alex Anwandter": [
@@ -297,14 +289,6 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
- "Angela Torres": [
-  {
-   "date": "2026-11-01",
-   "venue": "Arena Mardel Plata",
-   "url": "https://venti.live/evento/ngela-torres-no-me-olvides-tour-en-arena-mardel-plata",
-   "title": "Ángela Torres - No me olvides Tour"
-  }
- ],
  "Anhauser": [
   {
    "date": "2026-11-07",
@@ -417,6 +401,14 @@
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
   }
  ],
+ "BAILAR O MORIR": [
+  {
+   "date": "2026-11-07",
+   "venue": "Güemes 2607",
+   "url": "https://venti.live/evento/bailar-o-morir",
+   "title": "BAILAR O MORIR"
+  }
+ ],
  "Baja Killa": [
   {
    "date": "2026-11-04",
@@ -465,6 +457,14 @@
    "title": "Benjamín Amadeo"
   }
  ],
+ "Berger Muzik": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
+  }
+ ],
  "Bermani": [
   {
    "date": "2026-11-06",
@@ -479,14 +479,6 @@
    "venue": "Teatro Ópera ON",
    "url": "https://indiehoy.com/agenda/bianca-del-rio-argentina-2026/",
    "title": "Bianca del Rio en Argentina"
-  }
- ],
- "BLACK CREAM": [
-  {
-   "date": "2026-11-02",
-   "venue": "BlackCream",
-   "url": "https://venti.live/evento/black-cream-domingo-01-11-halloween-2",
-   "title": "BLACK CREAM DOMINGO 01/11 HALLOWEEN 2"
   }
  ],
  "BLACK CREAM ORIGINAL": [
@@ -532,7 +524,7 @@
    "date": "2026-11-08",
    "venue": "Av. Rafael Núñez 4614",
    "url": "https://venti.live/evento/s07-11-bob-tosh-en-fruta",
-   "title": "07.11 | BOB TOSH EN FRUTA."
+   "title": "07.11 | BOB TOSH en FRUTA EXTENDED"
   }
  ],
  "Bodeler": [
@@ -549,6 +541,14 @@
    "venue": "Strummer Bar",
    "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
    "title": "Bombardeo Fest 1"
+  }
+ ],
+ "Bonaerense": [
+  {
+   "date": "2026-11-07",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/tigre-ulli-y-bonaerense-en-la-tangente/",
+   "title": "Tigre Ulli y Bonaerense"
   }
  ],
  "Bondarük": [
@@ -885,20 +885,20 @@
    "title": "CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 )"
   }
  ],
+ "CHIRI | KENNY LARKIN | ROBERT HOOD": [
+  {
+   "date": "2026-11-23",
+   "venue": "Gascón 1040",
+   "url": "https://venti.live/evento/chiri-kenny-larkin-robert-hood",
+   "title": "CHIRI | KENNY LARKIN | ROBERT HOOD"
+  }
+ ],
  "Chloé Caillet": [
   {
    "date": "2026-11-06",
    "venue": "Deseo BS AS",
    "url": "https://ra.co/events/2527627",
    "title": "KLAV PRES. Chloé Caillet & LUKE ALESSI"
-  }
- ],
- "CHOGGEO La primera fiesta de Chogger de llega a Humboldt | Niceto Club": [
-  {
-   "date": "2026-11-15",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/choggeo-la-primera-fiesta-de-chogger-de-llega-a-humboldt-niceto-club",
-   "title": "CHOGGEO La primera fiesta de Chogger de llega a"
   }
  ],
  "Chupete Open Air II": [
@@ -1131,6 +1131,14 @@
    "title": "DANNY HOWELLS x 2GTHR - ARCHI OPEN AIR | 22.11"
   }
  ],
+ "DANZA": [
+  {
+   "date": "2026-11-14",
+   "venue": "Uriburu Club",
+   "url": "https://venti.live/evento/danza",
+   "title": "DANZA"
+  }
+ ],
  "Dança Tropical": [
   {
    "date": "2027-01-07",
@@ -1177,14 +1185,6 @@
    "venue": "Melt Underground",
    "url": "https://ra.co/events/2566699",
    "title": "Melt Pres. David Meiser (Live)"
-  }
- ],
- "David Schunk": [
-  {
-   "date": "2026-11-01",
-   "venue": "Cemento Cultural",
-   "url": "https://ra.co/events/2562570",
-   "title": "LUMBRA en Cemento"
   }
  ],
  "dddancos": [
@@ -1263,6 +1263,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/ciclo-desorden-en-niceto-bar",
    "title": "CICLO DESORDEN"
+  }
+ ],
+ "DESORDEN con OPINEL": [
+  {
+   "date": "2026-12-05",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar",
+   "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF"
   }
  ],
  "DEUX": [
@@ -1473,6 +1481,14 @@
    "title": "GRAND GROOVE RECORDS × DAKTILAR RECORDINGS × 091 RECORDS"
   }
  ],
+ "EL CABLE SUNSET | TOTO SALOMÓN": [
+  {
+   "date": "2026-11-07",
+   "venue": "El Cable Wakepark",
+   "url": "https://venti.live/evento/el-cable-sunset-toto-salom-n-zoolo",
+   "title": "EL CABLE SUNSET | TOTO SALOMÓN & ZOOLO"
+  }
+ ],
  "El Ciclo Federal": [
   {
    "date": "2026-11-12",
@@ -1611,6 +1627,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/error-vanessa-presenta-indomable-en-humboldt-niceto-club",
    "title": "ERROR VANESSA PRESENTA INDOMABLE"
+  }
+ ],
+ "ESCORPIO ZODIACAL x ARZ": [
+  {
+   "date": "2026-11-08",
+   "venue": "Aráoz 2424",
+   "url": "https://venti.live/evento/escorpio-zodiacal-x-arz-s-b-07-11",
+   "title": "ESCORPIO ZODIACAL x ARZ SÁB 07.11"
   }
  ],
  "Euge Quevedo": [
@@ -1839,6 +1863,14 @@
    "title": "FQCY Pres. Nacho Scoppa"
   }
  ],
+ "FRANCISCO VALENTIN X FUNKION": [
+  {
+   "date": "2026-12-06",
+   "venue": "Switch Club",
+   "url": "https://venti.live/evento/francisco-valentin-x-funkion-switch-club",
+   "title": "FRANCISCO VALENTIN X FUNKION"
+  }
+ ],
  "Franco Armellini": [
   {
    "date": "2026-11-29",
@@ -2061,14 +2093,6 @@
    "title": "Gvtz en en Humboldt | Niceto Club (+16 años)"
   }
  ],
- "HABITAT": [
-  {
-   "date": "2026-11-01",
-   "venue": "Wild Hops City Bell",
-   "url": "https://venti.live/evento/habitat-en-wildhops",
-   "title": "HABITAT en Wildhops"
-  }
- ],
  "HALOS": [
   {
    "date": "2026-11-14",
@@ -2259,12 +2283,28 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Isabella": [
+  {
+   "date": "2026-11-07",
+   "venue": "Artlab",
+   "url": "https://ra.co/events/2574376",
+   "title": "Music With Strangers"
+  }
+ ],
  "Isla de Caras": [
   {
    "date": "2026-11-20",
    "venue": "Deseo",
    "url": "https://indiehoy.com/agenda/isla-de-caras-en-deseo/",
    "title": "Isla de Caras"
+  }
+ ],
+ "ISLA TUCAN": [
+  {
+   "date": "2026-12-05",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar",
+   "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF"
   }
  ],
  "Ito & François": [
@@ -2369,6 +2409,14 @@
    "venue": "TCQ",
    "url": "https://ra.co/events/2546040",
    "title": "TCQ Invites: Anna Amato"
+  }
+ ],
+ "JTF": [
+  {
+   "date": "2026-12-05",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar",
+   "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF"
   }
  ],
  "Juan 97": [
@@ -2511,6 +2559,14 @@
    "venue": "TBA - Parque de la Ciudad, CABA",
    "url": "https://ra.co/events/2528105",
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
+  }
+ ],
+ "KILOMBO": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/kilombo-jue-5-nov-en-niceto-bar",
+   "title": "KILOMBO Jue 5 NOV"
   }
  ],
  "Klav: tINI": [
@@ -2993,12 +3049,12 @@
    "title": "Luar La L en Argentina"
   }
  ],
- "Lucas Edi": [
+ "Lucas Edi - Abril Roitman": [
   {
    "date": "2026-11-29",
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/lucas-edi-en-niceto-bar",
-   "title": "Lucas Edi"
+   "title": "Lucas Edi - Abril Roitman | 28.10"
   }
  ],
  "Lucas Sequeira": [
@@ -3313,6 +3369,14 @@
    "title": "Deer Jade"
   }
  ],
+ "May Mc Laren": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
+  }
+ ],
  "MEGA FIESTA - LINE DANCE CLUB presenta a JOHNNY ROSSATO": [
   {
    "date": "2026-12-12",
@@ -3573,6 +3637,14 @@
    "title": "MUSHROOM NYE 2027 — THE FIRST SUN"
   }
  ],
+ "Music With Strangers": [
+  {
+   "date": "2026-11-07",
+   "venue": "Artlab",
+   "url": "https://ra.co/events/2574376",
+   "title": "Music With Strangers"
+  }
+ ],
  "Máze": [
   {
    "date": "2026-11-09",
@@ -3713,6 +3785,14 @@
    "title": "NORA EN PURE x 2GTHR - ARCHI OPEN AIR | 07.11"
   }
  ],
+ "NOT WELCOME PRESENTS DELUM": [
+  {
+   "date": "2026-11-06",
+   "venue": "Tokyo Club BA",
+   "url": "https://venti.live/evento/not-welcome-presents-delum",
+   "title": "NOT WELCOME PRESENTS DELUM"
+  }
+ ],
  "NYE TECHNO EDITION: MATADOR": [
   {
    "date": "2027-01-01",
@@ -3727,6 +3807,12 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/octafonic-en-niceto-club",
    "title": "OCTAFONIC en Niceto Club (+18 años)"
+  },
+  {
+   "date": "2026-12-18",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/octafonic-18-dic-en-niceto-club-18-a-os",
+   "title": "OCTAFONIC 18 DIC en Niceto Club (+18 años)"
   }
  ],
  "Oeisis": [
@@ -3735,6 +3821,22 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/oeisis-en-argentina/",
    "title": "Oeisis"
+  }
+ ],
+ "OLD SCHOOL": [
+  {
+   "date": "2026-11-29",
+   "venue": "Aráoz 2424",
+   "url": "https://venti.live/evento/old-school-2-0-2015-2020-x-arz-s-b-28-11",
+   "title": "OLD SCHOOL 2.0 /2015-2020/ x ARZ SÁB 28.11"
+  }
+ ],
+ "OLD SCHOOL /2005 - 2015/ x ARZ": [
+  {
+   "date": "2026-11-15",
+   "venue": "Aráoz 2424",
+   "url": "https://venti.live/evento/old-school-2005-2015-x-arz-s-b-14-11",
+   "title": "OLD SCHOOL /2005 - 2015/ x ARZ SÁB 14.11"
   }
  ],
  "OOSTIL - STJEPANEK- FACUNDO SVAL /EROS": [
@@ -3837,6 +3939,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/festival-pardo-elektromanos-lucas-sequeira-la-lovely-band-en-humboldt-niceto-club-18-a-os",
    "title": "FESTIVAL PARDO: Elektromanos + Lucas Sequeira & la lovely band en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
+ "PARDO: LAS LIGAS MENORES": [
+  {
+   "date": "2026-12-27",
+   "venue": "Humboldt | Niceto Club",
+   "url": "https://venti.live/evento/festival-pardo-las-ligas-menores-en-humboldt-niceto-club-18-a-os",
+   "title": "FESTIVAL PARDO: LAS LIGAS MENORES en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Party Pipol": [
@@ -4209,6 +4319,14 @@
    "title": "ROCIO PORTILLO"
   }
  ],
+ "Romina Cohn": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
+  }
+ ],
  "Ronze": [
   {
    "date": "2026-12-19",
@@ -4257,6 +4375,14 @@
    "title": "SAFARI PRES - SHOWCASE TREEP RECORDS"
   }
  ],
+ "SAGITARIO TOTAL BLACK x ARZ": [
+  {
+   "date": "2026-11-22",
+   "venue": "Aráoz 2424",
+   "url": "https://venti.live/evento/sagitario-total-black-x-arz-s-b-21-11",
+   "title": "SAGITARIO TOTAL BLACK x ARZ SÁB 21.11"
+  }
+ ],
  "SAN MARTIN VAMPIRE": [
   {
    "date": "2026-11-07",
@@ -4279,6 +4405,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/santiago-cruz-vuelve-a-la-argentina-en-niceto-club",
    "title": "Santiago Cruz vuelve a la Argentina en Niceto Club (+18 años)"
+  }
+ ],
+ "Santiago Motorizado": [
+  {
+   "date": "2026-12-04",
+   "venue": "Deseo",
+   "url": "https://indiehoy.com/agenda/santiago-motorizado-en-deseo/",
+   "title": "Santiago Motorizado"
   }
  ],
  "Sara Hebe": [
@@ -4546,13 +4680,13 @@
    "date": "2026-11-21",
    "venue": "El ROBLE WAKE COMPLEX",
    "url": "https://venti.live/evento/sunset-el-roble-21-10",
-   "title": "SUNSET EL ROBLE 21-10"
+   "title": "SUNSET EL ROBLE 21-11"
   },
   {
    "date": "2026-11-28",
    "venue": "El ROBLE WAKE COMPLEX",
    "url": "https://venti.live/evento/sunset-el-roble-28-10",
-   "title": "SUNSET EL ROBLE 28-10"
+   "title": "SUNSET EL ROBLE 28-11"
   }
  ],
  "SUNSET EL ROBLE- LOS PLAYEROS": [
@@ -4743,6 +4877,14 @@
    "title": "Deer Jade"
   }
  ],
+ "Tigre Ulli": [
+  {
+   "date": "2026-11-07",
+   "venue": "La Tangente",
+   "url": "https://indiehoy.com/agenda/tigre-ulli-y-bonaerense-en-la-tangente/",
+   "title": "Tigre Ulli y Bonaerense"
+  }
+ ],
  "Tina Disco": [
   {
    "date": "2026-11-08",
@@ -4923,6 +5065,22 @@
    "title": "Underworld en Argentina"
   }
  ],
+ "Vale Acevedo": [
+  {
+   "date": "2026-11-14",
+   "venue": "Teatro Xirgu",
+   "url": "https://indiehoy.com/agenda/vale-acevedo-en-teatro-xirgu/",
+   "title": "Vale Acevedo"
+  }
+ ],
+ "Valentina Lopez": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
+  }
+ ],
  "Valentina Spirito": [
   {
    "date": "2026-12-11",
@@ -4979,6 +5137,20 @@
    "title": "Los Sub y Verde y Los Caballos a Marte"
   }
  ],
+ "Victoria Arena": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
+  },
+  {
+   "date": "2026-11-07",
+   "venue": "Artlab",
+   "url": "https://ra.co/events/2574376",
+   "title": "Music With Strangers"
+  }
+ ],
  "Victoria Engel": [
   {
    "date": "2026-12-19",
@@ -5009,6 +5181,14 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
+  }
+ ],
+ "Visuals x UnPlug.": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
   }
  ],
  "Void": [
@@ -5055,6 +5235,14 @@
    "venue": "Ciudad Cultural Konex",
    "url": "https://venti.live/evento/levitation-festarg-2027",
    "title": "LEVITATION ARGENTINA 2027"
+  }
+ ],
+ "X Chvnli (Live!)": [
+  {
+   "date": "2026-11-06",
+   "venue": "Niceto Club",
+   "url": "https://ra.co/events/2574307",
+   "title": "Minelek XIX Anniversary"
   }
  ],
  "Xavi ST": [
@@ -5119,6 +5307,14 @@
    "venue": "Teatro Coliseo",
    "url": "https://indiehoy.com/agenda/zoe-gotusso-en-teatro-coliseo/",
    "title": "Zoe Gotusso"
+  }
+ ],
+ "ZOOLO": [
+  {
+   "date": "2026-11-07",
+   "venue": "El Cable Wakepark",
+   "url": "https://venti.live/evento/el-cable-sunset-toto-salom-n-zoolo",
+   "title": "EL CABLE SUNSET | TOTO SALOMÓN & ZOOLO"
   }
  ],
  "Zualet": [
