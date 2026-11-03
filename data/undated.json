@@ -545,23 +545,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Camilo",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Camilo"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/camilo/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/camilo/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/camilo_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Sandra Mihanovich",
   "date": "",
   "venue": "Teatro Devoto",
@@ -641,6 +624,23 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Katseye: The tribute experience",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Katseye: The tribute experience"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1327,23 +1327,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Katseye: The tribute experience",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Katseye: The tribute experience"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Maria Elena Walsh Sinfónico",
   "date": "",
   "venue": "Teatro Colón",
@@ -1429,6 +1412,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Nicolás de Tracy",
+  "date": "",
+  "venue": "Radio City",
+  "artists": [
+   "Nicolás de Tracy"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city",
+  "ticket_url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/nico_a27.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Juampi Gonzalez",
   "date": "",
   "venue": "City Center",
@@ -1508,23 +1508,6 @@
   "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Costa",
-  "date": "",
-  "venue": "City Center",
-  "artists": [
-   "Costa"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/costa/city-center",
-  "ticket_url": "https://www.ticketek.com.ar/costa/city-center",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/atodacosta440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
