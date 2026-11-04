@@ -120,23 +120,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Dillom",
-  "date": "",
-  "venue": "Bendu Arena",
-  "artists": [
-   "Dillom"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/dillom/bendu-arena",
-  "ticket_url": "https://www.ticketek.com.ar/dillom/bendu-arena",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dillom_a27.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Tobías Arizio",
   "date": "",
   "venue": "Teatro Santa María",
@@ -182,6 +165,23 @@
   "ticket_url": "https://www.ticketek.com.ar/slash/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/slash.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "FKA twigs",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "FKA twigs"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/fka-twigs/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/fka-twigs/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fka-twigs-eq-ticketera-coliseo-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -301,6 +301,23 @@
   "ticket_url": "https://www.ticketek.com.ar/carnaval-toda-la-orquesta/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/carn440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Los Sandritos",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Los Sandritos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-sandritos/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/los-sandritos/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ls_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -454,23 +471,6 @@
   "ticket_url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tipitos_coliseo_440x600.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ecos",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Ecos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -783,6 +783,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Sergio Galleguillo",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Sergio Galleguillo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/sergio-galleguillo/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/sergio-galleguillo/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/galleguillo_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Canto 4",
   "date": "",
   "venue": "Teatro Opera On",
@@ -885,23 +902,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Festival La Porteña",
-  "date": "",
-  "venue": "Hipódromo de Palermo",
-  "artists": [
-   "Festival La Porteña"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
-  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/la_portena_2026_hipodromo_440x600_1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Dalila",
   "date": "",
   "venue": "Teatro Opera On",
@@ -970,6 +970,23 @@
  },
  {
   "source": "ticketek",
+  "title": "La Morocha",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "La Morocha"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-morocha/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/la-morocha/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600-la-morocha.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Uriel Lozano",
   "date": "",
   "venue": "Tropitango",
@@ -1021,6 +1038,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Festival La Porteña",
+  "date": "",
+  "venue": "Hipódromo de Palermo",
+  "artists": [
+   "Festival La Porteña"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/la_portena_2026_hipodromo_440x600_1.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "La verdadera historia de Ricardo III",
   "date": "",
   "venue": "Teatro San Martín",
@@ -1040,7 +1074,7 @@
   "source": "ticketek",
   "title": "Julián Hernández",
   "date": "",
-  "venue": "Radio City",
+  "venue": "RADIO CITY / ROXY / MELANY",
   "artists": [
    "Julián Hernández"
   ],
@@ -1259,6 +1293,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Ecos",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Ecos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Clearwater",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1414,13 +1465,13 @@
   "source": "ticketek",
   "title": "Nicolás de Tracy",
   "date": "",
-  "venue": "Radio City",
+  "venue": "RADIO CITY / ROXY / MELANY",
   "artists": [
    "Nicolás de Tracy"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city",
-  "ticket_url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city",
+  "url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city-roxy-melany",
+  "ticket_url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city-roxy-melany",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/nico_a27.png",
   "lat": null,
