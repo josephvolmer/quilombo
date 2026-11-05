@@ -545,6 +545,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Sebastián Molina",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Sebastián Molina"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/sebastian-molina/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/sebastian-molina/city-center",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/molina_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Sandra Mihanovich",
   "date": "",
   "venue": "Teatro Devoto",
@@ -624,23 +641,6 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Katseye: The tribute experience",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Katseye: The tribute experience"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1123,6 +1123,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Ezequiel Campa",
+  "date": "",
+  "venue": "Teatro Marín",
+  "artists": [
+   "Ezequiel Campa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
+  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_4_de_diciembre_san_isidro_440x600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "La Verbena de la Paloma",
   "date": "",
   "venue": "Teatro Avenida",
@@ -1378,6 +1395,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Katseye: The tribute experience",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Katseye: The tribute experience"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Maria Elena Walsh Sinfónico",
   "date": "",
   "venue": "Teatro Colón",
@@ -1412,6 +1446,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Ballet Hispania",
+  "date": "",
+  "venue": "Teatro Santa María",
+  "artists": [
+   "Ballet Hispania"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ballet-hispania/teatro-santa-maria",
+  "ticket_url": "https://www.ticketek.com.ar/ballet-hispania/teatro-santa-maria",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/th_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Ballet de San Petersburgo",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1422,24 +1473,7 @@
   "url": "https://www.ticketek.com.ar/ballet-de-san-petersburgo/auditorio-de-belgrano",
   "ticket_url": "https://www.ticketek.com.ar/ballet-de-san-petersburgo/auditorio-de-belgrano",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/bsp440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ezequiel Campa",
-  "date": "",
-  "venue": "Teatro Marín",
-  "artists": [
-   "Ezequiel Campa"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
-  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_4_de_diciembre_san_isidro_440x600.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/casca_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
