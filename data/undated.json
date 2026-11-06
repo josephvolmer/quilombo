@@ -715,6 +715,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Victor Wooten & The Wooten Brothers",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Victor Wooten & The Wooten Brothers"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/victor-wooten-and-the-wooten-brothers/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/victor-wooten-and-the-wooten-brothers/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/wootenbro_coliseo_440_x_600.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Raly Barrionuevo",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -936,6 +953,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Los Charros",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Los Charros"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-charros/auditorio-de-belgrano",
+  "ticket_url": "https://www.ticketek.com.ar/los-charros/auditorio-de-belgrano",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/web_destacado_busquedas.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Ricky Maravilla",
   "date": "",
   "venue": "Teatro Opera On",
@@ -1125,15 +1159,32 @@
   "source": "ticketek",
   "title": "Ezequiel Campa",
   "date": "",
+  "venue": "RADIO CITY / ROXY / MELANY",
+  "artists": [
+   "Ezequiel Campa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ezequiel-campa",
+  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ec_a26g.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ezequiel Campa",
+  "date": "",
   "venue": "Teatro Marín",
   "artists": [
    "Ezequiel Campa"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
-  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa/teatro-marin",
+  "url": "https://www.ticketek.com.ar/ezequiel-campa",
+  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_4_de_diciembre_san_isidro_440x600.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ec_a26g.png",
   "lat": null,
   "lon": null,
   "start_time": ""
