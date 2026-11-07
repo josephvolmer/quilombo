@@ -324,6 +324,23 @@
  },
  {
   "source": "ticketek",
+  "title": "Zubipalloza",
+  "date": "",
+  "venue": "Teatro Devoto",
+  "artists": [
+   "Zubipalloza"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/zubipalloza/teatro-devoto",
+  "ticket_url": "https://www.ticketek.com.ar/zubipalloza/teatro-devoto",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/02_vertical_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Virus",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -454,23 +471,6 @@
   "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Los Tipitos",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Los Tipitos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tipitos_coliseo_440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -715,23 +715,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Victor Wooten & The Wooten Brothers",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Victor Wooten & The Wooten Brothers"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/victor-wooten-and-the-wooten-brothers/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/victor-wooten-and-the-wooten-brothers/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/wootenbro_coliseo_440_x_600.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Raly Barrionuevo",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -817,23 +800,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Canto 4",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Canto 4"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/canto-4/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/canto-4/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/canto440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Victor Heredia",
   "date": "",
   "venue": "Teatro Opera On",
@@ -868,23 +834,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Chango Spasiuk",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Chango Spasiuk"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/chango-spasiuk/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/chango_spasiuk.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Jorge Rojas",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -913,6 +862,57 @@
   "ticket_url": "https://www.ticketek.com.ar/universo-tupay/teatro-opera",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/univer440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Festival La Porteña",
+  "date": "",
+  "venue": "Hipódromo de Palermo",
+  "artists": [
+   "Festival La Porteña"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/la_portena_2026_hipodromo_440x600_1.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Abel Pintos",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Abel Pintos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/abel-pintos",
+  "ticket_url": "https://www.ticketek.com.ar/abel-pintos",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ap_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Abel Pintos",
+  "date": "",
+  "venue": "Teatro Tronador",
+  "artists": [
+   "Abel Pintos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/abel-pintos",
+  "ticket_url": "https://www.ticketek.com.ar/abel-pintos",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ap_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1072,23 +1072,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Festival La Porteña",
-  "date": "",
-  "venue": "Hipódromo de Palermo",
-  "artists": [
-   "Festival La Porteña"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
-  "ticket_url": "https://www.ticketek.com.ar/festival-la-portena/hipodromo-de-palermo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/la_portena_2026_hipodromo_440x600_1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La verdadera historia de Ricardo III",
   "date": "",
   "venue": "Teatro San Martín",
@@ -1106,6 +1089,57 @@
  },
  {
   "source": "ticketek",
+  "title": "Dalia Gutmann",
+  "date": "",
+  "venue": "RADIO CITY / ROXY / MELANY",
+  "artists": [
+   "Dalia Gutmann"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dalia-gutmann",
+  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dalia Gutmann",
+  "date": "",
+  "venue": "Auditorio de Belgrano",
+  "artists": [
+   "Dalia Gutmann"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dalia-gutmann",
+  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Rolo Villar y Ariel Tarico",
+  "date": "",
+  "venue": "RADIO CITY / ROXY / MELANY",
+  "artists": [
+   "Rolo Villar y Ariel Tarico"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/rolo-villar-y-ariel-tarico/radio-city-roxy-melany",
+  "ticket_url": "https://www.ticketek.com.ar/rolo-villar-y-ariel-tarico/radio-city-roxy-melany",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/humor_a27.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "Julián Hernández",
   "date": "",
   "venue": "RADIO CITY / ROXY / MELANY",
@@ -1113,8 +1147,8 @@
    "Julián Hernández"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/julian-hernandez/radio-city",
-  "ticket_url": "https://www.ticketek.com.ar/julian-hernandez/radio-city",
+  "url": "https://www.ticketek.com.ar/julian-hernandez/radio-city-roxy-melany",
+  "ticket_url": "https://www.ticketek.com.ar/julian-hernandez/radio-city-roxy-melany",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/julian_h_a27.png",
   "lat": null,
@@ -1304,57 +1338,6 @@
   "ticket_url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/eljefe_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Elena Roger",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Elena Roger"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/elena-roger",
-  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Elena Roger",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Elena Roger"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/elena-roger",
-  "ticket_url": "https://www.ticketek.com.ar/elena-roger",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/er_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Campo Minado",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Campo Minado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1633,17 +1616,17 @@
  },
  {
   "source": "ticketek",
-  "title": "Dalia Gutmann",
+  "title": "Costa",
   "date": "",
-  "venue": "Auditorio de Belgrano",
+  "venue": "City Center",
   "artists": [
-   "Dalia Gutmann"
+   "Costa"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
-  "ticket_url": "https://www.ticketek.com.ar/dalia-gutmann/auditorio-de-belgrano",
+  "url": "https://www.ticketek.com.ar/costa/city-center",
+  "ticket_url": "https://www.ticketek.com.ar/costa/city-center",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dalweb440.jpg",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/atodacosta440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
