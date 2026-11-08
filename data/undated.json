@@ -207,23 +207,6 @@
   "source": "ticketek",
   "title": "El Plan de la Mariposa",
   "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "El Plan de la Mariposa"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
-  "ticket_url": "https://www.ticketek.com.ar/el-plan-de-la-mariposa",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_epdm_-_ticketek.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "El Plan de la Mariposa",
-  "date": "",
   "venue": "Club Atenas",
   "artists": [
    "El Plan de la Mariposa"
@@ -800,23 +783,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Victor Heredia",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Victor Heredia"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/victor-heredia/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/victor-heredia/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/vh_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Cuti y Roberto Carabajal",
   "date": "",
   "venue": "City Center",
@@ -828,23 +794,6 @@
   "ticket_url": "https://www.ticketek.com.ar/cuti-y-roberto-carabajal/city-center",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/robcut440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Jorge Rojas",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Jorge Rojas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-rojas/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/piano-y-voz-generico-440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1310,51 +1259,17 @@
  },
  {
   "source": "ticketek",
-  "title": "El jefe del jefe",
+  "title": "Campo Minado",
   "date": "",
-  "venue": "Teatro Marín",
+  "venue": "Teatro Coliseo",
   "artists": [
-   "El jefe del jefe"
+   "Campo Minado"
   ],
   "genres": [],
-  "url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
-  "ticket_url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
+  "url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
   "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/eljefe_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "El jefe del jefe",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "El jefe del jefe"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
-  "ticket_url": "https://www.ticketek.com.ar/el-jefe-del-jefe",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/eljefe_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ecos",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Ecos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/ecos/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ecos_a.png",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1514,23 +1429,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Connie Ballarini",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Connie Ballarini"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
-  "ticket_url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/connie_agenerica.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Nicolás de Tracy",
   "date": "",
   "venue": "RADIO CITY / ROXY / MELANY",
@@ -1542,6 +1440,23 @@
   "ticket_url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city-roxy-melany",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/nico_a27.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Connie Ballarini",
+  "date": "",
+  "venue": "Teatro Astengo",
+  "artists": [
+   "Connie Ballarini"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
+  "ticket_url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/connie_agenerica.png",
   "lat": null,
   "lon": null,
   "start_time": ""

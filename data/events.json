@@ -112,29 +112,6 @@
  },
  {
   "source": "bebop",
-  "title": "Paris Jazz Club",
-  "date": "2026-09-16",
-  "venue": "Bebop Club",
-  "artists": [
-   "Paris Jazz Club"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/9c74af8e-7343-4b37-a49c-063045259043",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/9c74af8e-7343-4b37-a49c-063045259043",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "Woddy Allen Night",
   "date": "2026-09-16",
   "venue": "Bebop Club",
@@ -4050,29 +4027,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "bebop",
-  "title": "Duke & Oscar",
-  "date": "2026-10-24",
-  "venue": "Bebop Club",
-  "artists": [
-   "Duke & Oscar"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/e003f009-090c-4320-8fee-078b8320a582",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/e003f009-090c-4320-8fee-078b8320a582",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Fabio Florido 7 HORAS",
   "date": "2026-10-24",
@@ -5323,28 +5277,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Alex Ubago",
-  "date": "2026-11-07",
-  "venue": "Teatro Gran Rex",
-  "artists": [
-   "Alex Ubago"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/42937060-alex-ubago-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/42937060-alex-ubago-at-teatro-gran-rex?utm_medium=organic&utm_source=microformat",
-  "price": "Desde $40.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/133333/huge_avatar",
-  "lat": -34.60339,
-  "lon": -58.37887,
-  "start_time": "",
-  "sources": [
-   "indiehoy",
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "BEFORE DAWN presents XAVI ST + FACU SANSE + GIOVANNI TOMASSO",
   "date": "2026-11-07",
@@ -5396,70 +5328,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Beyond Madness",
-  "date": "2026-11-07",
-  "venue": "Vadenuevo",
-  "artists": [
-   "Beyond Madness"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43486993-beyond-madness-at-vadenuevo?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43486993-beyond-madness-at-vadenuevo?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10194360/huge_avatar",
-  "lat": -34.66236,
-  "lon": -58.62532,
-  "start_time": "23:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "CHOCOLATE REMIX",
-  "date": "2026-11-07",
-  "venue": "Quetren Club Cultural",
-  "artists": [
-   "CHOCOLATE REMIX"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43480781-chocolate-remix-at-quetren-club-cultural?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43480781-chocolate-remix-at-quetren-club-cultural?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/7819449/huge_avatar",
-  "lat": null,
-  "lon": null,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "EL CABLE SUNSET | TOTO SALOMÓN & ZOOLO",
-  "date": "2026-11-07",
-  "venue": "El Cable Wakepark",
-  "artists": [
-   "EL CABLE SUNSET | TOTO SALOMÓN",
-   "ZOOLO"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/el-cable-sunset-toto-salom-n-zoolo",
-  "ticket_url": "https://venti.live/evento/el-cable-sunset-toto-salom-n-zoolo",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1793633118107-lg.jpg",
-  "lat": -34.7652277,
-  "lon": -68.3333457,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -5615,27 +5483,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Gene Loves Jezebel",
-  "date": "2026-11-07",
-  "venue": "Fundación Beethoven",
-  "artists": [
-   "Gene Loves Jezebel"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43300655-gene-loves-jezebel-at-fundacion-beethoven?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43300655-gene-loves-jezebel-at-fundacion-beethoven?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/382969/huge_avatar",
-  "lat": null,
-  "lon": null,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "HIHATDANCER INVITA",
   "date": "2026-11-07",
@@ -5718,50 +5565,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "indiehoy",
-  "title": "Klav: tINI, Momo Trosman y Ana Hagen",
-  "date": "2026-11-07",
-  "venue": "Deseo",
-  "artists": [
-   "Klav: tINI",
-   "Momo Trosman",
-   "Ana Hagen"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/klav-tini-momo-trosman-y-ana-hagen-en-deseo/",
-  "ticket_url": "https://www.enigmatickets.com/event/73537252-1409-4bc2-86c8-1c41a827e7da",
-  "price": "Desde $25.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/07/klav-tini-deseo.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "La Finquita Sunset - 07/11",
-  "date": "2026-11-07",
-  "venue": "LA FINQUITA 1920",
-  "artists": [
-   "La Finquita Sunset"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/la-finquita-sunset-el-07-11",
-  "ticket_url": "https://venti.live/evento/la-finquita-sunset-el-07-11",
-  "price": "$33.000",
-  "image": "https://images.venti.live/user-images/1782871645276-lg.jpg",
-  "lat": -33.0231819152832,
-  "lon": -68.79568481445312,
-  "start_time": "21:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "La Once PINK - After Pride",
   "date": "2026-11-07",
@@ -5797,49 +5600,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Latin Metal Invasión 2026",
-  "date": "2026-11-07",
-  "venue": "SixBar",
-  "artists": [
-   "Against",
-   "It's All Red"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/festivals/3807875-latin-metal-invasion/id/43445325-latin-metal-invasin-2026?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/festivals/3807875-latin-metal-invasion/id/43445325-latin-metal-invasin-2026?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/events/43445325/huge_avatar?series_id=3807875",
-  "lat": -34.58914,
-  "lon": -58.73093,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Maneva",
-  "date": "2026-11-07",
-  "venue": "La Trastienda",
-  "artists": [
-   "Maneva"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43367744-maneva-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43367744-maneva-at-la-trastienda?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/5688934/huge_avatar",
-  "lat": -34.6131,
-  "lon": -58.37037,
-  "start_time": "21:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Music With Strangers",
   "date": "2026-11-07",
@@ -5866,27 +5626,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "Natural progressive Sunset",
-  "date": "2026-11-07",
-  "venue": "Niceto Bar",
-  "artists": [
-   "Natural progressive Sunset"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/natural-progressive-sunset-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/natural-progressive-sunset-en-niceto-bar",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1792699830826-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "20:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "Nora En Pure - 2gthr, Archi Club Open Air - ALLMusicParties",
   "date": "2026-11-07",
@@ -5911,27 +5650,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "POPE – ALAN GOMEZ | SABADO 07.11",
-  "date": "2026-11-07",
-  "venue": "POPE SOCIAL CLUB",
-  "artists": [
-   "POPE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pope-full-cachengue-sabado-07-11",
-  "ticket_url": "https://venti.live/evento/pope-full-cachengue-sabado-07-11",
-  "price": "$16.000",
-  "image": "https://images.venti.live/user-images/1793643583675-lg.jpg",
-  "lat": -34.5325127,
-  "lon": -58.70450169999999,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -5988,181 +5706,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Policromía",
-  "date": "2026-11-07",
-  "venue": "Club V",
-  "artists": [
-   "Policromía",
-   "cero infinito"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43470502-policromia-at-club-v?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43470502-policromia-at-club-v?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8309153/huge_avatar",
-  "lat": -34.60068,
-  "lon": -58.4363,
-  "start_time": "19:30",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Romphonics",
-  "date": "2026-11-07",
-  "venue": "Biri Biri",
-  "artists": [
-   "Romphonics",
-   "Juan Navia"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43472494-romphonics-at-biri-biri?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43472494-romphonics-at-biri-biri?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/9574204/huge_avatar",
-  "lat": -34.59382,
-  "lon": -58.4315,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "SUNSET EL ROBLE 7-11",
-  "date": "2026-11-07",
-  "venue": "El ROBLE WAKE COMPLEX",
-  "artists": [
-   "SUNSET EL ROBLE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/sunset-el-roble-7-10",
-  "ticket_url": "https://venti.live/evento/sunset-el-roble-7-10",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1791987423300-lg.jpg",
-  "lat": -32.97325134277344,
-  "lon": -68.73474884033203,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "SÁBADO CACHENGUE BY BOSCO SUNSET 7/11",
-  "date": "2026-11-07",
-  "venue": "Bosco Restaurant",
-  "artists": [
-   "SÁBADO CACHENGUE BY BOSCO SUNSET"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/s-bado-cachengue-by-bosco-sunset-7-11",
-  "ticket_url": "https://venti.live/evento/s-bado-cachengue-by-bosco-sunset-7-11",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1790088732087-lg.jpg",
-  "lat": -32.898773193359375,
-  "lon": -68.86785125732422,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Tigre Ulli y Bonaerense",
-  "date": "2026-11-07",
-  "venue": "La Tangente",
-  "artists": [
-   "Tigre Ulli",
-   "Bonaerense"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/tigre-ulli-y-bonaerense-en-la-tangente/",
-  "ticket_url": "https://tickets.latangente.com.ar/musica/tigre-ulli-bonaerense",
-  "price": "Desde $10.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/11/tigre-ulli-bonaerense-la-tangente.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Ty Segall",
-  "date": "2026-11-07",
-  "venue": "Niceto Club",
-  "artists": [
-   "Ty Segall"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43301711-ty-segall-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43301711-ty-segall-at-niceto-club?utm_medium=organic&utm_source=microformat",
-  "price": "Desde $75.000",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/964551/huge_avatar",
-  "lat": -34.58741,
-  "lon": -58.43887,
-  "start_time": "",
-  "sources": [
-   "indiehoy",
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "Vinociraptor",
-  "date": "2026-11-07",
-  "venue": "Moscú Espacio Cultural",
-  "artists": [
-   "Vinociraptor",
-   "Dolmen"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43494346-vinociraptor-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43494346-vinociraptor-at-moscu-espacio-cultural?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10092487/huge_avatar",
-  "lat": -34.59951,
-  "lon": -58.43798,
-  "start_time": "19:30",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "ZAPPO + DALTON + PUERTO CORAL",
-  "date": "2026-11-07",
-  "venue": "Niceto Bar",
-  "artists": [
-   "ZAPPO",
-   "DALTON",
-   "PUERTO CORAL"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/zappo-dalton-puerto-coral-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/zappo-dalton-puerto-coral-en-niceto-bar",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1790011968922-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "[LIVE]",
   "date": "2026-11-07",
@@ -6192,91 +5735,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "07.11 | BOB TOSH en FRUTA EXTENDED",
-  "date": "2026-11-08",
-  "venue": "Av. Rafael Núñez 4614",
-  "artists": [
-   "BOB TOSH"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/s07-11-bob-tosh-en-fruta",
-  "ticket_url": "https://venti.live/evento/s07-11-bob-tosh-en-fruta",
-  "price": "$22.000",
-  "image": "https://images.venti.live/user-images/1792713153010-lg.jpg",
-  "lat": -31.363313674926758,
-  "lon": -64.23645782470703,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "07/11 | Lulú x No Label",
-  "date": "2026-11-08",
-  "venue": "Lulú",
-  "artists": [
-   "Miralles",
-   "dddancos"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/nolabel-07-11",
-  "ticket_url": "https://venti.live/evento/nolabel-07-11",
-  "price": "$16.667",
-  "image": "https://images.venti.live/user-images/1793134335919-lg.jpg",
-  "lat": -34.5920071,
-  "lon": -58.42639819999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "AM Sessions 8/11",
-  "date": "2026-11-08",
-  "venue": "MISIÓN",
-  "artists": [
-   "AM Sessions"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/am-sessions-8-11",
-  "ticket_url": "https://venti.live/evento/am-sessions-8-11",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1793895202755-lg.jpg",
-  "lat": -34.5874387,
-  "lon": -58.4336819,
-  "start_time": "09:30",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ANIVERSARIO FOMO | QUBA SÁBADO 07.11",
-  "date": "2026-11-08",
-  "venue": "Quba, café de mar",
-  "artists": [
-   "ANIVERSARIO FOMO | QUBA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/aniversario-fomo-quba-s-bado-07-11",
-  "ticket_url": "https://venti.live/evento/aniversario-fomo-quba-s-bado-07-11",
-  "price": "$7.500",
-  "image": "https://images.venti.live/user-images/1793576972774-lg.jpg",
-  "lat": -38.0312385559082,
-  "lon": -57.53220748901367,
-  "start_time": "02:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "songkick",
@@ -6343,69 +5801,6 @@
    "venti"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "CAZADORES - CONOR DELIA",
-  "date": "2026-11-08",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "CAZADORES - CONOR DELIA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/cazadores-conor-delia-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/cazadores-conor-delia-en-humboldt-niceto-club",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1790861112475-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CHANA SÁBADO 7 DE NOVIEMBRE",
-  "date": "2026-11-08",
-  "venue": "Chana Club",
-  "artists": [
-   "CHANA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/chana-s-bado-7-de-noviembre",
-  "ticket_url": "https://venti.live/evento/chana-s-bado-7-de-noviembre",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793813340552-lg.jpg",
-  "lat": -34.6061182,
-  "lon": -58.36424899999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Club 69 | PRIDE en Niceto Club (+18 años)",
-  "date": "2026-11-08",
-  "venue": "Niceto Club",
-  "artists": [
-   "Club 69 | PRIDE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/club-69-pride-en-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/club-69-pride-en-niceto-club-18-a-os",
-  "price": "$40.000",
-  "image": "https://images.venti.live/user-images/1791398215758-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "songkick",
@@ -6492,133 +5887,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "EL CLUB DE LA SERPIENTE, 7 DE NOVIEMBRE - CHOCOLATE - BAHIA BLANCA",
-  "date": "2026-11-08",
-  "venue": "Complejo Chocolate",
-  "artists": [
-   "EL CLUB DE LA SERPIENTE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/el-club-de-la-serpiente-7-de-noviembre-chocolate-bahia-blanca",
-  "ticket_url": "https://venti.live/evento/el-club-de-la-serpiente-7-de-noviembre-chocolate-bahia-blanca",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1791298406301-lg.jpg",
-  "lat": -38.6991739,
-  "lon": -62.264929,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ELEKTIDE X",
-  "date": "2026-11-08",
-  "venue": "Quba, café de mar",
-  "artists": [
-   "ELEKTIDE X QUBA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/elektide-x-quba-s-bado-07-11",
-  "ticket_url": "https://venti.live/evento/elektide-x-quba-s-bado-07-11",
-  "price": "$12.000",
-  "image": "https://images.venti.live/user-images/1792786464225-lg.jpg",
-  "lat": -38.0312385559082,
-  "lon": -57.53220748901367,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ESCORPIO ZODIACAL x ARZ SÁB 07.11",
-  "date": "2026-11-08",
-  "venue": "Aráoz 2424",
-  "artists": [
-   "ESCORPIO ZODIACAL x ARZ"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/escorpio-zodiacal-x-arz-s-b-07-11",
-  "ticket_url": "https://venti.live/evento/escorpio-zodiacal-x-arz-s-b-07-11",
-  "price": "",
-  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
-  "lat": -34.586299896240234,
-  "lon": -58.41642379760742,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "F1 GP SÃO PAULO + LA HISTÓRICA SUNSET",
-  "date": "2026-11-08",
-  "venue": "Bodega La Histórica",
-  "artists": [
-   "F1 GP SÃO PAULO",
-   "LA HISTÓRICA SUNSET"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/f1-gp-s-o-paulo-la-hist-rica-sunset",
-  "ticket_url": "https://venti.live/evento/f1-gp-s-o-paulo-la-hist-rica-sunset",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1793370755584-lg.jpg",
-  "lat": -33.0198466,
-  "lon": -68.8298401,
-  "start_time": "15:30",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "FIESTA TREVI 7 NOV en Humboldt - Niceto Club (+18 años)",
-  "date": "2026-11-08",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "TREVI"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/fiesta-trevi-7-nov-en-humboldt-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/fiesta-trevi-7-nov-en-humboldt-niceto-club-18-a-os",
-  "price": "$8.500",
-  "image": "https://images.venti.live/user-images/1792007149608-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Fun Fun Post Marcha @ Shamrock Basement - Djs Pareja / Maleena / Tom Tom Clubber / Lastbeats",
-  "date": "2026-11-08",
-  "venue": "The Shamrock Bar & Basement Club",
-  "artists": [
-   "Fun Fun Post Marcha"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/fun-fun-post-marcha-shamrock-basement-maleena-last-lastbeats-djs-pareja-tom-tom-clubber",
-  "ticket_url": "https://venti.live/evento/fun-fun-post-marcha-shamrock-basement-maleena-last-lastbeats-djs-pareja-tom-tom-clubber",
-  "price": "$18.000",
-  "image": "https://images.venti.live/user-images/1791467042848-lg.jpg",
-  "lat": -34.5946306,
-  "lon": -58.3922647,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "It's All Red",
   "date": "2026-11-08",
@@ -6636,28 +5904,6 @@
   "start_time": "",
   "sources": [
    "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "LA CINTIA",
-  "date": "2026-11-08",
-  "venue": "Switch Club",
-  "artists": [
-   "La Cintia",
-   "Juani guiu"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/la-cintia-switch-club",
-  "ticket_url": "https://venti.live/evento/la-cintia-switch-club",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1792684837163-lg.jpg",
-  "lat": -32.939125,
-  "lon": -60.65062629999999,
-  "start_time": "",
-  "sources": [
-   "venti"
   ],
   "artist_source": "structured"
  },
@@ -6684,27 +5930,6 @@
  },
  {
   "source": "venti",
-  "title": "Mardel Burger 2026",
-  "date": "2026-11-08",
-  "venue": "Archivo Museo Histórico Municipal Roberto T. Barili",
-  "artists": [
-   "Mardel Burger 2026"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/mardel-burger-2026",
-  "ticket_url": "https://venti.live/evento/mardel-burger-2026",
-  "price": "$17.000",
-  "image": "https://images.venti.live/user-images/1791474175428-lg.jpg",
-  "lat": -38.0207945,
-  "lon": -57.55250949999999,
-  "start_time": "14:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "POPE – REGGAETON RETRO 2000 | DOMINGO (preferiado) 08.11",
   "date": "2026-11-08",
   "venue": "POPE SOCIAL CLUB",
@@ -6719,48 +5944,6 @@
   "lat": -34.5325127,
   "lon": -58.70450169999999,
   "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "PUEBLO - SABADO 7.11",
-  "date": "2026-11-08",
-  "venue": "Pueblo Límite",
-  "artists": [
-   "PUEBLO"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pueblo-sabado-7-11",
-  "ticket_url": "https://venti.live/evento/pueblo-sabado-7-11",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793572436195-lg.jpg",
-  "lat": -37.23800659179688,
-  "lon": -56.979190826416016,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "ROCIO PORTILLO",
-  "date": "2026-11-08",
-  "venue": "El Atico Club",
-  "artists": [
-   "ROCIO PORTILLO"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/rocio-portillo",
-  "ticket_url": "https://venti.live/evento/rocio-portillo",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1793315030754-lg.jpg",
-  "lat": -33.007798,
-  "lon": -68.91847349999999,
-  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -6805,27 +5988,6 @@
   "start_time": "",
   "sources": [
    "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "WASABI VIP SABADO 7",
-  "date": "2026-11-08",
-  "venue": "Mood Live",
-  "artists": [
-   "WASABI VIP SABADO 7"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/wasabi-vip-sabado-7",
-  "ticket_url": "https://venti.live/evento/wasabi-vip-sabado-7",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1794014218578-lg.jpg",
-  "lat": -38.951622,
-  "lon": -68.0583724,
-  "start_time": "",
-  "sources": [
-   "venti"
   ],
   "artist_source": "title"
  },
@@ -7555,27 +6717,6 @@
   "start_time": "23:00",
   "sources": [
    "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Bombardeo Fest 1",
-  "date": "2026-11-13",
-  "venue": "Strummer Bar",
-  "artists": [
-   "Bombardeo Fest 1"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
-  "ticket_url": "https://bue.tickethoy.com/entradas-musica/bombardeo-fest-1",
-  "price": "$17250",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/bombardeo-strummer.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
   ],
   "artist_source": "title"
  },
@@ -8858,6 +7999,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "Beyond the festival en Humboldt - Niceto Club (+18 años)",
+  "date": "2026-11-15",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "Beyond the festival"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/beyond-the-festival-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/beyond-the-festival-en-humboldt-niceto-club-18-a-os",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1794088035367-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "songkick",
   "title": "Charlie Scelso",
   "date": "2026-11-15",
@@ -9613,6 +8775,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "IEFEST @ Chicago",
+  "date": "2026-11-19",
+  "venue": "Rodríguez y Guemes",
+  "artists": [
+   "IEFEST"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/iefest-chicago",
+  "ticket_url": "https://venti.live/evento/iefest-chicago",
+  "price": "$7.000",
+  "image": "https://images.venti.live/user-images/1794006828333-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "songkick",
   "title": "Maria Becerra",
   "date": "2026-11-19",
@@ -9868,6 +9051,70 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "DENNIS CRUZ x MIRAGE & VANGUARD",
+  "date": "2026-11-20",
+  "venue": "Martino Wines",
+  "artists": [
+   "DENNIS CRUZ x MIRAGE",
+   "VANGUARD"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/dennis-cruz-x-mirage-vanguard",
+  "ticket_url": "https://venti.live/evento/dennis-cruz-x-mirage-vanguard",
+  "price": "$62.000",
+  "image": "https://images.venti.live/user-images/1784732077172-lg.jpg",
+  "lat": -33.02306,
+  "lon": -68.852747,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "DrefQuila",
+  "date": "2026-11-20",
+  "venue": "Uniclub",
+  "artists": [
+   "DrefQuila"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43406999-drefquila-at-uniclub?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43406999-drefquila-at-uniclub?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/9372649/huge_avatar",
+  "lat": -34.60268,
+  "lon": -58.41224,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "songkick",
+  "title": "Fabricio Robles",
+  "date": "2026-11-20",
+  "venue": "Nempla",
+  "artists": [
+   "Fabricio Robles"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43401732-fabricio-robles-at-nempla?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43401732-fabricio-robles-at-nempla?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/8471483/huge_avatar",
+  "lat": -34.58703,
+  "lon": -58.45025,
+  "start_time": "20:30",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Ilán Amores",
   "date": "2026-11-20",
@@ -9996,6 +9243,28 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "No Te Va Gustar",
+  "date": "2026-11-20",
+  "venue": "Aeropuerto Complejo Bailable",
+  "artists": [
+   "No Te Va Gustar",
+   "Nonpalidece"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43393689-no-te-va-gustar-at-aeropuerto-complejo-bailable?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43393689-no-te-va-gustar-at-aeropuerto-complejo-bailable?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/162578/huge_avatar",
+  "lat": -34.28002,
+  "lon": -62.71733,
+  "start_time": "",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -10243,28 +9512,6 @@
  },
  {
   "source": "venti",
-  "title": "DENNIS CRUZ x MIRAGE & VANGUARD",
-  "date": "2026-11-21",
-  "venue": "SECRET LOCATION",
-  "artists": [
-   "DENNIS CRUZ x MIRAGE",
-   "VANGUARD"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/dennis-cruz-x-mirage-vanguard",
-  "ticket_url": "https://venti.live/evento/dennis-cruz-x-mirage-vanguard",
-  "price": "$59.000",
-  "image": "https://images.venti.live/user-images/1784732077172-lg.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "01:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "EL CLUB DE LA SERPIENTE, 20 DE NOVIEMBRE - AUDITORIO SUR- TEMPERLEY, BUENOS AIRES",
   "date": "2026-11-21",
   "venue": "Auditorio Sur",
@@ -10350,6 +9597,27 @@
   "artist_source": "title"
  },
  {
+  "source": "songkick",
+  "title": "Lucas Cervetti",
+  "date": "2026-11-21",
+  "venue": "Cuerda Mecánica",
+  "artists": [
+   "Lucas Cervetti"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43401114-lucas-cervetti-at-cuerda-mecanica?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43401114-lucas-cervetti-at-cuerda-mecanica?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/4792228/huge_avatar",
+  "lat": -34.575,
+  "lon": -58.4785,
+  "start_time": "",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "MARTIN HUERGO x BELA | VIE 20.11",
   "date": "2026-11-21",
@@ -10390,6 +9658,27 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "Maria João",
+  "date": "2026-11-21",
+  "venue": "Bebop Club",
+  "artists": [
+   "Maria João"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43503560-maria-joao-at-bebop-club?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43503560-maria-joao-at-bebop-club?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/510576/huge_avatar",
+  "lat": -34.58678,
+  "lon": -58.43138,
+  "start_time": "",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "resident-advisor",
@@ -10437,6 +9726,37 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "Muddy Roots Festival 2026",
+  "date": "2026-11-21",
+  "venue": "CAFF",
+  "artists": [
+   "Johnny Boy",
+   "Tension",
+   "Rolando Bruno",
+   "Uxia",
+   "angry zeta",
+   "Los Culos",
+   "Mack Stevens",
+   "Semilla de Maldad",
+   "Big Bull and his Selfish Band",
+   "Eddy Hinojosa",
+   "Clyde McGee"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/festivals/87166-muddy-roots/id/43454550-muddy-roots-festival-2026?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/festivals/87166-muddy-roots/id/43454550-muddy-roots-festival-2026?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/events/43454550/huge_avatar?series_id=87166",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "indiehoy",
@@ -10661,6 +9981,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "songkick",
+  "title": "Sonidos Nmo",
+  "date": "2026-11-21",
+  "venue": "Quilmes",
+  "artists": [
+   "Sonidos Nmo"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43458672-sonidos-nmo-at-unknown-venue?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43458672-sonidos-nmo-at-unknown-venue?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10387280/huge_avatar",
+  "lat": null,
+  "lon": null,
+  "start_time": "20:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "SÁBADO CACHENGUE BY BOSCO SUNSET 21/11",
   "date": "2026-11-21",
@@ -10746,6 +10087,27 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
+ },
+ {
+  "source": "venti",
+  "title": "[VIE20NOV] COLISIÓN SÓNICA [MVMNT]",
+  "date": "2026-11-21",
+  "venue": "Zwan",
+  "artists": [
+   "[VIE20NOV] COLISIÓN SÓNICA [MVMNT]"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/vie20nov-colisi-n-s-nica-mvmnt",
+  "ticket_url": "https://venti.live/evento/vie20nov-colisi-n-s-nica-mvmnt",
+  "price": "$9.000",
+  "image": "https://images.venti.live/user-images/1794085350803-lg.jpg",
+  "lat": -38.0272772,
+  "lon": -57.5321245,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -11180,6 +10542,27 @@
   "artist_source": "title"
  },
  {
+  "source": "songkick",
+  "title": "No Te Va Gustar",
+  "date": "2026-11-22",
+  "venue": "Estadio Centenario Ciudad de Quilmes",
+  "artists": [
+   "No Te Va Gustar"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43265718-no-te-va-gustar-at-estadio-centenario-ciudad-de-quilmes?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43265718-no-te-va-gustar-at-estadio-centenario-ciudad-de-quilmes?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/162578/huge_avatar",
+  "lat": -34.72602,
+  "lon": -58.25436,
+  "start_time": "",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "venti",
   "title": "Reggaeton Prendido - El Spot",
   "date": "2026-11-22",
@@ -11220,6 +10603,28 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "Shaolin Cowboy",
+  "date": "2026-11-22",
+  "venue": "Uniclub",
+  "artists": [
+   "Shaolin Cowboy",
+   "DJ Windows 7"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43406996-shaolin-cowboy-at-uniclub?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43406996-shaolin-cowboy-at-uniclub?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10292266/huge_avatar",
+  "lat": -34.60268,
+  "lon": -58.41224,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -11388,6 +10793,27 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "ZZ Top",
+  "date": "2026-11-24",
+  "venue": "Movistar Arena",
+  "artists": [
+   "ZZ Top"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43214225-zz-top-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43214225-zz-top-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/307157/huge_avatar",
+  "lat": -34.59432,
+  "lon": -58.44731,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -12299,6 +11725,27 @@
  },
  {
   "source": "venti",
+  "title": "TSP Sunset Sessions · Chapter I: The First Dance",
+  "date": "2026-11-28",
+  "venue": "El Cable Wakepark",
+  "artists": [
+   "Bruno Bona"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/tsp-sunset-sessions-chapter-i-the-first-dance",
+  "ticket_url": "https://venti.live/evento/tsp-sunset-sessions-chapter-i-the-first-dance",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1794067359879-lg.jpg",
+  "lat": -34.7652277,
+  "lon": -68.3333457,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "venti",
   "title": "28/11 | Lulú x Bombi - Aniversario",
   "date": "2026-11-29",
   "venue": "Lulú",
@@ -12312,6 +11759,28 @@
   "image": "https://images.venti.live/user-images/1791409935722-lg.jpg",
   "lat": -34.5920071,
   "lon": -58.42639819999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "Basura presentación de sencillos + Vino de marte en Humboldt - Niceto Club (+18 años)",
+  "date": "2026-11-29",
+  "venue": "Humboldt | Niceto Club",
+  "artists": [
+   "Basura presentación de sencillos",
+   "Vino de marte"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/basura-presentaci-n-de-sencillos-vino-de-marte-en-humboldt-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/basura-presentaci-n-de-sencillos-vino-de-marte-en-humboldt-niceto-club-18-a-os",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1794087755528-lg.jpg",
+  "lat": -34.5875434,
+  "lon": -58.438918,
   "start_time": "",
   "sources": [
    "venti"
@@ -16243,7 +15712,6 @@
   "lon": -58.43876030000001,
   "start_time": "23:00",
   "sources": [
-   "indiehoy",
    "venti"
   ],
   "artist_source": "structured"
@@ -16604,27 +16072,6 @@
   "ticket_url": "https://www.passline.com/eventos/floor-jansen-la-voz-de-nightwish?srsltid=AfmBOooh_AT2mPH1RLKf2TYSDVe7cyjHZOpJpX9PhZBdwr8DszzFdkEP",
   "price": "Desde $100.000",
   "image": "https://indiehoy.com/wp-content/uploads/2026/07/Floor-Jansen-argentina.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Brad Mehldau en Argentina",
-  "date": "2027-05-15",
-  "venue": "Teatro Ópera ON",
-  "artists": [
-   "Brad Mehldau"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/brad-mehldau-en-argentina/",
-  "ticket_url": "https://www.ticketek.com.ar/brad-mehldau-trio/teatro-opera",
-  "price": "Desde $84.750",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/brad-mehldau-argentina.jpg",
   "lat": null,
   "lon": null,
   "start_time": "",
