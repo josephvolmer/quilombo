@@ -79,6 +79,14 @@
    "title": "Abel Pintos"
   }
  ],
+ "Abstract Division": [
+  {
+   "date": "2026-12-06",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580780",
+   "title": "Cierre De Año + Under Club (Gascón 1040)"
+  }
+ ],
  "Adam Beyer": [
   {
    "date": "2026-11-20",
@@ -159,6 +167,14 @@
    "title": "BEFORE DAWN presents AGUSTIN PIETROCOLA + PALI EDGECHMAN b2b MATIAS GAUNA + ALAN MAHONE"
   }
  ],
+ "Aku Mayah": [
+  {
+   "date": "2026-11-25",
+   "venue": "Teatro Margarita Xirgu",
+   "url": "https://www.songkick.com/concerts/43298879-el-caribefunk-at-teatro-margarita-xirgu?utm_medium=organic&utm_source=microformat",
+   "title": "El Caribefunk"
+  }
+ ],
  "Alan Leopardo": [
   {
    "date": "2026-11-20",
@@ -183,12 +199,12 @@
    "title": "Alcest en Argentina"
   }
  ],
- "Ale De Tuglie": [
+ "ALETØ": [
   {
-   "date": "2026-11-08",
-   "venue": "Costa Brava / Costa 7070",
-   "url": "https://www.songkick.com/concerts/43501552-ale-de-tuglie-at-costa-brava-costa-7070?utm_medium=organic&utm_source=microformat",
-   "title": "Ale De Tuglie"
+   "date": "2026-11-14",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580766",
+   "title": "ROOM SHOWCASE - ALETØ - Bondarük & SMT"
   }
  ],
  "Alex Anwandter": [
@@ -221,14 +237,6 @@
    "venue": "The Lift 1967",
    "url": "https://ra.co/events/2566851",
    "title": "FOMO presents HOUSE PARTY"
-  }
- ],
- "ALMELA (AR)": [
-  {
-   "date": "2026-11-08",
-   "venue": "Costa Brava / Costa 7070",
-   "url": "https://www.songkick.com/concerts/43501552-ale-de-tuglie-at-costa-brava-costa-7070?utm_medium=organic&utm_source=microformat",
-   "title": "Ale De Tuglie"
   }
  ],
  "ALT8": [
@@ -419,14 +427,6 @@
    "title": "Astr0kate y Flor Lovaglio"
   }
  ],
- "Ayax y Prok": [
-  {
-   "date": "2026-11-08",
-   "venue": "Gier Music Club",
-   "url": "https://www.songkick.com/concerts/43497494-ayax-y-prok-at-gier-music-club?utm_medium=organic&utm_source=microformat",
-   "title": "Ayax y Prok"
-  }
- ],
  "Año Nuevo La Finquita 1920": [
   {
    "date": "2027-01-01",
@@ -467,14 +467,6 @@
    "title": "Basura presentación de sencillos + Vino de marte en Humboldt - Niceto Club (+18 años)"
   }
  ],
- "BB ASUL": [
-  {
-   "date": "2026-11-08",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/bbasul-en-niceto-club",
-   "title": "BB ASUL en Niceto Club (+18 años)"
-  }
- ],
  "BELA x 999": [
   {
    "date": "2026-11-28",
@@ -486,9 +478,9 @@
  "Belu Clavero": [
   {
    "date": "2026-11-28",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Santiago García & Belu Clavero"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2580284",
+   "title": "Santiago Garcia at Crobar Buenos Aires"
   }
  ],
  "Ben Sims": [
@@ -525,12 +517,6 @@
  ],
  "BLACK CREAM ORIGINAL": [
   {
-   "date": "2026-11-09",
-   "venue": "BlackCream",
-   "url": "https://venti.live/evento/black-cream-original-domingo-08-11",
-   "title": "BLACK CREAM ORIGINAL DOMINGO 08/11"
-  },
-  {
    "date": "2026-11-13",
    "venue": "BlackCream",
    "url": "https://venti.live/evento/black-cream-original-jueves-12-11",
@@ -563,7 +549,21 @@
    "title": "Bodeler & Manu Desrets"
   }
  ],
+ "Bombardeo Fest 1": [
+  {
+   "date": "2026-11-13",
+   "venue": "Strummer Bar",
+   "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
+   "title": "Bombardeo Fest 1"
+  }
+ ],
  "Bondarük": [
+  {
+   "date": "2026-11-14",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580766",
+   "title": "ROOM SHOWCASE - ALETØ - Bondarük & SMT"
+  },
   {
    "date": "2026-12-19",
    "venue": "Under Club",
@@ -605,6 +605,14 @@
    "venue": "Bosco Restaurant",
    "url": "https://venti.live/evento/bosco-sunset-viernes-27-11",
    "title": "BOSCO SUNSET VIERNES 27/11"
+  }
+ ],
+ "Brad Mehldau": [
+  {
+   "date": "2027-05-15",
+   "venue": "Teatro Ópera ON",
+   "url": "https://indiehoy.com/agenda/brad-mehldau-en-argentina/",
+   "title": "Brad Mehldau en Argentina"
   }
  ],
  "BREAK": [
@@ -715,6 +723,14 @@
    "title": "manza / Mariano Esain"
   }
  ],
+ "Cachengue - El Cable Events": [
+  {
+   "date": "2026-11-14",
+   "venue": "El Cable Wakepark",
+   "url": "https://venti.live/evento/cachengue-el-cable-events",
+   "title": "Cachengue - El Cable Events"
+  }
+ ],
  "Cadelago": [
   {
    "date": "2026-11-20",
@@ -729,14 +745,6 @@
    "venue": "Arena Mardel Plata",
    "url": "https://venti.live/evento/cads-fiesta-recreativa-nivel-inicial",
    "title": "CADS - Fiesta recreativa - Nivel inicial"
-  }
- ],
- "Camila Isabel": [
-  {
-   "date": "2026-11-08",
-   "venue": "Blow",
-   "url": "https://ra.co/events/2551303",
-   "title": "[PRIDE] MISSA ORGULLO 2026"
   }
  ],
  "Camilo Desorden": [
@@ -883,12 +891,18 @@
    "title": "Cerounno, Vinyltracker y Juan 97"
   }
  ],
- "CHANA": [
+ "CHANA VIERNES DE CLÁSICOS": [
   {
-   "date": "2026-11-09",
+   "date": "2026-11-13",
    "venue": "Chana Club",
-   "url": "https://venti.live/evento/chana-domingo-8-de-julio-pre-feriado",
-   "title": "CHANA DOMINGO 8 DE NOVIEMBRE - Pre Feriado"
+   "url": "https://venti.live/evento/chana-viernes-de-cl-sicos-13-de-noviembre-visual-sessions",
+   "title": "CHANA VIERNES DE CLÁSICOS 13 DE NOVIEMBRE | Visual Sessions"
+  },
+  {
+   "date": "2026-11-20",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-viernes-de-cl-sicos-20-de-noviembre-visual-sessions",
+   "title": "CHANA VIERNES DE CLÁSICOS 20 DE NOVIEMBRE | Visual Sessions"
   }
  ],
  "CHAPA": [
@@ -1037,6 +1051,14 @@
    "title": "Club Marfil"
   }
  ],
+ "CLUB QUBA": [
+  {
+   "date": "2026-11-13",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/club-quba-12-11-queves",
+   "title": "CLUB"
+  }
+ ],
  "Clyde McGee": [
   {
    "date": "2026-11-21",
@@ -1169,20 +1191,6 @@
    "title": "Crisá"
   }
  ],
- "Cypress Hill": [
-  {
-   "date": "2026-11-08",
-   "venue": "Estadio Cubierto Malvinas Argentinas",
-   "url": "https://www.songkick.com/concerts/43261308-cypress-hill-at-estadio-cubierto-malvinas-argentinas?utm_medium=organic&utm_source=microformat",
-   "title": "Cypress Hill"
-  },
-  {
-   "date": "2026-11-08",
-   "venue": "Estadio Malvinas Argentinas",
-   "url": "https://indiehoy.com/agenda/cypress-hill-en-argentina/",
-   "title": "Cypress Hill en Argentina"
-  }
- ],
  "Damian Lazarus": [
   {
    "date": "2026-11-20",
@@ -1293,14 +1301,6 @@
    "title": "Ana Hagen - DEE JASON - Floorplan"
   }
  ],
- "DEEP SESSION": [
-  {
-   "date": "2026-11-08",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/deep-session-extended-format-en-niceto-bar",
-   "title": "DEEP SESSION — EXTENDED FORMAT"
-  }
- ],
  "Deer Jade": [
   {
    "date": "2026-11-20",
@@ -1367,12 +1367,12 @@
    "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF"
   }
  ],
- "DEUX": [
+ "Devil Rays": [
   {
-   "date": "2026-11-09",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/deux-en-niceto-bar",
-   "title": "DEUX"
+   "date": "2026-12-06",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580780",
+   "title": "Cierre De Año + Under Club (Gascón 1040)"
   }
  ],
  "DIAMOND RUNWAY": [
@@ -1489,12 +1489,6 @@
  ],
  "DOMINGO CACHENGUE BY BOSCO SUNSET": [
   {
-   "date": "2026-11-08",
-   "venue": "Bosco Restaurant",
-   "url": "https://venti.live/evento/domingo-cachengue-by-bosco-sunset-8-11-v-speras-de-feriado",
-   "title": "DOMINGO CACHENGUE BY BOSCO SUNSET 8/11 Vísperas de Feriado"
-  },
-  {
    "date": "2026-11-22",
    "venue": "Bosco Restaurant",
    "url": "https://venti.live/evento/domingo-cachengue-by-bosco-sunset-22-11-v-speras-de-feriado",
@@ -1595,6 +1589,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/edu-oliva-halos-en-niceto-bar",
    "title": "EDU OLIVA + HALOS"
+  }
+ ],
+ "El Caribefunk": [
+  {
+   "date": "2026-11-25",
+   "venue": "Teatro Margarita Xirgu",
+   "url": "https://www.songkick.com/concerts/43298879-el-caribefunk-at-teatro-margarita-xirgu?utm_medium=organic&utm_source=microformat",
+   "title": "El Caribefunk"
   }
  ],
  "El Ciclo Federal": [
@@ -1846,9 +1848,9 @@
  "Fergie": [
   {
    "date": "2026-11-28",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Santiago García & Belu Clavero"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2580284",
+   "title": "Santiago Garcia at Crobar Buenos Aires"
   }
  ],
  "Fergus Sweetland": [
@@ -1897,6 +1899,12 @@
    "venue": "Complejo Complot",
    "url": "https://venti.live/evento/fiebre-fiesta-en-santa-f-21-11",
    "title": "FIEBRE FIESTA en SANTA FÉ 21/11"
+  },
+  {
+   "date": "2026-12-05",
+   "venue": "Chinito BA",
+   "url": "https://venti.live/evento/fiebre-fiesta-en-espacio-chn-4-12",
+   "title": "FIEBRE FIESTA en ESPACIO CHN 4/12"
   }
  ],
  "FISHER": [
@@ -2101,6 +2109,14 @@
    "venue": "Teatro Vorterix",
    "url": "https://indiehoy.com/agenda/geoff-tate-en-argentina/",
    "title": "Geoff Tate en Argentina"
+  }
+ ],
+ "German Kaly": [
+  {
+   "date": "2026-11-25",
+   "venue": "Café Berlín Buenos Aires",
+   "url": "https://www.songkick.com/concerts/43454688-german-kaly-at-cafe-berlin-buenos-aires?utm_medium=organic&utm_source=microformat",
+   "title": "German Kaly"
   }
  ],
  "Ghost Dance": [
@@ -2321,6 +2337,14 @@
    "title": "HOJAS POR EL BARRIO presenta AÚN QUE SEA en Humboldt | Niceto Club (+18 años)"
   }
  ],
+ "Hot Chip": [
+  {
+   "date": "2026-11-24",
+   "venue": "C Complejo Art Media",
+   "url": "https://www.songkick.com/concerts/43386774-hot-chip-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
+   "title": "Hot Chip"
+  }
+ ],
  "Hot Since 82": [
   {
    "date": "2027-01-01",
@@ -2467,14 +2491,6 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/desorden-con-opinel-isla-tucan-jtf-en-niceto-bar",
    "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF"
-  }
- ],
- "It's All Red": [
-  {
-   "date": "2026-11-08",
-   "venue": "Aura",
-   "url": "https://www.songkick.com/concerts/43445321-its-all-red-at-aura?utm_medium=organic&utm_source=microformat",
-   "title": "It's All Red"
   }
  ],
  "Ito & François": [
@@ -2911,12 +2927,28 @@
    "title": "La Nosti - 5 aniversario-sábado 21/11"
   }
  ],
+ "LA PARANOLI": [
+  {
+   "date": "2026-11-21",
+   "venue": "Tattersall San Isidro",
+   "url": "https://venti.live/evento/la-paranoli-20-de-noviembre",
+   "title": "LA PARANOLI 20 de NOVIEMBRE"
+  }
+ ],
  "LA PATRULLA ESPACIAL": [
   {
    "date": "2026-12-06",
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/la-patrulla-espacial-en-niceto-club",
    "title": "LA PATRULLA ESPACIAL en Niceto Club (+18 años)"
+  }
+ ],
+ "LA PLENA X QUBA": [
+  {
+   "date": "2026-11-15",
+   "venue": "Quba, café de mar",
+   "url": "https://venti.live/evento/la-plena-x-quba-s-bado-14-11",
+   "title": "LA PLENA X"
   }
  ],
  "La Raxxet": [
@@ -3006,6 +3038,12 @@
   }
  ],
  "Len Faki": [
+  {
+   "date": "2026-12-06",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580780",
+   "title": "Cierre De Año + Under Club (Gascón 1040)"
+  },
   {
    "date": "2026-12-07",
    "venue": "Under Club",
@@ -3251,6 +3289,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Lulú pres PANE - CAIO CASTILHO": [
+  {
+   "date": "2026-11-15",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s14-11-lul-pres-pane-caio-castilho-b2b-marc-lo-tina-ormart",
+   "title": "14/11 | Lulú pres PANE - CAIO CASTILHO b2b MARC-LO - TINA ORMART"
+  }
+ ],
  "Lulú x Bombi - Aniversario": [
   {
    "date": "2026-11-29",
@@ -3331,6 +3377,14 @@
    "title": "Malcriada"
   }
  ],
+ "MALDITO PERREO": [
+  {
+   "date": "2026-11-15",
+   "venue": "Tancacha",
+   "url": "https://venti.live/evento/maldito-perreo",
+   "title": "MALDITO PERREO"
+  }
+ ],
  "MALENA": [
   {
    "date": "2026-12-12",
@@ -3397,6 +3451,14 @@
    "venue": "El Teatrito",
    "url": "https://indiehoy.com/agenda/marc-almond-en-argentina/",
    "title": "Marc Almond en Argentina"
+  }
+ ],
+ "MARC-LO - TINA ORMART": [
+  {
+   "date": "2026-11-15",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s14-11-lul-pres-pane-caio-castilho-b2b-marc-lo-tina-ormart",
+   "title": "14/11 | Lulú pres PANE - CAIO CASTILHO b2b MARC-LO - TINA ORMART"
   }
  ],
  "Marcelo Kan": [
@@ -3713,14 +3775,6 @@
    "title": "mis sueños son de tu adiós"
   }
  ],
- "MISSA - ORGULLO 026": [
-  {
-   "date": "2026-11-08",
-   "venue": "Cnel. Niceto Vega 5699",
-   "url": "https://venti.live/evento/missa-orgullo-026",
-   "title": "MISSA - ORGULLO 026"
-  }
- ],
  "MissLupe": [
   {
    "date": "2026-12-06",
@@ -3799,6 +3853,14 @@
    "venue": "Estadio Nacional",
    "url": "https://venti.live/evento/mushroom-nye-2027-the-first-sun",
    "title": "MUSHROOM NYE 2027 — THE FIRST SUN"
+  }
+ ],
+ "My Dying Bride": [
+  {
+   "date": "2026-11-25",
+   "venue": "El Teatrito",
+   "url": "https://www.songkick.com/concerts/43329076-my-dying-bride-at-el-teatrito?utm_medium=organic&utm_source=microformat",
+   "title": "My Dying Bride"
   }
  ],
  "Máze": [
@@ -4115,14 +4177,6 @@
    "title": "Victoria Engel"
   }
  ],
- "panko": [
-  {
-   "date": "2026-11-08",
-   "venue": "Blow",
-   "url": "https://ra.co/events/2551303",
-   "title": "[PRIDE] MISSA ORGULLO 2026"
-  }
- ],
  "PARDO: da skate": [
   {
    "date": "2026-11-29",
@@ -4223,6 +4277,14 @@
    "venue": "Faro Beach Club",
    "url": "https://venti.live/evento/peluche-rio-de-janeiro",
    "title": "Peluche @ Rio de Janeiro"
+  }
+ ],
+ "Perc": [
+  {
+   "date": "2026-12-06",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580780",
+   "title": "Cierre De Año + Under Club (Gascón 1040)"
   }
  ],
  "Perel Day": [
@@ -4367,14 +4429,6 @@
    "title": "POP UP ROPA DE AUTOR"
   }
  ],
- "POPE": [
-  {
-   "date": "2026-11-08",
-   "venue": "POPE SOCIAL CLUB",
-   "url": "https://venti.live/evento/pope-reggaeton-retro-2000-domingo-08-11",
-   "title": "POPE – REGGAETON RETRO 2000 | DOMINGO (preferiado) 08.11"
-  }
- ],
  "POPE - SHOW": [
   {
    "date": "2026-11-26",
@@ -4423,14 +4477,6 @@
    "title": "Santiago Moraes, Priscila Rauto y Lupretrinia"
   }
  ],
- "PUNTO ROJO": [
-  {
-   "date": "2026-11-09",
-   "venue": "JET",
-   "url": "https://venti.live/evento/punto-rojo",
-   "title": "PUNTO ROJO"
-  }
- ],
  "Quetzal Chebú": [
   {
    "date": "2026-11-29",
@@ -4477,14 +4523,6 @@
    "venue": "Club Ciudad de Buenos Aires",
    "url": "https://indiehoy.com/agenda/rave3000-en-club-ciudad-de-buenos-aires/",
    "title": "Rave3000"
-  }
- ],
- "RE-UNIÓN NEGRA": [
-  {
-   "date": "2026-11-09",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/re-uni-n-negra-en-humboldt-niceto-club-18-a-os",
-   "title": "RE-UNIÓN NEGRA en Humboldt | Niceto Club (+18 años)"
   }
  ],
  "Recibida DiTella X Tokyo.ba": [
@@ -4543,14 +4581,6 @@
    "title": "RI7MO DEL GHETTO X"
   }
  ],
- "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA": [
-  {
-   "date": "2026-11-09",
-   "venue": "humboldt | Niceto Club",
-   "url": "https://venti.live/evento/richh-lou-presenta-el-sue-o-de-la-piba-en-humboldt-niceto-club",
-   "title": "RICHH LOU PRESENTA EL SUEÑO DE LA PIBA en Humboldt | Niceto Club (+18 años)"
-  }
- ],
  "Robert Hood": [
   {
    "date": "2026-11-22",
@@ -4583,6 +4613,14 @@
    "title": "Victoria Engel"
   }
  ],
+ "ROOM SHOWCASE | ALETØ - BONDARÜK": [
+  {
+   "date": "2026-11-15",
+   "venue": "Under Club",
+   "url": "https://venti.live/evento/room-showcase-alet-bondar-k-smt",
+   "title": "ROOM SHOWCASE | ALETØ - BONDARÜK & SMT"
+  }
+ ],
  "ROSSI": [
   {
    "date": "2026-12-08",
@@ -4594,25 +4632,9 @@
  "Rotman": [
   {
    "date": "2026-11-28",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Santiago García & Belu Clavero"
-  }
- ],
- "Rumanians": [
-  {
-   "date": "2026-11-08",
-   "venue": "Blow",
-   "url": "https://ra.co/events/2551303",
-   "title": "[PRIDE] MISSA ORGULLO 2026"
-  }
- ],
- "Rumi de Baires": [
-  {
-   "date": "2026-11-08",
-   "venue": "Blow",
-   "url": "https://ra.co/events/2551303",
-   "title": "[PRIDE] MISSA ORGULLO 2026"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2580284",
+   "title": "Santiago Garcia at Crobar Buenos Aires"
   }
  ],
  "RYAN": [
@@ -4671,12 +4693,12 @@
    "title": "Santiago Cruz vuelve a la Argentina en Niceto Club (+18 años)"
   }
  ],
- "Santiago García": [
+ "Santiago Garcia": [
   {
    "date": "2026-11-28",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Santiago García & Belu Clavero"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2580284",
+   "title": "Santiago Garcia at Crobar Buenos Aires"
   }
  ],
  "Santiago Moraes": [
@@ -4809,6 +4831,12 @@
  ],
  "SMT": [
   {
+   "date": "2026-11-15",
+   "venue": "Under Club",
+   "url": "https://venti.live/evento/room-showcase-alet-bondar-k-smt",
+   "title": "ROOM SHOWCASE | ALETØ - BONDARÜK & SMT"
+  },
+  {
    "date": "2026-12-20",
    "venue": "Under Club",
    "url": "https://venti.live/evento/ben-sims-bondar-k-smt",
@@ -4816,6 +4844,12 @@
   }
  ],
  "SMT (2)": [
+  {
+   "date": "2026-11-14",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2580766",
+   "title": "ROOM SHOWCASE - ALETØ - Bondarük & SMT"
+  },
   {
    "date": "2026-12-19",
    "venue": "Under Club",
@@ -4903,14 +4937,6 @@
    "title": "ALLMusicParties Noviembre 2026"
   }
  ],
- "STASI (AR)": [
-  {
-   "date": "2026-11-08",
-   "venue": "Costa Brava / Costa 7070",
-   "url": "https://www.songkick.com/concerts/43501552-ale-de-tuglie-at-costa-brava-costa-7070?utm_medium=organic&utm_source=microformat",
-   "title": "Ale De Tuglie"
-  }
- ],
  "Steve Bicknell": [
   {
    "date": "2026-12-12",
@@ -4925,14 +4951,6 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Bodeler & Manu Desrets"
-  }
- ],
- "STUDIO 8 x FRÈRES": [
-  {
-   "date": "2026-11-09",
-   "venue": "Magna Club",
-   "url": "https://venti.live/evento/studio-8-x-fr-res",
-   "title": "STUDIO 8 x FRÈRES"
   }
  ],
  "Sueño de Pescado": [
@@ -4985,14 +5003,6 @@
    "venue": "El ROBLE WAKE COMPLEX",
    "url": "https://venti.live/evento/sunset-el-roble-28-10",
    "title": "SUNSET EL ROBLE 28-11"
-  }
- ],
- "SUNSET EL ROBLE- LOS PLAYEROS": [
-  {
-   "date": "2026-11-08",
-   "venue": "El ROBLE WAKE COMPLEX",
-   "url": "https://venti.live/evento/sunset-el-roble-los-playeros",
-   "title": "SUNSET EL ROBLE- LOS PLAYEROS"
   }
  ],
  "SUNSET OPEN AIR X FUTURA": [
@@ -5209,20 +5219,12 @@
    "title": "TIM GREEN"
   }
  ],
- "Tina Disco": [
-  {
-   "date": "2026-11-08",
-   "venue": "Blow",
-   "url": "https://ra.co/events/2551303",
-   "title": "[PRIDE] MISSA ORGULLO 2026"
-  }
- ],
  "Tina Ormart": [
   {
    "date": "2026-11-28",
-   "venue": "Crobar",
-   "url": "https://www.crobar.com.ar/club",
-   "title": "Santiago García & Belu Clavero"
+   "venue": "Crobar - Buenos Aires",
+   "url": "https://ra.co/events/2580284",
+   "title": "Santiago Garcia at Crobar Buenos Aires"
   }
  ],
  "Tom & Collins": [
@@ -5477,14 +5479,6 @@
    "title": "Victoria Engel"
   }
  ],
- "Vida Pura": [
-  {
-   "date": "2026-11-08",
-   "venue": "La Tangente",
-   "url": "https://indiehoy.com/agenda/vida-pura-en-la-tangente/",
-   "title": "Vida Pura"
-  }
- ],
  "VINMUSIC SPARKLING SESSION - JET": [
   {
    "date": "2026-12-19",
@@ -5507,14 +5501,6 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
-  }
- ],
- "VISPERA DE FERIADO": [
-  {
-   "date": "2026-11-09",
-   "venue": "Güemes 2607",
-   "url": "https://venti.live/evento/vispera-de-feriado-en-zeta",
-   "title": "VISPERA DE FERIADO EN ZETA"
   }
  ],
  "Void": [
@@ -5603,12 +5589,12 @@
    "title": "Youth of Today en Argentina"
   }
  ],
- "ZABAL: PIRANHA": [
+ "ZABAL: ASCENSION": [
   {
    "date": "2026-11-14",
    "venue": "Under Club",
    "url": "https://venti.live/evento/zabalpiranha",
-   "title": "ZABAL: PIRANHA"
+   "title": "ZABAL: ASCENSION"
   }
  ],
  "ZETA CHRISTMAS": [

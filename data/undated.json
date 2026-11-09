@@ -460,23 +460,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Poder K-Pop",
-  "date": "",
-  "venue": "Teatro Devoto",
-  "artists": [
-   "Poder K-Pop"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/poder-k-pop/teatro-devoto",
-  "ticket_url": "https://www.ticketek.com.ar/poder-k-pop/teatro-devoto",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_kpop.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Antonio Orozco",
   "date": "",
   "venue": "Teatro Opera On",
@@ -624,6 +607,23 @@
   "ticket_url": "https://www.ticketek.com.ar/luciano-pereyra/estacion-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_copia.jpeg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Katseye: The tribute experience",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Katseye: The tribute experience"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -836,7 +836,7 @@
   "source": "ticketek",
   "title": "Abel Pintos",
   "date": "",
-  "venue": "Arena Maipu",
+  "venue": "Estadio San Nicolás",
   "artists": [
    "Abel Pintos"
   ],
@@ -853,7 +853,7 @@
   "source": "ticketek",
   "title": "Abel Pintos",
   "date": "",
-  "venue": "Teatro Tronador",
+  "venue": "Arena Maipu",
   "artists": [
    "Abel Pintos"
   ],
@@ -1032,6 +1032,57 @@
   "ticket_url": "https://www.ticketek.com.ar/la-verdadera-historia-de-ricardo-iii/teatro-san-martin",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ricardo3_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Rodrigo Lussich",
+  "date": "",
+  "venue": "RADIO CITY / ROXY / MELANY",
+  "artists": [
+   "Rodrigo Lussich"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/rodrigo-lussich/radio-city-roxy-melany",
+  "ticket_url": "https://www.ticketek.com.ar/rodrigo-lussich/radio-city-roxy-melany",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/acelerado_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Juampi Gonzalez",
+  "date": "",
+  "venue": "RADIO CITY / ROXY / MELANY",
+  "artists": [
+   "Juampi Gonzalez"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/juampi-gonzalez",
+  "ticket_url": "https://www.ticketek.com.ar/juampi-gonzalez",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juamp440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Juampi Gonzalez",
+  "date": "",
+  "venue": "City Center",
+  "artists": [
+   "Juampi Gonzalez"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/juampi-gonzalez",
+  "ticket_url": "https://www.ticketek.com.ar/juampi-gonzalez",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juamp440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1259,23 +1310,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Campo Minado",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Campo Minado"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/campo-minado/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/cm_pieza_440x600_teatro_coliseo.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Clearwater",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -1338,23 +1372,6 @@
   "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Katseye: The tribute experience",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Katseye: The tribute experience"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/katseye-tribute-experience/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/copia_de_katzeye_440x600_argentina_5-dic.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1440,40 +1457,6 @@
   "ticket_url": "https://www.ticketek.com.ar/nicolas-de-tracy/radio-city-roxy-melany",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/nico_a27.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Connie Ballarini",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Connie Ballarini"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
-  "ticket_url": "https://www.ticketek.com.ar/connie-ballarini/teatro-astengo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/connie_agenerica.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Juampi Gonzalez",
-  "date": "",
-  "venue": "City Center",
-  "artists": [
-   "Juampi Gonzalez"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/juampi-gonzalez/city-center",
-  "ticket_url": "https://www.ticketek.com.ar/juampi-gonzalez/city-center",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/juamp440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
