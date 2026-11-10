@@ -247,14 +247,6 @@
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
   }
  ],
- "AMIGOS DESCRIPCION": [
-  {
-   "date": "2026-11-09",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/piano-bar-pedro-aguilar-y-amigos-descripcion-en-niceto-bar",
-   "title": "PIANO BAR: PEDRO AGUILAR Y AMIGOS DESCRIPCION"
-  }
- ],
  "Amix": [
   {
    "date": "2026-11-15",
@@ -683,14 +675,6 @@
    "title": "TSP Sunset Sessions · Chapter I: The First Dance"
   }
  ],
- "BRUXISMO": [
-  {
-   "date": "2026-11-10",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
-   "title": "CODA + BRUXISMO en Humboldt | Niceto Club (+18 años)"
-  }
- ],
  "Burn in Noise": [
   {
    "date": "2026-11-22",
@@ -951,6 +935,14 @@
    "title": "Chica Baiana"
   }
  ],
+ "CHILL & MICRODANCING (STAGE 2)": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
  "CHIRI": [
   {
    "date": "2026-11-22",
@@ -1067,14 +1059,6 @@
    "title": "Muddy Roots Festival 2026"
   }
  ],
- "CODA": [
-  {
-   "date": "2026-11-10",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
-   "title": "CODA + BRUXISMO en Humboldt | Niceto Club (+18 años)"
-  }
- ],
  "Coeus": [
   {
    "date": "2026-11-21",
@@ -1125,6 +1109,14 @@
    "venue": "The Lift 1967",
    "url": "https://ra.co/events/2566851",
    "title": "FOMO presents HOUSE PARTY"
+  }
+ ],
+ "Conversaciones Medicas que inspiran. Salud que transforma": [
+  {
+   "date": "2026-12-02",
+   "venue": "Mustang Bar & Grill",
+   "url": "https://venti.live/evento/conversaciones-medicas-que-inspiran-salud-que-transforma",
+   "title": "Conversaciones Medicas que inspiran. Salud que transforma"
   }
  ],
  "Coral": [
@@ -1621,6 +1613,14 @@
    "title": "EL CLUB DE LA SERPIENTE, 7 DE DICIEMBRE - FOREST DAN"
   }
  ],
+ "EL EDÉN (STAGE 1)": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
  "El Kanka": [
   {
    "date": "2027-03-13",
@@ -1983,6 +1983,14 @@
    "title": "FQCY Pres. Nacho Scoppa"
   }
  ],
+ "Fran Bux": [
+  {
+   "date": "2026-12-13",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s12-12-bass-x-lul-pres-fran-bux-pablo-appe-yani-professi",
+   "title": "12/12 | Bass x Lulú pres FRAN BUX - PABLO APPE - YANI PROFESSI"
+  }
+ ],
  "Francisco Bochaton": [
   {
    "date": "2026-11-14",
@@ -2077,6 +2085,14 @@
    "venue": "Melt Underground",
    "url": "https://ra.co/events/2568675",
    "title": "BLASTKICK X MELT Pres. GLIA"
+  }
+ ],
+ "Fuocco": [
+  {
+   "date": "2026-11-12",
+   "venue": "Blue Velvet Bar de Copas",
+   "url": "https://ra.co/events/2581572",
+   "title": "Fuocco's NIGHT"
   }
  ],
  "Gai Barone": [
@@ -3131,14 +3147,6 @@
    "title": "VALERIO & LOS EXTRAVAGANTES EN VIVO! ARTISTA INVITADO: PLEIN en Humboldt | Niceto Club (+18 años)"
   }
  ],
- "los Metegoles": [
-  {
-   "date": "2026-11-09",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
-   "title": "Máze + Mora y los Metegoles en Niceto Club (+18 años)"
-  }
- ],
  "Los Péndulos": [
   {
    "date": "2026-11-21",
@@ -3247,6 +3255,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/lua-lucyd-en-humboldt-niceto-club-18-a-os",
    "title": "Lua + Lucyd en Humboldt - Niceto Club (+18 años)"
+  }
+ ],
+ "Ludmila": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
   }
  ],
  "Ludovico Einaudi": [
@@ -3513,6 +3529,12 @@
    "venue": "Movistar Arena",
    "url": "https://www.songkick.com/concerts/43257715-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
    "title": "Maria Becerra"
+  },
+  {
+   "date": "2026-11-26",
+   "venue": "Movistar Arena",
+   "url": "https://www.songkick.com/concerts/43260056-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+   "title": "Maria Becerra"
   }
  ],
  "Maria João": [
@@ -3553,6 +3575,14 @@
    "title": "Mariano Mellino @ Rio de Janeiro"
   }
  ],
+ "Mariano Moreira & Massimo Pasquini": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
  "MARO": [
   {
    "date": "2026-11-12",
@@ -3591,6 +3621,14 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/juli-n-elordi-mart-n-zta-y-la-flia-cohete-en-niceto-bar",
    "title": "Julián Elordi + Martín Zta y la Flia Cohete"
+  }
+ ],
+ "Matias Mauger": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
   }
  ],
  "Matt Selva": [
@@ -3665,6 +3703,14 @@
    "title": "MERRY CHRISTMAS; BY CANELA"
   }
  ],
+ "Mestizo": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
  "Mi Amigo Invencible": [
   {
    "date": "2026-12-04",
@@ -3709,6 +3755,14 @@
    "venue": "TCQ",
    "url": "https://ra.co/events/2546040",
    "title": "TCQ Invites: Anna Amato"
+  }
+ ],
+ "Mijkalova": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
   }
  ],
  "MIKE RISH": [
@@ -3815,20 +3869,20 @@
    "title": "Montse • Fredrik Svabø • Thea Wang"
   }
  ],
- "Mora": [
-  {
-   "date": "2026-11-09",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
-   "title": "Máze + Mora y los Metegoles en Niceto Club (+18 años)"
-  }
- ],
  "More B": [
   {
    "date": "2026-11-15",
    "venue": "Hipodromo Argentino de Palermo",
    "url": "https://ra.co/events/2576149",
    "title": "House Music Sessions - Sunset Edition 003"
+  }
+ ],
+ "MOULIN ROUGE BY ZETA": [
+  {
+   "date": "2026-11-14",
+   "venue": "Güemes 2607",
+   "url": "https://venti.live/evento/mouline-rouge-by-zeta",
+   "title": "MOULIN ROUGE BY ZETA"
   }
  ],
  "Moyka": [
@@ -3861,14 +3915,6 @@
    "venue": "El Teatrito",
    "url": "https://www.songkick.com/concerts/43329076-my-dying-bride-at-el-teatrito?utm_medium=organic&utm_source=microformat",
    "title": "My Dying Bride"
-  }
- ],
- "Máze": [
-  {
-   "date": "2026-11-09",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
-   "title": "Máze + Mora y los Metegoles en Niceto Club (+18 años)"
   }
  ],
  "Nacho Bolognani": [
@@ -4029,6 +4075,14 @@
    "title": "NOT WELCOME & BREAK & SWEET"
   }
  ],
+ "NOT WELCOME SATURDAY SPECIAL GUEST": [
+  {
+   "date": "2026-11-15",
+   "venue": "Tokyo Club BA",
+   "url": "https://venti.live/evento/not-welcome-saturday-special-guest",
+   "title": "NOT WELCOME SATURDAY SPECIAL GUEST"
+  }
+ ],
  "Notre Dame": [
   {
    "date": "2026-11-20",
@@ -4107,6 +4161,14 @@
    "title": "OPEN AIR | 24/12"
   }
  ],
+ "Orquesta TBA": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
  "Ortega b2b Galo (AR)": [
   {
    "date": "2026-11-20",
@@ -4135,6 +4197,14 @@
    "venue": "Club Ciudad de Buenos Aires",
    "url": "https://ra.co/events/2541095",
    "title": "RAVE3000 FESTIVAL"
+  }
+ ],
+ "Pablo Appe": [
+  {
+   "date": "2026-12-13",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s12-12-bass-x-lul-pres-fran-bux-pablo-appe-yani-professi",
+   "title": "12/12 | Bass x Lulú pres FRAN BUX - PABLO APPE - YANI PROFESSI"
   }
  ],
  "pablopablo": [
@@ -4287,28 +4357,12 @@
    "title": "Cierre De Año + Under Club (Gascón 1040)"
   }
  ],
- "Perel Day": [
-  {
-   "date": "2026-11-09",
-   "venue": "Doble Sentido Bar Cultural",
-   "url": "https://www.songkick.com/concerts/43500377-perel-day-at-doble-sentido-bar-cultural?utm_medium=organic&utm_source=microformat",
-   "title": "Perel Day"
-  }
- ],
  "Peña Regina: La brasita de mi Chala - SUNSET TERRAZA": [
   {
    "date": "2026-11-14",
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/pe-a-regina-la-brasita-de-mi-chala-sunset-terraza-en-niceto-bar",
    "title": "Peña Regina: La brasita de mi Chala - SUNSET TERRAZA"
-  }
- ],
- "PIANO BAR: PEDRO AGUILAR": [
-  {
-   "date": "2026-11-09",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/piano-bar-pedro-aguilar-y-amigos-descripcion-en-niceto-bar",
-   "title": "PIANO BAR: PEDRO AGUILAR Y AMIGOS DESCRIPCION"
   }
  ],
  "Piazzolla Electrónico x Nico Sorin": [
@@ -4339,6 +4393,14 @@
    "venue": "Old Skull Wakeboard Park",
    "url": "https://venti.live/evento/picheo-808-new-year",
    "title": "PICHEO 808 NEW YEAR"
+  }
+ ],
+ "Pipol": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
   }
  ],
  "PIXEL 33 show": [
@@ -4475,6 +4537,22 @@
    "venue": "Club Social 911",
    "url": "https://indiehoy.com/agenda/santiago-moraes-priscila-rauto-y-lupretrinia-en-club-social-911/",
    "title": "Santiago Moraes, Priscila Rauto y Lupretrinia"
+  }
+ ],
+ "PUEBLO": [
+  {
+   "date": "2026-11-15",
+   "venue": "Pueblo Límite",
+   "url": "https://venti.live/evento/pueblo-sabado-14-11",
+   "title": "PUEBLO - SABADO 14.11"
+  }
+ ],
+ "Qoa": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
   }
  ],
  "Quetzal Chebú": [
@@ -4669,7 +4747,7 @@
    "title": "SAGITARIO TOTAL BLACK x ARZ SÁB 21.11"
   }
  ],
- "Sam Naidu": [
+ "Sam Naidu (UK)": [
   {
    "date": "2026-12-12",
    "venue": "Delta Rica",
@@ -4747,6 +4825,30 @@
    "venue": "TBA",
    "url": "https://ra.co/events/2578613",
    "title": "ALLMusicParties Noviembre 2026"
+  }
+ ],
+ "SEGO": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
+ "SELF-TITLED - OPEN AIR (SUNSET)": [
+  {
+   "date": "2026-11-11",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/self-titled-open-air-sunset-en-niceto-bar",
+   "title": "SELF-TITLED - OPEN AIR (SUNSET)"
+  }
+ ],
+ "SELF-TITLED SUNSET FESTIVAL": [
+  {
+   "date": "2026-12-26",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/self-titled-sunset-festival-en-niceto-bar",
+   "title": "SELF-TITLED SUNSET FESTIVAL"
   }
  ],
  "SELF-TITLED x FOUND - OPEN AIR": [
@@ -4927,6 +5029,14 @@
    "venue": "TBA - Parque de la Ciudad, CABA",
    "url": "https://ra.co/events/2528105",
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
+  }
+ ],
+ "SOUND & VISION (STAGE 3)": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
   }
  ],
  "Space 92": [
@@ -5235,6 +5345,14 @@
    "title": "ALLMusicParties Noviembre 2026"
   }
  ],
+ "Tom Terzi": [
+  {
+   "date": "2026-12-12",
+   "venue": "Delta Rica",
+   "url": "https://ra.co/events/2576673",
+   "title": "Blur Festival x Manso Club"
+  }
+ ],
  "Toman": [
   {
    "date": "2026-11-20",
@@ -5455,14 +5573,6 @@
    "title": "UNDERWORLD @ Mandarine Park"
   }
  ],
- "VATICANO CLUB - CABINA ABIERTA": [
-  {
-   "date": "2026-11-09",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/vaticano-club-cabina-abierta-en-niceto-bar",
-   "title": "VATICANO CLUB - CABINA ABIERTA"
-  }
- ],
  "VICIO ANIVERSARIO 2 x BELA | Post": [
   {
    "date": "2026-11-22",
@@ -5629,7 +5739,7 @@
    "title": "ZZ Top"
   }
  ],
- "Ácido Fácil": [
+ "Ácido Fácil (Live) (HN)": [
   {
    "date": "2026-12-12",
    "venue": "Delta Rica",

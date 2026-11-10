@@ -5858,116 +5858,6 @@
  },
  {
   "source": "venti",
-  "title": "Máze + Mora y los Metegoles en Niceto Club (+18 años)",
-  "date": "2026-11-09",
-  "venue": "Niceto Club",
-  "artists": [
-   "Máze",
-   "Mora",
-   "los Metegoles"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/m-ze-mora-y-los-metegoles-en-niceto-club",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1791902065352-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "indiehoy",
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "PIANO BAR: PEDRO AGUILAR Y AMIGOS DESCRIPCION",
-  "date": "2026-11-09",
-  "venue": "Niceto Bar",
-  "artists": [
-   "PIANO BAR: PEDRO AGUILAR",
-   "AMIGOS DESCRIPCION"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/piano-bar-pedro-aguilar-y-amigos-descripcion-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/piano-bar-pedro-aguilar-y-amigos-descripcion-en-niceto-bar",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793969761879-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Perel Day",
-  "date": "2026-11-09",
-  "venue": "Doble Sentido Bar Cultural",
-  "artists": [
-   "Perel Day"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43500377-perel-day-at-doble-sentido-bar-cultural?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43500377-perel-day-at-doble-sentido-bar-cultural?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10419064/huge_avatar",
-  "lat": -34.59375,
-  "lon": -58.43772,
-  "start_time": "",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "VATICANO CLUB - CABINA ABIERTA",
-  "date": "2026-11-09",
-  "venue": "Niceto Bar",
-  "artists": [
-   "VATICANO CLUB - CABINA ABIERTA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/vaticano-club-cabina-abierta-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/vaticano-club-cabina-abierta-en-niceto-bar",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793830989288-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CODA + BRUXISMO en Humboldt | Niceto Club (+18 años)",
-  "date": "2026-11-10",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "CODA",
-   "BRUXISMO"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/coda-bruxismo-en-humboldt-niceto-club-18-a-os",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1793139466290-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "Bresh Academy Fest",
   "date": "2026-11-11",
   "venue": "Santos Dumont 4040",
@@ -6093,6 +5983,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "SELF-TITLED - OPEN AIR (SUNSET)",
+  "date": "2026-11-11",
+  "venue": "Niceto Bar",
+  "artists": [
+   "SELF-TITLED - OPEN AIR (SUNSET)"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/self-titled-open-air-sunset-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/self-titled-open-air-sunset-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794261850815-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "songkick",
   "title": "Crisá",
   "date": "2026-11-12",
@@ -6153,6 +6064,27 @@
   "start_time": "20:00",
   "sources": [
    "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Fuocco's NIGHT",
+  "date": "2026-11-12",
+  "venue": "Blue Velvet Bar de Copas",
+  "artists": [
+   "Fuocco"
+  ],
+  "genres": [],
+  "url": "https://ra.co/events/2581572",
+  "ticket_url": "",
+  "price": "",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
   ],
   "artist_source": "structured"
  },
@@ -7281,6 +7213,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "MOULIN ROUGE BY ZETA",
+  "date": "2026-11-14",
+  "venue": "Güemes 2607",
+  "artists": [
+   "MOULIN ROUGE BY ZETA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/mouline-rouge-by-zeta",
+  "ticket_url": "https://venti.live/evento/mouline-rouge-by-zeta",
+  "price": "$4.000",
+  "image": "https://images.venti.live/user-images/1794329848582-lg.jpg",
+  "lat": -32.9323859,
+  "lon": -60.6563121,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "songkick",
   "title": "Maria Becerra",
   "date": "2026-11-14",
@@ -8060,6 +8013,27 @@
  },
  {
   "source": "venti",
+  "title": "NOT WELCOME SATURDAY SPECIAL GUEST",
+  "date": "2026-11-15",
+  "venue": "Tokyo Club BA",
+  "artists": [
+   "NOT WELCOME SATURDAY SPECIAL GUEST"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/not-welcome-saturday-special-guest",
+  "ticket_url": "https://venti.live/evento/not-welcome-saturday-special-guest",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1794262350223-lg.jpg",
+  "lat": -34.5471568,
+  "lon": -58.431173,
+  "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "OLD SCHOOL /2005 - 2015/ x ARZ SÁB 14.11",
   "date": "2026-11-15",
   "venue": "Aráoz 2424",
@@ -8097,6 +8071,27 @@
    "venti"
   ],
   "artist_source": "none"
+ },
+ {
+  "source": "venti",
+  "title": "PUEBLO - SABADO 14.11",
+  "date": "2026-11-15",
+  "venue": "Pueblo Límite",
+  "artists": [
+   "PUEBLO"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/pueblo-sabado-14-11",
+  "ticket_url": "https://venti.live/evento/pueblo-sabado-14-11",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794257142047-lg.jpg",
+  "lat": -37.23800659179688,
+  "lon": -56.979190826416016,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -10934,6 +10929,27 @@
   "artist_source": "title"
  },
  {
+  "source": "songkick",
+  "title": "Maria Becerra",
+  "date": "2026-11-26",
+  "venue": "Movistar Arena",
+  "artists": [
+   "Maria Becerra"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43260056-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43260056-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10180993/huge_avatar",
+  "lat": -34.59432,
+  "lon": -58.44731,
+  "start_time": "19:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Militarie Gun en Argentina",
   "date": "2026-11-26",
@@ -12247,6 +12263,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "Conversaciones Medicas que inspiran. Salud que transforma",
+  "date": "2026-12-02",
+  "venue": "Mustang Bar & Grill",
+  "artists": [
+   "Conversaciones Medicas que inspiran. Salud que transforma"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/conversaciones-medicas-que-inspiran-salud-que-transforma",
+  "ticket_url": "https://venti.live/evento/conversaciones-medicas-que-inspiran-salud-que-transforma",
+  "price": "$25.000",
+  "image": "https://images.venti.live/user-images/1794327984207-lg.jpg",
+  "lat": -34.39799499511719,
+  "lon": -58.67307662963867,
+  "start_time": "20:45",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Leo Middea en Argentina",
   "date": "2026-12-03",
@@ -13232,7 +13269,7 @@
   "url": "https://venti.live/evento/el-atico-dic",
   "ticket_url": "https://venti.live/evento/el-atico-dic",
   "price": "$35.000",
-  "image": "https://images.venti.live/user-images/1793660170872-lg.jpg",
+  "image": "https://images.venti.live/user-images/1794267565096-lg.jpg",
   "lat": -33.007798,
   "lon": -68.91847349999999,
   "start_time": "",
@@ -13585,9 +13622,22 @@
    "Ana Hagen",
    "MALENA",
    "KNDR",
-   "Sam Naidu",
+   "Matias Mauger",
+   "EL EDÉN (STAGE 1)",
    "Porti",
-   "Ácido Fácil"
+   "Mestizo",
+   "CHILL & MICRODANCING (STAGE 2)",
+   "Tom Terzi",
+   "Qoa",
+   "Mijkalova",
+   "SEGO",
+   "Ludmila",
+   "Sam Naidu (UK)",
+   "SOUND & VISION (STAGE 3)",
+   "Pipol",
+   "Mariano Moreira & Massimo Pasquini",
+   "Ácido Fácil (Live) (HN)",
+   "Orquesta TBA"
   ],
   "genres": [],
   "url": "https://ra.co/events/2576673",
@@ -13814,6 +13864,28 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "12/12 | Bass x Lulú pres FRAN BUX - PABLO APPE - YANI PROFESSI",
+  "date": "2026-12-13",
+  "venue": "Lulú",
+  "artists": [
+   "Fran Bux",
+   "Pablo Appe"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s12-12-bass-x-lul-pres-fran-bux-pablo-appe-yani-professi",
+  "ticket_url": "https://venti.live/evento/s12-12-bass-x-lul-pres-fran-bux-pablo-appe-yani-professi",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1794258466178-lg.jpg",
+  "lat": -34.5920071,
+  "lon": -58.42639819999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -14757,6 +14829,27 @@
   "lat": -34.6085966,
   "lon": -58.38250240000001,
   "start_time": "01:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SELF-TITLED SUNSET FESTIVAL",
+  "date": "2026-12-26",
+  "venue": "Niceto Bar",
+  "artists": [
+   "SELF-TITLED SUNSET FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/self-titled-sunset-festival-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/self-titled-sunset-festival-en-niceto-bar",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794261627349-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "22:00",
   "sources": [
    "venti"
   ],
