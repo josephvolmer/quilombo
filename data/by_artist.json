@@ -247,14 +247,6 @@
    "title": "Utopic pres. NIKOLINA + ALT8 + BYORN + ADHILA"
   }
  ],
- "Amix": [
-  {
-   "date": "2026-11-15",
-   "venue": "The Shamrock Bar & Basement Club",
-   "url": "https://venti.live/evento/amix-14-11-shamrock-basement",
-   "title": "Amix 14/11 @ Shamrock Basement"
-  }
- ],
  "Amor Elefante": [
   {
    "date": "2026-12-06",
@@ -321,6 +313,14 @@
    "venue": "complejo forest",
    "url": "https://venti.live/evento/closing-party-andres-koller-x-afl",
    "title": "CLOSING PARTY @ ANDRES KOLLER X AFL"
+  }
+ ],
+ "Andrés Zacco": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
  "Anfisa Letyago": [
@@ -395,6 +395,14 @@
    "title": "Arcana Experience - 5 y 7 de diciembre @ Cacheuta"
   }
  ],
+ "Arre Crew": [
+  {
+   "date": "2026-12-04",
+   "venue": "El Jardín",
+   "url": "https://www.crobar.com.ar/jardin",
+   "title": "Djolee"
+  }
+ ],
  "ARTISTA SECRETO": [
   {
    "date": "2026-11-28",
@@ -417,6 +425,14 @@
    "venue": "Biri Biri",
    "url": "https://indiehoy.com/agenda/astr0kate-y-flor-lovaglio-en-biri-biri/",
    "title": "Astr0kate y Flor Lovaglio"
+  }
+ ],
+ "AUDIO PANGEA": [
+  {
+   "date": "2026-12-01",
+   "venue": "Avant Garten",
+   "url": "https://ra.co/events/2582791",
+   "title": "WORLD MUSIC AVG"
   }
  ],
  "Año Nuevo La Finquita 1920": [
@@ -489,6 +505,14 @@
    "venue": "Under Club",
    "url": "https://venti.live/evento/ben-sims-bondar-k-smt",
    "title": "BEN SIMS | BONDARÜK & SMT"
+  }
+ ],
+ "Benito": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
  "Beyond the festival": [
@@ -803,6 +827,14 @@
    "title": "OCIO - Carol & Anabel, Lvcio, Lede"
   }
  ],
+ "CASA COCO": [
+  {
+   "date": "2026-11-27",
+   "venue": "El ROBLE WAKE COMPLEX",
+   "url": "https://venti.live/evento/casa-coco-27-11",
+   "title": "CASA COCO 27-11"
+  }
+ ],
  "Casiqueva": [
   {
    "date": "2026-11-13",
@@ -873,6 +905,14 @@
    "venue": "La Trastienda",
    "url": "https://indiehoy.com/agenda/cerounno-vinyltracker-y-juan-97-en-la-trastienda/",
    "title": "Cerounno, Vinyltracker y Juan 97"
+  }
+ ],
+ "CHANA": [
+  {
+   "date": "2026-11-15",
+   "venue": "Chana Club",
+   "url": "https://venti.live/evento/chana-s-bado-14-de-noviembre",
+   "title": "CHANA SÁBADO 14 DE NOVIEMBRE"
   }
  ],
  "CHANA VIERNES DE CLÁSICOS": [
@@ -996,7 +1036,7 @@
    "date": "2026-11-17",
    "venue": "Avant Garten",
    "url": "https://ra.co/events/2566804",
-   "title": "WOLRD MUSICA AVG"
+   "title": "WORLD MUSIC AVG"
   }
  ],
  "Cloe Demer \"Sin Rodeos": [
@@ -1127,6 +1167,14 @@
    "title": "Coral en Strummer"
   }
  ],
+ "Cosenza": [
+  {
+   "date": "2026-12-12",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cosenza"
+  }
+ ],
  "Cosmos Festival - Edicion II": [
   {
    "date": "2026-12-27",
@@ -1181,6 +1229,14 @@
    "venue": "Salón Pueyrredon",
    "url": "https://www.songkick.com/concerts/43484861-crisa-at-salon-pueyrredon?utm_medium=organic&utm_source=microformat",
    "title": "Crisá"
+  }
+ ],
+ "DAHAUS x BELA x LOOSEN UP": [
+  {
+   "date": "2026-12-05",
+   "venue": "Belgrano 1008",
+   "url": "https://venti.live/evento/dahaus-x-bela-x-loosen-up",
+   "title": "DAHAUS x BELA x LOOSEN UP"
   }
  ],
  "Damian Lazarus": [
@@ -1305,6 +1361,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Deer Jade"
+  }
+ ],
+ "Dejanon": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
  "Dennis Cruz": [
@@ -1436,7 +1500,13 @@
    "date": "2026-11-17",
    "venue": "Avant Garten",
    "url": "https://ra.co/events/2566804",
-   "title": "WOLRD MUSICA AVG"
+   "title": "WORLD MUSIC AVG"
+  },
+  {
+   "date": "2026-12-01",
+   "venue": "Avant Garten",
+   "url": "https://ra.co/events/2582791",
+   "title": "WORLD MUSIC AVG"
   }
  ],
  "DJ Windows 7": [
@@ -1453,6 +1523,14 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/djavan-argentina-2026/",
    "title": "Djavan en Argentina"
+  }
+ ],
+ "Djolee": [
+  {
+   "date": "2026-12-04",
+   "venue": "El Jardín",
+   "url": "https://www.crobar.com.ar/jardin",
+   "title": "Djolee"
   }
  ],
  "Djs Pareja": [
@@ -1543,12 +1621,12 @@
    "title": "Easykid"
   }
  ],
- "ECOS DE VENTANIA 2026": [
+ "Echosulky": [
   {
-   "date": "2026-11-28",
-   "venue": "Glamping Puente Blanco",
-   "url": "https://venti.live/evento/ecos-de-ventania-2026-preventa-oficial",
-   "title": "ECOS DE VENTANIA 2026 @ TRACK CLUB"
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
  "Eczodia": [
@@ -1651,6 +1729,14 @@
    "venue": "Club de Arte Tempuja",
    "url": "https://www.songkick.com/concerts/43457957-poseidotica-at-club-de-arte-tempuja?utm_medium=organic&utm_source=microformat",
    "title": "Poseidotica"
+  }
+ ],
+ "EL SIGNIFICADO DE LAS FLORES": [
+  {
+   "date": "2026-11-20",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar",
+   "title": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO"
   }
  ],
  "El Síndrome de Peter": [
@@ -1821,6 +1907,14 @@
    "title": "Fede cabral"
   }
  ],
+ "FEELINGS": [
+  {
+   "date": "2026-11-22",
+   "venue": "El ROBLE WAKE COMPLEX",
+   "url": "https://venti.live/evento/feelings-22-11",
+   "title": "FEELINGS 22-11"
+  }
+ ],
  "Feli Colina": [
   {
    "date": "2026-12-15",
@@ -1989,6 +2083,14 @@
    "venue": "Lulú",
    "url": "https://venti.live/evento/s12-12-bass-x-lul-pres-fran-bux-pablo-appe-yani-professi",
    "title": "12/12 | Bass x Lulú pres FRAN BUX - PABLO APPE - YANI PROFESSI"
+  }
+ ],
+ "Fran Tettamanti": [
+  {
+   "date": "2026-12-12",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cosenza"
   }
  ],
  "Francisco Bochaton": [
@@ -2167,6 +2269,14 @@
    "title": "BLASTKICK X MELT Pres. GLIA"
   }
  ],
+ "Glitt B2B Juli C": [
+  {
+   "date": "2026-12-04",
+   "venue": "El Jardín",
+   "url": "https://www.crobar.com.ar/jardin",
+   "title": "Djolee"
+  }
+ ],
  "God Save the Queen": [
   {
    "date": "2026-11-28",
@@ -2313,6 +2423,14 @@
    "title": "ALLMusicParties Noviembre 2026"
   }
  ],
+ "Hernan Jacinto": [
+  {
+   "date": "2026-11-21",
+   "venue": "Caba",
+   "url": "https://www.songkick.com/concerts/43512086-hernan-jacinto-at-caba?utm_medium=organic&utm_source=microformat",
+   "title": "Hernan Jacinto"
+  }
+ ],
  "HERS": [
   {
    "date": "2026-11-20",
@@ -2327,6 +2445,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/hiedrah-en-niceto-club",
    "title": "HIEDRAH"
+  }
+ ],
+ "HIHATDANCER": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
  "Hirax": [
@@ -2661,6 +2787,14 @@
    "title": "Julián Elordi + Martín Zta y la Flia Cohete"
   }
  ],
+ "JURAMENTO": [
+  {
+   "date": "2026-11-20",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar",
+   "title": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO"
+  }
+ ],
  "JXXXO": [
   {
    "date": "2026-11-20",
@@ -2851,12 +2985,6 @@
    "title": "La Finquita Sunset - 14/11"
   },
   {
-   "date": "2026-11-28",
-   "venue": "LA FINQUITA 1920",
-   "url": "https://venti.live/evento/la-finquita-sunset-28-11",
-   "title": "La Finquita Sunset - 28/11"
-  },
-  {
    "date": "2027-01-09",
    "venue": "LA FINQUITA 1920",
    "url": "https://venti.live/evento/la-finquita-sunset-09-01",
@@ -3005,6 +3133,14 @@
    "title": "Innen x AVG pres. Manu Oubiña, Ladant"
   }
  ],
+ "LaGarash": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
+  }
+ ],
  "LAGRIMITAS presenta": [
   {
    "date": "2026-11-28",
@@ -3145,6 +3281,14 @@
    "venue": "Humboldt | Niceto Club",
    "url": "https://venti.live/evento/valerio-los-extravagantes-en-vivo-artista-invitado-plein-en-humboldt-niceto-club-18-a-os",
    "title": "VALERIO & LOS EXTRAVAGANTES EN VIVO! ARTISTA INVITADO: PLEIN en Humboldt | Niceto Club (+18 años)"
+  }
+ ],
+ "LOS GIRASOLES": [
+  {
+   "date": "2026-11-20",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/el-significado-de-las-flores-los-girasoles-juramento-en-niceto-bar",
+   "title": "EL SIGNIFICADO DE LAS FLORES + LOS GIRASOLES + JURAMENTO"
   }
  ],
  "Los Péndulos": [
@@ -3295,6 +3439,14 @@
    "venue": "Strummer Bar",
    "url": "https://indiehoy.com/agenda/lule-miranda-strummer-bar/",
    "title": "Lule Miranda"
+  }
+ ],
+ "Lulù Matheou": [
+  {
+   "date": "2026-12-12",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cosenza"
   }
  ],
  "Lulú Matheou": [
@@ -3528,12 +3680,6 @@
    "date": "2026-11-19",
    "venue": "Movistar Arena",
    "url": "https://www.songkick.com/concerts/43257715-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Maria Becerra"
-  },
-  {
-   "date": "2026-11-26",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43260056-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
    "title": "Maria Becerra"
   }
  ],
@@ -3901,6 +4047,14 @@
    "title": "Muddy Roots Buenos Aires 2026 en CAFF"
   }
  ],
+ "MUSHROOM": [
+  {
+   "date": "2026-12-13",
+   "venue": "Archi Club",
+   "url": "https://venti.live/evento/mushroom-summer-frequency",
+   "title": "MUSHROOM — SUMMER FREQUENCY"
+  }
+ ],
  "MUSHROOM NYE 2027": [
   {
    "date": "2027-01-01",
@@ -3915,6 +4069,14 @@
    "venue": "El Teatrito",
    "url": "https://www.songkick.com/concerts/43329076-my-dying-bride-at-el-teatrito?utm_medium=organic&utm_source=microformat",
    "title": "My Dying Bride"
+  }
+ ],
+ "MØSAYK ▲▼▲ #001": [
+  {
+   "date": "2026-12-13",
+   "venue": "TCQ",
+   "url": "https://venti.live/evento/m-sayk-001",
+   "title": "MØSAYK ▲▼▲ #001"
   }
  ],
  "Nacho Bolognani": [
@@ -3947,14 +4109,6 @@
    "venue": "C Complejo Art Media",
    "url": "https://www.songkick.com/concerts/43218763-natas-broide-villagra-bereciartua-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
    "title": "NATAS - Broide - Villagra - Bereciartúa"
-  }
- ],
- "NAVIDAD OLD SCHOOL x ARZ": [
-  {
-   "date": "2026-12-25",
-   "venue": "Aráoz 2424",
-   "url": "https://venti.live/evento/navidad-old-school-x-arz-s-b-26-09",
-   "title": "NAVIDAD OLD SCHOOL x ARZ SÁB 24.12"
   }
  ],
  "New Order": [
@@ -4287,6 +4441,14 @@
    "title": "Party Pipol"
   }
  ],
+ "Pato Mallet": [
+  {
+   "date": "2026-12-12",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cosenza"
+  }
+ ],
  "Patrick Mason": [
   {
    "date": "2026-12-11",
@@ -4355,6 +4517,14 @@
    "venue": "Under Club",
    "url": "https://ra.co/events/2580780",
    "title": "Cierre De Año + Under Club (Gascón 1040)"
+  }
+ ],
+ "Perras On The Beach": [
+  {
+   "date": "2027-02-19",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/perras-on-the-beach-en-niceto-club",
+   "title": "Perras On The Beach"
   }
  ],
  "Peña Regina: La brasita de mi Chala - SUNSET TERRAZA": [
@@ -4579,6 +4749,14 @@
    "title": "QUÉ SE SIENTE | ARA T"
   }
  ],
+ "RABIA": [
+  {
+   "date": "2026-11-20",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/viernes-de-flow-y-rabia-en-niceto-bar",
+   "title": "VIERNES DE FLOW Y RABIA"
+  }
+ ],
  "Random Fiesta": [
   {
    "date": "2026-11-14",
@@ -4657,6 +4835,14 @@
    "venue": "Under Club",
    "url": "https://venti.live/evento/ri7mo-del-ghetto-x-under-club",
    "title": "RI7MO DEL GHETTO X"
+  }
+ ],
+ "Rixa": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
  "Robert Hood": [
@@ -4837,7 +5023,7 @@
  ],
  "SELF-TITLED - OPEN AIR (SUNSET)": [
   {
-   "date": "2026-11-11",
+   "date": "2026-12-11",
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/self-titled-open-air-sunset-en-niceto-bar",
    "title": "SELF-TITLED - OPEN AIR (SUNSET)"
@@ -5329,6 +5515,14 @@
    "title": "TIM GREEN"
   }
  ],
+ "Tina Disco": [
+  {
+   "date": "2026-12-04",
+   "venue": "Under Club",
+   "url": "https://ra.co/events/2578497",
+   "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
+  }
+ ],
  "Tina Ormart": [
   {
    "date": "2026-11-28",
@@ -5383,6 +5577,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Andre VII"
+  }
+ ],
+ "Tres": [
+  {
+   "date": "2026-12-12",
+   "venue": "Crobar",
+   "url": "https://www.crobar.com.ar/club",
+   "title": "Cosenza"
   }
  ],
  "Tribulaciones": [
@@ -5587,6 +5789,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Victoria Engel"
+  }
+ ],
+ "VIERNES DE FLOW": [
+  {
+   "date": "2026-11-20",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/viernes-de-flow-y-rabia-en-niceto-bar",
+   "title": "VIERNES DE FLOW Y RABIA"
   }
  ],
  "VINMUSIC SPARKLING SESSION - JET": [

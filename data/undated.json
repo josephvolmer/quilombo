@@ -647,23 +647,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Jorge Migoya",
-  "date": "",
-  "venue": "Teatro El Círculo",
-  "artists": [
-   "Jorge Migoya"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/jorge-migoya/teatro-el-circulo",
-  "ticket_url": "https://www.ticketek.com.ar/jorge-migoya/teatro-el-circulo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/migo440.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Luca Topino Quinteto",
   "date": "",
   "venue": "Teatro El Círculo",
