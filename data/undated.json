@@ -120,23 +120,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Tobías Arizio",
-  "date": "",
-  "venue": "Teatro Santa María",
-  "artists": [
-   "Tobías Arizio"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/tobias-arizio/teatro-santa-maria",
-  "ticket_url": "https://www.ticketek.com.ar/tobias-arizio/teatro-santa-maria",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tobias_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La K'onga y La Delio Valdez + Candu Dominguez",
   "date": "",
   "venue": "Bendu Arena",
@@ -182,6 +165,23 @@
   "ticket_url": "https://www.ticketek.com.ar/fka-twigs/teatro-coliseo",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/fka-twigs-eq-ticketera-coliseo-440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Dillom",
+  "date": "",
+  "venue": "Bendu Arena",
+  "artists": [
+   "Dillom"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dillom/bendu-arena",
+  "ticket_url": "https://www.ticketek.com.ar/dillom/bendu-arena",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dillom_a27.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -360,23 +360,6 @@
   "source": "ticketek",
   "title": "Ciro y Los Persas",
   "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
   "venue": "Predio Ferial",
   "artists": [
    "Ciro y Los Persas"
@@ -394,7 +377,7 @@
   "source": "ticketek",
   "title": "Ciro y Los Persas",
   "date": "",
-  "venue": "Estadio Ruca Che",
+  "venue": "Arena Maipu",
   "artists": [
    "Ciro y Los Persas"
   ],
@@ -411,7 +394,7 @@
   "source": "ticketek",
   "title": "Ciro y Los Persas",
   "date": "",
-  "venue": "Gimnasio Bomberos Voluntarios",
+  "venue": "Estadio Ruca Che",
   "artists": [
    "Ciro y Los Persas"
   ],
@@ -664,23 +647,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Pablo Juarez",
-  "date": "",
-  "venue": "Teatro Astengo",
-  "artists": [
-   "Pablo Juarez"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/pablo-juarez/teatro-astengo",
-  "ticket_url": "https://www.ticketek.com.ar/pablo-juarez/teatro-astengo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_62.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Raly Barrionuevo",
   "date": "",
   "venue": "Teatro Coliseo",
@@ -709,40 +675,6 @@
   "ticket_url": "https://www.ticketek.com.ar/festival-de-danzas-armenias/teatro-avenida",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/masis_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Festival Patria",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Festival Patria"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/festival-patria/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/festival-patria/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/pat440_1.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Los Kjarkas",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Los Kjarkas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-kjarkas/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/los-kjarkas/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/kj_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1176,6 +1108,23 @@
   "source": "ticketek",
   "title": "Ezequiel Campa",
   "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Ezequiel Campa"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ezequiel-campa",
+  "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ec_a26g.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ezequiel Campa",
+  "date": "",
   "venue": "RADIO CITY / ROXY / MELANY",
   "artists": [
    "Ezequiel Campa"
@@ -1423,6 +1372,23 @@
   "ticket_url": "https://www.ticketek.com.ar/ballet-de-san-petersburgo/auditorio-de-belgrano",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/casca_a26.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Ballet Clásico de San Petersburgo",
+  "date": "",
+  "venue": "Arena Maipu",
+  "artists": [
+   "Ballet Clásico de San Petersburgo"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/ballet-clasico-de-san-petersburgo/arena-maipu",
+  "ticket_url": "https://www.ticketek.com.ar/ballet-clasico-de-san-petersburgo/arena-maipu",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ballet_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
