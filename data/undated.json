@@ -256,23 +256,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Serú Girán",
-  "date": "",
-  "venue": "Arena Maipu",
-  "artists": [
-   "Serú Girán"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/seru-giran/arena-maipu",
-  "ticket_url": "https://www.ticketek.com.ar/seru-giran/arena-maipu",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/seru_giran_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Carnaval Toda la Orquesta",
   "date": "",
   "venue": "Auditorio de Belgrano",
@@ -437,6 +420,23 @@
   "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Los Tipitos",
+  "date": "",
+  "venue": "Teatro Coliseo",
+  "artists": [
+   "Los Tipitos"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
+  "ticket_url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tipitos_coliseo_440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1072,6 +1072,23 @@
  },
  {
   "source": "ticketek",
+  "title": "DM Experience",
+  "date": "",
+  "venue": "RADIO CITY / ROXY / MELANY",
+  "artists": [
+   "DM Experience"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/dm-experience/radio-city-roxy-melany",
+  "ticket_url": "https://www.ticketek.com.ar/dm-experience/radio-city-roxy-melany",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/dmexp440.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
   "title": "INVASIONES I",
   "date": "",
   "venue": "Teatro San Martín",
@@ -1083,6 +1100,23 @@
   "ticket_url": "https://www.ticketek.com.ar/invasiones-i/teatro-san-martin",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/inva_27a.png",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "La Verbena de la Paloma",
+  "date": "",
+  "venue": "Teatro Avenida",
+  "artists": [
+   "La Verbena de la Paloma"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/la-verbena-de-la-paloma/teatro-avenida",
+  "ticket_url": "https://www.ticketek.com.ar/la-verbena-de-la-paloma/teatro-avenida",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/etdlp_a26.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1151,57 +1185,6 @@
   "ticket_url": "https://www.ticketek.com.ar/ezequiel-campa",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ec_a26g.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "La Verbena de la Paloma",
-  "date": "",
-  "venue": "Teatro Avenida",
-  "artists": [
-   "La Verbena de la Paloma"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/la-verbena-de-la-paloma/teatro-avenida",
-  "ticket_url": "https://www.ticketek.com.ar/la-verbena-de-la-paloma/teatro-avenida",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/etdlp_a26.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "HAIRSPRAY",
-  "date": "",
-  "venue": "Teatro Tronador",
-  "artists": [
-   "HAIRSPRAY"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/hairspray",
-  "ticket_url": "https://www.ticketek.com.ar/hairspray",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_generica.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "HAIRSPRAY",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "HAIRSPRAY"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/hairspray",
-  "ticket_url": "https://www.ticketek.com.ar/hairspray",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600_generica.png",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -1287,23 +1270,6 @@
   "ticket_url": "https://www.ticketek.com.ar/dios-salve-la-reina/arena-maipu",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/queen_a26am.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "The Beatles Symphonic",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "The Beatles Symphonic"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/beatles-symphonic/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/440x600px_sin_logos.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
