@@ -71,14 +71,6 @@
    "title": "Synesthesia"
   }
  ],
- "@nicobalocchi gremora": [
-  {
-   "date": "2026-11-13",
-   "venue": "El Quinto Sueño",
-   "url": "https://ra.co/events/2584870",
-   "title": "Fiesta Placer Six Sex"
-  }
- ],
  "[VIE20NOV] COLISIÓN SÓNICA [MVMNT]": [
   {
    "date": "2026-11-21",
@@ -93,14 +85,6 @@
    "venue": "Estadio Malvinas Argentinas",
    "url": "https://indiehoy.com/agenda/a-perfect-circle-en-argentina/",
    "title": "A Perfect Circle en Argentina"
-  }
- ],
- "Abel Pintos": [
-  {
-   "date": "2026-11-13",
-   "venue": "Teatro Gran Rex",
-   "url": "https://indiehoy.com/agenda/abel-pintos-teatro-gran-rex/",
-   "title": "Abel Pintos"
   }
  ],
  "Abstract Division": [
@@ -279,14 +263,6 @@
    "title": "Alexisonfire en Argentina"
   }
  ],
- "ALFON": [
-  {
-   "date": "2026-11-13",
-   "venue": "The Lift 1967",
-   "url": "https://ra.co/events/2566851",
-   "title": "FOMO presents HOUSE PARTY"
-  }
- ],
  "Alkemia Social Wellness": [
   {
    "date": "2026-11-29",
@@ -347,14 +323,6 @@
    "title": "OCIO - Carol & Anabel, Lvcio, Lede"
   }
  ],
- "Anabel Urdaniz": [
-  {
-   "date": "2026-11-13",
-   "venue": "Casa de la Provincia de Buenos Aires",
-   "url": "https://indiehoy.com/agenda/anabel-urdaniz-casa-de-la-provincia-de-buenos-aires/",
-   "title": "Anabel Urdaniz"
-  }
- ],
  "ANATO FEST 2026": [
   {
    "date": "2026-11-28",
@@ -369,6 +337,14 @@
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Andre VII"
+  }
+ ],
+ "ANDRES CAPRA": [
+  {
+   "date": "2026-12-06",
+   "venue": "Otra Historia Club Cultural",
+   "url": "https://ra.co/events/2585252",
+   "title": "Velvet Is Back"
   }
  ],
  "Andres Koller": [
@@ -465,12 +441,12 @@
    "title": "Arcana Experience - 5 y 7 de diciembre @ Cacheuta"
   }
  ],
- "Argøn": [
+ "Arlen Vanó": [
   {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583424",
-   "title": "Minau Radio Streaming (Frctl Bar)"
+   "date": "2026-12-06",
+   "venue": "Otra Historia Club Cultural",
+   "url": "https://ra.co/events/2585252",
+   "title": "Velvet Is Back"
   }
  ],
  "Arre Crew": [
@@ -519,6 +495,14 @@
    "venue": "Avant Garten",
    "url": "https://ra.co/events/2582791",
    "title": "WORLD MUSIC AVG"
+  }
+ ],
+ "AURA": [
+  {
+   "date": "2027-01-22",
+   "venue": "UMANO",
+   "url": "https://venti.live/evento/aura-mata-x-umano-jue-21-01-27",
+   "title": "AURA & MATA x UMANO | Jue 21/01/27"
   }
  ],
  "Año Nuevo La Finquita 1920": [
@@ -649,6 +633,14 @@
    "title": "BUENOS AIRES GARAGE VOL. 2 - RGB x"
   }
  ],
+ "Beyond Madness": [
+  {
+   "date": "2026-11-28",
+   "venue": "Vadenuevo",
+   "url": "https://www.songkick.com/concerts/43465610-beyond-madness-at-vadenuevo?utm_medium=organic&utm_source=microformat",
+   "title": "Beyond Madness"
+  }
+ ],
  "Beyond the festival": [
   {
    "date": "2026-11-15",
@@ -685,20 +677,20 @@
    "title": "BLACK CREAM ORIGINAL DOMINGO 22/11"
   }
  ],
+ "BLANCAH | ANIVERSARIO MOVIDA ELECTRÓNICA": [
+  {
+   "date": "2026-12-12",
+   "venue": "Av. Rafael Núñez 4614",
+   "url": "https://venti.live/evento/s11-12-blancah-aniversario-movida-electr-nica-en-fruta",
+   "title": "11.12 | BLANCAH | ANIVERSARIO MOVIDA ELECTRÓNICA EN FRUTA"
+  }
+ ],
  "Bodeler": [
   {
    "date": "2026-11-21",
    "venue": "Crobar",
    "url": "https://www.crobar.com.ar/club",
    "title": "Bodeler & Manu Desrets"
-  }
- ],
- "Bombardeo Fest 1": [
-  {
-   "date": "2026-11-13",
-   "venue": "Strummer Bar",
-   "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
-   "title": "Bombardeo Fest 1"
   }
  ],
  "Bondarük": [
@@ -731,13 +723,15 @@
    "title": "LEVITATION ARGENTINA 2027"
   }
  ],
- "BOSCO SUNSET": [
+ "BORRAR": [
   {
-   "date": "2026-11-13",
-   "venue": "Bosco Restaurant",
-   "url": "https://venti.live/evento/bosco-sunset-viernes-13-11",
-   "title": "BOSCO SUNSET VIERNES 13/11"
-  },
+   "date": "2026-12-12",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s14-11-lulu-x-vertice",
+   "title": "BORRAR"
+  }
+ ],
+ "BOSCO SUNSET": [
   {
    "date": "2026-11-20",
    "venue": "Bosco Restaurant",
@@ -796,7 +790,7 @@
    "date": "2026-11-22",
    "venue": "Summer Multiespacio Cultural",
    "url": "https://venti.live/evento/bresh-en-general-villegas-21-de-noviembre-summer-multiespacio-cultural",
-   "title": "Bresh en General Villegas -21 de Noviembre"
+   "title": "Bresh en General Villegas - 21 de Noviembre"
   },
   {
    "date": "2026-11-23",
@@ -809,6 +803,12 @@
    "venue": "El Español Club",
    "url": "https://venti.live/evento/fiesta-bresh-en-posadas-5-de-diciembre",
    "title": "Fiesta Bresh en Posadas - 5 de Diciembre"
+  },
+  {
+   "date": "2026-12-13",
+   "venue": "EQUIS SOCIETY",
+   "url": "https://venti.live/evento/bresh-en-san-rafael-12-de-diciembre-equis-society",
+   "title": "Bresh en San Rafael - 12 de Diciembre"
   }
  ],
  "Bresh en": [
@@ -827,14 +827,6 @@
    "title": "BRINDIS"
   }
  ],
- "Bronnka": [
-  {
-   "date": "2026-11-13",
-   "venue": "Zabal Techno",
-   "url": "https://ra.co/events/2568059",
-   "title": "ZABAL: PIRANHA"
-  }
- ],
  "Bruno Bona": [
   {
    "date": "2026-11-28",
@@ -843,7 +835,7 @@
    "title": "TSP Sunset Sessions · Chapter I: The First Dance"
   }
  ],
- "Burn in Noise": [
+ "BURN IN NOISE": [
   {
    "date": "2026-11-22",
    "venue": "The Sub",
@@ -931,20 +923,12 @@
    "title": "Pay Spectrum Bill by Account Number & Phone - Quick Pay Guide"
   }
  ],
- "Canterbeat": [
+ "Candelabro": [
   {
-   "date": "2026-11-13",
-   "venue": "Angelo de Peredo 325",
-   "url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
-   "title": "DATA LOCAL x BELA > Killimet & Canterbeat + Resurface"
-  }
- ],
- "Canto del Alma": [
-  {
-   "date": "2026-11-13",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/canto-del-alma-en-niceto-club-18-a-os",
-   "title": "Canto del Alma en Niceto Club (+18 años)"
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Carca DJ Set": [
@@ -995,14 +979,6 @@
    "title": "CASA COCO 27-11"
   }
  ],
- "Casiqueva": [
-  {
-   "date": "2026-11-13",
-   "venue": "XLR Club",
-   "url": "https://www.songkick.com/concerts/43426391-casiqueva-at-xlr-club?utm_medium=organic&utm_source=microformat",
-   "title": "Casiqueva"
-  }
- ],
  "CASTELO": [
   {
    "date": "2026-11-22",
@@ -1033,14 +1009,6 @@
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/cdm-meets-thomass-jackson-x-bela",
    "title": "CDM Meets THOMASS JACKSON x BELA"
-  }
- ],
- "CEKTA": [
-  {
-   "date": "2026-11-13",
-   "venue": "Zabal Techno",
-   "url": "https://ra.co/events/2568059",
-   "title": "ZABAL: PIRANHA"
   }
  ],
  "Cera Khin": [
@@ -1119,6 +1087,14 @@
    "title": "Charlotte Wessels en Argentina"
   }
  ],
+ "Chechi De Marcos": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "Chica Baiana": [
   {
    "date": "2027-01-06",
@@ -1157,6 +1133,14 @@
    "venue": "Gascón 1040",
    "url": "https://venti.live/evento/chiri-kenny-larkin-robert-hood",
    "title": "CHIRI | KENNY LARKIN | ROBERT HOOD"
+  }
+ ],
+ "CHKLT X JET": [
+  {
+   "date": "2026-11-23",
+   "venue": "JET",
+   "url": "https://venti.live/evento/chklt-x-jet",
+   "title": "CHKLT X JET"
   }
  ],
  "CHRISTOPHER ERRE": [
@@ -1207,14 +1191,6 @@
    "title": "WORLD MUSIC AVG"
   }
  ],
- "Claribel": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583424",
-   "title": "Minau Radio Streaming (Frctl Bar)"
-  }
- ],
  "Cloe Demer \"Sin Rodeos": [
   {
    "date": "2026-12-04",
@@ -1259,20 +1235,20 @@
    "title": "Club 69 | 28 NOV en Niceto Club (+18 años)"
   }
  ],
- "Club Marfil": [
-  {
-   "date": "2026-11-13",
-   "venue": "Lucille",
-   "url": "https://indiehoy.com/agenda/club-marfil-en-lucille/",
-   "title": "Club Marfil"
-  }
- ],
  "Clyde McGee": [
   {
    "date": "2026-11-21",
    "venue": "CAFF",
    "url": "https://www.songkick.com/festivals/87166-muddy-roots/id/43454550-muddy-roots-festival-2026?utm_medium=organic&utm_source=microformat",
    "title": "Muddy Roots Festival 2026"
+  }
+ ],
+ "CMAT": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Coeus": [
@@ -1343,14 +1319,6 @@
    "title": "Concierto de Alumnos de Batería - Prof. Ramos Juan Pablo"
   }
  ],
- "Conde & Caruso": [
-  {
-   "date": "2026-11-13",
-   "venue": "The Lift 1967",
-   "url": "https://ra.co/events/2566851",
-   "title": "FOMO presents HOUSE PARTY"
-  }
- ],
  "Confirmed before hang-up.": [
   {
    "date": "2026-11-14",
@@ -1413,6 +1381,14 @@
    "venue": "C Complejo Art Media",
    "url": "https://www.songkick.com/concerts/43443316-coti-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
    "title": "Coti"
+  }
+ ],
+ "Courtney Barnett": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Creamfields Argentina 2026": [
@@ -1487,14 +1463,6 @@
    "title": "SUNSET W/ DAN GHENACIA & JORGE SAVORETTI AT REFUGIO 428"
   }
  ],
- "Dani Labb": [
-  {
-   "date": "2026-11-13",
-   "venue": "TBA - SECRET LOCATION",
-   "url": "https://ra.co/events/2565035",
-   "title": "ElekTide presents: IAMBP and Dani Labb"
-  }
- ],
  "Danny Howells": [
   {
    "date": "2026-11-20",
@@ -1509,12 +1477,12 @@
    "title": "DANNY HOWELLS"
   }
  ],
- "DANZA": [
+ "Danny L Harle": [
   {
-   "date": "2026-11-14",
-   "venue": "Uriburu Club",
-   "url": "https://venti.live/evento/danza",
-   "title": "DANZA"
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Dança Tropical": [
@@ -1531,14 +1499,6 @@
    "venue": "Angelo de Peredo 325",
    "url": "https://venti.live/evento/data-local-x-bela-jazmin-y-el-pel-cano-yo-sin-coser",
    "title": "DATA LOCAL x BELA > Jazmin y el pelícano + Yo sin coser"
-  }
- ],
- "DATA LOCAL x BELA > Killimet": [
-  {
-   "date": "2026-11-13",
-   "venue": "Angelo de Peredo 325",
-   "url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
-   "title": "DATA LOCAL x BELA > Killimet & Canterbeat + Resurface"
   }
  ],
  "David Cross Band": [
@@ -1639,14 +1599,6 @@
    "title": "DENNIS CRUZ x MIRAGE & VANGUARD"
   }
  ],
- "derkz": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583424",
-   "title": "Minau Radio Streaming (Frctl Bar)"
-  }
- ],
  "DESAHOGO)": [
   {
    "date": "2026-11-28",
@@ -1661,14 +1613,6 @@
    "venue": "Switch Club",
    "url": "https://venti.live/evento/tonaco-franco-armellini-switch-club",
    "title": "TONACO + FRANCO ARMELLINI"
-  }
- ],
- "DESORDEN": [
-  {
-   "date": "2026-11-13",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/ciclo-desorden-en-niceto-bar",
-   "title": "CICLO DESORDEN"
   }
  ],
  "DESORDEN con OPINEL": [
@@ -1859,14 +1803,6 @@
    "title": "DOMINGO CACHENGUE BY BOSCO SUNSET 6/12"
   }
  ],
- "Don Adams": [
-  {
-   "date": "2026-11-13",
-   "venue": "Lucille",
-   "url": "https://indiehoy.com/agenda/don-adams-lucille-2026/",
-   "title": "Don Adams"
-  }
- ],
  "Don Osvaldo": [
   {
    "date": "2026-12-05",
@@ -1931,6 +1867,14 @@
    "title": "Easykid"
   }
  ],
+ "Ecco2k": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "Echosulky": [
   {
    "date": "2026-12-04",
@@ -1969,6 +1913,14 @@
    "venue": "TCQ",
    "url": "https://ra.co/events/2583437",
    "title": "TCQ Cultura Techno"
+  }
+ ],
+ "Eek a mouse": [
+  {
+   "date": "2026-12-10",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/eek-a-mouse-en-niceto-club-18-a-os",
+   "title": "Eek a mouse en Niceto Club (+18 años)"
   }
  ],
  "El Caribefunk": [
@@ -2065,28 +2017,12 @@
    "title": "El vecindario"
   }
  ],
- "Ela Dabul": [
-  {
-   "date": "2026-11-13",
-   "venue": "Zabal Techno",
-   "url": "https://ra.co/events/2568059",
-   "title": "ZABAL: PIRANHA"
-  }
- ],
  "ELECTRIKISIMA": [
   {
    "date": "2026-11-14",
    "venue": "Otra Historia Club Cultural",
    "url": "https://ra.co/events/2577574",
    "title": "Knossos Rave - Martina Hobelar, Snadin, Party Make & more"
-  }
- ],
- "Ema Iglesias": [
-  {
-   "date": "2026-11-13",
-   "venue": "TBA - SECRET LOCATION",
-   "url": "https://ra.co/events/2565035",
-   "title": "ElekTide presents: IAMBP and Dani Labb"
   }
  ],
  "Emiliano Demarco": [
@@ -2141,14 +2077,6 @@
    "venue": "Maquinal Espacio Cultural",
    "url": "https://ra.co/events/2561778",
    "title": "FRACTURA – LABEL PARTY 2026"
-  }
- ],
- "Erika Halliday": [
-  {
-   "date": "2026-11-13",
-   "venue": "TBA - SECRET LOCATION",
-   "url": "https://ra.co/events/2565035",
-   "title": "ElekTide presents: IAMBP and Dani Labb"
   }
  ],
  "Erosion Desert Live": [
@@ -2293,14 +2221,6 @@
    "title": "Feli Colina en Niceto Club (+18 años)"
   }
  ],
- "FELIPE BALDOMIR": [
-  {
-   "date": "2026-12-09",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/felipe-baldomir-en-buenos-aires-en-niceto-club",
-   "title": "FELIPE BALDOMIR EN BUENOS AIRES en Niceto Club (+18 años)"
-  }
- ],
  "Felipe Baldomir": [
   {
    "date": "2026-12-09",
@@ -2377,6 +2297,22 @@
    "title": "FIEBRE FIESTA en CONCORDIA 12/12"
   }
  ],
+ "FIEBRE X UMN": [
+  {
+   "date": "2027-01-21",
+   "venue": "UMANO",
+   "url": "https://venti.live/evento/fiebre-x-umn-mi-20-01-27",
+   "title": "FIEBRE X UMN | Mié 20/01/27"
+  }
+ ],
+ "Fin Del Mundo": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "Final Thoughts": [
   {
    "date": "2026-11-14",
@@ -2403,6 +2339,14 @@
    "venue": "TBA",
    "url": "https://ra.co/events/2578613",
    "title": "ALLMusicParties Noviembre 2026"
+  }
+ ],
+ "FKA Twigs": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Flashpoint with Álvaro Medina": [
@@ -2449,6 +2393,14 @@
    "venue": "Biri Biri",
    "url": "https://indiehoy.com/agenda/astr0kate-y-flor-lovaglio-en-biri-biri/",
    "title": "Astr0kate y Flor Lovaglio"
+  }
+ ],
+ "FLUKTUS": [
+  {
+   "date": "2026-11-22",
+   "venue": "The Sub",
+   "url": "https://ra.co/events/2546594",
+   "title": "Alien Ritual - Burn in Noise"
   }
  ],
  "Fonseca": [
@@ -2587,20 +2539,20 @@
    "title": "BLASTKICK X MELT Pres. GLIA"
   }
  ],
+ "Futcon - Festival de Cultura Futbolera": [
+  {
+   "date": "2026-11-14",
+   "venue": "Ciudad Cultural Konex",
+   "url": "https://venti.live/evento/futcon",
+   "title": "Futcon - Festival de Cultura Futbolera"
+  }
+ ],
  "Gai Barone": [
   {
    "date": "2026-11-20",
    "venue": "TBA",
    "url": "https://ra.co/events/2578613",
    "title": "ALLMusicParties Noviembre 2026"
-  }
- ],
- "Gallo Criollo celebra su 1er año": [
-  {
-   "date": "2026-12-14",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/gallo-criollo-celebra-su-1er-a-o-en-humboldt-niceto-club",
-   "title": "Gallo Criollo celebra su 1er año"
   }
  ],
  "Gang of Four": [
@@ -2697,6 +2649,14 @@
    "venue": "TCQ",
    "url": "https://ra.co/events/2583434",
    "title": "ÚLTIMO CAPÍTULO · T4V SHOWCASE"
+  }
+ ],
+ "Gorillaz": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Grant Dell": [
@@ -2811,22 +2771,6 @@
    "venue": "Uniclub",
    "url": "https://indiehoy.com/agenda/hellripper-en-argentina-buenos-aires-2027/",
    "title": "Hellripper en Argentina"
-  }
- ],
- "hermanos de la calle": [
-  {
-   "date": "2026-11-13",
-   "venue": "XLR Club",
-   "url": "https://www.songkick.com/concerts/43426391-casiqueva-at-xlr-club?utm_medium=organic&utm_source=microformat",
-   "title": "Casiqueva"
-  }
- ],
- "Hermetic Hell": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583428",
-   "title": "TCQ Cultura Techno"
   }
  ],
  "Hernan Cattaneo": [
@@ -3009,14 +2953,6 @@
    "title": "RAVE3000 / I Hate Models, Cloudy, KUKO, Serafina, Kessler, THD+N"
   }
  ],
- "IAMBP": [
-  {
-   "date": "2026-11-13",
-   "venue": "TBA - SECRET LOCATION",
-   "url": "https://ra.co/events/2565035",
-   "title": "ElekTide presents: IAMBP and Dani Labb"
-  }
- ],
  "Ian Lucas": [
   {
    "date": "2026-12-07",
@@ -3063,14 +2999,6 @@
    "venue": "TCQ",
    "url": "https://ra.co/events/2583433",
    "title": "Soul Beneath 20 de noviembre"
-  }
- ],
- "inalco2222": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583424",
-   "title": "Minau Radio Streaming (Frctl Bar)"
   }
  ],
  "Indiegenas": [
@@ -3151,12 +3079,12 @@
    "title": "DESORDEN con OPINEL, ISLA TUCAN, JTF"
   }
  ],
- "Ito & François": [
+ "Jaime Sin Tierra": [
   {
-   "date": "2026-11-13",
-   "venue": "The Lift 1967",
-   "url": "https://ra.co/events/2566851",
-   "title": "FOMO presents HOUSE PARTY"
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Jan Blomqvist": [
@@ -3165,14 +3093,6 @@
    "venue": "TBA",
    "url": "https://ra.co/events/2578613",
    "title": "ALLMusicParties Noviembre 2026"
-  }
- ],
- "JAWS": [
-  {
-   "date": "2026-11-13",
-   "venue": "Zabal Techno",
-   "url": "https://ra.co/events/2568059",
-   "title": "ZABAL: PIRANHA"
   }
  ],
  "Jaze": [
@@ -3205,6 +3125,14 @@
    "venue": "Uniclub",
    "url": "https://www.songkick.com/concerts/43300650-john-5-at-uniclub?utm_medium=organic&utm_source=microformat",
    "title": "John 5"
+  }
+ ],
+ "John Talabot": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Johnny Boy": [
@@ -3285,6 +3213,22 @@
    "venue": "TBA",
    "url": "https://ra.co/events/2578613",
    "title": "ALLMusicParties Noviembre 2026"
+  }
+ ],
+ "Juana Aguirre": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
+ "Juana Molina": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Julián Elordi": [
@@ -3485,14 +3429,6 @@
    "title": "Creamfields 2026"
   }
  ],
- "LA ANALÓGICA": [
-  {
-   "date": "2026-11-14",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/la-anal-gica-en-niceto-bar",
-   "title": "LA ANALÓGICA"
-  }
- ],
  "La Chancha Muda - Antes que se abra el corral": [
   {
    "date": "2026-11-28",
@@ -3535,18 +3471,6 @@
    "title": "La Finquita Sunset - 16/01"
   },
   {
-   "date": "2027-01-23",
-   "venue": "LA FINQUITA 1920",
-   "url": "https://venti.live/evento/la-finquita-sunset-23-01",
-   "title": "La Finquita Sunset - 23/01"
-  },
-  {
-   "date": "2027-01-30",
-   "venue": "LA FINQUITA 1920",
-   "url": "https://venti.live/evento/la-finquita-sunset-30-01",
-   "title": "La Finquita Sunset 30/01"
-  },
-  {
    "date": "2027-02-13",
    "venue": "LA FINQUITA 1920",
    "url": "https://venti.live/evento/la-finquita-sunset-13-02",
@@ -3581,6 +3505,24 @@
    "venue": "LA FINQUITA 1920",
    "url": "https://venti.live/evento/la-finquita-sunset-20-03",
    "title": "La Finquita Sunset 20/03"
+  },
+  {
+   "date": "2027-04-10",
+   "venue": "LA FINQUITA 1920",
+   "url": "https://venti.live/evento/la-finquita-sunset-10-04",
+   "title": "La Finquita Sunset 10/04"
+  },
+  {
+   "date": "2027-04-17",
+   "venue": "LA FINQUITA 1920",
+   "url": "https://venti.live/evento/la-finquita-sunset-17-04",
+   "title": "La Finquita Sunset 17/04"
+  },
+  {
+   "date": "2027-04-24",
+   "venue": "LA FINQUITA 1920",
+   "url": "https://venti.live/evento/la-finquita-sunset-24-04",
+   "title": "La Finquita Sunset 24/04"
   }
  ],
  "La Finquita Sunset | Edición Especial": [
@@ -3637,6 +3579,18 @@
    "venue": "LA FINQUITA 1920",
    "url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-02-04",
    "title": "La Finquita Sunset | Edición Especial 02/04"
+  },
+  {
+   "date": "2027-04-03",
+   "venue": "LA FINQUITA 1920",
+   "url": "https://venti.live/evento/la-finquita-sunset-03-04",
+   "title": "La Finquita Sunset | Edición Especial 03/04"
+  },
+  {
+   "date": "2027-05-01",
+   "venue": "LA FINQUITA 1920",
+   "url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-01-05",
+   "title": "La Finquita Sunset | Edición Especial 01/05"
   }
  ],
  "la Flia Cohete": [
@@ -3645,6 +3599,110 @@
    "venue": "Niceto Bar",
    "url": "https://venti.live/evento/juli-n-elordi-mart-n-zta-y-la-flia-cohete-en-niceto-bar",
    "title": "Julián Elordi + Martín Zta y la Flia Cohete"
+  }
+ ],
+ "LA HISTÓRICA SUNSET WINE FESTIVAL": [
+  {
+   "date": "2027-01-02",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-02-enero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 02 ENERO"
+  },
+  {
+   "date": "2027-01-16",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-16-enero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 16 ENERO"
+  },
+  {
+   "date": "2027-01-23",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-23-enero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 23 ENERO"
+  },
+  {
+   "date": "2027-01-30",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-30-enero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 30 ENERO"
+  },
+  {
+   "date": "2027-02-06",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-06-febrero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 06 FEBRERO"
+  },
+  {
+   "date": "2027-02-13",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-13-febrero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 13 FEBRERO"
+  },
+  {
+   "date": "2027-02-20",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-20-febrero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 20 FEBRERO"
+  },
+  {
+   "date": "2027-02-27",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-27-febrero",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 27 FEBRERO"
+  },
+  {
+   "date": "2027-03-06",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-06-marzo",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 06 MARZO"
+  },
+  {
+   "date": "2027-03-13",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-13-marzo",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 13 MARZO"
+  },
+  {
+   "date": "2027-03-20",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-20-marzo",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 20 MARZO"
+  },
+  {
+   "date": "2027-03-27",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-27-marzo",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 27 MARZO"
+  },
+  {
+   "date": "2027-04-03",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-03-abril",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 03 ABRIL"
+  },
+  {
+   "date": "2027-04-10",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-10-abril",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 10 ABRIL"
+  },
+  {
+   "date": "2027-04-17",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-17-abril",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 17 ABRIL"
+  },
+  {
+   "date": "2027-04-24",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-24-abril",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 24 ABRIL"
+  },
+  {
+   "date": "2027-05-01",
+   "venue": "Bodega La Histórica",
+   "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-01-mayo",
+   "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 01 MAYO"
   }
  ],
  "La La Love You": [
@@ -3685,6 +3743,14 @@
    "venue": "Stadium Complejo La Normandina",
    "url": "https://venti.live/evento/la-nosti-5-aniversario-s-bado-21-11",
    "title": "La Nosti - 5 aniversario-sábado 21/11"
+  }
+ ],
+ "LA OLD": [
+  {
+   "date": "2026-11-23",
+   "venue": "Wild Hops City Bell",
+   "url": "https://venti.live/evento/la-old-en-wild-hops-citybell",
+   "title": "LA OLD en Wild Hops Citybell"
   }
  ],
  "LA PARANOLI": [
@@ -3843,14 +3909,6 @@
    "title": "BIG FUN | sábado 21/11 | tributo a Studio 54"
   }
  ],
- "Leo Error": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583428",
-   "title": "TCQ Cultura Techno"
-  }
- ],
  "Leo Middea": [
   {
    "date": "2026-12-03",
@@ -3883,12 +3941,28 @@
    "title": "FRACTURA – LABEL PARTY 2026"
   }
  ],
+ "Lily Allen": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "Linea Caliente": [
   {
    "date": "2026-11-22",
    "venue": "La Nube Buenos Aires",
    "url": "https://venti.live/evento/linea-caliente-assembleia-presentan-congreso-de-seduccion-en-portu-ol-en-la-nube",
    "title": "Linea Caliente & Assembleia presentan Congreso de Seduccion en Portuñol - En La Nube"
+  }
+ ],
+ "Lisa Scha": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Lisandro Margni": [
@@ -3961,6 +4035,14 @@
    "venue": "La Tangente",
    "url": "https://indiehoy.com/agenda/los-reyes-del-falsete-en-la-tangente/",
    "title": "Los Reyes del Falsete"
+  }
+ ],
+ "Los Thuthanaka": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Los Tipitos": [
@@ -4137,12 +4219,20 @@
    "title": "28/11 | Lulú x Bombi - Aniversario"
   }
  ],
- "Lulú x Mora": [
+ "LULÚ x Meeting Family x Substract": [
   {
-   "date": "2026-11-14",
+   "date": "2026-12-06",
    "venue": "Lulú",
-   "url": "https://venti.live/evento/s13-11-lul-x-mora",
-   "title": "13/11 | Lulú x Mora"
+   "url": "https://venti.live/evento/s05-12-lul-x-meeting-lab-x-substract",
+   "title": "05/12 | LULÚ x Meeting Family x Substract"
+  }
+ ],
+ "Lulú x Vértice": [
+  {
+   "date": "2026-12-12",
+   "venue": "Lulú",
+   "url": "https://venti.live/evento/s11-12-lulu-x-vertice",
+   "title": "11/12 | Lulú x Vértice"
   }
  ],
  "Lupretrinia": [
@@ -4175,6 +4265,14 @@
    "venue": "El Atico Club",
    "url": "https://venti.live/evento/maceo-plex-el-tico",
    "title": "MACEO PLEX"
+  }
+ ],
+ "Machine Girl": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Mack Stevens": [
@@ -4231,6 +4329,14 @@
    "venue": "Delta Rica",
    "url": "https://ra.co/events/2576673",
    "title": "Blur Festival x Manso Club"
+  }
+ ],
+ "Mannequin Pussy": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Manu Desrets": [
@@ -4310,12 +4416,6 @@
   }
  ],
  "Maria Becerra": [
-  {
-   "date": "2026-11-13",
-   "venue": "Movistar Arena",
-   "url": "https://www.songkick.com/concerts/43214227-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-   "title": "Maria Becerra"
-  },
   {
    "date": "2026-11-14",
    "venue": "Movistar Arena",
@@ -4405,6 +4505,14 @@
    "title": "Blur Festival x Manso Club"
   }
  ],
+ "Marilina Bertoldi": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "Martin Huergo": [
   {
    "date": "2026-11-14",
@@ -4437,12 +4545,12 @@
    "title": "Julián Elordi + Martín Zta y la Flia Cohete"
   }
  ],
- "Matias Franco": [
+ "MATA x UMANO": [
   {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583424",
-   "title": "Minau Radio Streaming (Frctl Bar)"
+   "date": "2027-01-22",
+   "venue": "UMANO",
+   "url": "https://venti.live/evento/aura-mata-x-umano-jue-21-01-27",
+   "title": "AURA & MATA x UMANO | Jue 21/01/27"
   }
  ],
  "Matias Mauger": [
@@ -4459,14 +4567,6 @@
    "venue": "Hipodromo Argentino de Palermo",
    "url": "https://ra.co/events/2576149",
    "title": "House Music Sessions - Sunset Edition 003"
-  }
- ],
- "Maurizio Schmitz": [
-  {
-   "date": "2026-11-13",
-   "venue": "Deseo BS AS",
-   "url": "https://ra.co/events/2561828",
-   "title": "SVEN VÄTH - CREAMFIELDS PRE PARTY"
   }
  ],
  "Maxime dB": [
@@ -4579,22 +4679,6 @@
    "title": "Blur Festival x Manso Club"
   }
  ],
- "MIKE RISH": [
-  {
-   "date": "2026-11-14",
-   "venue": "Av. Rafael Núñez 4614",
-   "url": "https://venti.live/evento/s13-11-mike-rish-en-fruta",
-   "title": "13.11 | MIKE RISH EN FRUTA."
-  }
- ],
- "Mila": [
-  {
-   "date": "2026-11-14",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/mila-en-humboldt-niceto-club",
-   "title": "Mila en Humboldt | Niceto Club (+18 años)"
-  }
- ],
  "Militarie Gun": [
   {
    "date": "2026-11-26",
@@ -4673,6 +4757,22 @@
    "title": "Pay Spectrum Bill by Account Number & Phone - Quick Pay Guide"
   }
  ],
+ "Model/Actriz": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
+ "MOKSHA": [
+  {
+   "date": "2026-11-22",
+   "venue": "The Sub",
+   "url": "https://ra.co/events/2546594",
+   "title": "Alien Ritual - Burn in Noise"
+  }
+ ],
  "Momo Trosman": [
   {
    "date": "2026-11-14",
@@ -4719,22 +4819,6 @@
    "venue": "Av. Rafael Núñez 4614",
    "url": "https://venti.live/evento/s20-11-christopher-erre-more-fruta",
    "title": "20.11 | CHRISTOPHER ERRE & MORE | Fruta"
-  }
- ],
- "MOULIN ROUGE BY ZETA": [
-  {
-   "date": "2026-11-14",
-   "venue": "Güemes 2607",
-   "url": "https://venti.live/evento/mouline-rouge-by-zeta",
-   "title": "MOULIN ROUGE BY ZETA"
-  }
- ],
- "Moyka": [
-  {
-   "date": "2026-11-25",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/moyka-en-niceto-humboldt-niceto-club",
-   "title": "MOYKA en Niceto Humboldt | Niceto Club (+18 años)"
   }
  ],
  "MTM": [
@@ -4785,6 +4869,14 @@
    "title": "My Dying Bride"
   }
  ],
+ "métrika": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "MØSAYK ▲▼▲ #001": [
   {
    "date": "2026-12-13",
@@ -4825,20 +4917,12 @@
    "title": "NASIR CATRIEL/ FASCIOLO/ ALKOY con Banda en Humboldt | Niceto Club (+18 años)"
   }
  ],
- "Natalia Echenique": [
+ "Nation of Language": [
   {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583428",
-   "title": "TCQ Cultura Techno"
-  }
- ],
- "NATAS - Broide - Villagra - Bereciartúa": [
-  {
-   "date": "2026-11-13",
-   "venue": "C Complejo Art Media",
-   "url": "https://www.songkick.com/concerts/43218763-natas-broide-villagra-bereciartua-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-   "title": "NATAS - Broide - Villagra - Bereciartúa"
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Nativa Trece B2B Sorah": [
@@ -4895,6 +4979,14 @@
    "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties"
   }
  ],
+ "Nick Leon": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "Nick Warren": [
   {
    "date": "2026-11-20",
@@ -4917,14 +5009,6 @@
    "venue": "The Lift 1967",
    "url": "https://ra.co/events/2566852",
    "title": "NEXO vol. 17 presents HOBIN RUDE"
-  }
- ],
- "Niko del Kaos Live": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583428",
-   "title": "TCQ Cultura Techno"
   }
  ],
  "NIKOLINA_": [
@@ -4957,12 +5041,12 @@
    "title": "No Te Va Gustar"
   }
  ],
- "NOCHE PANTERA": [
+ "Noche de Performance FAQ - Nos": [
   {
-   "date": "2026-11-14",
-   "venue": "Niceto Bar",
-   "url": "https://venti.live/evento/noche-pantera-en-niceto-bar",
-   "title": "NOCHE PANTERA"
+   "date": "2026-12-13",
+   "venue": "Nos en Vera",
+   "url": "https://venti.live/evento/noche-de-performance-faq-nos-en-vera",
+   "title": "Noche de Performance FAQ"
   }
  ],
  "Nochteff": [
@@ -4979,6 +5063,14 @@
    "venue": "Uniclub",
    "url": "https://www.songkick.com/concerts/43088377-nocturnal-depression-at-uniclub?utm_medium=organic&utm_source=microformat",
    "title": "Nocturnal Depression"
+  }
+ ],
+ "NOIR": [
+  {
+   "date": "2026-11-22",
+   "venue": "The Sub",
+   "url": "https://ra.co/events/2546594",
+   "title": "Alien Ritual - Burn in Noise"
   }
  ],
  "Nonpalidece": [
@@ -5035,14 +5127,6 @@
    "venue": "Bali",
    "url": "https://venti.live/evento/nye-techno-edition-matador-live-bali-2gthr-31-12",
    "title": "NYE TECHNO EDITION: MATADOR (live)"
-  }
- ],
- "Obbi": [
-  {
-   "date": "2026-11-13",
-   "venue": "TCQ",
-   "url": "https://ra.co/events/2583424",
-   "title": "Minau Radio Streaming (Frctl Bar)"
   }
  ],
  "OCTAFONIC": [
@@ -5107,6 +5191,14 @@
    "title": "Pay Spectrum Bill by Account Number & Phone - Quick Pay Guide"
   }
  ],
+ "Only Friends NYE": [
+  {
+   "date": "2027-01-01",
+   "venue": "Multiespacio Area Costanera",
+   "url": "https://venti.live/evento/radikal-only-friends-nye",
+   "title": "Radikal & Only Friends NYE"
+  }
+ ],
  "OOSTIL - STJEPANEK- FACUNDO SVAL /EROS": [
   {
    "date": "2026-12-27",
@@ -5121,6 +5213,14 @@
    "venue": "Bodega Tierras Altas",
    "url": "https://venti.live/evento/open-air-24-12",
    "title": "OPEN AIR | 24/12"
+  }
+ ],
+ "OPEN CALL": [
+  {
+   "date": "2026-12-06",
+   "venue": "Otra Historia Club Cultural",
+   "url": "https://ra.co/events/2585252",
+   "title": "Velvet Is Back"
   }
  ],
  "Orquesta TBA": [
@@ -5249,12 +5349,12 @@
    "title": "Knossos Rave - Martina Hobelar, Snadin, Party Make & more"
   }
  ],
- "Party Pipol": [
+ "Pato Benitez": [
   {
-   "date": "2026-11-13",
-   "venue": "Otra Historia Club Cultural",
-   "url": "https://indiehoy.com/agenda/party-pipol-en-otra-historia-club-cultural/",
-   "title": "Party Pipol"
+   "date": "2026-11-28",
+   "venue": "Villa Crespo",
+   "url": "https://www.songkick.com/concerts/43427892-pato-benitez-at-villa-crespo?utm_medium=organic&utm_source=microformat",
+   "title": "Pato Benitez"
   }
  ],
  "Pato Mallet": [
@@ -5333,14 +5433,6 @@
    "venue": "Teatro Gran Rex",
    "url": "https://indiehoy.com/agenda/pedro-capo-en-argentina-2/",
    "title": "Pedro Capó en Argentina"
-  }
- ],
- "Peluche": [
-  {
-   "date": "2026-12-31",
-   "venue": "Faro Beach Club",
-   "url": "https://venti.live/evento/peluche-rio-de-janeiro",
-   "title": "Peluche @ Rio de Janeiro"
   }
  ],
  "Perc": [
@@ -5519,12 +5611,6 @@
  ],
  "POPE": [
   {
-   "date": "2026-11-13",
-   "venue": "POPE SOCIAL CLUB",
-   "url": "https://venti.live/evento/pope-viernes-13-11",
-   "title": "POPE – VIERNES 13.11"
-  },
-  {
    "date": "2026-11-14",
    "venue": "POPE SOCIAL CLUB",
    "url": "https://venti.live/evento/pope-full-cachengue-sabado-14-11",
@@ -5665,12 +5751,12 @@
    "title": "VIERNES DE FLOW Y RABIA"
   }
  ],
- "Random Fiesta": [
+ "Radikal": [
   {
-   "date": "2026-11-14",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/random-fiesta-en-niceto-club",
-   "title": "Random Fiesta en Niceto Club (+18 años)"
+   "date": "2027-01-01",
+   "venue": "Multiespacio Area Costanera",
+   "url": "https://venti.live/evento/radikal-only-friends-nye",
+   "title": "Radikal & Only Friends NYE"
   }
  ],
  "RARESH": [
@@ -5729,14 +5815,6 @@
    "title": "República Folklore 2026"
   }
  ],
- "Resurface": [
-  {
-   "date": "2026-11-13",
-   "venue": "Angelo de Peredo 325",
-   "url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
-   "title": "DATA LOCAL x BELA > Killimet & Canterbeat + Resurface"
-  }
- ],
  "RI7MO DEL GHETTO X UNDER CLUB": [
   {
    "date": "2026-11-21",
@@ -5759,6 +5837,14 @@
    "venue": "Under Club",
    "url": "https://ra.co/events/2491869",
    "title": "CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 )"
+  }
+ ],
+ "Robot Zonda Ultimo show del Año": [
+  {
+   "date": "2026-12-18",
+   "venue": "Niceto Bar",
+   "url": "https://venti.live/evento/robot-zonda-ultimo-show-del-a-o-en-niceto-bar",
+   "title": "Robot Zonda Ultimo show del Año"
   }
  ],
  "Rolando Bruno": [
@@ -5831,6 +5917,14 @@
    "venue": "Niceto Club",
    "url": "https://venti.live/evento/ryan-presenta-zafarrancho-en-niceto-club",
    "title": "RYAN presenta “Zafarrancho”"
+  }
+ ],
+ "Sabado": [
+  {
+   "date": "2026-11-15",
+   "venue": "Wild Hops City Bell",
+   "url": "https://venti.live/evento/sabado-en-wildhops",
+   "title": "Sabado en WILDHOPS"
   }
  ],
  "SAFARI PRES - SHOWCASE TREEP RECORDS": [
@@ -5915,6 +6009,12 @@
  ],
  "Santiago Motorizado": [
   {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  },
+  {
    "date": "2026-12-04",
    "venue": "Deseo",
    "url": "https://indiehoy.com/agenda/santiago-motorizado-en-deseo/",
@@ -5927,14 +6027,6 @@
    "venue": "Niceto Club",
    "url": "https://indiehoy.com/agenda/sara-hebe-niceto-club/",
    "title": "Sara Hebe"
-  }
- ],
- "Sara Hebe Presenta Negocionismo": [
-  {
-   "date": "2026-12-19",
-   "venue": "Niceto Club",
-   "url": "https://venti.live/evento/sara-hebe-presenta-negocionismo-en-bs-as-en-niceto-club",
-   "title": "Sara Hebe Presenta Negocionismo en Bs As en Niceto Club (+18 años)"
   }
  ],
  "Savia": [
@@ -6089,12 +6181,28 @@
    "title": "ALLMusicParties Noviembre 2026"
   }
  ],
+ "SLIMESANTI": [
+  {
+   "date": "2026-12-10",
+   "venue": "Niceto Club",
+   "url": "https://venti.live/evento/slimesanti-en-niceto-club",
+   "title": "SLIMESANTI"
+  }
+ ],
  "Slipknot": [
   {
    "date": "2027-09-08",
    "venue": "Estadio de Huracán: Tomás Adolfo Ducó",
    "url": "https://indiehoy.com/agenda/slipknot-argentina-2027-entradas/",
    "title": "Slipknot en Argentina"
+  }
+ ],
+ "Smerz": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "SMT": [
@@ -6201,6 +6309,14 @@
    "venue": "Quilmes",
    "url": "https://www.songkick.com/concerts/43458672-sonidos-nmo-at-unknown-venue?utm_medium=organic&utm_source=microformat",
    "title": "Sonidos Nmo"
+  }
+ ],
+ "Sophia Stel": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "SOSA (UK)": [
@@ -6419,6 +6535,14 @@
    "title": "SUNHAUS x UBBAH"
   }
  ],
+ "Sunlid": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "SUNSET EL ROBLE": [
   {
    "date": "2026-11-14",
@@ -6465,12 +6589,6 @@
  ],
  "Sven Vath": [
   {
-   "date": "2026-11-13",
-   "venue": "Deseo BS AS",
-   "url": "https://ra.co/events/2561828",
-   "title": "SVEN VÄTH - CREAMFIELDS PRE PARTY"
-  },
-  {
    "date": "2026-11-14",
    "venue": "TBA - Parque de la Ciudad, CABA",
    "url": "https://ra.co/events/2528105",
@@ -6489,12 +6607,6 @@
    "venue": "Parque de la Ciudad",
    "url": "https://venti.live/evento/creamfields-2026",
    "title": "Creamfields 2026"
-  },
-  {
-   "date": "2026-11-14",
-   "venue": "DESEO CLUB",
-   "url": "https://venti.live/evento/sven-v-th-creamfields-official-pre-party",
-   "title": "Sven Väth - Creamfields Official Pre Party"
   }
  ],
  "SWEET": [
@@ -6611,14 +6723,6 @@
    "title": "Pay Spectrum Bill by Account Number & Phone - Quick Pay Guide"
   }
  ],
- "Temporada de Elefantes": [
-  {
-   "date": "2026-11-21",
-   "venue": "Humboldt | Niceto Club",
-   "url": "https://venti.live/evento/temporada-de-elefantes-en-humboldt-niceto-club",
-   "title": "Temporada de Elefantes en Humboldt | Niceto Club (+18 años)"
-  }
- ],
  "Tensal": [
   {
    "date": "2026-11-14",
@@ -6633,14 +6737,6 @@
    "venue": "CAFF",
    "url": "https://www.songkick.com/festivals/87166-muddy-roots/id/43454550-muddy-roots-festival-2026?utm_medium=organic&utm_source=microformat",
    "title": "Muddy Roots Festival 2026"
-  }
- ],
- "TERRA FURIA pres. SOL ORTEGA - Open to Close": [
-  {
-   "date": "2026-11-14",
-   "venue": "Club Paraguay",
-   "url": "https://venti.live/evento/terra-furia-pres-sol-ortega-open-to-close",
-   "title": "TERRA FURIA pres. SOL ORTEGA - Open to Close"
   }
  ],
  "THD+N": [
@@ -6673,6 +6769,14 @@
    "title": "The Lemon Twigs"
   }
  ],
+ "THE NEW 52": [
+  {
+   "date": "2026-11-22",
+   "venue": "The Sub",
+   "url": "https://ra.co/events/2546594",
+   "title": "Alien Ritual - Burn in Noise"
+  }
+ ],
  "The Party Name Is Vibes x Global Swing": [
   {
    "date": "2026-11-21",
@@ -6695,6 +6799,22 @@
    "venue": "Maquinal Espacio Cultural",
    "url": "https://indiehoy.com/agenda/the-space-lady-en-argentina/",
    "title": "The Space Lady en Argentina"
+  }
+ ],
+ "The Strokes": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
+ "This is Lorelei": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Thofa SSJ": [
@@ -6853,6 +6973,14 @@
    "title": "Ultraligera"
   }
  ],
+ "UMANO - Welcome 2027 - NYE": [
+  {
+   "date": "2027-01-01",
+   "venue": "UMANO",
+   "url": "https://venti.live/evento/umano-welcome-2027-nye",
+   "title": "UMANO - Welcome 2027 - NYE"
+  }
+ ],
  "UMN ELECTRONIK": [
   {
    "date": "2027-01-09",
@@ -6909,6 +7037,14 @@
    "venue": "Archi Club",
    "url": "https://venti.live/evento/under-rail-open-air-iii",
    "title": "UNDER RAIL • OPEN AIR • 14.11"
+  }
+ ],
+ "underscores (US)": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Undertale": [
@@ -7035,14 +7171,6 @@
    "title": "VIERNES DE FLOW Y RABIA"
   }
  ],
- "Vilalobos": [
-  {
-   "date": "2026-11-13",
-   "venue": "El Quinto Sueño",
-   "url": "https://ra.co/events/2584870",
-   "title": "Fiesta Placer Six Sex"
-  }
- ],
  "VINMUSIC SPARKLING SESSION - JET": [
   {
    "date": "2026-12-19",
@@ -7145,6 +7273,14 @@
    "title": "LEVITATION ARGENTINA 2027"
   }
  ],
+ "Wiranda Johansen": [
+  {
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
+  }
+ ],
  "without signing in. $5/mo from first draft permanently.": [
   {
    "date": "2026-11-14",
@@ -7185,12 +7321,12 @@
    "title": "Youth of Today en Argentina"
   }
  ],
- "ZABAL: ASCENSION": [
+ "Yung Lean": [
   {
-   "date": "2026-11-14",
-   "venue": "Under Club",
-   "url": "https://venti.live/evento/zabalpiranha",
-   "title": "ZABAL: ASCENSION"
+   "date": "2026-11-28",
+   "venue": "Club Ciudad de Buenos Aires",
+   "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+   "title": "Primavera Sound Buenos Aires 2026"
   }
  ],
  "Zero Fees — no processing fees, no convenience charges ever": [

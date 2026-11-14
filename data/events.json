@@ -112,29 +112,6 @@
  },
  {
   "source": "bebop",
-  "title": "Sheryl Youngblood",
-  "date": "2026-09-14",
-  "venue": "Bebop Club",
-  "artists": [
-   "Sheryl Youngblood"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/ffb2b730-7326-4889-8a46-c045cb33f5dd",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/ffb2b730-7326-4889-8a46-c045cb33f5dd",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
   "title": "Darío Jalfin, el Dr. Música",
   "date": "2026-09-15",
   "venue": "Bebop Club",
@@ -2945,29 +2922,6 @@
   ],
   "url": "https://ticketera.bebopclub.com.ar/evento/2d04ff6d-59d1-4368-a1a8-23434f6b0882",
   "ticket_url": "https://ticketera.bebopclub.com.ar/evento/2d04ff6d-59d1-4368-a1a8-23434f6b0882",
-  "price": "",
-  "image": "",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "bebop"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "bebop",
-  "title": "Homenaje Al Buena Vista Social Club y la Música Cubana",
-  "date": "2026-10-13",
-  "venue": "Bebop Club",
-  "artists": [
-   "Homenaje Al Buena Vista Social Club y la Música Cubana"
-  ],
-  "genres": [
-   "Jazz"
-  ],
-  "url": "https://ticketera.bebopclub.com.ar/evento/52bc6827-76b4-4d68-a79d-395e7c686851",
-  "ticket_url": "https://ticketera.bebopclub.com.ar/evento/52bc6827-76b4-4d68-a79d-395e7c686851",
   "price": "",
   "image": "",
   "lat": null,
@@ -6059,199 +6013,6 @@
   "artist_source": "title"
  },
  {
-  "source": "indiehoy",
-  "title": "Anabel Urdaniz",
-  "date": "2026-11-13",
-  "venue": "Casa de la Provincia de Buenos Aires",
-  "artists": [
-   "Anabel Urdaniz"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/anabel-urdaniz-casa-de-la-provincia-de-buenos-aires/",
-  "ticket_url": "",
-  "price": "Gratis, sujeto a capacidad",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/anabel-urdaniz-casa-de-la-provincia-de-buenos-aires.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "BOSCO SUNSET VIERNES 13/11",
-  "date": "2026-11-13",
-  "venue": "Bosco Restaurant",
-  "artists": [
-   "BOSCO SUNSET"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/bosco-sunset-viernes-13-11",
-  "ticket_url": "https://venti.live/evento/bosco-sunset-viernes-13-11",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1792728195670-lg.jpg",
-  "lat": -32.898773193359375,
-  "lon": -68.86785125732422,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Bombardeo Fest 1",
-  "date": "2026-11-13",
-  "venue": "Strummer Bar",
-  "artists": [
-   "Bombardeo Fest 1"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/bombardeo-fest-1-en-strummer-bar/",
-  "ticket_url": "https://bue.tickethoy.com/entradas-musica/bombardeo-fest-1",
-  "price": "$17250",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/bombardeo.webp",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "CICLO DESORDEN",
-  "date": "2026-11-13",
-  "venue": "Niceto Bar",
-  "artists": [
-   "DESORDEN"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/ciclo-desorden-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/ciclo-desorden-en-niceto-bar",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1791917979869-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Canto del Alma en Niceto Club (+18 años)",
-  "date": "2026-11-13",
-  "venue": "Niceto Club",
-  "artists": [
-   "Canto del Alma"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/canto-del-alma-en-niceto-club-18-a-os",
-  "ticket_url": "https://venti.live/evento/canto-del-alma-en-niceto-club-18-a-os",
-  "price": "$35.000",
-  "image": "https://images.venti.live/user-images/1791502867699-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "indiehoy",
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "songkick",
-  "title": "Casiqueva",
-  "date": "2026-11-13",
-  "venue": "XLR Club",
-  "artists": [
-   "Casiqueva",
-   "hermanos de la calle"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43426391-casiqueva-at-xlr-club?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43426391-casiqueva-at-xlr-club?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/8880474/huge_avatar",
-  "lat": -34.53479,
-  "lon": -58.70666,
-  "start_time": "22:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "indiehoy",
-  "title": "Club Marfil",
-  "date": "2026-11-13",
-  "venue": "Lucille",
-  "artists": [
-   "Club Marfil"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/club-marfil-en-lucille/",
-  "ticket_url": "https://www.passline.com/eventos/club-marfil-en-teatro-lucille",
-  "price": "$15000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/clubmarfil.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "DATA LOCAL x BELA > Killimet & Canterbeat + Resurface",
-  "date": "2026-11-13",
-  "venue": "Angelo de Peredo 325",
-  "artists": [
-   "DATA LOCAL x BELA > Killimet",
-   "Canterbeat",
-   "Resurface"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
-  "ticket_url": "https://venti.live/evento/data-local-x-bela-killimet-canterbeat-resurface",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1793304765551-lg.jpg",
-  "lat": -31.42649219999999,
-  "lon": -64.1935086,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Don Adams",
-  "date": "2026-11-13",
-  "venue": "Lucille",
-  "artists": [
-   "Don Adams"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/don-adams-lucille-2026/",
-  "ticket_url": "https://www.passline.com/eventos/don-adams-presenta-viernes-13-en-lucille",
-  "price": "Desde $25.000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/11/don-adams-lucille.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "resident-advisor",
   "title": "ElekTide presents: IAMBP and Dani Labb",
   "date": "2026-11-13",
@@ -6330,27 +6091,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "songkick",
-  "title": "Maria Becerra",
-  "date": "2026-11-13",
-  "venue": "Movistar Arena",
-  "artists": [
-   "Maria Becerra"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43214227-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43214227-maria-becerra-at-movistar-arena?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10180993/huge_avatar",
-  "lat": -34.59432,
-  "lon": -58.44731,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
   "source": "resident-advisor",
   "title": "Minau Radio Streaming (Frctl Bar)",
   "date": "2026-11-13",
@@ -6377,69 +6117,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "songkick",
-  "title": "NATAS - Broide - Villagra - Bereciartúa",
-  "date": "2026-11-13",
-  "venue": "C Complejo Art Media",
-  "artists": [
-   "NATAS - Broide - Villagra - Bereciartúa"
-  ],
-  "genres": [],
-  "url": "https://www.songkick.com/concerts/43218763-natas-broide-villagra-bereciartua-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "ticket_url": "http://www.songkick.com/concerts/43218763-natas-broide-villagra-bereciartua-at-c-complejo-art-media?utm_medium=organic&utm_source=microformat",
-  "price": "",
-  "image": "https://images.sk-static.com/images/media/profile_images/artists/10405458/huge_avatar",
-  "lat": -34.59104,
-  "lon": -58.44825,
-  "start_time": "19:00",
-  "sources": [
-   "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "POPE – VIERNES 13.11",
-  "date": "2026-11-13",
-  "venue": "POPE SOCIAL CLUB",
-  "artists": [
-   "POPE"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/pope-viernes-13-11",
-  "ticket_url": "https://venti.live/evento/pope-viernes-13-11",
-  "price": "$10.000",
-  "image": "https://images.venti.live/user-images/1794402569902-lg.jpg",
-  "lat": -34.5325127,
-  "lon": -58.70450169999999,
-  "start_time": "22:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "indiehoy",
-  "title": "Party Pipol",
-  "date": "2026-11-13",
-  "venue": "Otra Historia Club Cultural",
-  "artists": [
-   "Party Pipol"
-  ],
-  "genres": [],
-  "url": "https://indiehoy.com/agenda/party-pipol-en-otra-historia-club-cultural/",
-  "ticket_url": "https://otrahistoria.com.ar/evento/party-pipol/",
-  "price": "$6000",
-  "image": "https://indiehoy.com/wp-content/uploads/2026/10/party-pi.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": "",
-  "sources": [
-   "indiehoy"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -6517,48 +6194,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "13.11 | MIKE RISH EN FRUTA.",
-  "date": "2026-11-14",
-  "venue": "Av. Rafael Núñez 4614",
-  "artists": [
-   "MIKE RISH"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/s13-11-mike-rish-en-fruta",
-  "ticket_url": "https://venti.live/evento/s13-11-mike-rish-en-fruta",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1793142689568-lg.jpg",
-  "lat": -31.363313674926758,
-  "lon": -64.23645782470703,
-  "start_time": "01:30",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "13/11 | Lulú x Mora",
-  "date": "2026-11-14",
-  "venue": "Lulú",
-  "artists": [
-   "Lulú x Mora"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/s13-11-lul-x-mora",
-  "ticket_url": "https://venti.live/evento/s13-11-lul-x-mora",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1793984222662-lg.jpg",
-  "lat": -34.5920071,
-  "lon": -58.42639819999999,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "indiehoy",
@@ -6701,27 +6336,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "DANZA",
-  "date": "2026-11-14",
-  "venue": "Uriburu Club",
-  "artists": [
-   "DANZA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/danza",
-  "ticket_url": "https://venti.live/evento/danza",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1793642402446-lg.jpg",
-  "lat": -34.5891835,
-  "lon": -58.3945664,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Diego Marchionatti",
   "date": "2026-11-14",
@@ -6833,6 +6447,27 @@
   "artist_source": "structured"
  },
  {
+  "source": "venti",
+  "title": "Futcon - Festival de Cultura Futbolera",
+  "date": "2026-11-14",
+  "venue": "Ciudad Cultural Konex",
+  "artists": [
+   "Futcon - Festival de Cultura Futbolera"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/futcon",
+  "ticket_url": "https://venti.live/evento/futcon",
+  "price": "$28.000",
+  "image": "https://images.venti.live/user-images/1787319857151-lg.jpg",
+  "lat": -34.6065695,
+  "lon": -58.4105342,
+  "start_time": "17:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "resident-advisor",
   "title": "Hugel, FISHER, Sven Väth - Creamfields Argentina - ALLMusicParties",
   "date": "2026-11-14",
@@ -6931,27 +6566,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "LA ANALÓGICA",
-  "date": "2026-11-14",
-  "venue": "Niceto Bar",
-  "artists": [
-   "LA ANALÓGICA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/la-anal-gica-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/la-anal-gica-en-niceto-bar",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1792602743536-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "venti",
@@ -7080,27 +6694,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "MOULIN ROUGE BY ZETA",
-  "date": "2026-11-14",
-  "venue": "Güemes 2607",
-  "artists": [
-   "MOULIN ROUGE BY ZETA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/mouline-rouge-by-zeta",
-  "ticket_url": "https://venti.live/evento/mouline-rouge-by-zeta",
-  "price": "$4.000",
-  "image": "https://images.venti.live/user-images/1794329848582-lg.jpg",
-  "lat": -32.9323859,
-  "lon": -60.6563121,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Maria Becerra",
   "date": "2026-11-14",
@@ -7120,27 +6713,6 @@
    "songkick"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "Mila en Humboldt | Niceto Club (+18 años)",
-  "date": "2026-11-14",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "Mila"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/mila-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/mila-en-humboldt-niceto-club",
-  "price": "$25.000",
-  "image": "https://images.venti.live/user-images/1780489377566-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "resident-advisor",
@@ -7167,27 +6739,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "NOCHE PANTERA",
-  "date": "2026-11-14",
-  "venue": "Niceto Bar",
-  "artists": [
-   "NOCHE PANTERA"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/noche-pantera-en-niceto-bar",
-  "ticket_url": "https://venti.live/evento/noche-pantera-en-niceto-bar",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1792770305074-lg.jpg",
-  "lat": -34.5872316,
-  "lon": -58.4383841,
-  "start_time": "01:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "songkick",
@@ -7439,27 +6990,6 @@
   "artist_source": "structured"
  },
  {
-  "source": "venti",
-  "title": "Random Fiesta en Niceto Club (+18 años)",
-  "date": "2026-11-14",
-  "venue": "Niceto Club",
-  "artists": [
-   "Random Fiesta"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/random-fiesta-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/random-fiesta-en-niceto-club",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1784131308641-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "songkick",
   "title": "Romeo Santos",
   "date": "2026-11-14",
@@ -7526,27 +7056,6 @@
  },
  {
   "source": "venti",
-  "title": "Sven Väth - Creamfields Official Pre Party",
-  "date": "2026-11-14",
-  "venue": "DESEO CLUB",
-  "artists": [
-   "Sven Väth"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/sven-v-th-creamfields-official-pre-party",
-  "ticket_url": "https://venti.live/evento/sven-v-th-creamfields-official-pre-party",
-  "price": "$50.000",
-  "image": "https://images.venti.live/user-images/1791913789229-lg.jpg",
-  "lat": -34.58446502685547,
-  "lon": -58.469844818115234,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
   "title": "SÁBADO CACHENGUE BY BOSCO SUNSET 14/11",
   "date": "2026-11-14",
   "venue": "Bosco Restaurant",
@@ -7561,27 +7070,6 @@
   "lat": -32.898773193359375,
   "lon": -68.86785125732422,
   "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "TERRA FURIA pres. SOL ORTEGA - Open to Close",
-  "date": "2026-11-14",
-  "venue": "Club Paraguay",
-  "artists": [
-   "TERRA FURIA pres. SOL ORTEGA - Open to Close"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/terra-furia-pres-sol-ortega-open-to-close",
-  "ticket_url": "https://venti.live/evento/terra-furia-pres-sol-ortega-open-to-close",
-  "price": "$15.000",
-  "image": "https://images.venti.live/user-images/1794266207740-lg.jpg",
-  "lat": -31.4221792,
-  "lon": -64.1920397,
-  "start_time": "",
   "sources": [
    "venti"
   ],
@@ -7654,27 +7142,6 @@
    "resident-advisor"
   ],
   "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "ZABAL: ASCENSION",
-  "date": "2026-11-14",
-  "venue": "Under Club",
-  "artists": [
-   "ZABAL: ASCENSION"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/zabalpiranha",
-  "ticket_url": "https://venti.live/evento/zabalpiranha",
-  "price": "",
-  "image": "https://images.venti.live/user-images/1794175070427-lg.jpg",
-  "lat": -34.585975646972656,
-  "lon": -58.44016647338867,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
  },
  {
   "source": "songkick",
@@ -7833,7 +7300,7 @@
   "genres": [],
   "url": "https://venti.live/evento/club-69-14-nov-en-niceto-club-18-a-os",
   "ticket_url": "https://venti.live/evento/club-69-14-nov-en-niceto-club-18-a-os",
-  "price": "$35.000",
+  "price": "$30.000",
   "image": "https://images.venti.live/user-images/1794421133324-lg.jpg",
   "lat": -34.5872682,
   "lon": -58.43876030000001,
@@ -8203,6 +7670,27 @@
   "lat": -34.5325127,
   "lon": -58.70450169999999,
   "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "Sabado en WILDHOPS",
+  "date": "2026-11-15",
+  "venue": "Wild Hops City Bell",
+  "artists": [
+   "Sabado"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/sabado-en-wildhops",
+  "ticket_url": "https://venti.live/evento/sabado-en-wildhops",
+  "price": "$7.000",
+  "image": "https://images.venti.live/user-images/1794438812435-lg.jpg",
+  "lat": -34.8656763,
+  "lon": -58.0434438,
+  "start_time": "02:00",
   "sources": [
    "venti"
   ],
@@ -10188,27 +9676,6 @@
  },
  {
   "source": "venti",
-  "title": "Temporada de Elefantes en Humboldt | Niceto Club (+18 años)",
-  "date": "2026-11-21",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "Temporada de Elefantes"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/temporada-de-elefantes-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/temporada-de-elefantes-en-humboldt-niceto-club",
-  "price": "$22.000",
-  "image": "https://images.venti.live/user-images/1785252945616-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "The Party Name Is Vibes x Global Swing",
   "date": "2026-11-21",
   "venue": "SALDÍAS ARENA - EVENTOS",
@@ -10348,14 +9815,18 @@
   "date": "2026-11-22",
   "venue": "The Sub",
   "artists": [
-   "Burn in Noise"
+   "BURN IN NOISE",
+   "MOKSHA",
+   "THE NEW 52",
+   "FLUKTUS",
+   "NOIR"
   ],
   "genres": [
    "Psytrance"
   ],
   "url": "https://ra.co/events/2546594",
   "ticket_url": "",
-  "price": "$25.000",
+  "price": "$30.000",
   "image": "",
   "lat": null,
   "lon": null,
@@ -10388,7 +9859,7 @@
  },
  {
   "source": "venti",
-  "title": "Bresh en General Villegas -21 de Noviembre",
+  "title": "Bresh en General Villegas - 21 de Noviembre",
   "date": "2026-11-22",
   "venue": "Summer Multiespacio Cultural",
   "artists": [
@@ -10964,6 +10435,27 @@
  },
  {
   "source": "venti",
+  "title": "CHKLT X JET",
+  "date": "2026-11-23",
+  "venue": "JET",
+  "artists": [
+   "CHKLT X JET"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/chklt-x-jet",
+  "ticket_url": "https://venti.live/evento/chklt-x-jet",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1794522043203-lg.jpg",
+  "lat": -34.552063,
+  "lon": -58.425973,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "CLOZ",
   "date": "2026-11-23",
   "venue": "El Atico Club",
@@ -11020,6 +10512,27 @@
   "lat": null,
   "lon": null,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA OLD en Wild Hops Citybell",
+  "date": "2026-11-23",
+  "venue": "Wild Hops City Bell",
+  "artists": [
+   "LA OLD"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-old-en-wild-hops-citybell",
+  "ticket_url": "https://venti.live/evento/la-old-en-wild-hops-citybell",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1794525561922-lg.jpg",
+  "lat": -34.8656763,
+  "lon": -58.0434438,
+  "start_time": "02:00",
   "sources": [
    "venti"
   ],
@@ -11151,27 +10664,6 @@
   "start_time": "20:30",
   "sources": [
    "songkick"
-  ],
-  "artist_source": "structured"
- },
- {
-  "source": "venti",
-  "title": "MOYKA en Niceto Humboldt | Niceto Club (+18 años)",
-  "date": "2026-11-25",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "Moyka"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/moyka-en-niceto-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/moyka-en-niceto-humboldt-niceto-club",
-  "price": "$45.000",
-  "image": "https://images.venti.live/user-images/1788475147801-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
   ],
   "artist_source": "structured"
  },
@@ -11893,6 +11385,27 @@
  },
  {
   "source": "songkick",
+  "title": "Beyond Madness",
+  "date": "2026-11-28",
+  "venue": "Vadenuevo",
+  "artists": [
+   "Beyond Madness"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43465610-beyond-madness-at-vadenuevo?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43465610-beyond-madness-at-vadenuevo?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/10194360/huge_avatar",
+  "lat": -34.66236,
+  "lon": -58.62532,
+  "start_time": "17:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
+  "source": "songkick",
   "title": "Cyclo",
   "date": "2026-11-28",
   "venue": "Gier Music Club",
@@ -12140,6 +11653,27 @@
   "artist_source": "title"
  },
  {
+  "source": "songkick",
+  "title": "Pato Benitez",
+  "date": "2026-11-28",
+  "venue": "Villa Crespo",
+  "artists": [
+   "Pato Benitez"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/concerts/43427892-pato-benitez-at-villa-crespo?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/concerts/43427892-pato-benitez-at-villa-crespo?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/8786019/huge_avatar",
+  "lat": null,
+  "lon": null,
+  "start_time": "20:30",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
+ },
+ {
   "source": "indiehoy",
   "title": "Primavera Sound Buenos Aires 2026",
   "date": "2026-11-28",
@@ -12159,6 +11693,58 @@
    "indiehoy"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "songkick",
+  "title": "Primavera Sound Buenos Aires 2026",
+  "date": "2026-11-28",
+  "venue": "Club Ciudad de Buenos Aires",
+  "artists": [
+   "Gorillaz",
+   "The Strokes",
+   "Lily Allen",
+   "FKA Twigs",
+   "Courtney Barnett",
+   "Yung Lean",
+   "Machine Girl",
+   "Mannequin Pussy",
+   "CMAT",
+   "Nation of Language",
+   "Ecco2k",
+   "John Talabot",
+   "Smerz",
+   "Juana Molina",
+   "Danny L Harle",
+   "Model/Actriz",
+   "Marilina Bertoldi",
+   "Sophia Stel",
+   "métrika",
+   "This is Lorelei",
+   "Juana Aguirre",
+   "Nick Leon",
+   "Candelabro",
+   "Santiago Motorizado",
+   "Fin Del Mundo",
+   "Jaime Sin Tierra",
+   "underscores (US)",
+   "Chechi De Marcos",
+   "Wiranda Johansen",
+   "Sunlid",
+   "Los Thuthanaka",
+   "Lisa Scha"
+  ],
+  "genres": [],
+  "url": "https://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+  "ticket_url": "http://www.songkick.com/festivals/3439938-primavera-sound-buenos-aires/id/43227238-primavera-sound-buenos-aires-2026?utm_medium=organic&utm_source=microformat",
+  "price": "",
+  "image": "https://images.sk-static.com/images/media/profile_images/events/43227238/huge_avatar?series_id=3439938",
+  "lat": -34.54234,
+  "lon": -58.45979,
+  "start_time": "14:00",
+  "sources": [
+   "songkick"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -13510,6 +13096,27 @@
  },
  {
   "source": "venti",
+  "title": "05/12 | LULÚ x Meeting Family x Substract",
+  "date": "2026-12-06",
+  "venue": "Lulú",
+  "artists": [
+   "LULÚ x Meeting Family x Substract"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s05-12-lul-x-meeting-lab-x-substract",
+  "ticket_url": "https://venti.live/evento/s05-12-lul-x-meeting-lab-x-substract",
+  "price": "$50.000",
+  "image": "https://images.venti.live/user-images/1794572808446-lg.jpg",
+  "lat": -34.5920071,
+  "lon": -58.42639819999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "ACUSTICO TEMPORADA / TYUBA",
   "date": "2026-12-06",
   "venue": "Niceto Bar",
@@ -13786,6 +13393,32 @@
    "venti"
   ],
   "artist_source": "title"
+ },
+ {
+  "source": "resident-advisor",
+  "title": "Velvet Is Back",
+  "date": "2026-12-06",
+  "venue": "Otra Historia Club Cultural",
+  "artists": [
+   "ANDRES CAPRA",
+   "Arlen Vanó",
+   "OPEN CALL"
+  ],
+  "genres": [
+   "Garage",
+   "House"
+  ],
+  "url": "https://ra.co/events/2585252",
+  "ticket_url": "",
+  "price": "$14.000",
+  "image": "",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "resident-advisor"
+  ],
+  "artist_source": "structured"
  },
  {
   "source": "venti",
@@ -14217,27 +13850,6 @@
   "artist_source": "title"
  },
  {
-  "source": "venti",
-  "title": "FELIPE BALDOMIR EN BUENOS AIRES en Niceto Club (+18 años)",
-  "date": "2026-12-09",
-  "venue": "Niceto Club",
-  "artists": [
-   "FELIPE BALDOMIR"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/felipe-baldomir-en-buenos-aires-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/felipe-baldomir-en-buenos-aires-en-niceto-club",
-  "price": "$25.000",
-  "image": "https://images.venti.live/user-images/1782401692480-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
   "source": "indiehoy",
   "title": "Felipe Baldomir",
   "date": "2026-12-09",
@@ -14301,6 +13913,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "Eek a mouse en Niceto Club (+18 años)",
+  "date": "2026-12-10",
+  "venue": "Niceto Club",
+  "artists": [
+   "Eek a mouse"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/eek-a-mouse-en-niceto-club-18-a-os",
+  "ticket_url": "https://venti.live/evento/eek-a-mouse-en-niceto-club-18-a-os",
+  "price": "$45.000",
+  "image": "https://images.venti.live/user-images/1794430327379-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "01:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Los Reyes del Falsete",
   "date": "2026-12-10",
@@ -14318,6 +13951,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "SLIMESANTI",
+  "date": "2026-12-10",
+  "venue": "Niceto Club",
+  "artists": [
+   "SLIMESANTI"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/slimesanti-en-niceto-club",
+  "ticket_url": "https://venti.live/evento/slimesanti-en-niceto-club",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1794576685870-lg.jpg",
+  "lat": -34.5872682,
+  "lon": -58.43876030000001,
+  "start_time": "22:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -14543,6 +14197,69 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "11.12 | BLANCAH | ANIVERSARIO MOVIDA ELECTRÓNICA EN FRUTA",
+  "date": "2026-12-12",
+  "venue": "Av. Rafael Núñez 4614",
+  "artists": [
+   "BLANCAH | ANIVERSARIO MOVIDA ELECTRÓNICA"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s11-12-blancah-aniversario-movida-electr-nica-en-fruta",
+  "ticket_url": "https://venti.live/evento/s11-12-blancah-aniversario-movida-electr-nica-en-fruta",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1794525514076-lg.jpg",
+  "lat": -31.363313674926758,
+  "lon": -64.23645782470703,
+  "start_time": "01:30",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "11/12 | Lulú x Vértice",
+  "date": "2026-12-12",
+  "venue": "Lulú",
+  "artists": [
+   "Lulú x Vértice"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s11-12-lulu-x-vertice",
+  "ticket_url": "https://venti.live/evento/s11-12-lulu-x-vertice",
+  "price": "$20.000",
+  "image": "https://images.venti.live/user-images/1794602464873-lg.jpg",
+  "lat": -34.5920071,
+  "lon": -58.42639819999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "BORRAR",
+  "date": "2026-12-12",
+  "venue": "Lulú",
+  "artists": [
+   "BORRAR"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/s14-11-lulu-x-vertice",
+  "ticket_url": "https://venti.live/evento/s14-11-lulu-x-vertice",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794602464873-lg.jpg",
+  "lat": -34.5920071,
+  "lon": -58.42639819999999,
+  "start_time": "",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -14932,6 +14649,27 @@
  },
  {
   "source": "venti",
+  "title": "Bresh en San Rafael - 12 de Diciembre",
+  "date": "2026-12-13",
+  "venue": "EQUIS SOCIETY",
+  "artists": [
+   "Bresh"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/bresh-en-san-rafael-12-de-diciembre-equis-society",
+  "ticket_url": "https://venti.live/evento/bresh-en-san-rafael-12-de-diciembre-equis-society",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1794603727677-lg.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "CLOSING PARTY @ ANDRES KOLLER X AFL",
   "date": "2026-12-13",
   "venue": "complejo forest",
@@ -15124,6 +14862,27 @@
  },
  {
   "source": "venti",
+  "title": "Noche de Performance FAQ",
+  "date": "2026-12-13",
+  "venue": "Nos en Vera",
+  "artists": [
+   "Noche de Performance FAQ - Nos"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/noche-de-performance-faq-nos-en-vera",
+  "ticket_url": "https://venti.live/evento/noche-de-performance-faq-nos-en-vera",
+  "price": "$10.000",
+  "image": "https://images.venti.live/assets/venti_horizontal_default_flyer.png",
+  "lat": -34.5917485,
+  "lon": -58.4446443,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "SuperVos cierra el año en Humboldt | Niceto Club (+18 años)",
   "date": "2026-12-13",
   "venue": "Humboldt | Niceto Club",
@@ -15135,27 +14894,6 @@
   "ticket_url": "https://venti.live/evento/supervos-cierra-el-a-o-en-humboldt-niceto-club-18-a-os",
   "price": "$15.000",
   "image": "https://images.venti.live/user-images/1788799569645-lg.jpg",
-  "lat": -34.5875434,
-  "lon": -58.438918,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Gallo Criollo celebra su 1er año",
-  "date": "2026-12-14",
-  "venue": "Humboldt | Niceto Club",
-  "artists": [
-   "Gallo Criollo celebra su 1er año"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/gallo-criollo-celebra-su-1er-a-o-en-humboldt-niceto-club",
-  "ticket_url": "https://venti.live/evento/gallo-criollo-celebra-su-1er-a-o-en-humboldt-niceto-club",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1788822311524-lg.jpg",
   "lat": -34.5875434,
   "lon": -58.438918,
   "start_time": "",
@@ -15443,6 +15181,27 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "Robot Zonda Ultimo show del Año",
+  "date": "2026-12-18",
+  "venue": "Niceto Bar",
+  "artists": [
+   "Robot Zonda Ultimo show del Año"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/robot-zonda-ultimo-show-del-a-o-en-niceto-bar",
+  "ticket_url": "https://venti.live/evento/robot-zonda-ultimo-show-del-a-o-en-niceto-bar",
+  "price": "$15.000",
+  "image": "https://images.venti.live/user-images/1794594940249-lg.jpg",
+  "lat": -34.5872316,
+  "lon": -58.4383841,
+  "start_time": "23:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "After Roca",
   "date": "2026-12-19",
@@ -15592,27 +15351,6 @@
   "start_time": "",
   "sources": [
    "indiehoy"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
-  "title": "Sara Hebe Presenta Negocionismo en Bs As en Niceto Club (+18 años)",
-  "date": "2026-12-19",
-  "venue": "Niceto Club",
-  "artists": [
-   "Sara Hebe Presenta Negocionismo"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/sara-hebe-presenta-negocionismo-en-bs-as-en-niceto-club",
-  "ticket_url": "https://venti.live/evento/sara-hebe-presenta-negocionismo-en-bs-as-en-niceto-club",
-  "price": "$20.000",
-  "image": "https://images.venti.live/user-images/1787865231011-lg.jpg",
-  "lat": -34.5872682,
-  "lon": -58.43876030000001,
-  "start_time": "23:00",
-  "sources": [
-   "venti"
   ],
   "artist_source": "title"
  },
@@ -16239,27 +15977,6 @@
  },
  {
   "source": "venti",
-  "title": "Peluche @ Rio de Janeiro",
-  "date": "2026-12-31",
-  "venue": "Faro Beach Club",
-  "artists": [
-   "Peluche"
-  ],
-  "genres": [],
-  "url": "https://venti.live/evento/peluche-rio-de-janeiro",
-  "ticket_url": "https://venti.live/evento/peluche-rio-de-janeiro",
-  "price": "$60.000",
-  "image": "https://images.venti.live/user-images/1788789895809-lg.jpg",
-  "lat": -22.9909215,
-  "lon": -43.2316127,
-  "start_time": "",
-  "sources": [
-   "venti"
-  ],
-  "artist_source": "title"
- },
- {
-  "source": "venti",
   "title": "31.12.2026 COLLAGE NYE",
   "date": "2027-01-01",
   "venue": "Aguaverde Wine Lodge",
@@ -16440,6 +16157,70 @@
   "lat": -34.4243806,
   "lon": -58.93825959999999,
   "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "Radikal & Only Friends NYE",
+  "date": "2027-01-01",
+  "venue": "Multiespacio Area Costanera",
+  "artists": [
+   "Radikal",
+   "Only Friends NYE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/radikal-only-friends-nye",
+  "ticket_url": "https://venti.live/evento/radikal-only-friends-nye",
+  "price": "$10.000",
+  "image": "https://images.venti.live/user-images/1794523414305-lg.jpg",
+  "lat": -34.7150107,
+  "lon": -58.2169111,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "UMANO - Welcome 2027 - NYE",
+  "date": "2027-01-01",
+  "venue": "UMANO",
+  "artists": [
+   "UMANO - Welcome 2027 - NYE"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/umano-welcome-2027-nye",
+  "ticket_url": "https://venti.live/evento/umano-welcome-2027-nye",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794614777862-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 02 ENERO",
+  "date": "2027-01-02",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-02-enero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-02-enero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
@@ -16723,6 +16504,27 @@
  },
  {
   "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 16 ENERO",
+  "date": "2027-01-16",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-16-enero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-16-enero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "La Finquita Sunset - 16/01",
   "date": "2027-01-16",
   "venue": "LA FINQUITA 1920",
@@ -16774,8 +16576,8 @@
   "genres": [],
   "url": "https://venti.live/evento/umn-electronik-vie-15-de-enero",
   "ticket_url": "https://venti.live/evento/umn-electronik-vie-15-de-enero",
-  "price": "$50.000",
-  "image": "https://images.venti.live/user-images/1793735804323-lg.jpg",
+  "price": "$60.000",
+  "image": "https://images.venti.live/user-images/1794592534362-lg.jpg",
   "lat": -38.0931132,
   "lon": -57.54737579999999,
   "start_time": "02:00",
@@ -16832,19 +16634,62 @@
  },
  {
   "source": "venti",
-  "title": "La Finquita Sunset - 23/01",
-  "date": "2027-01-23",
-  "venue": "LA FINQUITA 1920",
+  "title": "FIEBRE X UMN | Mié 20/01/27",
+  "date": "2027-01-21",
+  "venue": "UMANO",
   "artists": [
-   "La Finquita Sunset"
+   "FIEBRE X UMN"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/la-finquita-sunset-23-01",
-  "ticket_url": "https://venti.live/evento/la-finquita-sunset-23-01",
-  "price": "$35.000",
-  "image": "https://images.venti.live/user-images/1782871852119-lg.jpg",
-  "lat": -33.0231819152832,
-  "lon": -68.79568481445312,
+  "url": "https://venti.live/evento/fiebre-x-umn-mi-20-01-27",
+  "ticket_url": "https://venti.live/evento/fiebre-x-umn-mi-20-01-27",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794614906547-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "AURA & MATA x UMANO | Jue 21/01/27",
+  "date": "2027-01-22",
+  "venue": "UMANO",
+  "artists": [
+   "AURA",
+   "MATA x UMANO"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/aura-mata-x-umano-jue-21-01-27",
+  "ticket_url": "https://venti.live/evento/aura-mata-x-umano-jue-21-01-27",
+  "price": "",
+  "image": "https://images.venti.live/user-images/1794614943083-lg.jpg",
+  "lat": -38.0931132,
+  "lon": -57.54737579999999,
+  "start_time": "",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 23 ENERO",
+  "date": "2027-01-23",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-23-enero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-23-enero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
   "start_time": "21:00",
   "sources": [
    "venti"
@@ -16937,19 +16782,19 @@
  },
  {
   "source": "venti",
-  "title": "La Finquita Sunset 30/01",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 30 ENERO",
   "date": "2027-01-30",
-  "venue": "LA FINQUITA 1920",
+  "venue": "Bodega La Histórica",
   "artists": [
-   "La Finquita Sunset"
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
   ],
   "genres": [],
-  "url": "https://venti.live/evento/la-finquita-sunset-30-01",
-  "ticket_url": "https://venti.live/evento/la-finquita-sunset-30-01",
-  "price": "$35.000",
-  "image": "https://images.venti.live/user-images/1782871852119-lg.jpg",
-  "lat": -33.0231819152832,
-  "lon": -68.79568481445312,
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-30-enero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-30-enero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
   "start_time": "21:00",
   "sources": [
    "venti"
@@ -16972,6 +16817,27 @@
   "lat": -38.0931132,
   "lon": -57.54737579999999,
   "start_time": "02:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 06 FEBRERO",
+  "date": "2027-02-06",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-06-febrero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-06-febrero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
   "sources": [
    "venti"
   ],
@@ -17058,6 +16924,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 13 FEBRERO",
+  "date": "2027-02-13",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-13-febrero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-13-febrero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -17169,6 +17056,27 @@
  },
  {
   "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 20 FEBRERO",
+  "date": "2027-02-20",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-20-febrero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-20-febrero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "La Finquita Sunset 20/02",
   "date": "2027-02-20",
   "venue": "LA FINQUITA 1920",
@@ -17182,6 +17090,27 @@
   "image": "https://images.venti.live/user-images/1782871852119-lg.jpg",
   "lat": -33.0231819152832,
   "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 27 FEBRERO",
+  "date": "2027-02-27",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-27-febrero",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-27-febrero",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
   "start_time": "21:00",
   "sources": [
    "venti"
@@ -17339,6 +17268,27 @@
  },
  {
   "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 06 MARZO",
+  "date": "2027-03-06",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-06-marzo",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-06-marzo",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "La Finquita Sunset 06/03",
   "date": "2027-03-06",
   "venue": "LA FINQUITA 1920",
@@ -17418,6 +17368,27 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 13 MARZO",
+  "date": "2027-03-13",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-13-marzo",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-13-marzo",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },
@@ -17507,6 +17478,27 @@
  },
  {
   "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 20 MARZO",
+  "date": "2027-03-20",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-20-marzo",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-20-marzo",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794606039984-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
   "title": "La Finquita Sunset 20/03",
   "date": "2027-03-20",
   "venue": "LA FINQUITA 1920",
@@ -17584,6 +17576,27 @@
   "image": "https://images.venti.live/user-images/1782871767138-lg.jpg",
   "lat": -33.0231819152832,
   "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 27 MARZO",
+  "date": "2027-03-27",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-27-marzo",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-27-marzo",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794609605924-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
   "start_time": "21:00",
   "sources": [
    "venti"
@@ -17679,6 +17692,48 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 03 ABRIL",
+  "date": "2027-04-03",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-03-abril",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-03-abril",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794609587022-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "La Finquita Sunset | Edición Especial 03/04",
+  "date": "2027-04-03",
+  "venue": "LA FINQUITA 1920",
+  "artists": [
+   "La Finquita Sunset | Edición Especial"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-finquita-sunset-03-04",
+  "ticket_url": "https://venti.live/evento/la-finquita-sunset-03-04",
+  "price": "$50.000",
+  "image": "https://images.venti.live/user-images/1782871767138-lg.jpg",
+  "lat": -33.0231819152832,
+  "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Gibran Alcocer en Argentina",
   "date": "2027-04-07",
@@ -17742,6 +17797,48 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 10 ABRIL",
+  "date": "2027-04-10",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-10-abril",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-10-abril",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794609542126-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "La Finquita Sunset 10/04",
+  "date": "2027-04-10",
+  "venue": "LA FINQUITA 1920",
+  "artists": [
+   "La Finquita Sunset"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-finquita-sunset-10-04",
+  "ticket_url": "https://venti.live/evento/la-finquita-sunset-10-04",
+  "price": "$35.000",
+  "image": "https://images.venti.live/user-images/1782871852119-lg.jpg",
+  "lat": -33.0231819152832,
+  "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Quilmes Rock 2027",
   "date": "2027-04-16",
@@ -17763,6 +17860,90 @@
   "artist_source": "title"
  },
  {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 17 ABRIL",
+  "date": "2027-04-17",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-17-abril",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-17-abril",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794609542126-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "La Finquita Sunset 17/04",
+  "date": "2027-04-17",
+  "venue": "LA FINQUITA 1920",
+  "artists": [
+   "La Finquita Sunset"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-finquita-sunset-17-04",
+  "ticket_url": "https://venti.live/evento/la-finquita-sunset-17-04",
+  "price": "$35.000",
+  "image": "https://images.venti.live/user-images/1782871852119-lg.jpg",
+  "lat": -33.0231819152832,
+  "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 24 ABRIL",
+  "date": "2027-04-24",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-24-abril",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-24-abril",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794609542126-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "La Finquita Sunset 24/04",
+  "date": "2027-04-24",
+  "venue": "LA FINQUITA 1920",
+  "artists": [
+   "La Finquita Sunset"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-finquita-sunset-24-04",
+  "ticket_url": "https://venti.live/evento/la-finquita-sunset-24-04",
+  "price": "$35.000",
+  "image": "https://images.venti.live/user-images/1782871852119-lg.jpg",
+  "lat": -33.0231819152832,
+  "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
   "source": "indiehoy",
   "title": "Floor Jansen en Argentina",
   "date": "2027-04-25",
@@ -17780,6 +17961,48 @@
   "start_time": "",
   "sources": [
    "indiehoy"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "LA HISTÓRICA SUNSET WINE FESTIVAL // 01 MAYO",
+  "date": "2027-05-01",
+  "venue": "Bodega La Histórica",
+  "artists": [
+   "LA HISTÓRICA SUNSET WINE FESTIVAL"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-01-mayo",
+  "ticket_url": "https://venti.live/evento/la-hist-rica-sunset-wine-festival-01-mayo",
+  "price": "$30.000",
+  "image": "https://images.venti.live/user-images/1794609542126-lg.jpg",
+  "lat": -33.0198466,
+  "lon": -68.8298401,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
+  ],
+  "artist_source": "title"
+ },
+ {
+  "source": "venti",
+  "title": "La Finquita Sunset | Edición Especial 01/05",
+  "date": "2027-05-01",
+  "venue": "LA FINQUITA 1920",
+  "artists": [
+   "La Finquita Sunset | Edición Especial"
+  ],
+  "genres": [],
+  "url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-01-05",
+  "ticket_url": "https://venti.live/evento/la-finquita-sunset-edici-n-especial-01-05",
+  "price": "$50.000",
+  "image": "https://images.venti.live/user-images/1782871767138-lg.jpg",
+  "lat": -33.0231819152832,
+  "lon": -68.79568481445312,
+  "start_time": "21:00",
+  "sources": [
+   "venti"
   ],
   "artist_source": "title"
  },

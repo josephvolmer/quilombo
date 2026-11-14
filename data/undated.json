@@ -377,23 +377,6 @@
   "source": "ticketek",
   "title": "Ciro y Los Persas",
   "date": "",
-  "venue": "Estadio Ruca Che",
-  "artists": [
-   "Ciro y Los Persas"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Ciro y Los Persas",
-  "date": "",
   "venue": "DOW Center",
   "artists": [
    "Ciro y Los Persas"
@@ -420,23 +403,6 @@
   "ticket_url": "https://www.ticketek.com.ar/ciro-y-los-persas",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/ciro_g_a.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "Los Tipitos",
-  "date": "",
-  "venue": "Teatro Coliseo",
-  "artists": [
-   "Los Tipitos"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
-  "ticket_url": "https://www.ticketek.com.ar/los-tipitos/teatro-coliseo",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/tipitos_coliseo_440x600.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -477,23 +443,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Agus Bernasconi",
-  "date": "",
-  "venue": "Teatro Opera On",
-  "artists": [
-   "Agus Bernasconi"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
-  "ticket_url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/agus_bernasconi_teatro_opera_artista.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "Sebastián Molina",
   "date": "",
   "venue": "City Center",
@@ -505,6 +454,23 @@
   "ticket_url": "https://www.ticketek.com.ar/sebastian-molina/city-center",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/molina_440x600.jpg",
+  "lat": null,
+  "lon": null,
+  "start_time": ""
+ },
+ {
+  "source": "ticketek",
+  "title": "Agus Bernasconi",
+  "date": "",
+  "venue": "Teatro Opera On",
+  "artists": [
+   "Agus Bernasconi"
+  ],
+  "genres": [],
+  "url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
+  "ticket_url": "https://www.ticketek.com.ar/agus-bernasconi/teatro-opera",
+  "price": "",
+  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/berna440.jpg",
   "lat": null,
   "lon": null,
   "start_time": ""
@@ -851,23 +817,6 @@
  },
  {
   "source": "ticketek",
-  "title": "Los Angeles de Charly",
-  "date": "",
-  "venue": "Tropitango",
-  "artists": [
-   "Los Angeles de Charly"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/los-angeles-de-charly/tropitango",
-  "ticket_url": "https://www.ticketek.com.ar/los-angeles-de-charly/tropitango",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/1001185568.jpg",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
   "title": "La Morocha",
   "date": "",
   "venue": "City Center",
@@ -913,23 +862,6 @@
   "ticket_url": "https://www.ticketek.com.ar/el-oficial-gordillo/teatro-universidad-nacional-de-la-matanza",
   "price": "",
   "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/gordillo_440_20.png",
-  "lat": null,
-  "lon": null,
-  "start_time": ""
- },
- {
-  "source": "ticketek",
-  "title": "La Traviata",
-  "date": "",
-  "venue": "Teatro Avenida",
-  "artists": [
-   "La Traviata"
-  ],
-  "genres": [],
-  "url": "https://www.ticketek.com.ar/la-traviata/teatro-avenida",
-  "ticket_url": "https://www.ticketek.com.ar/la-traviata/teatro-avenida",
-  "price": "",
-  "image": "https://prod-cms-static.ticketek.com.ar/sites/default/files/styles/artist/public/images/artist/traviata_26a.png",
   "lat": null,
   "lon": null,
   "start_time": ""
